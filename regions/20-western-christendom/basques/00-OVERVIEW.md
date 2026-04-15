@@ -75,4 +75,4 @@ Key places:
 
 **4 — The Castilian Integration:** The lord of Vizcaya, formally accepting Castilian overlordship, watches the king of Castile ride to Guernica to swear to the *foru* under the oak. The king is not happy about this requirement. The lord of Vizcaya is not apologizing. They understand each other perfectly.
 
-**5 — The Age of the Sea:** A Basque pilot named Juan de la Cosa completes the first map of the New World in 1500. He sailed with Columbus. He knows these coasts better than anyone alive. The map bears the Spanish crown's name. His own name is nearly invisible on it.
+**5 — The Age of the Sea:** A Basque pilot named Juan de la Cosa completes the first map of the Americas in 1500. He sailed with Columbus. He knows these coasts better than anyone alive. The map bears the Spanish crown's name. His own name is nearly invisible on it.
