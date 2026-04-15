@@ -60,7 +60,7 @@ Key places:
 
 ## What Defined Them
 
-**The barangay as foundational unit.** The Philippine barangay was the basic political and social unit: a boat-community of 30 to 100 households, bound together by kinship, debt-bond (utang na loob — the inner debt, the sense of obligation), and the authority of the datu (chief). The barangay was not a primitive form that kingdoms superseded; it was a complete social organization that provided security, commerce, and community in a maritime environment. Tondo was a confederation of barangays, not an empire over subjects.
+**The barangay as foundational unit.** The Philippine barangay was the basic political and social unit: a boat-community of 30 to 100 households, bound together by kinship, debt-bond (utang na loob — the inner debt, the sense of obligation), and the authority of the datu (chief). The barangay was a complete social organization that provided security, commerce, and community in a maritime environment; polities like Tondo built upon it rather than replacing it. Tondo was a confederation of barangays, not an empire over subjects.
 
 **The Laguna Copperplate Inscription.** The oldest written document in the Philippines (900 CE) records a pardon from debt issued by the chief of Tondo. Written in a script derived from Brahmi (Kawi), in a language mixing Old Malay, Sanskrit-derived vocabulary, and Old Tagalog, it mentions placenames from the Manila Bay region and individuals with both Malay and Sanskrit-derived names. This single document demonstrates that the Manila Bay region was, a thousand years ago, fully integrated into the Indian Ocean-connected Maritime Southeast Asian world — not an isolated peripheral island culture.
 

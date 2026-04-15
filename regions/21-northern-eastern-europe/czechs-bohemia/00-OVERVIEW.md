@@ -49,7 +49,7 @@ Key places:
 
 | Era | Their Name | Common Era | Key Theme |
 |-----|-----------|------------|-----------|
-| 1 | Přemyslovci — The Přemyslids | c. 830–1306 CE | The Great Moravian Empire; Cyril and Methodius; the Czech tribes accepting Latin Christianity; the Přemyslid dynasty building the Bohemian kingdom |
+| 1 | Přemyslovci — The Přemyslids | c. 830–1306 CE | The Great Moravian Empire; Cyril and Methodius; the Czech peoples accepting Latin Christianity; the Přemyslid dynasty building the Bohemian kingdom |
 | 2 | Zlatý věk Lucemburků — The Golden Age of the Luxembourgs | 1306–1419 CE | John of Luxembourg; Charles IV making Prague the imperial capital; the University founded 1348; the Hussite crisis beginning with Wycliffe's influence |
 | 3 | Husitská revoluce — The Hussite Revolution | 1415–1436 CE | Jan Hus burned at Constance; the Hussite wars; Jan Žižka's army defeating crusade after crusade; the Compactata of Basel as the negotiated settlement |
 | 4 | Pohusitská Čechy — Post-Hussite Bohemia | 1436–1526 CE | The utraquist church; George of Poděbrady as the first elected Czech king; the Jagiellonian period; the last independent Czech kingdom |

@@ -57,7 +57,7 @@ Key places:
 
 | Era | Their Name | Common Era | Key Theme |
 |-----|-----------|------------|-----------|
-| 1 | Hedenhånds Tid — The Ancient Days | c. 500–793 CE | The Danish tribal confederation coalescing into a recognizable political entity; Hedeby growing; the Danevirke constructed; the first contacts with the Frankish world |
+| 1 | Hedenhånds Tid — The Ancient Days | c. 500–793 CE | The Danish confederation coalescing into a recognizable political entity; Hedeby growing; the Danevirke constructed; the first contacts with the Frankish world |
 | 2 | Vikingetiden — The Viking Time | c. 793–950 CE | Danish armies in England (the Great Heathen Army, 865); Danish settlement of Normandy; the Danelaw; Denmark as the most active external force in the Norse expansion |
 | 3 | Kongernes Kristning — The Christianizing of the Kings | c. 950–1000 CE | Harald Bluetooth's baptism; the Jelling runestones as the first Danish Christian monument; the tension between the old aristocracy and the new Christian kingship |
 | 4 | Knuds Rige — Cnut's Kingdom | 1000–1042 CE | Cnut's conquest of England; the North Sea empire; the Scandinavian king as a European monarch — lawgiver, patron of the Church, pilgrim to Rome |

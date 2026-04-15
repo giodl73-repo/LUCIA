@@ -55,7 +55,7 @@ Key places:
 
 | Era | Their Name | Common Era | Key Theme |
 |-----|-----------|------------|-----------|
-| 1 | Рашка — Raška | c. 620–1166 CE | The early Serbian settlements in the Balkans; tribal organization under the župans; the gradual Christianization through Byzantine influence |
+| 1 | Рашка — Raška | c. 620–1166 CE | The early Serbian settlements in the Balkans; clan organization under the župans; the gradual Christianization through Byzantine influence |
 | 2 | Немањићи — The Nemanjić Dynasty | 1166–1282 CE | Stefan Nemanja founding the dynasty; Sava establishing the autocephalous Serbian church; the kingdom building its Orthodox institutional framework |
 | 3 | Велико Краљевство — The Great Kingdom | 1282–1355 CE | The Nemanjić kingdom reaching its height under Stefan Dušan; the *Zakonik* of 1349; the imperial title; the claim to Byzantine succession |
 | 4 | Косово — Kosovo | 1355–1389 CE | The fragmentation after Dušan; the Ottoman advance; Prince Lazar's coalition; the battle of Kosovo 1389 and its transformation into myth |
@@ -75,7 +75,7 @@ Key places:
 
 ## The Chapters
 
-**1 — Raška:** Stefan Nemanja calls the assembly of Serbian župans at Ras in 1166. He is the first man to hold the title of Grand župan — the first leader with authority over all the Serbian tribes. He is building something new. He does not know yet that he is founding a dynasty that will be canonized.
+**1 — Raška:** Stefan Nemanja calls the assembly of Serbian župans at Ras in 1166. He is the first man to hold the title of Grand župan — the first leader with authority over all the Serbian communities. He is building something new. He does not know yet that he is founding a dynasty that will be canonized.
 
 **2 — The Nemanjić Dynasty:** Sava arrives at the Ecumenical Patriarch's court in Constantinople to request autocephaly for the Serbian Church. He is the son of a king, a trained monk, and a skilled diplomat. He leaves with the authorization he came for. On the way home, he begins organizing the church that will outlive everything else the Nemanjić dynasty builds.
 

@@ -50,7 +50,7 @@ Key places:
 | Era | Their Name | Common Era | Key Theme |
 |-----|-----------|------------|-----------|
 | 1 | Kupe's Arrival — The Discovery | c. 1250–1350 CE | The founding voyages; the naming of the land; the moa-hunting phase; the first spread across the archipelago |
-| 2 | The Great Fleet — Waka Hourua | c. 1350–1500 CE | The tradition of multiple founding canoes and the tribes they established; the development of iwi and hapū structures |
+| 2 | The Great Fleet — Waka Hourua | c. 1350–1500 CE | The tradition of multiple founding canoes and the iwi they established; the development of iwi and hapū structures |
 | 3 | The Classical Period — Utu and the Carved World | c. 1500–1769 CE | Increasing warfare and pā fortification; the elaboration of carving, tā moko, and oral traditions; the mature Māori civilization |
 | 4 — | Cook and Muskets | 1769–1840 CE | European contact; the musket wars (1807–1842) that kill tens of thousands; the uneven acquisition of European technology and disease |
 | 5 | Te Tiriti — The Treaty and Its Aftermath | 1840–1900 CE | The Treaty of Waitangi (1840); the land wars (1845–1872); massive land confiscations; the King Movement; the Māori resistance to dispossession |

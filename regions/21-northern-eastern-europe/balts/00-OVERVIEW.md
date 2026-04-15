@@ -56,7 +56,7 @@ Key places:
 
 | Era | Their Name | Common Era | Key Theme |
 |-----|-----------|------------|-----------|
-| 1 | Senoji Lietuva — Old Lithuania | c. 3000 BCE–1236 CE | The Baltic linguistic family; the distinctive Indo-European language most conservative in Europe; the sacred oak groves; the first Lithuanian state forming under tribal leaders |
+| 1 | Senoji Lietuva — Old Lithuania | c. 3000 BCE–1236 CE | The Baltic linguistic family; the distinctive Indo-European language most conservative in Europe; the sacred oak groves; the first Lithuanian state forming under clan leaders |
 | 2 | Didžioji Kova — The Great Struggle | 1236–1316 CE | The Teutonic Knights conquering Prussia and pressing into Latvia and Estonia; Mindaugas — the only Lithuanian king — accepting and renouncing Christianity; the resistance |
 | 3 | Gedimino Valdymas — The Age of Gediminas | 1316–1377 CE | Gediminas building the Grand Duchy; the famous letter inviting craftsmen and merchants from the west; the toleration of Christianity while remaining pagan himself |
 | 4 | Didžioji Kunigaikštystė — The Grand Duchy at its Height | 1377–1410 CE | Vytautas the Great; Grunwald 1410; the defeat of the Teutonic Order; the Grand Duchy at its maximum territorial extent |
