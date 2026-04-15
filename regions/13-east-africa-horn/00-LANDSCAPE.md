@@ -43,24 +43,24 @@ Inland from the coast, the region divides into several worlds that interact with
     W ←──+──→ E       ≈ 2,500 km, highlands to coast
          ↓
          S
+```
 
-Key features:
-- Blue Nile headwaters: Lake Tana; the Ethiopian highland reservoir
+**Key features:**
+- **Blue Nile headwaters:** Lake Tana; the Ethiopian highland reservoir
   that drives Egyptian agriculture downstream
-- Adulis: Axum's Red Sea port; the entry point for Mediterranean and
+- **Adulis:** Axum's Red Sea port; the entry point for Mediterranean and
   Arabian trade; gateway to the incense-producing highlands
-- Monsoon system: the northeast and southwest monsoons create a reliable
+- **Monsoon system:** the northeast and southwest monsoons create a reliable
   biannual calendar for Indian Ocean sailing; the Swahili coast is
   only accessible with this knowledge
-- Kilwa Kisiwani: the island city that controlled the gold trade from
+- **Kilwa Kisiwani:** the island city that controlled the gold trade from
   Great Zimbabwe through the port of Sofala; the wealthiest city on
   the coast at its peak
-- Great Rift Valley: the geological spine of eastern Africa; the lakes
+- **Great Rift Valley:** the geological spine of eastern Africa; the lakes
   it created support the interlacustrine states; the valley itself is
   a north-south corridor for people and livestock
-- Lake Victoria: the world's second-largest freshwater lake; the source
+- **Lake Victoria:** the world's second-largest freshwater lake; the source
   of the White Nile; the center of the Buganda world
-```
 
 ## The Peoples
 

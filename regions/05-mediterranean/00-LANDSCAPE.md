@@ -7,6 +7,11 @@ What holds these peoples in a single frame is not just geography but the deep lo
 ## The Land
 
 ```
+            [MAKEDONIA]
+            (Pella, Aigai)
+                  |
+                  | ← Philip II unites, Alexander conquers east
+                  ↓
                     ALPS / APENNINES
                     ~~~~~~~~~~~~~~~~
     [ETRUSCAN]        |         |
@@ -29,10 +34,11 @@ What holds these peoples in a single frame is not just geography but the deep lo
       (Tyre, Sidon,     [MINOAN/         [MYCENAEAN /
        Byblos)          GREEK-KRETE]     GREEK CITY-STATES]
               |                                   |
-         LEVANTINE                          [BYZANTIUM]
-           COAST                          (Konstantinopolis)
-              |
-         [EGYPT — see Region 3]
+         LEVANTINE              [HELLENISTIC KINGDOMS]
+           COAST             (Ptolemaioi · Seleukidai ·
+              |                  Antigonidai — 323–30 BCE)
+         [EGYPT — see Region 09]     [BYZANTIUM]
+                                   (Konstantinopolis)
 
     N
     ↑
@@ -57,6 +63,8 @@ Key features:
 | Mycenaean (Akhaians / Danaoi in their own epics) | c. 1600–1100 BCE | The warrior-king and the obligation of martial glory; the gift economy that bound lords together |
 | Phoenician (Kena'ani — "Canaanites" in their own tongue) | c. 1200–146 BCE | The craft of the sea-road; the alphabet as the tool of trade |
 | Greek city-states (Hellenes — those who share the language of Hellas) | c. 800–31 BCE | The polis as the highest form of human life; the contest as the form of human excellence |
+| Macedon (Makedones — "the Highlanders," as they called themselves) | c. 800–168 BCE | The king who unites the Greeks by force and then carries Hellenic civilization to the ends of the earth; glory measured not in civic debate but in the length of the march |
+| Hellenistic Kingdoms (Basileia — "the Kingdoms," the successor states of Alexander's empire) | 323–30 BCE | Greek-speaking kings ruling non-Greek peoples; the deliberate fusion of Hellenic and local forms — Egyptian, Persian, Babylonian — into hybrid cultures that outlast the dynasties themselves |
 | Etruscan (Rasenna in their own language) | c. 800–100 BCE | The reading of divine signs; the city as a consecrated space mapped to the heavens |
 | Roman Republic / Empire (Romani — the people of Roma) | c. 509 BCE–476 CE | The law as the binding substance of civilization; the obligation of *pietas* toward gods, ancestors, and state |
 | Carthage (Qart Hadasht — "New City" in Punic) | c. 814–146 BCE | The mercantile republic; the sea as sovereign, not any king |
@@ -68,12 +76,18 @@ The Minoans seeded the Aegean world before most of its later peoples had names. 
 
 Into the vacuum left by the Bronze Age collapse, the Phoenicians sailed. From their narrow coastal cities, they mapped the western Mediterranean, founding Carthage, Cadiz, and dozens of other stations. Their greatest gift to the region was the alphabet: the Phoenician writing system was adapted by the Greeks, who passed it to the Etruscans, who passed it to the Romans. The letters with which Rome ruled an empire were Phoenician letters, refracted through Greek and Etruscan hands. This chain of borrowing across centuries and cultures is the Mediterranean's deepest pattern.
 
-The Greeks and the Phoenicians divided the sea between them in practice if not in treaty, with Sicily and southern Italy as the contested frontier — a tension that exploded into open warfare at Syracuse and gave Rome its first experience of great-power naval conflict. Rome absorbed the Etruscan cities that had shaped its earliest religious and urban form, defeated Carthage in three long wars that remade the western Mediterranean, and slowly folded the Greek world into its administrative structure. The Byzantine Empire that outlasted Rome in the east did so by holding the chokepoints: the Bosphorus, the Aegean, the Levantine coast — precisely the sea-lanes that had mattered since the Minoans first launched.
+The Greeks and the Phoenicians divided the sea between them in practice if not in treaty, with Sicily and southern Italy as the contested frontier — a tension that exploded into open warfare at Syracuse and gave Rome its first experience of great-power naval conflict.
+
+The Macedonians stood apart from the world of the polis. Where Athenians debated in the assembly and Spartans trained for the phalanx as citizens, the Makedones built a monarchy in which the king was the state and personal martial glory was the measure of all things. Philip II forged the Greek cities into a League under Macedonian dominance; his son Alexander took that force east, breaking the Achaemenid Empire and pushing to the Indus. Alexander's march did not simply conquer territory — it transplanted Greek language, coinage, city-form, and philosophy across an enormous arc from Egypt to Central Asia, creating the preconditions for everything that followed.
+
+What followed were the Hellenistic Kingdoms: the Ptolemaioi in Egypt, the Seleukidai from Syria to Persia, the Antigonidai in Macedon itself. Each dynasty ruled through a thin Greek and Macedonian elite over populations that were Egyptian, Aramaic, Persian, and Babylonian. The resulting cultures were genuinely hybrid — Ptolemaic rulers performed pharaonic ritual while corresponding in Greek; Seleucid cities planted Aristotelian gymnasia in the middle of ancient Babylonian temple districts; Ptolemaic Alexandria built a library explicitly designed to collect every text in every language and translate it into Greek. The Hellenistic period was one of the most intellectually fertile in Mediterranean history precisely because it forced Greek thought into productive collision with everything older and stranger that it had overrun.
+
+Rome absorbed the Etruscan cities that had shaped its earliest religious and urban form, defeated Carthage in three long wars that remade the western Mediterranean, and absorbed the Hellenistic kingdoms one by one — Macedon in 168 BCE, Seleucid Syria reduced to a rump state, and finally Ptolemaic Egypt in 30 BCE when Octavian defeated Cleopatra VII. The Byzantine Empire that outlasted Rome in the east did so by holding the chokepoints: the Bosphorus, the Aegean, the Levantine coast — precisely the sea-lanes that had mattered since the Minoans first launched. Byzantium was, in its own self-understanding, the heir of Rome — but it governed in Greek, the language Alexander had spread, in a territory that Alexander had first mapped.
 
 ## Cross-References
 
-- Egypt (Region 3 — Africa) — The oldest trading partner for the Minoans, Phoenicians, and Greeks; the breadbasket Rome depended on; the prize the Byzantines could not ultimately hold
-- Mesopotamia / Fertile Crescent (Region 6) — The source of the Bronze Age trading networks the Phoenicians plugged into; the Babylonian and Assyrian empires whose pressure drove Phoenician westward expansion
-- Achaemenid Persia (Region 7) — The eastern counterpart against which the Greek city-states defined themselves; the empire Macedon under Alexander reversed; the rival the Byzantines confronted in its Sassanid successor
+- Egypt (Region 09 — Africa) — The oldest trading partner for the Minoans, Phoenicians, and Greeks; the breadbasket Rome depended on; home of the Ptolemaic Kingdom (the most durable Hellenistic successor state); the prize the Byzantines could not ultimately hold
+- Mesopotamia / Fertile Crescent (Region 6) — The source of the Bronze Age trading networks the Phoenicians plugged into; the Babylonian and Assyrian empires whose pressure drove Phoenician westward expansion; the core territory of the Seleucid Kingdom after Alexander's conquests
+- Achaemenid Persia (Region 7) — The eastern counterpart against which the Greek city-states defined themselves; the empire Macedon under Alexander dismantled and replaced; the Seleucid successor state that ruled its former heartland; the rival the Byzantines confronted in its Sassanid successor
 - The Islamic Heartlands (Region 8) — The Umayyad expansion that erased Carthage's successor cultures in North Africa and forced Byzantine contraction; the Ottoman Empire that ultimately ended Byzantine Constantinople
-- Celtic / Atlantic Europe (Region 10) — The peoples of the lands the Phoenicians and Greeks encountered beyond the Pillars of Herakles; the "barbarian" north Rome spent centuries absorbing and defending against
+- Celtic / Atlantic Europe (Region 20) — The peoples of the lands the Phoenicians and Greeks encountered beyond the Pillars of Herakles; the "barbarian" north Rome spent centuries absorbing and defending against

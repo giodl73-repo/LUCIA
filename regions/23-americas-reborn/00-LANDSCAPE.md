@@ -62,11 +62,11 @@ Key features:
 | United States | 1776–present | The experiment: a republic that declared all men created equal while holding humans in bondage, and has been arguing about that contradiction ever since |
 | Mexico | 1810–present | La Raza — the cosmic race; a national identity that claims the indigenous past as its own foundation while the living indigenous present contests that claim |
 | Canada | 1867–present | The mosaic, not the melting pot: a country that defines itself against the United States as much as it defines itself for anything; two founding European nations and the First Nations whose lands both settled on |
-| Brazil | 1822–present | Miscegenação as national myth and lived reality; a country born from three worlds that insists it transcended them, and whose Black and indigenous citizens know the limits of that insistence |
+| Brazil | 1822–present | Miscegenação as national myth and lived reality; a country born from three worlds whose official story celebrates their transcendence while racial hierarchy persists in income, incarceration, and land ownership |
 | Cuba | 1898–present | The revolution as permanent condition: a society that has organized itself around two revolutions — 1898 against Spain, 1959 against itself — and cannot yet let either one go |
 | Jamaica | 1962–present | Out of many, one people: a culture forged in the furnace of plantation slavery that produced reggae, Rastafari, and a moral vision of liberation that traveled farther than the island |
 | Colombia | 1819–present | The land of magical realism and very real violence: a country of extraordinary regional diversity held together by a national story always under revision |
-| Peru | 1821–present | The oldest wound: the Andean world — Inca, then colonial, then republican — whose indigenous majority has spent two centuries being told that the state built on their ancestors' land belongs to someone else |
+| Peru | 1821–present | The Andean world — Inca, then colonial, then republican — where the state claims continuity with pre-Columbian civilization while indigenous communities have remained largely outside the structures of political power |
 | Argentina | 1816–present | The European dream in the southern cone: a country that imagined itself as Europe-in-America and has spent its history discovering that the Americas have their own logic |
 
 ## How They Connect

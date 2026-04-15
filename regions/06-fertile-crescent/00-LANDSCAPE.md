@@ -69,8 +69,8 @@ The Arameans are the quiet transformation. They did not build a great empire, bu
 
 ## Cross-References
 
-- Egypt (Region 3 — Africa) — Trading partner and rival from the earliest periods; the Bronze Age diplomatic correspondence (Amarna letters) shows Mesopotamian and Egyptian courts in constant negotiation; the Assyrians eventually conquered Egypt; the Persians ruled both
+- Egypt (Region 09 — Africa) — Trading partner and rival from the earliest periods; the Bronze Age diplomatic correspondence (Amarna letters) shows Mesopotamian and Egyptian courts in constant negotiation; the Assyrians eventually conquered Egypt; the Persians ruled both
 - Iran & the Persianate World (Region 7) — Elam was the constant eastern neighbor and rival; the Achaemenid Persians who absorbed Mesopotamia built their empire on its administrative foundations
 - Mediterranean Classical World (Region 5) — Phoenicia emerged from the Fertile Crescent's collapse at 1200 BCE and carried its commercial traditions westward; the Hittites' collapse fed the Bronze Age crisis that remade the whole eastern Mediterranean
 - The Islamic Heartlands (Region 8) — Mesopotamia became the core of the Abbasid Caliphate; Baghdad, built near ancient Babylon, inherited the region's role as the organizing center of a world empire
-- Anatolia & the Black Sea (Region 9) — The Hittite Empire straddled this region and Anatolia; later the Persian, Macedonian, and Seleucid empires connected the two zones continuously
+- Anatolia & the Black Sea (Region 05) — The Hittite Empire straddled this region and Anatolia; later the Persian, Macedonian, and Seleucid empires connected the two zones continuously

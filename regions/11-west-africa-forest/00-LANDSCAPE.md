@@ -42,22 +42,22 @@ This region is unified by the forest ecology, by the yam and oil palm agricultur
     W ←──+──→ E       ≈ 1,800 km coast to coast
          ↓
          S
-
-Key features:
-- Jos Plateau: heartland of the Nok culture; iron ore and tin; highland
-  zone above the forest proper
-- Niger River / Benue confluence: the great river junction; entry point
-  to the interior from the coast; Igbo country straddles the lower Niger
-- Ile-Ife: the Yoruba city of origins; where Oduduwa descended to create
-  the earth; source of the artistic tradition that produced the Ife heads
-- Benin City: the walled capital of the Oba's domain; the largest
-  pre-colonial earthwork system in sub-Saharan Africa
-- Kumasi: Ashanti capital; seat of the Golden Stool; forest gold market
-- Oil palm belt: the forest's great staple; supports dense settlement
-  and long-distance trade in palm oil and kernels
-- Atlantic coast: from the Grain Coast east; European trading forts
-  from the 1480s onward; the terrible geometry of the Atlantic trade
 ```
+
+**Key features:**
+- **Jos Plateau:** heartland of the Nok culture; iron ore and tin; highland
+  zone above the forest proper
+- **Niger River / Benue confluence:** the great river junction; entry point
+  to the interior from the coast; Igbo country straddles the lower Niger
+- **Ile-Ife:** the Yoruba city of origins; where Oduduwa descended to create
+  the earth; source of the artistic tradition that produced the Ife heads
+- **Benin City:** the walled capital of the Oba's domain; the largest
+  pre-colonial earthwork system in sub-Saharan Africa
+- **Kumasi:** Ashanti capital; seat of the Golden Stool; forest gold market
+- **Oil palm belt:** the forest's great staple; supports dense settlement
+  and long-distance trade in palm oil and kernels
+- **Atlantic coast:** from the Grain Coast east; European trading forts
+  from the 1480s onward; the terrible geometry of the Atlantic trade
 
 ## The Peoples
 
