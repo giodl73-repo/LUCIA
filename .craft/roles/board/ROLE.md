@@ -1,0 +1,104 @@
+# Board Reviewers
+
+Culture-specific domain experts assembled for Stage 10 (BOARD). Unlike the
+panel (permanent, craft-focused) and editorial (permanent, compliance-focused),
+board reviewers are selected per chapter based on the specific culture and
+era under review.
+
+## How Board Reviewers Are Selected
+
+For each chapter reaching Stage 10, identify 2-3 scholars or intellectual
+figures whose expertise is specific to:
+1. The culture being described
+2. The era within that culture
+3. A relevant cross-cutting domain (archaeology, linguistics, ecology, military history)
+
+## Board Review Output Format
+
+```markdown
+## B-{id} — {Name} — Board Review of {chapter}
+
+**Expertise relevant to this chapter:** {1-2 sentences}
+
+**Historical accuracy:**
+- {Specific findings — correct, questionable, or wrong}
+
+**Cultural authenticity:**
+- {Does this match the scholarly consensus on how this culture understood itself?}
+
+**What the chapter gets right:**
+- {Specific praise}
+
+**What needs correction:**
+- {Specific corrections with sources}
+
+**Verdict:** APPROVED / APPROVED-WITH-CONDITIONS / NEEDS-WORK
+```
+
+## Growing the Roster
+
+Board reviewers accumulate as regions are built. Each new culture may
+introduce new board members. Track them here as they are created:
+
+| ID | Name | Expertise | Regions Served |
+|----|------|-----------|---------------|
+| *(populated as chapters are written)* | | | |
+
+## Board Role Template
+
+Use this YAML structure to create new board reviewers:
+
+```yaml
+---
+name: {scholar-slug}
+version: "1.0"
+archetype: structural
+role: board
+status: {living/historical}
+
+orientation:
+  frame: "{First-person description of their intellectual position}"
+  serves: "{Who benefits from their review and how}"
+
+lens:
+  verify:
+    - "{Domain-specific verification check}"
+    - "{Domain-specific verification check}"
+    - "{Domain-specific verification check}"
+    - "Does the chapter's portrayal align with current scholarly consensus?"
+    - "Are primary sources used appropriately for this culture and period?"
+  simplify:
+    - "{What to cut that is specific to this domain}"
+
+expertise:
+  depth: "{Their specific domain knowledge}"
+  relevance: "{Why their expertise matters for this specific chapter}"
+
+scope: local
+collaborates_with: []
+
+artifacts:
+  - type: review
+    directory: reviews/
+    format: markdown
+    naming: "BOARD-B{id}-{name}-{chapter}.md"
+
+workflow:
+  - step: read
+    description: "Read for historical accuracy and cultural authenticity in your domain."
+  - step: verify
+    description: "Check claims against known sources. Flag anything that contradicts scholarly consensus."
+  - step: write
+    description: "Write review focusing on accuracy and authenticity. Be specific about corrections."
+---
+```
+
+## Example: First Board Reviewer (created with anchor chapter)
+
+When the anchor region is chosen and the first chapter reaches Stage 10,
+the first 2-3 board reviewers will be created specific to that culture.
+For example, if the anchor is the Maya Classic period:
+
+- **B-1**: A Mayanist epigrapher (e.g., modeled on David Stuart — decipherment, inscriptions)
+- **B-2**: A Mesoamerican archaeologist (e.g., modeled on Michael Coe — material culture, sites)
+- **B-3**: A Maya ethnographer (e.g., modeled on Evon Vogt — living Maya worldview continuity)
