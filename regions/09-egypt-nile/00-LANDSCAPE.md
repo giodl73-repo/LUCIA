@@ -40,18 +40,18 @@ What makes this a region is not political unity, which came and went and came ag
     W ←──+──→ E       ≈ 1,500 km, Aswan to Mediterranean
          ↓
          S
-
-Key features:
-- The Inundation: annual Nile flood, June–October, depositing the black
-  soil (kemet) that defines arable land in an otherwise desert corridor
-- Cataracts: six granite threshold zones; each marks a boundary zone and
-  a natural chokepoint for trade and military movement
-- Red Land (deshret): Eastern and Western Deserts; barrier and highway both
-- Eastern Desert: gold, copper, turquoise, hard stone quarries
-- Wadi Hammamat: the overland route connecting the Nile to the Red Sea
-- Island of Meroe: at the confluence of the Nile and Atbara; Meroitic
-  heartland, south of the reach of Egyptian seasonal flood influence
 ```
+
+**Key features:**
+- **The Inundation:** annual Nile flood, June–October, depositing the black
+  soil (kemet) that defines arable land in an otherwise desert corridor
+- **Cataracts:** six granite threshold zones; each marks a boundary zone and
+  a natural chokepoint for trade and military movement
+- **Red Land (deshret):** Eastern and Western Deserts; barrier and highway both
+- **Eastern Desert:** gold, copper, turquoise, hard stone quarries
+- **Wadi Hammamat:** the overland route connecting the Nile to the Red Sea
+- **Island of Meroe:** at the confluence of the Nile and Atbara; Meroitic
+  heartland, south of the reach of Egyptian seasonal flood influence
 
 ## The Peoples
 

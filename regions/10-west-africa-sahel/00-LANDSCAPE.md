@@ -43,18 +43,18 @@ The Sahara, which appears on maps as emptiness, was for most of this region's re
     W ←──+──→ E       ≈ 3,500 km coast to Lake Chad
          ↓
          S
-
-Key features:
-- Niger River: the inland delta at Djenné-Jeno is one of the earliest
-  urban centers in sub-Saharan Africa; river road from forest to desert
-- Lake Chad: fluctuating inland sea; eastern anchor of the Sahel corridor
-- Wangara goldfields (Bambuk, Buré): source of West Africa's gold; location
-  kept deliberately secret by those who controlled the trade
-- Saharan salt deposits: Taghaza, Taudeni; salt was as valuable as gold
-  in the forest zone; the salt-gold exchange drove the entire economy
-- Atlantic coast: Wolof access to the sea gave them a different logic
-  from the interior states
 ```
+
+**Key features:**
+- **Niger River:** the inland delta at Djenné-Jeno is one of the earliest
+  urban centers in sub-Saharan Africa; river road from forest to desert
+- **Lake Chad:** fluctuating inland sea; eastern anchor of the Sahel corridor
+- **Wangara goldfields (Bambuk, Buré):** source of West Africa's gold; location
+  kept deliberately secret by those who controlled the trade
+- **Saharan salt deposits:** Taghaza, Taudeni; salt was as valuable as gold
+  in the forest zone; the salt-gold exchange drove the entire economy
+- **Atlantic coast:** Wolof access to the sea gave them a different logic
+  from the interior states
 
 ## The Peoples
 
@@ -79,7 +79,7 @@ The Fulani transformation of the Sahel is the region's defining late story. For 
 
 ## Cross-References
 
-- Sahara & North Africa (Region 5 / Mediterranean) — Berber and Tuareg merchants are the indispensable intermediaries; the Almoravid movement originates in the western Sahara and destabilizes the Ghana Empire in the eleventh century
+- Sahara & North Africa (Region 08 / Islamic Heartlands) — Berber and Tuareg merchants are the indispensable intermediaries; the Almoravid movement originates in the western Sahara and destabilizes the Ghana Empire in the eleventh century
 - West African Forest & Guinea Coast (Region 11) — kola nuts, forest gold, and enslaved people flow north from the forest into the Sahel exchange; Dyula merchants connect both worlds
-- Islamic Heartlands (Region 8) — Mansa Musa's hajj (1324–25) floods Cairo's gold market and fixes West Africa in the Islamic world's geographic imagination; Timbuktu's scholars correspond with Cairo, Fez, and Tunis; the Moroccan invasion (1591) ends the Songhai Empire
-- Fertile Crescent (Region 6) — trans-Saharan routes connect to the eastern Mediterranean through North African intermediaries; horses from Barbary transform Sahelian warfare
+- Islamic Heartlands (Region 08) — Mansa Musa's hajj (1324–25) floods Cairo's gold market and fixes West Africa in the Islamic world's geographic imagination; Timbuktu's scholars correspond with Cairo, Fez, and Tunis; the Moroccan invasion (1591) ends the Songhai Empire
+- Fertile Crescent (Region 06) — trans-Saharan routes connect to the eastern Mediterranean through North African intermediaries; horses from Barbary transform Sahelian warfare

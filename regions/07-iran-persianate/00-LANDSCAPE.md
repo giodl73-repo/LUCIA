@@ -11,7 +11,7 @@ What makes Iran a coherent cultural world across four millennia is not ethnic or
             ~~~~~~~~~~~~~~~~~~~~~~~
                     |
     [ARMENIA /     [CASPIAN SEA]     [CENTRAL ASIAN
-     URARTU]            |             STEPPE — see R12]
+     URARTU]            |             STEPPE — see R19]
         |        ALBORZ MOUNTAINS
         |        ~~~~~~~~~~~~~~~~
    [MESOPOTAMIA]        |
@@ -31,7 +31,7 @@ What makes Iran a coherent cultural world across four millennia is not ethnic or
         |         (Sand Desert)         HINDU KUSH
    Persian              |               ~~~~~~~~~~
     Gulf           MAKRAN COAST              |
-                        |              [INDIA — see R11]
+                        |              [INDIA — see R15]
                     Arabian Sea
 
     N
@@ -75,5 +75,5 @@ The Samanids are the hinge between the ancient Persianate world and the medieval
 - Fertile Crescent & Mesopotamia (Region 6) — The Zagros is the shared wall; Elam and Mesopotamia spent three millennia in each other's orbits; the Achaemenids, Parthians, and Sassanids all ruled Mesopotamia as their western province
 - Mediterranean Classical World (Region 5) — Achaemenid Persia was the eastern power against which the Greek city-states defined themselves; the Macedonian conquest under Alexander connected the two regions violently; Parthia's standoff with Rome shaped both worlds for half a millennium
 - The Islamic Heartlands (Region 8) — The Sassanid Empire's collapse to the Rashidun Caliphate is the pivot event of this region's Islamic period; Persia absorbed Islam while simultaneously Persianizing Islamic civilization
-- Central Asia & the Steppe (Region 12) — The Oxus frontier was a permanent zone of exchange and pressure; Parthia rose from the Parthian steppe; the Samanids governed Transoxiana; the Mongol conquest came from this direction
-- South Asia (Region 11) — The Durrani Empire bridged Afghanistan and northern India; Mughal culture was Persianate culture transplanted; the Silk Road's India branch ran through the plateau
+- Central Asia & the Steppe (Region 19) — The Oxus frontier was a permanent zone of exchange and pressure; Parthia rose from the Parthian steppe; the Samanids governed Transoxiana; the Mongol conquest came from this direction
+- South Asia (Region 15) — The Durrani Empire bridged Afghanistan and northern India; Mughal culture was Persianate culture transplanted; the Silk Road's India branch ran through the plateau

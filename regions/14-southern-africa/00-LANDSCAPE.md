@@ -36,24 +36,24 @@ What makes southern Africa a region is the interplay between its ecological zone
     W ←──+──→ E       ≈ 2,000 km, Cape to Zimbabwe plateau
          ↓
          S
+```
 
-Key features:
-- Drakensberg Escarpment: the great mountain wall separating the highveld
+**Key features:**
+- **Drakensberg Escarpment:** the great mountain wall separating the highveld
   from the coastal lowlands; San rock art sites concentrate here
-- Limpopo River: northern boundary of the highveld; the Great Zimbabwe
+- **Limpopo River:** northern boundary of the highveld; the Great Zimbabwe
   state's southern trade frontier
-- Zimbabwe plateau: 1,000–1,500 m elevation; good rainfall; gold-bearing
+- **Zimbabwe plateau:** 1,000–1,500 m elevation; good rainfall; gold-bearing
   geology; the location of Great Zimbabwe and its successors
-- Sofala coast: the Indian Ocean port through which Zimbabwe plateau gold
+- **Sofala coast:** the Indian Ocean port through which Zimbabwe plateau gold
   reached Kilwa and the wider trade world
-- Zambezi Valley: the river highway between the interior and the coast;
+- **Zambezi Valley:** the river highway between the interior and the coast;
   Mutapa territory; Portuguese penetration from the sixteenth century
-- Kalahari Basin: the semi-arid interior; the San world; waterholes
+- **Kalahari Basin:** the semi-arid interior; the San world; waterholes
   as the organizational nodes of a mobile economy
-- Cape of Good Hope: where the Atlantic and Indian Oceans meet; Khoikhoi
+- **Cape of Good Hope:** where the Atlantic and Indian Oceans meet; Khoikhoi
   cattle country; the Dutch East India Company's 1652 fort begins the
   settler colonial story
-```
 
 ## The Peoples
 

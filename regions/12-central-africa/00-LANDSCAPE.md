@@ -33,23 +33,23 @@ The Kongo Kingdom on the Atlantic edge of this world was not a forest people but
     W ←──+──→ E       ≈ 2,000 km, Atlantic coast to Lake Tanganyika
          ↓
          S
+```
 
-Key features:
-- Congo River: 4,700 km; the basin's organizing spine; navigable in
+**Key features:**
+- **Congo River:** 4,700 km; the basin's organizing spine; navigable in
   sections, interrupted by the Livingstone Falls near the Atlantic;
   the great arc through the forest provides an internal road system
-- Upemba Depression: the core of Luba political and spiritual geography;
+- **Upemba Depression:** the core of Luba political and spiritual geography;
   fishing wealth and iron metallurgy on the lakeshore
-- Katanga copper belt: the most important metal resource in south-central
+- **Katanga copper belt:** the most important metal resource in south-central
   Africa; cross-shaped copper ingots (handa) circulate as currency
   across the interior
-- Loango coast: north of the Kongo mouth; an independent trading power
+- **Loango coast:** north of the Kongo mouth; an independent trading power
   that competed and cooperated with Kongo
-- Kasai River system: the heart of Lunda expansion; rivers connect the
+- **Kasai River system:** the heart of Lunda expansion; rivers connect the
   eastern savanna to the Atlantic watershed
-- Mangbetu territory: northeast Congo Basin; the Mangbetu state emerges
+- **Mangbetu territory:** northeast Congo Basin; the Mangbetu state emerges
   in the nineteenth century as a sophisticated court culture
-```
 
 ## The Peoples
 
