@@ -1,0 +1,94 @@
+site_name: "LUCIA \u2014 The Human Chronicle"
+site_description: A narrative encyclopedia of human civilization across 26 regions of the world
+docs_dir: ..
+site_dir: ../../chronicle-site
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+  font:
+    text: EB Garamond
+    code: JetBrains Mono
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - def_list
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: en
+
+nav:
+  - Home: index.md
+  - Guides:
+    - Style Guide: guides/STYLE-GUIDE.md
+    - Pipeline: guides/PIPELINE.md
+    - Templates: guides/TEMPLATES.md
+    - How to Write a Chapter: guides/HOW-TO-WRITE-A-CHAPTER.md
+  - Scoring:
+    - Rubric: scoring/RUBRIC.md
+    - Innovations: scoring/INNOVATIONS.md
+    - Targets: scoring/TARGETS.md
+  - Sources:
+    - Master Registry: sources/MASTER.md
+    - Acquisition: sources/ACQUISITION.md
+  - The Ancient & Living World:
+    - Mesoamerica: regions/01-mesoamerica/00-LANDSCAPE.md
+    - Andes & Western South America: regions/02-andes/00-LANDSCAPE.md
+    - Amazonia, Caribbean & Lowlands: regions/03-amazonia-caribbean/00-LANDSCAPE.md
+    - North America: regions/04-north-america/00-LANDSCAPE.md
+    - Mediterranean Classical World: regions/05-mediterranean/00-LANDSCAPE.md
+    - Fertile Crescent & Mesopotamia: regions/06-fertile-crescent/00-LANDSCAPE.md
+    - Iran & the Persianate World: regions/07-iran-persianate/00-LANDSCAPE.md
+    - The Islamic Heartlands: regions/08-islamic-heartlands/00-LANDSCAPE.md
+    - Egypt & the Nile Valley: regions/09-egypt-nile/00-LANDSCAPE.md
+    - West African Sahel & Savanna: regions/10-west-africa-sahel/00-LANDSCAPE.md
+    - West African Forest & Guinea Coast: regions/11-west-africa-forest/00-LANDSCAPE.md
+    - Central Africa & Kongo World: regions/12-central-africa/00-LANDSCAPE.md
+    - East Africa, Horn & Swahili World: regions/13-east-africa-horn/00-LANDSCAPE.md
+    - Southern Africa: regions/14-southern-africa/00-LANDSCAPE.md
+    - South Asia: regions/15-south-asia/00-LANDSCAPE.md
+    - Tibet & the Himalayan World: regions/16-tibet-himalaya/00-LANDSCAPE.md
+    - East Asia: regions/17-east-asia/00-LANDSCAPE.md
+    - Southeast Asia: regions/18-southeast-asia/00-LANDSCAPE.md
+    - Central & Inner Asia: regions/19-central-inner-asia/00-LANDSCAPE.md
+    - Western Christendom: regions/20-western-christendom/00-LANDSCAPE.md
+    - Northern & Eastern Europe: regions/21-northern-eastern-europe/00-LANDSCAPE.md
+    - Oceania & the Pacific World: regions/22-oceania-pacific/00-LANDSCAPE.md
+  - The Crossroads:
+    - The Americas Reborn: regions/23-americas-reborn/00-LANDSCAPE.md
+    - Colonial Empires & Systems: regions/24-colonial-empires/00-LANDSCAPE.md
+    - Diasporas & Dispersed Peoples: regions/25-diasporas/00-LANDSCAPE.md
+    - The Pacific Century: regions/26-pacific-century/00-LANDSCAPE.md
