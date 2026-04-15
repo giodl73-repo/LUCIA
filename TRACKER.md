@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 1 — Skeleton (3 levels deep)
-**Last updated:** 2026-04-15
+**Last updated:** 2026-04-14
 
 ---
 
@@ -9,33 +9,33 @@
 
 | # | Region | Landscape | Peoples | Overviews | Chapters | Locked |
 |---|--------|-----------|---------|-----------|----------|--------|
-| 1 | Mesoamerica | — | 0 | — | 0 | 0 |
-| 2 | Andes & Western SA | — | 0 | — | 0 | 0 |
-| 3 | Amazonia/Caribbean | — | 0 | — | 0 | 0 |
-| 4 | North America | — | 0 | — | 0 | 0 |
-| 5 | Mediterranean Classical | — | 0 | — | 0 | 0 |
-| 6 | Fertile Crescent | — | 0 | — | 0 | 0 |
-| 7 | Iran & Persianate | — | 0 | — | 0 | 0 |
-| 8 | Islamic Heartlands | — | 0 | — | 0 | 0 |
-| 9 | Egypt & Nile | — | 0 | — | 0 | 0 |
-| 10 | W Africa Sahel | — | 0 | — | 0 | 0 |
-| 11 | W Africa Forest | — | 0 | — | 0 | 0 |
-| 12 | Central Africa | — | 0 | — | 0 | 0 |
-| 13 | E Africa/Horn | — | 0 | — | 0 | 0 |
-| 14 | Southern Africa | — | 0 | — | 0 | 0 |
-| 15 | South Asia | — | 0 | — | 0 | 0 |
-| 16 | Tibet & Himalaya | — | 0 | — | 0 | 0 |
-| 17 | East Asia | — | 0 | — | 0 | 0 |
-| 18 | Southeast Asia | — | 0 | — | 0 | 0 |
-| 19 | Central/Inner Asia | — | 0 | — | 0 | 0 |
-| 20 | Western Christendom | — | 0 | — | 0 | 0 |
-| 21 | N & E Europe | — | 0 | — | 0 | 0 |
-| 22 | Oceania & Pacific | — | 0 | — | 0 | 0 |
-| 23 | Americas Reborn | — | 0 | — | 0 | 0 |
-| 24 | Colonial Empires | — | 0 | — | 0 | 0 |
-| 25 | Diasporas | — | 0 | — | 0 | 0 |
-| 26 | Pacific Century | — | 0 | — | 0 | 0 |
-| | **TOTALS** | **0/26** | **0** | **0/26** | **0** | **0** |
+| 1 | Mesoamerica | complete | 10 | draft | 0 | 0 |
+| 2 | Andes & Western SA | complete | 9 | draft | 0 | 0 |
+| 3 | Amazonia/Caribbean | complete | 8 | draft | 0 | 0 |
+| 4 | North America | complete | 12 | draft | 0 | 0 |
+| 5 | Mediterranean Classical | complete | 10 | draft | 0 | 0 |
+| 6 | Fertile Crescent | complete | 8 | draft | 0 | 0 |
+| 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
+| 8 | Islamic Heartlands | complete | 13 | draft | 0 | 0 |
+| 9 | Egypt & Nile | complete | 9 | draft | 0 | 0 |
+| 10 | W Africa Sahel | complete | 8 | draft | 0 | 0 |
+| 11 | W Africa Forest | complete | 7 | draft | 0 | 0 |
+| 12 | Central Africa | complete | 6 | draft | 0 | 0 |
+| 13 | E Africa/Horn | complete | 9 | draft | 0 | 0 |
+| 14 | Southern Africa | complete | 11 | draft | 0 | 0 |
+| 15 | South Asia | complete | 15 | draft | 0 | 0 |
+| 16 | Tibet & Himalaya | complete | 9 | draft | 0 | 0 |
+| 17 | East Asia | complete | 21 | draft | 0 | 0 |
+| 18 | Southeast Asia | complete | 11 | draft | 0 | 0 |
+| 19 | Central/Inner Asia | complete | 10 | draft | 0 | 0 |
+| 20 | Western Christendom | complete | 13 | draft | 0 | 0 |
+| 21 | N & E Europe | complete | 15 | draft | 0 | 0 |
+| 22 | Oceania & Pacific | complete | 10 | draft | 0 | 0 |
+| 23 | Americas Reborn | complete | 10 | draft | 0 | 0 |
+| 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
+| 25 | Diasporas | complete | 6 | draft | 0 | 0 |
+| 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **0** | **0** |
 
 ---
 
@@ -62,8 +62,8 @@
 ### Phase 1 — Skeleton (current)
 Build the three-level skeleton across all 26 regions.
 
-- [ ] 26 landscape files (one per region)
-- [ ] ~250–300 people-group overviews with eras enumerated
+- [x] 26 landscape files (one per region)
+- [x] ~250–300 people-group overviews with eras enumerated (259 created)
 - [ ] All L2 entries indexed under their region
 
 **Exit criteria:** Every region has a landscape file; all major peoples have an overview with eras named.
