@@ -1,0 +1,19 @@
+# MkDocs build output
+site/
+
+# Superpowers brainstorm sessions
+.superpowers/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+*.swp
+*.swo
+*~
