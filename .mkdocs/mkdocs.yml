@@ -1,4 +1,4 @@
-site_name: "LUCIA \u2014 The Human Chronicle"
+site_name: "LUCIA — The Human Chronicle"
 site_description: A narrative encyclopedia of human civilization across 26 regions of the world
 docs_dir: ..
 site_dir: ../../chronicle-site
@@ -65,30 +65,315 @@ nav:
     - Master Registry: sources/MASTER.md
     - Acquisition: sources/ACQUISITION.md
   - The Ancient & Living World:
-    - Mesoamerica: regions/01-mesoamerica/00-LANDSCAPE.md
-    - Andes & Western South America: regions/02-andes/00-LANDSCAPE.md
-    - Amazonia, Caribbean & Lowlands: regions/03-amazonia-caribbean/00-LANDSCAPE.md
-    - North America: regions/04-north-america/00-LANDSCAPE.md
-    - Mediterranean Classical World: regions/05-mediterranean/00-LANDSCAPE.md
-    - Fertile Crescent & Mesopotamia: regions/06-fertile-crescent/00-LANDSCAPE.md
-    - Iran & the Persianate World: regions/07-iran-persianate/00-LANDSCAPE.md
-    - The Islamic Heartlands: regions/08-islamic-heartlands/00-LANDSCAPE.md
-    - Egypt & the Nile Valley: regions/09-egypt-nile/00-LANDSCAPE.md
-    - West African Sahel & Savanna: regions/10-west-africa-sahel/00-LANDSCAPE.md
-    - West African Forest & Guinea Coast: regions/11-west-africa-forest/00-LANDSCAPE.md
-    - Central Africa & Kongo World: regions/12-central-africa/00-LANDSCAPE.md
-    - East Africa, Horn & Swahili World: regions/13-east-africa-horn/00-LANDSCAPE.md
-    - Southern Africa: regions/14-southern-africa/00-LANDSCAPE.md
-    - South Asia: regions/15-south-asia/00-LANDSCAPE.md
-    - Tibet & the Himalayan World: regions/16-tibet-himalaya/00-LANDSCAPE.md
-    - East Asia: regions/17-east-asia/00-LANDSCAPE.md
-    - Southeast Asia: regions/18-southeast-asia/00-LANDSCAPE.md
-    - Central & Inner Asia: regions/19-central-inner-asia/00-LANDSCAPE.md
-    - Western Christendom: regions/20-western-christendom/00-LANDSCAPE.md
-    - Northern & Eastern Europe: regions/21-northern-eastern-europe/00-LANDSCAPE.md
-    - Oceania & the Pacific World: regions/22-oceania-pacific/00-LANDSCAPE.md
+    - Mesoamerica:
+      - Landscape: regions/01-mesoamerica/00-LANDSCAPE.md
+      - Olmec: regions/01-mesoamerica/olmec/00-OVERVIEW.md
+      - Zapotec: regions/01-mesoamerica/zapotec/00-OVERVIEW.md
+      - Teotihuacan: regions/01-mesoamerica/teotihuacan/00-OVERVIEW.md
+      - Maya: regions/01-mesoamerica/maya/00-OVERVIEW.md
+      - Mixtec: regions/01-mesoamerica/mixtec/00-OVERVIEW.md
+      - Toltec: regions/01-mesoamerica/toltec/00-OVERVIEW.md
+      - Totonac: regions/01-mesoamerica/totonac/00-OVERVIEW.md
+      - Huastec: regions/01-mesoamerica/huastec/00-OVERVIEW.md
+      - Purepecha: regions/01-mesoamerica/purepecha/00-OVERVIEW.md
+      - Aztec/Mexica: regions/01-mesoamerica/mexica/00-OVERVIEW.md
+    - Andes & Western South America:
+      - Landscape: regions/02-andes/00-LANDSCAPE.md
+      - Chavin: regions/02-andes/chavin/00-OVERVIEW.md
+      - Moche: regions/02-andes/moche/00-OVERVIEW.md
+      - Nazca: regions/02-andes/nazca/00-OVERVIEW.md
+      - Tiwanaku: regions/02-andes/tiwanaku/00-OVERVIEW.md
+      - Wari: regions/02-andes/wari/00-OVERVIEW.md
+      - Chimu: regions/02-andes/chimu/00-OVERVIEW.md
+      - Inca: regions/02-andes/inca/00-OVERVIEW.md
+      - Muisca: regions/02-andes/muisca/00-OVERVIEW.md
+      - Mapuche: regions/02-andes/mapuche/00-OVERVIEW.md
+    - Amazonia, Caribbean & Lowlands:
+      - Landscape: regions/03-amazonia-caribbean/00-LANDSCAPE.md
+      - Marajoara: regions/03-amazonia-caribbean/marajoara/00-OVERVIEW.md
+      - Taino: regions/03-amazonia-caribbean/taino/00-OVERVIEW.md
+      - Arawak/Lokono: regions/03-amazonia-caribbean/arawak-lokono/00-OVERVIEW.md
+      - Kalinago: regions/03-amazonia-caribbean/kalinago/00-OVERVIEW.md
+      - Tupi-Guarani: regions/03-amazonia-caribbean/tupi-guarani/00-OVERVIEW.md
+      - Kuikuro: regions/03-amazonia-caribbean/kuikuro/00-OVERVIEW.md
+      - Yanomami: regions/03-amazonia-caribbean/yanomami/00-OVERVIEW.md
+      - Wayuu: regions/03-amazonia-caribbean/wayuu/00-OVERVIEW.md
+    - North America:
+      - Landscape: regions/04-north-america/00-LANDSCAPE.md
+      - Cahokia: regions/04-north-america/cahokia/00-OVERVIEW.md
+      - Haudenosaunee: regions/04-north-america/haudenosaunee/00-OVERVIEW.md
+      - Cherokee: regions/04-north-america/cherokee/00-OVERVIEW.md
+      - Muscogee: regions/04-north-america/muscogee/00-OVERVIEW.md
+      - Comanche: regions/04-north-america/comanche/00-OVERVIEW.md
+      - Lakota: regions/04-north-america/lakota/00-OVERVIEW.md
+      - Pueblo: regions/04-north-america/pueblo/00-OVERVIEW.md
+      - Dine (Navajo): regions/04-north-america/dine/00-OVERVIEW.md
+      - Haida & Tlingit: regions/04-north-america/haida-tlingit/00-OVERVIEW.md
+      - Cree: regions/04-north-america/cree/00-OVERVIEW.md
+      - Anishinaabe: regions/04-north-america/anishinaabe/00-OVERVIEW.md
+      - Inuit: regions/04-north-america/inuit/00-OVERVIEW.md
+    - Mediterranean Classical World:
+      - Landscape: regions/05-mediterranean/00-LANDSCAPE.md
+      - Minoan: regions/05-mediterranean/minoan/00-OVERVIEW.md
+      - Mycenaean: regions/05-mediterranean/mycenaean/00-OVERVIEW.md
+      - Phoenician: regions/05-mediterranean/phoenician/00-OVERVIEW.md
+      - Greek City-States: regions/05-mediterranean/greek-city-states/00-OVERVIEW.md
+      - Macedon: regions/05-mediterranean/macedon/00-OVERVIEW.md
+      - Hellenistic Kingdoms: regions/05-mediterranean/hellenistic-kingdoms/00-OVERVIEW.md
+      - Etruscan: regions/05-mediterranean/etruscan/00-OVERVIEW.md
+      - Carthage: regions/05-mediterranean/carthage/00-OVERVIEW.md
+      - Roman: regions/05-mediterranean/roman/00-OVERVIEW.md
+      - Byzantine: regions/05-mediterranean/byzantine/00-OVERVIEW.md
+    - Fertile Crescent & Mesopotamia:
+      - Landscape: regions/06-fertile-crescent/00-LANDSCAPE.md
+      - Sumer: regions/06-fertile-crescent/sumer/00-OVERVIEW.md
+      - Akkad: regions/06-fertile-crescent/akkad/00-OVERVIEW.md
+      - Babylon: regions/06-fertile-crescent/babylon/00-OVERVIEW.md
+      - Assyria: regions/06-fertile-crescent/assyria/00-OVERVIEW.md
+      - Mitanni: regions/06-fertile-crescent/mitanni/00-OVERVIEW.md
+      - Hittites: regions/06-fertile-crescent/hittites/00-OVERVIEW.md
+      - Urartu: regions/06-fertile-crescent/urartu/00-OVERVIEW.md
+      - Arameans: regions/06-fertile-crescent/arameans/00-OVERVIEW.md
+    - Iran & the Persianate World:
+      - Landscape: regions/07-iran-persianate/00-LANDSCAPE.md
+      - Elam: regions/07-iran-persianate/elam/00-OVERVIEW.md
+      - Achaemenid Persia: regions/07-iran-persianate/achaemenid-persia/00-OVERVIEW.md
+      - Parthia: regions/07-iran-persianate/parthia/00-OVERVIEW.md
+      - Sassanid Empire: regions/07-iran-persianate/sassanid/00-OVERVIEW.md
+      - Samanids: regions/07-iran-persianate/samanids/00-OVERVIEW.md
+      - Kurdish Dynasties: regions/07-iran-persianate/kurdish-dynasties/00-OVERVIEW.md
+      - Safavids: regions/07-iran-persianate/safavids/00-OVERVIEW.md
+      - Durrani: regions/07-iran-persianate/durrani/00-OVERVIEW.md
+      - Qajar: regions/07-iran-persianate/qajar/00-OVERVIEW.md
+    - The Islamic Heartlands:
+      - Landscape: regions/08-islamic-heartlands/00-LANDSCAPE.md
+      - Pre-Islamic Arabian: regions/08-islamic-heartlands/pre-islamic-arabian/00-OVERVIEW.md
+      - Rashidun Caliphate: regions/08-islamic-heartlands/rashidun/00-OVERVIEW.md
+      - Umayyad Caliphate: regions/08-islamic-heartlands/umayyad/00-OVERVIEW.md
+      - Abbasid Caliphate: regions/08-islamic-heartlands/abbasid/00-OVERVIEW.md
+      - Fatimid Caliphate: regions/08-islamic-heartlands/fatimid/00-OVERVIEW.md
+      - Almoravids: regions/08-islamic-heartlands/almoravids/00-OVERVIEW.md
+      - Almohads: regions/08-islamic-heartlands/almohads/00-OVERVIEW.md
+      - Ayyubids: regions/08-islamic-heartlands/ayyubids/00-OVERVIEW.md
+      - Mamluks: regions/08-islamic-heartlands/mamluks/00-OVERVIEW.md
+      - Seljuks of Rum: regions/08-islamic-heartlands/seljuks-of-rum/00-OVERVIEW.md
+      - Berber/Amazigh: regions/08-islamic-heartlands/berber-amazigh/00-OVERVIEW.md
+      - Barbary States: regions/08-islamic-heartlands/barbary-states/00-OVERVIEW.md
+      - Ottoman Empire: regions/08-islamic-heartlands/ottoman/00-OVERVIEW.md
+    - Egypt & the Nile Valley:
+      - Landscape: regions/09-egypt-nile/00-LANDSCAPE.md
+      - Predynastic Egypt: regions/09-egypt-nile/predynastic-egypt/00-OVERVIEW.md
+      - Old Kingdom: regions/09-egypt-nile/old-kingdom/00-OVERVIEW.md
+      - Middle Kingdom: regions/09-egypt-nile/middle-kingdom/00-OVERVIEW.md
+      - New Kingdom: regions/09-egypt-nile/new-kingdom/00-OVERVIEW.md
+      - Kingdom of Kush: regions/09-egypt-nile/kingdom-of-kush/00-OVERVIEW.md
+      - Meroe: regions/09-egypt-nile/meroe/00-OVERVIEW.md
+      - Ptolemaic Egypt: regions/09-egypt-nile/ptolemaic-egypt/00-OVERVIEW.md
+      - Roman Egypt: regions/09-egypt-nile/roman-egypt/00-OVERVIEW.md
+      - Coptic Egypt: regions/09-egypt-nile/coptic-egypt/00-OVERVIEW.md
+    - West African Sahel & Savanna:
+      - Landscape: regions/10-west-africa-sahel/00-LANDSCAPE.md
+      - Soninke: regions/10-west-africa-sahel/soninke/00-OVERVIEW.md
+      - Ghana Empire: regions/10-west-africa-sahel/ghana-empire/00-OVERVIEW.md
+      - Mali Empire: regions/10-west-africa-sahel/mali-empire/00-OVERVIEW.md
+      - Songhai Empire: regions/10-west-africa-sahel/songhai-empire/00-OVERVIEW.md
+      - Kanem-Bornu: regions/10-west-africa-sahel/kanem-bornu/00-OVERVIEW.md
+      - Hausa City-States: regions/10-west-africa-sahel/hausa-city-states/00-OVERVIEW.md
+      - Fulani: regions/10-west-africa-sahel/fulani/00-OVERVIEW.md
+      - Wolof: regions/10-west-africa-sahel/wolof/00-OVERVIEW.md
+    - West African Forest & Guinea Coast:
+      - Landscape: regions/11-west-africa-forest/00-LANDSCAPE.md
+      - Nok: regions/11-west-africa-forest/nok/00-OVERVIEW.md
+      - Yoruba/Ife/Oyo: regions/11-west-africa-forest/yoruba-ife-oyo/00-OVERVIEW.md
+      - Benin Kingdom: regions/11-west-africa-forest/benin-kingdom/00-OVERVIEW.md
+      - Igbo: regions/11-west-africa-forest/igbo/00-OVERVIEW.md
+      - Ashanti/Akan: regions/11-west-africa-forest/ashanti-akan/00-OVERVIEW.md
+      - Dahomey: regions/11-west-africa-forest/dahomey/00-OVERVIEW.md
+      - Tiv: regions/11-west-africa-forest/tiv/00-OVERVIEW.md
+    - Central Africa & Kongo World:
+      - Landscape: regions/12-central-africa/00-LANDSCAPE.md
+      - Equatorial Forest Peoples: regions/12-central-africa/equatorial-forest-peoples/00-OVERVIEW.md
+      - Kongo Kingdom: regions/12-central-africa/kongo-kingdom/00-OVERVIEW.md
+      - Teke: regions/12-central-africa/teke/00-OVERVIEW.md
+      - Luba Empire: regions/12-central-africa/luba-empire/00-OVERVIEW.md
+      - Lunda: regions/12-central-africa/lunda/00-OVERVIEW.md
+      - Mangbetu: regions/12-central-africa/mangbetu/00-OVERVIEW.md
+    - East Africa, Horn & Swahili World:
+      - Landscape: regions/13-east-africa-horn/00-LANDSCAPE.md
+      - Axum: regions/13-east-africa-horn/axum/00-OVERVIEW.md
+      - Ethiopian Empire (Zagwe): regions/13-east-africa-horn/ethiopian-empire-zagwe/00-OVERVIEW.md
+      - Ethiopian Empire (Solomonic): regions/13-east-africa-horn/ethiopian-empire-solomonic/00-OVERVIEW.md
+      - Somali Sultanates: regions/13-east-africa-horn/somali-sultanates/00-OVERVIEW.md
+      - Swahili City-States: regions/13-east-africa-horn/swahili-city-states/00-OVERVIEW.md
+      - Buganda: regions/13-east-africa-horn/buganda/00-OVERVIEW.md
+      - Bunyoro: regions/13-east-africa-horn/bunyoro/00-OVERVIEW.md
+      - Rwanda: regions/13-east-africa-horn/rwanda/00-OVERVIEW.md
+      - Burundi: regions/13-east-africa-horn/burundi/00-OVERVIEW.md
+    - Southern Africa:
+      - Landscape: regions/14-southern-africa/00-LANDSCAPE.md
+      - San: regions/14-southern-africa/san/00-OVERVIEW.md
+      - Khoikhoi: regions/14-southern-africa/khoikhoi/00-OVERVIEW.md
+      - Great Zimbabwe: regions/14-southern-africa/great-zimbabwe/00-OVERVIEW.md
+      - Mutapa: regions/14-southern-africa/mutapa/00-OVERVIEW.md
+      - Rozwi: regions/14-southern-africa/rozwi/00-OVERVIEW.md
+      - Shona: regions/14-southern-africa/shona/00-OVERVIEW.md
+      - Ndebele: regions/14-southern-africa/ndebele/00-OVERVIEW.md
+      - Xhosa: regions/14-southern-africa/xhosa/00-OVERVIEW.md
+      - Zulu: regions/14-southern-africa/zulu/00-OVERVIEW.md
+      - Sotho: regions/14-southern-africa/sotho/00-OVERVIEW.md
+      - Tswana: regions/14-southern-africa/tswana/00-OVERVIEW.md
+    - South Asia:
+      - Landscape: regions/15-south-asia/00-LANDSCAPE.md
+      - Indus Valley: regions/15-south-asia/indus-valley/00-OVERVIEW.md
+      - Vedic: regions/15-south-asia/vedic/00-OVERVIEW.md
+      - Maurya: regions/15-south-asia/maurya/00-OVERVIEW.md
+      - Kushan: regions/15-south-asia/kushan/00-OVERVIEW.md
+      - Gupta: regions/15-south-asia/gupta/00-OVERVIEW.md
+      - Pallava: regions/15-south-asia/pallava/00-OVERVIEW.md
+      - Rashtrakuta: regions/15-south-asia/rashtrakuta/00-OVERVIEW.md
+      - Chola: regions/15-south-asia/chola/00-OVERVIEW.md
+      - Rajput: regions/15-south-asia/rajput/00-OVERVIEW.md
+      - Delhi Sultanate: regions/15-south-asia/delhi-sultanate/00-OVERVIEW.md
+      - Vijayanagara: regions/15-south-asia/vijayanagara/00-OVERVIEW.md
+      - Mughal Empire: regions/15-south-asia/mughal/00-OVERVIEW.md
+      - Maratha: regions/15-south-asia/maratha/00-OVERVIEW.md
+      - Sikh Empire: regions/15-south-asia/sikh-empire/00-OVERVIEW.md
+      - Sinhalese: regions/15-south-asia/sinhalese/00-OVERVIEW.md
+    - Tibet & the Himalayan World:
+      - Landscape: regions/16-tibet-himalaya/00-LANDSCAPE.md
+      - Tibetan Empire: regions/16-tibet-himalaya/tibetan-empire/00-OVERVIEW.md
+      - Post-Imperial Tibet: regions/16-tibet-himalaya/post-imperial-tibet/00-OVERVIEW.md
+      - Ganden Phodrang: regions/16-tibet-himalaya/ganden-phodrang/00-OVERVIEW.md
+      - Nepal (Licchavi): regions/16-tibet-himalaya/nepal-licchavi/00-OVERVIEW.md
+      - Nepal (Malla): regions/16-tibet-himalaya/nepal-malla/00-OVERVIEW.md
+      - Nepal (Shah): regions/16-tibet-himalaya/nepal-shah/00-OVERVIEW.md
+      - Bhutan: regions/16-tibet-himalaya/bhutan/00-OVERVIEW.md
+      - Ladakh: regions/16-tibet-himalaya/ladakh/00-OVERVIEW.md
+      - Sikkim: regions/16-tibet-himalaya/sikkim/00-OVERVIEW.md
+    - East Asia:
+      - Landscape: regions/17-east-asia/00-LANDSCAPE.md
+      - Shang: regions/17-east-asia/shang/00-OVERVIEW.md
+      - Zhou: regions/17-east-asia/zhou/00-OVERVIEW.md
+      - Qin: regions/17-east-asia/qin/00-OVERVIEW.md
+      - Han: regions/17-east-asia/han/00-OVERVIEW.md
+      - Tang: regions/17-east-asia/tang/00-OVERVIEW.md
+      - Sui: regions/17-east-asia/sui/00-OVERVIEW.md
+      - Song: regions/17-east-asia/song/00-OVERVIEW.md
+      - Yuan: regions/17-east-asia/yuan/00-OVERVIEW.md
+      - Ming: regions/17-east-asia/ming/00-OVERVIEW.md
+      - Qing: regions/17-east-asia/qing/00-OVERVIEW.md
+      - Gojoseon: regions/17-east-asia/gojoseon/00-OVERVIEW.md
+      - Goguryeo: regions/17-east-asia/goguryeo/00-OVERVIEW.md
+      - Silla: regions/17-east-asia/silla/00-OVERVIEW.md
+      - Goryeo: regions/17-east-asia/goryeo/00-OVERVIEW.md
+      - Joseon: regions/17-east-asia/joseon/00-OVERVIEW.md
+      - Yamato: regions/17-east-asia/yamato/00-OVERVIEW.md
+      - Heian: regions/17-east-asia/heian/00-OVERVIEW.md
+      - Kamakura: regions/17-east-asia/kamakura/00-OVERVIEW.md
+      - Muromachi: regions/17-east-asia/muromachi/00-OVERVIEW.md
+      - Tokugawa: regions/17-east-asia/tokugawa/00-OVERVIEW.md
+      - Ryukyu: regions/17-east-asia/ryukyu/00-OVERVIEW.md
+    - Southeast Asia:
+      - Landscape: regions/18-southeast-asia/00-LANDSCAPE.md
+      - Champa: regions/18-southeast-asia/champa/00-OVERVIEW.md
+      - Khmer: regions/18-southeast-asia/khmer/00-OVERVIEW.md
+      - Srivijaya: regions/18-southeast-asia/srivijaya/00-OVERVIEW.md
+      - Pagan: regions/18-southeast-asia/pagan/00-OVERVIEW.md
+      - Majapahit: regions/18-southeast-asia/majapahit/00-OVERVIEW.md
+      - Dai Viet: regions/18-southeast-asia/dai-viet/00-OVERVIEW.md
+      - Ayutthaya: regions/18-southeast-asia/ayutthaya/00-OVERVIEW.md
+      - Lan Xang: regions/18-southeast-asia/lan-xang/00-OVERVIEW.md
+      - Brunei: regions/18-southeast-asia/brunei/00-OVERVIEW.md
+      - Sulu: regions/18-southeast-asia/sulu/00-OVERVIEW.md
+      - Tondo: regions/18-southeast-asia/tondo/00-OVERVIEW.md
+    - Central & Inner Asia:
+      - Landscape: regions/19-central-inner-asia/00-LANDSCAPE.md
+      - Scythians: regions/19-central-inner-asia/scythians/00-OVERVIEW.md
+      - Sarmatians: regions/19-central-inner-asia/sarmatians/00-OVERVIEW.md
+      - Xiongnu: regions/19-central-inner-asia/xiongnu/00-OVERVIEW.md
+      - "Gök-Türks": regions/19-central-inner-asia/goktürks/00-OVERVIEW.md
+      - Uyghurs: regions/19-central-inner-asia/uyghurs/00-OVERVIEW.md
+      - Khazars: regions/19-central-inner-asia/khazars/00-OVERVIEW.md
+      - Mongol Empire: regions/19-central-inner-asia/mongol-empire/00-OVERVIEW.md
+      - Timurids: regions/19-central-inner-asia/timurids/00-OVERVIEW.md
+      - Uzbek Khanates: regions/19-central-inner-asia/uzbek-khanates/00-OVERVIEW.md
+      - Kazakhs: regions/19-central-inner-asia/kazakhs/00-OVERVIEW.md
+    - Western Christendom:
+      - Landscape: regions/20-western-christendom/00-LANDSCAPE.md
+      - Celts: regions/20-western-christendom/celts/00-OVERVIEW.md
+      - Anglo-Saxons: regions/20-western-christendom/anglo-saxons/00-OVERVIEW.md
+      - Carolingians/Franks: regions/20-western-christendom/carolingians-franks/00-OVERVIEW.md
+      - Holy Roman Empire: regions/20-western-christendom/holy-roman-empire/00-OVERVIEW.md
+      - Papal States: regions/20-western-christendom/papal-states/00-OVERVIEW.md
+      - Norman Kingdoms: regions/20-western-christendom/norman-kingdoms/00-OVERVIEW.md
+      - Plantagenet England: regions/20-western-christendom/plantagenet-england/00-OVERVIEW.md
+      - Capetian France: regions/20-western-christendom/capetian-france/00-OVERVIEW.md
+      - Castile & Leon: regions/20-western-christendom/castile-and-leon/00-OVERVIEW.md
+      - Aragon: regions/20-western-christendom/aragon/00-OVERVIEW.md
+      - Portugal: regions/20-western-christendom/portugal/00-OVERVIEW.md
+      - Italian City-States: regions/20-western-christendom/italian-city-states/00-OVERVIEW.md
+      - Basques: regions/20-western-christendom/basques/00-OVERVIEW.md
+    - Northern & Eastern Europe:
+      - Landscape: regions/21-northern-eastern-europe/00-LANDSCAPE.md
+      - Norse/Vikings: regions/21-northern-eastern-europe/norse-vikings/00-OVERVIEW.md
+      - Danes: regions/21-northern-eastern-europe/danes/00-OVERVIEW.md
+      - Swedes: regions/21-northern-eastern-europe/swedes/00-OVERVIEW.md
+      - Icelanders: regions/21-northern-eastern-europe/icelanders/00-OVERVIEW.md
+      - Sami: regions/21-northern-eastern-europe/sami/00-OVERVIEW.md
+      - Finns: regions/21-northern-eastern-europe/finns/00-OVERVIEW.md
+      - Balts: regions/21-northern-eastern-europe/balts/00-OVERVIEW.md
+      - Magyars: regions/21-northern-eastern-europe/magyars/00-OVERVIEW.md
+      - Bulgars: regions/21-northern-eastern-europe/bulgars/00-OVERVIEW.md
+      - Serbs: regions/21-northern-eastern-europe/serbs/00-OVERVIEW.md
+      - Czechs/Bohemia: regions/21-northern-eastern-europe/czechs-bohemia/00-OVERVIEW.md
+      - Polish-Lithuanian Commonwealth: regions/21-northern-eastern-europe/polish-lithuanian-commonwealth/00-OVERVIEW.md
+      - Kievan Rus: regions/21-northern-eastern-europe/kievan-rus/00-OVERVIEW.md
+      - Muscovy/Russia: regions/21-northern-eastern-europe/muscovy-russia/00-OVERVIEW.md
+      - Cossacks: regions/21-northern-eastern-europe/cossacks/00-OVERVIEW.md
+    - Oceania & the Pacific World:
+      - Landscape: regions/22-oceania-pacific/00-LANDSCAPE.md
+      - Lapita: regions/22-oceania-pacific/lapita/00-OVERVIEW.md
+      - Aboriginal Australians: regions/22-oceania-pacific/aboriginal-australians/00-OVERVIEW.md
+      - Melanesian Peoples (Papua New Guinea): regions/22-oceania-pacific/melanesian-peoples-papua-new-guinea/00-OVERVIEW.md
+      - Melanesian Peoples (Fiji/Vanuatu/Solomons): regions/22-oceania-pacific/melanesian-peoples-fiji-vanuatu-solomons/00-OVERVIEW.md
+      - Tongan Navigators: regions/22-oceania-pacific/tongan-navigators/00-OVERVIEW.md
+      - Samoan Navigators: regions/22-oceania-pacific/samoan-navigators/00-OVERVIEW.md
+      - Micronesian Peoples: regions/22-oceania-pacific/micronesian-peoples/00-OVERVIEW.md
+      - Hawaiian People: regions/22-oceania-pacific/hawaiian-people/00-OVERVIEW.md
+      - Rapa Nui: regions/22-oceania-pacific/rapa-nui/00-OVERVIEW.md
+      - Maori: regions/22-oceania-pacific/maori/00-OVERVIEW.md
   - The Crossroads:
-    - The Americas Reborn: regions/23-americas-reborn/00-LANDSCAPE.md
-    - Colonial Empires & Systems: regions/24-colonial-empires/00-LANDSCAPE.md
-    - Diasporas & Dispersed Peoples: regions/25-diasporas/00-LANDSCAPE.md
-    - The Pacific Century: regions/26-pacific-century/00-LANDSCAPE.md
+    - The Americas Reborn:
+      - Landscape: regions/23-americas-reborn/00-LANDSCAPE.md
+      - Haiti: regions/23-americas-reborn/haiti/00-OVERVIEW.md
+      - United States: regions/23-americas-reborn/united-states/00-OVERVIEW.md
+      - Mexico: regions/23-americas-reborn/mexico/00-OVERVIEW.md
+      - Canada: regions/23-americas-reborn/canada/00-OVERVIEW.md
+      - Cuba: regions/23-americas-reborn/cuba/00-OVERVIEW.md
+      - Jamaica: regions/23-americas-reborn/jamaica/00-OVERVIEW.md
+      - Colombia: regions/23-americas-reborn/colombia/00-OVERVIEW.md
+      - Peru: regions/23-americas-reborn/peru/00-OVERVIEW.md
+      - Brazil: regions/23-americas-reborn/brazil/00-OVERVIEW.md
+      - Argentina: regions/23-americas-reborn/argentina/00-OVERVIEW.md
+    - Colonial Empires & Systems:
+      - Landscape: regions/24-colonial-empires/00-LANDSCAPE.md
+      - Portuguese Empire: regions/24-colonial-empires/portuguese-empire/00-OVERVIEW.md
+      - Spanish Empire: regions/24-colonial-empires/spanish-empire/00-OVERVIEW.md
+      - Dutch Empire: regions/24-colonial-empires/dutch-empire/00-OVERVIEW.md
+      - French Empire: regions/24-colonial-empires/french-empire/00-OVERVIEW.md
+      - British Empire: regions/24-colonial-empires/british-empire/00-OVERVIEW.md
+    - Diasporas & Dispersed Peoples:
+      - Landscape: regions/25-diasporas/00-LANDSCAPE.md
+      - Jewish Diaspora: regions/25-diasporas/jewish-diaspora/00-OVERVIEW.md
+      - African Diaspora: regions/25-diasporas/african-diaspora/00-OVERVIEW.md
+      - Armenian Diaspora: regions/25-diasporas/armenian-diaspora/00-OVERVIEW.md
+      - Romani People: regions/25-diasporas/romani-people/00-OVERVIEW.md
+      - Chinese Overseas: regions/25-diasporas/chinese-overseas/00-OVERVIEW.md
+      - Indian Overseas: regions/25-diasporas/indian-overseas/00-OVERVIEW.md
+    - The Pacific Century:
+      - Landscape: regions/26-pacific-century/00-LANDSCAPE.md
+      - Post-Meiji Japan: regions/26-pacific-century/post-meiji-japan/00-OVERVIEW.md
+      - Peoples Republic of China: regions/26-pacific-century/peoples-republic-of-china/00-OVERVIEW.md
+      - Republic of China (Taiwan): regions/26-pacific-century/republic-of-china/00-OVERVIEW.md
+      - Modern Korea (South): regions/26-pacific-century/modern-korea-south/00-OVERVIEW.md
+      - Modern Korea (North): regions/26-pacific-century/modern-korea-north/00-OVERVIEW.md
