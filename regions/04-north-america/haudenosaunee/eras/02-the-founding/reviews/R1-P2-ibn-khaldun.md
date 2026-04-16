@@ -1,0 +1,16 @@
+## P-2 — Ibn Khaldun — Review of The Founding (Kaianere'kó:wa) Opening
+
+**Overall:** This opening identifies the correct structural mechanism — the Mourning War cycle as a self-reinforcing system with no internal exit — and presents the Great Law as the institutional solution. The explanatory depth is present in the opening. The question is whether the full chapter will sustain it.
+
+**What works:**
+- The Mourning War cycle is described as a system, not merely as a practice. "A woman loses her son. The clan sends warriors to take a captive to replace the son. The captive's clan sends warriors to avenge the taking." This is causal reasoning presented as narrative. Each step produces the conditions for the next. This is precisely how structural analysis should be embedded in a LUCIA chapter — through the logic of the cycle itself, not through commentary upon it.
+- The Peacemaker's solution addresses the structural root, not the symptom. He does not propose stronger warriors or better defenses. He proposes a change to the system's logic: replace captive-taking with condolence, replace fragmented sovereignty with federated governance. The opening conveys this without explaining it in academic terms.
+- The offer of the central fire to Atotarho reveals an understanding of political incentive structures. The most resistant party is brought into the coalition not by coercion but by being given the most prestigious position within it. This is coalition-building of the highest order, and it is presented as a political act, not a mythological one.
+
+**What doesn't:**
+- The ecological and demographic context is absent. WHY were the five nations locked in the Mourning War cycle at this particular moment? What conditions — population pressure, resource competition, the epidemiological stress of pre-contact northeastern woodlands — created the crisis from which the Great Law emerged? The opening tells us WHAT the crisis was but not WHY it existed when and where it did. The full chapter must address this.
+- The condolence ceremony's institutional function is described but its mechanism is not. HOW does the ceremony clear the mind for governance? What is the sequence? What role does each participant play? The opening gestures at this, but the full chapter needs to show the condolence ceremony as a political technology, not merely a ritual.
+- The relationship between the longhouse as dwelling and the longhouse as political metaphor is stated but not developed. In my experience, the strongest political institutions are those where the metaphor and the physical reality reinforce each other. The full chapter should explore how the actual architecture of the longhouse shaped the conceptual architecture of the confederacy.
+
+**The question I'd push on:**
+What are the structural conditions that made the Great Law possible? The Peacemaker and Aiionwatha are presented as the agents of change, but agents operate within conditions. What was happening in the northeastern woodlands between 1300 and 1450 CE that made five nations receptive to a proposal that must have seemed, before it succeeded, radical? Without this structural context, the founding risks being presented as a miracle of individual genius rather than an institutional response to a systemic crisis.
