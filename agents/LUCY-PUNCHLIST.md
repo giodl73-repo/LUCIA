@@ -28,9 +28,9 @@
 
 ## HIGH PRIORITY (this session, remaining)
 - [ ] Run cross-compare R2 (39 chapters, 31 since R1)
-- [ ] Innovation threshold check: multiple dimensions have 2+ innovations — rubric v1.4 amendments needed
-- [ ] Adopt rubric v1.4 — Voice Spectrum amendment (now 15+ voice types confirmed)
-- [ ] Adopt rubric v1.4/v1.5 — Book-Level Arc amendment (3 instances: Mali, Inca, Rome)
+- [x] Innovation threshold check: Voice (16 instances) and Book-Level Arc (3 instances) exceeded
+- [x] Adopt rubric v1.4 — Voice Spectrum amendment (16+ voice types catalogued)
+- [x] Adopt rubric v1.4 — Book-Level Arc amendment (Mali, Inca, Rome)
 - [ ] Commit session 2 housekeeping
 
 ## NEXT CANDIDATES
@@ -48,7 +48,7 @@
 | Complete books | 3 (Mali, Inca, Rome) |
 | Regions with chapters | 19 / 26 |
 | Peoples with chapters | 27 / 259 |
-| Rubric version | v1.3 (v1.4 pending) |
+| Rubric version | v1.4 |
 | Mean score | ~79.8 / 90 |
 | Board reviewers | 82 |
 | Voice types confirmed | 15+ |

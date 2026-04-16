@@ -192,7 +192,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The Style Guide's steppe voice description ("short bursts, forward motion, space between the sentences") was untested at chapter length. This chapter sustains the steppe register for 4,558 words without a single lapse into textbook, court, or oral-tradition voice. The technique: short declarative sentences for action and events, slightly longer (but still paratactic) sentences for institutional explanation, and deliberate avoidance of em-dashes (0 in the full chapter) because the steppe voice's rhythm is built on periods and commas, not on parenthetical insertions. The zero-em-dash count is not a rule but an emergent property of the voice done right.
 - **Why it works:** Confirms that the Style Guide's steppe voice description works at full chapter length, not just in passages. The voice is sustained through both narrative scenes (the childhood, the Jamukha rivalry) and analytical sections (the decimal system, the yasa) by treating institutional explanation as action rather than exposition. "The yasa said: protect merchants. The yasa said: do not foul running water." is institutional content delivered in steppe rhythm. This validates the Voice Spectrum section for the steppe/nomadic category and establishes a benchmark for future steppe chapters (Scythian, Turkic, Comanche, Bedouin).
-- **Status:** logged (1 instance -- first test of steppe voice at chapter length)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Maritime Voice Sustained at Chapter Length
 - **Source:** regions/22-oceania-pacific/tongan-navigators/eras/02-the-great-expansion/
@@ -200,7 +200,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The Style Guide's maritime voice description ("rolling rhythms, pull and release, like tide and swell") was untested at chapter length. This chapter sustains the maritime register for 4,744 words. The technique: long gathering sentences that crest with accumulated clauses and settle into short declarative resolutions. "The songs were the charts. The body was the instrument. The ocean was the world." The rhythm mirrors the swell patterns the navigator reads. Zero em-dashes in the chapter; the maritime voice's rhythm is built on commas and conjunctions, the connective tissue of waves running into each other, not on the sharp pause of the em-dash.
 - **Why it works:** Confirms that the Style Guide's maritime voice description works at chapter length, not just in the sample passage. The voice sustains through both sensory scenes (the hull, the night sky, the lagoon arrival) and analytical sections (the prestige-exchange system, the Tu'i Tonga's mana) by treating political explanation as oceanic movement rather than as static description. The rolling rhythm carries institutional analysis without breaking the spell. This validates the Voice Spectrum for the maritime category and establishes a benchmark for future maritime chapters (Phoenician, Swahili coast, Norse, Malay).
-- **Status:** logged (1 instance -- first test of maritime voice at chapter length; pairs with Steppe Voice innovation for second voice-spectrum test)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Body-as-Instrument Knowledge System Rendering
 - **Source:** regions/22-oceania-pacific/tongan-navigators/eras/02-the-great-expansion/
@@ -248,7 +248,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The Inca book sustains a voice register that moves through altitude zones the way the culture moved through its world. Prose ascends from valley to puna and descends from sky to earth. The rhythm is deliberate, weight-bearing, shaped by thin air and long distances. The ecological structure of the vertical archipelago becomes the prose's structural principle: multiple things operating at multiple altitudes simultaneously, the layering of the ecology reflected in the layering of the sentences. This register is sustained across all five eras.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: mountain/vertical cultures. The steppe voice (short, forward, relentless) and the maritime voice (rolling, gathering, cresting) have now been joined by the vertical voice (ascending, descending, layered, weight-bearing). The register is inseparable from the Inca's defining geographical feature. This establishes a voice benchmark for other Andean and mountain cultures.
-- **Status:** logged (1 instance — first test of vertical voice at book length; pairs with steppe and maritime voice tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Information-System Failure as Structural Engine
 - **Source:** regions/02-andes/inca/eras/04-huayna-capacs-empire/
@@ -272,7 +272,7 @@ they trigger a rubric amendment.
 - **Dimension:** Progression
 - **Description:** The Inca book sustains a five-era arc driven by three structural threads (mit'a, vertical archipelago, quipu) that are planted in Era 1, scaled in Era 2, tested in Era 3, stressed in Era 4, and broken/preserved in Era 5. The closing of Era 5 returns to the opening images of Era 1 (Lake Titicaca, the golden staff, the puna, the wool), completing a circle. This is the second instance of a book-level structural engine (after Mali), confirming that the technique is replicable across cultures with fundamentally different organizing principles.
 - **Why it works:** The Mali book used the Kurukan Fuga's self-consuming redistribution logic as its through-line. The Inca book uses the quipu's relationship between record and recorder as its through-line. Both sustain across five eras, both close by returning to their opening terms, and both let the culture's own persistence mechanism deliver the final note (the jelilu still singing; the quipu still holding). The second instance confirms the technique is not specific to Mali but generalizable to any multi-era book with a culture-specific structural thread.
-- **Status:** logged (second instance of book-level arc — first was Mali; triggers consideration for amendment)
+- **Status:** adopted (v1.4)
 
 ### Innovation: Oral-Tradition Voice Sustained at Chapter Length (Second Deep-Time Instance)
 - **Source:** regions/22-oceania-pacific/aboriginal-australians/eras/01-the-arriving/
@@ -280,7 +280,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The Style Guide's oral-tradition voice description ("cadence of the spoken word, repetition as structure, proverb-weight sentences") was tested in the San chapter and is now confirmed at chapter length in a second deep-time culture. The Aboriginal chapter sustains the oral-tradition register for 4,610 words with zero em-dashes. The technique: anaphoric repetition ("It is in the country. It is in the song. It is in the kinship system..."), short declarative sentences that carry the weight of carved statements, and a walking rhythm that mirrors the Songline walk itself. The voice is spare, patient, and close to Country.
 - **Why it works:** Confirms that the oral-tradition voice works for a second deep-time culture, with a different rhythmic quality (the San chapter's rhythm was fire-and-dance; this chapter's rhythm is walking-and-singing). The two chapters together validate the Voice Spectrum for the oral-tradition category. This is the second voice-spectrum validation after the steppe and maritime tests.
-- **Status:** logged (second instance of oral-tradition voice at chapter length; pairs with San for voice-spectrum validation)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Hydraulic Voice — Water as Prose Medium
 - **Source:** regions/18-southeast-asia/khmer/eras/classical-angkor/
@@ -288,7 +288,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The chapter sustains a voice register built on hydraulic rhythm: sentences that gather, hold, and release. The prose moves like water through channels — long cumulative sentences that build pressure through serial clauses ("and the kingdom built the barays, and the barays held the rain, and the cycle turned on itself like a wheel"), interspersed with short declarative stops ("They held it"). Zero em-dashes in 4,705 words. The voice is controlled, monumental, and patient — the rhythm of water held in a reservoir, not water flowing freely. This is distinct from the maritime voice (rolling, cresting) and the steppe voice (short, forward); the hydraulic voice pools and distributes.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: hydraulic/monumental cultures. The voice is inseparable from the structural engine (water as the mechanism of the state). The cumulative sentence structure mirrors the baray's function: gathering, holding, distributing. The technique will apply to other cultures where a single infrastructure (canal, road, wall) defines the state's relationship to its landscape.
-- **Status:** logged (1 instance — first test of hydraulic voice at chapter length; pairs with steppe, maritime, oral-tradition, and vertical voice tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Water as Structural Engine
 - **Source:** regions/18-southeast-asia/khmer/eras/classical-angkor/
@@ -312,7 +312,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The chapter sustains a Talmudic voice register for 5,181 words with zero em-dashes. The technique: accumulative sentences that mirror the sugya's method (one question opening the next), short declarative statements for halakhic rulings, longer gathering sentences for argumentative chains. The voice is dense, questioning, perpetually unfinished, and argument-as-structure. The rhythm mirrors the Gemara's own shakla v'tarya (give and take). This voice is distinct from all previously tested registers: it is neither spare (steppe) nor rolling (maritime) nor repetitive (oral-tradition) nor ascending (vertical/Andean) nor hydraulic (Khmer). It is argumentative, layered, and cumulative, the voice of a civilization that made sustained intellectual debate its defining activity.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: text-centered/argumentative cultures. The Talmudic voice's accumulative rhythm ("and this raised the question... and this question...") is inseparable from the culture's method and cannot be used for any other culture's story. Validates that the Voice Spectrum concept can accommodate intellectual/argumentative cultures alongside kinesthetic (maritime), action-oriented (steppe), and performative (oral-tradition) registers.
-- **Status:** logged (1 instance — first test of argumentative/text-centered voice at chapter length; extends voice-spectrum tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Page-as-Scene (Non-Geographic Opening)
 - **Source:** regions/25-diasporas/jewish-diaspora/eras/03-the-talmud/
@@ -328,7 +328,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The chapter sustains an administrative-yet-mythic voice register for 4,548 words with zero em-dashes. The technique: accumulative sentences that build like account entries (item by item, layer by layer), short declarative theological statements ("These were not symbols. The god was present."), and a sedimentary rhythm that mirrors both the alluvial deposits of the plain and the layers of a tablet archive. The voice belongs to a culture that kept meticulous records of the gods' grain and then used the same system to ask whether death was the end. The prose is heavy, wet, specific — the weight of clay. This register is distinct from steppe (spare, forward), maritime (rolling, cresting), oral-tradition (cadenced, repetitive), vertical (ascending, layered), and hydraulic (pooling, distributing). The sedimentary voice deposits.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: temple-economy/administrative cultures. The voice is inseparable from the structural engine (clay as medium): the accumulative sentence structure mirrors the tablet archive's growth, and the theological declarations mirror the accounting tablets' certainty. The technique will apply to other cultures where administrative record-keeping and religious authority are fused (Egyptian temple economy, Ur III state, Shang oracle bones).
-- **Status:** logged (1 instance — first test of sedimentary/administrative voice at chapter length; pairs with steppe, maritime, oral-tradition, vertical, and hydraulic voice tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Recording-as-Persistence Structural Engine
 - **Source:** regions/06-fertile-crescent/sumer/eras/01-when-kingship-came-down/
@@ -344,7 +344,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The chapter sustains a monument/stone voice register for 5,512 words with zero em-dashes. The technique: heavy, weight-bearing sentences that accumulate like courses of limestone. The prose rhythm is cyclical, returning to the Nile flood the way the flood returns annually, building through repetition and accretion rather than through forward drive (steppe) or rolling swell (maritime). Short declarative sentences carry theological weight ("Ma'at holds. Build."), while longer sentences build in serial clauses that mirror the construction process itself ("and if ma'at weakened, then the flood might not come, and if the flood did not come, then the black earth would not be renewed, and the grain would not grow"). The voice is distinct from all previously tested registers: it is gravitational, placed, and certain — the voice of a culture that built in stone because stone was permanent.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: monument-building/stone cultures. The register's accumulative-cyclical rhythm is inseparable from the pyramid's construction method (course upon course, season upon season) and from the theology (the flood cycle as proof of cosmic order). The zero em-dash count is an emergent property: the stone voice's certainty does not pause or qualify, because ma'at does not pause or qualify. This validates the Voice Spectrum concept for yet another cultural type and establishes a benchmark for other monumental cultures.
-- **Status:** logged (1 instance — first test of monument/stone voice at chapter length; extends voice-spectrum tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Cosmological Feedback Loop as Reversible Structural Engine
 - **Source:** regions/09-egypt-nile/old-kingdom/eras/03-the-great-pyramids/
@@ -368,7 +368,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The Style Guide's urban/market voice description ("density, overlap, voices, the sound of a crowd") was untested at chapter length for a culture where intellectual density replaces market-crowd density. This chapter sustains the urban/scholarly register for 5,199 words with zero em-dashes. The technique: accumulative sentences that layer detail upon detail the way a city layers sound upon sound, longer sentence structures that carry multiple concurrent ideas the way a market carries multiple concurrent transactions, and a density of specific names, texts, and practices that mirrors the density of a city where knowledge was currency. The scholarly sections have a different quality from the market sections (intellectual concentration vs. commercial bustle) but both share the urban voice's fundamental character: packed, overlapping, never sparse.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into the urban/scholarly subcategory. The steppe voice (short, forward), maritime voice (rolling, cresting), oral-tradition voice (repetitive, carved), vertical voice (ascending, weight-bearing), hydraulic voice (gathering, distributing), argumentative voice (questioning, cumulative), sedimentary voice (depositing, administrative-mythic), and monument voice (gravitational, cyclical) have now been joined by the urban/scholarly voice (dense, layered, overlapping). This register is inseparable from Baghdad's character as a city where ideas had market value. The zero em-dash count is an emergent property: the urban voice's rhythm is built on commas and conjunctions, not on parenthetical pauses.
-- **Status:** logged (1 instance -- first test of urban/scholarly voice at chapter length; extends voice-spectrum tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Legal-Mathematical Practice as Disciplinary Depth (Second Instance)
 - **Source:** regions/08-islamic-heartlands/abbasid/eras/02-the-golden-age/
@@ -392,7 +392,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The chapter sustains an inscriptional voice register for 4,558 words with zero em-dashes. The technique: sentences that build like stone courses, accumulative and precise, layered with specific detail (dates, names, materials) the way a stela is layered with glyph blocks. The rhythm is deliberate and measured, neither spare (steppe) nor rolling (maritime) nor repetitive (oral-tradition) nor ascending (vertical) nor hydraulic (Khmer). It is carved: each sentence feels placed rather than spoken. The voice belongs to a culture of sculptors and scribes whose medium was stone, paint, and stucco. The zero em-dash count is an emergent property: the inscriptional voice builds through commas and conjunctions, not through parenthetical interruptions, because inscriptions do not pause mid-glyph-block.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into the inscriptional/architectural category. The Maya voice is inseparable from the chapter's structural engine (inscription-as-reality) and from the culture's material medium (carved limestone). The register sustains through both narrative scenes (bloodletting, burial) and analytical passages (the star-war system, the collapse) without breaking. This validates the Voice Spectrum concept for cultures where the primary knowledge medium is carved stone rather than voice (oral-tradition), paper (text-centered), or body (kinesthetic).
-- **Status:** logged (1 instance -- first test of inscriptional voice at chapter length; extends voice-spectrum tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Dual-Medium Persistence Close (Second Instance)
 - **Source:** regions/01-mesoamerica/maya/eras/03-the-late-classic-flowering/
@@ -408,7 +408,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The Roman book sustains a legal-public voice register across all five eras (approximately 24,500 words total). The technique: declarative sentences that close like legal pronouncements, measured rhythm shaped by the Forum's acoustics, the weight of inscription. The voice progressively transforms across the book: expanded in Era 1 (the Republic being built), weighted with military urgency in Era 2 (the Punic Wars), compressed under crisis in Era 3 (the late Republic), expanded again with the stability of marble in Era 4 (the principate), and transformed into the basilica's acoustics in Era 5 (the Christian transformation). The progressive transformation of the voice across eras is itself a narrative technique: the reader feels the Republic's arc in the prose rhythm before understanding it analytically.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: legal/civic/forum cultures. The voice is inseparable from the culture's defining institution (the Forum as acoustic space for public speech and law). The progressive transformation across five eras proves that a single voice register can carry a full book while evolving to match each era's character. This is distinct from the vertical voice (Inca) which maintained a consistent register. The Roman voice transforms because the culture transformed, and the transformation is carried in the prose.
-- **Status:** logged (1 instance — first test of legal-public voice at book length; extends voice-spectrum tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Institutional Machinery as Structural Engine
 - **Source:** regions/05-mediterranean/roman/eras/01-kingdom-and-republics-birth/ through eras/03-late-republic-crisis/
@@ -424,7 +424,7 @@ they trigger a rubric amendment.
 - **Dimension:** Progression
 - **Description:** The Roman book sustains a five-era arc driven by four structural threads (res publica, libertas vs. imperium, mos maiorum, the law) planted in Era 1 and traced through all five eras. The closing of Era 5 returns to every image from Era 1 (the Forum, the geese, the augures, the consul, the tribune, the Twelve Tables) and shows what survived and what did not. The law is identified as the Roman persistence mechanism, the equivalent of the Mali jelilu and the Inca quipu. This is the third instance of a book-level structural engine (after Mali and Inca).
 - **Why it works:** The Mali book used the Kurukan Fuga's redistribution logic. The Inca book used the quipu's record-recorder relationship. The Roman book uses the law's public character as its through-line. All three sustain across five eras, all close by returning to their opening terms, and all let the culture's own persistence mechanism deliver the final note (the jelilu still singing; the quipu still holding; the law still holding). The third instance confirms the technique as a general pattern for multi-era books: find the culture's own persistence mechanism and make it the book's through-line.
-- **Status:** logged (third instance of book-level arc — triggers consideration for amendment)
+- **Status:** adopted (v1.4)
 
 ### Innovation: River Voice Sustained at Chapter Length
 - **Source:** regions/10-west-africa-sahel/songhai-empire/eras/02-the-river-war/
@@ -432,7 +432,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** The chapter sustains a river voice register for 4,508 words with zero em-dashes. The technique: forward-moving sentences that gather momentum through accumulated clauses like a current gathering tributaries, punctuated by short declarative stops where the current hits a bend. The rhythm is neither spare (steppe) nor rolling (maritime) nor repetitive (oral-tradition) nor ascending (vertical) nor hydraulic (pooling, distributing). It is directional, weight-bearing, and steady, the voice of a current that carries everything downstream. The register sustains through both narrative scenes (canoes at dawn, the siege of Djenne, death on the water) and analytical sections (the river-control loop, the scholar-tension) without breaking. The river voice carries institutional analysis the way the river carries cargo: steadily, without stopping, in one direction.
 - **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: river/riverine cultures. The voice is inseparable from the structural engine (river-control loop) and from the culture's defining geographic feature (the Niger). The technique will apply to other river-based cultures (Nile kingdoms, Mekong polities, Mississippian cultures) where the river is both the medium of power and the organizing principle of the state. The register is distinct from the hydraulic voice (Khmer), which pools and distributes; the river voice flows and carries.
-- **Status:** logged (1 instance -- first test of river voice at chapter length; extends voice-spectrum tests)
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Legitimacy-Gap as Structural Engine Terminal Condition
 - **Source:** regions/10-west-africa-sahel/songhai-empire/eras/02-the-river-war/
@@ -552,7 +552,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** New voice register validated at chapter length. Understatement as structural principle. Short declarative default, proverb-weight sentences spaced carefully, laconic emotional register where "he took that badly" = violence is coming. Distinct from steppe (more deliberate, stops to look), maritime (flatter, drier), oral tradition (cooler, records rather than performs).
 - **Why it works:** Extends Voice Spectrum into saga/Nordic category. The register's understatement naturally produces the Honesty discipline without enforcement.
-- **Status:** logged
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Maritime Accumulative Voice Sustained at Chapter Length
 - **Source:** regions/13-east-africa-horn-and-swahili-world/swahili-city-states/eras/02-the-classic-swahili-period/
@@ -560,7 +560,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** New voice register: rolling, gathering clauses like swells building, breaking into short declarative sentences like waves landing. Distinct from existing maritime voice (Tongan) because the Swahili register makes the rhythm do analytical work — trade calculations, information asymmetry, structural tension all delivered in the accumulative-then-breaking register.
 - **Why it works:** Extends Voice Spectrum with a maritime variant that carries both atmosphere and argument. The monsoon cycle becomes the temporal structure of the prose itself.
-- **Status:** logged
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Anonymous Builder as Framing Device
 - **Source:** regions/13-east-africa-horn-and-swahili-world/swahili-city-states/eras/02-the-classic-swahili-period/
@@ -592,7 +592,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** New voice register: moves at the speed of careful thought. Long accumulative sentences build meaning clause by clause, the way a translation builds vocabulary. No separation between intellectual and devotional registers. Silence between sentences mirrors silence between syllables in a translation session.
 - **Why it works:** Extends Voice Spectrum into contemplative/translation cultures. First voice where the pace of thought IS the prose's defining rhythm.
-- **Status:** logged
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Self-Consuming Patron Logic
 - **Source:** regions/16-tibet-and-the-himalayan-world/post-imperial-tibet/eras/02-the-western-revival/
@@ -608,7 +608,7 @@ they trigger a rubric amendment.
 - **Dimension:** Voice
 - **Description:** New voice register: edict-inscriptional. Opening with the primary source text itself (Rock Edict 13) as the chapter's first lines. The physical medium of inscription as the structural principle of the prose. Declarative, weighted, carved. Modulates across war (kinetic), policy (enumerative), stone (material-descriptive), and landing (elegiac).
 - **Why it works:** First voice where the culture's own inscriptional medium becomes the narrator's register. Zero em-dashes is a natural property — inscriptional prose does not interrupt itself.
-- **Status:** logged
+- **Status:** adopted (v1.4 — Voice Spectrum)
 
 ### Innovation: Stone Paradox as Structural Engine
 - **Source:** regions/15-south-asia/maurya/eras/03-ashokas-conquest-and-turn/
@@ -628,3 +628,5 @@ they trigger a rubric amendment.
 | v1.1 | 2026-04-15 | Culture's Own Persistence as Close | Mali, Haudenosaunee | Landing |
 | v1.2 | 2026-04-15 | Inside-Voice Honesty | Mali Eras 2, 4, 5 | Honesty |
 | v1.3 | 2026-04-15 | Knowledge-System-as-Evidence | Tang, Mali Era 4, Tongan | Evidence |
+| v1.4 | 2026-04-16 | Voice Spectrum | 16 voice types across 27 cultures | Voice |
+| v1.4 | 2026-04-16 | Book-Level Arc | Mali, Inca, Rome (3 complete books) | Progression |
