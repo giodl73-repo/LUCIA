@@ -282,6 +282,46 @@ they trigger a rubric amendment.
 - **Why it works:** Confirms that the oral-tradition voice works for a second deep-time culture, with a different rhythmic quality (the San chapter's rhythm was fire-and-dance; this chapter's rhythm is walking-and-singing). The two chapters together validate the Voice Spectrum for the oral-tradition category. This is the second voice-spectrum validation after the steppe and maritime tests.
 - **Status:** logged (second instance of oral-tradition voice at chapter length; pairs with San for voice-spectrum validation)
 
+### Innovation: Hydraulic Voice — Water as Prose Medium
+- **Source:** regions/18-southeast-asia/khmer/eras/classical-angkor/
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The chapter sustains a voice register built on hydraulic rhythm: sentences that gather, hold, and release. The prose moves like water through channels — long cumulative sentences that build pressure through serial clauses ("and the kingdom built the barays, and the barays held the rain, and the cycle turned on itself like a wheel"), interspersed with short declarative stops ("They held it"). Zero em-dashes in 4,705 words. The voice is controlled, monumental, and patient — the rhythm of water held in a reservoir, not water flowing freely. This is distinct from the maritime voice (rolling, cresting) and the steppe voice (short, forward); the hydraulic voice pools and distributes.
+- **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: hydraulic/monumental cultures. The voice is inseparable from the structural engine (water as the mechanism of the state). The cumulative sentence structure mirrors the baray's function: gathering, holding, distributing. The technique will apply to other cultures where a single infrastructure (canal, road, wall) defines the state's relationship to its landscape.
+- **Status:** logged (1 instance — first test of hydraulic voice at chapter length; pairs with steppe, maritime, oral-tradition, and vertical voice tests)
+
+### Innovation: Water as Structural Engine
+- **Source:** regions/18-southeast-asia/khmer/eras/classical-angkor/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter identifies the hydraulic cycle (water → rice → people → temples → legitimacy → labor → water) as the structural engine of the Angkor state and makes this cycle the narrative's organizing principle. Each section reveals a new dimension of the water-state relationship: the founding ritual (Section I), the temple-baray pairing (Section II), the monumental expression (Section III), the daily functioning (Section IV), the Buddhist translation (Section V), and the thinning that comes when the cycle slows (Section VI). The structural engine is not a covenant (Mali), a psychological mechanism (Haudenosaunee), a knowledge system (Tang/San), a material medium (Benin), a system-as-machine (Mongol), or a network logic (Tongan). It is a resource cycle: a closed loop of labor, water, food, and legitimacy.
+- **Why it works:** A new structural engine type that extends the v1.1 amendment into the domain of resource-cycle states. The engine's specific mechanism — the self-reinforcing loop where water control generates the surplus that generates the labor that maintains the water control — is the chapter's analytical argument. The terminal condition (climate stress + infrastructure aging breaking the loop) follows naturally from the engine's logic without requiring a verdict.
+- **Status:** logged (extends adopted v1.1 Progression innovation into new category)
+
+### Innovation: Text-as-Homeland Structural Engine
+- **Source:** regions/25-diasporas/jewish-diaspora/eras/03-the-talmud/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter identifies the Talmudic argument itself as the structural engine: the text is simultaneously the method, the content, the community structure, and the portable homeland. The engine's logic (Temple destroyed, sacrifice impossible, prayer replaces sacrifice, rabbi replaces priest, text replaces territory, argument replaces authority) drives the arc as a chain of creative substitutions, each making the next necessary. This is a new engine type: not a covenant (Mali), not a psychological mechanism (Haudenosaunee), not a knowledge system in the kinesthetic sense (Tongan/San), not a material medium (Benin), not a system-as-machine (Mongol), not a resource cycle (Khmer), but a TEXT that functions as territory. The structural engine is the closest analogue to the Mali covenant engine, but where the Kurukan Fuga was an oral covenant that organized political life, the Talmud is a written argument that organized civilizational survival.
+- **Why it works:** Extends the v1.1 Structural Engine amendment into the domain of text-based diaspora civilizations. The engine is self-sustaining: the argument generates the community that sustains the argument that generates the community. The terminal condition (the argument never ends) is not a weakness but the system's design. This engine type will apply to other text-centered diaspora cultures (Zoroastrian, possibly Armenian).
+- **Status:** logged (extends adopted v1.1 Progression innovation into new category)
+
+### Innovation: Talmudic Voice Sustained at Chapter Length
+- **Source:** regions/25-diasporas/jewish-diaspora/eras/03-the-talmud/
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The chapter sustains a Talmudic voice register for 5,181 words with zero em-dashes. The technique: accumulative sentences that mirror the sugya's method (one question opening the next), short declarative statements for halakhic rulings, longer gathering sentences for argumentative chains. The voice is dense, questioning, perpetually unfinished, and argument-as-structure. The rhythm mirrors the Gemara's own shakla v'tarya (give and take). This voice is distinct from all previously tested registers: it is neither spare (steppe) nor rolling (maritime) nor repetitive (oral-tradition) nor ascending (vertical/Andean) nor hydraulic (Khmer). It is argumentative, layered, and cumulative, the voice of a civilization that made sustained intellectual debate its defining activity.
+- **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: text-centered/argumentative cultures. The Talmudic voice's accumulative rhythm ("and this raised the question... and this question...") is inseparable from the culture's method and cannot be used for any other culture's story. Validates that the Voice Spectrum concept can accommodate intellectual/argumentative cultures alongside kinesthetic (maritime), action-oriented (steppe), and performative (oral-tradition) registers.
+- **Status:** logged (1 instance — first test of argumentative/text-centered voice at chapter length; extends voice-spectrum tests)
+
+### Innovation: Page-as-Scene (Non-Geographic Opening)
+- **Source:** regions/25-diasporas/jewish-diaspora/eras/03-the-talmud/
+- **Date:** 2026-04-14
+- **Dimension:** Scene (Gate) / Immersion
+- **Description:** The opening's "scene" is not a physical place but a page of the Talmud. The page layout (Mishnah center, Gemara around it, Rashi on one margin, Tosafot on the other) is rendered as a spatial environment the reader enters and inhabits. The technique treats the page as a physical space with geography (center, margins, surrounding layers), inhabitants (rabbis across centuries), and sensory texture (typefaces, scripts, ink). This expands the rubric's Scene dimension: a "specific moment" need not be a geographic moment. For a text-centered culture, the page IS the place.
+- **Why it works:** Solves the diaspora chapter's fundamental scene problem: the culture has no single geographic location, no single moment of founding drama. The page is the one place where the entire tradition converges, and treating it as a scene (with spatial layout, multiple voices, temporal layering) gives the opening a specificity and immediacy that a geographic scene could not provide for a dispersed people. This technique will apply to other text-centered or idea-centered chapters where the tradition's defining "place" is an intellectual construct rather than a physical location.
+- **Status:** logged (1 instance — watching for second to trigger amendment)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
