@@ -194,6 +194,62 @@ they trigger a rubric amendment.
 - **Why it works:** Confirms that the Style Guide's steppe voice description works at full chapter length, not just in passages. The voice is sustained through both narrative scenes (the childhood, the Jamukha rivalry) and analytical sections (the decimal system, the yasa) by treating institutional explanation as action rather than exposition. "The yasa said: protect merchants. The yasa said: do not foul running water." is institutional content delivered in steppe rhythm. This validates the Voice Spectrum section for the steppe/nomadic category and establishes a benchmark for future steppe chapters (Scythian, Turkic, Comanche, Bedouin).
 - **Status:** logged (1 instance -- first test of steppe voice at chapter length)
 
+### Innovation: Maritime Voice Sustained at Chapter Length
+- **Source:** regions/22-oceania-pacific/tongan-navigators/eras/02-the-great-expansion/
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The Style Guide's maritime voice description ("rolling rhythms, pull and release, like tide and swell") was untested at chapter length. This chapter sustains the maritime register for 4,744 words. The technique: long gathering sentences that crest with accumulated clauses and settle into short declarative resolutions. "The songs were the charts. The body was the instrument. The ocean was the world." The rhythm mirrors the swell patterns the navigator reads. Zero em-dashes in the chapter; the maritime voice's rhythm is built on commas and conjunctions, the connective tissue of waves running into each other, not on the sharp pause of the em-dash.
+- **Why it works:** Confirms that the Style Guide's maritime voice description works at chapter length, not just in the sample passage. The voice sustains through both sensory scenes (the hull, the night sky, the lagoon arrival) and analytical sections (the prestige-exchange system, the Tu'i Tonga's mana) by treating political explanation as oceanic movement rather than as static description. The rolling rhythm carries institutional analysis without breaking the spell. This validates the Voice Spectrum for the maritime category and establishes a benchmark for future maritime chapters (Phoenician, Swahili coast, Norse, Malay).
+- **Status:** logged (1 instance -- first test of maritime voice at chapter length; pairs with Steppe Voice innovation for second voice-spectrum test)
+
+### Innovation: Body-as-Instrument Knowledge System Rendering
+- **Source:** regions/22-oceania-pacific/tongan-navigators/eras/02-the-great-expansion/
+- **Date:** 2026-04-14
+- **Dimension:** Evidence / Immersion
+- **Description:** The chapter renders a knowledge system that is primarily kinesthetic (swell-reading through the hull, star positions relative to the body, bird flight read as directional data) by grounding every claim in physical sensation. The navigator's body IS the instrument, and the chapter demonstrates this by keeping the reader in the navigator's body throughout the knowledge-system sections. The training sequence (shallows, then stars, then birds, then clouds, then water) is shown as a curriculum of bodily practice, not as a list of techniques. The etak concept is rendered as a paradigm shift experienced by the navigator, not as an abstract idea explained to the reader.
+- **Why it works:** Extends the Disciplinary Depth innovation (Mali Era 4, Mukhtasar calculations) into a kinesthetic knowledge system. The Mali chapter showed intellectual rigor through mathematical calculation. This chapter shows intellectual rigor through bodily practice. Both treat the knowledge system at the level of method, not at the level of summary, but the Tongan chapter does so through sensation rather than through procedure. This technique will apply to other kinesthetic knowledge systems (Aboriginal Australian tracking, San hunting, any culture where knowledge is encoded in the body rather than in text).
+- **Status:** logged (1 instance -- extends Disciplinary Depth into kinesthetic domain; watching for second to trigger amendment)
+
+### Innovation: Prestige-Exchange as Self-Reinforcing Structural Engine
+- **Source:** regions/22-oceania-pacific/tongan-navigators/eras/02-the-great-expansion/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter identifies the prestige-exchange system as a self-reinforcing loop (connection confers legitimacy, legitimacy demands reciprocation, reciprocation requires voyages, voyages extend the network) and makes this loop the structural engine. The engine is neither a covenant (Mali) nor a psychological mechanism (Haudenosaunee) nor a knowledge system (Tang/San) nor a material medium (Benin) nor a system-as-machine (Mongol). It is a network logic: the more connected you are, the more you must stay connected. The chapter traces this logic to its own transformation: the Tu'i Tonga's mana, too sacred to govern, creates the need for secular lines, which eventually loosen the network's center.
+- **Why it works:** A new structural engine type that demonstrates the concept's versatility. The self-reinforcing loop is the engine's specific mechanism, distinguishing it from the linear (Mali's self-consuming redistribution) or cyclical (Haudenosaunee's grief-violence) engines seen in earlier chapters. The terminal question (what happens when sacredness prevents governance?) seeds the next era without requiring the chapter to resolve it. This extends the v1.1 Structural Engine amendment into yet another category.
+- **Status:** logged (extends adopted v1.1 Progression innovation into new category)
+
+### Innovation: Country-as-Integration-Pivot
+- **Source:** regions/22-oceania-pacific/aboriginal-australians/eras/01-the-arriving/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** Where the San chapter used a single species (eland) as the integration point where all threads converge, this chapter uses Country itself. Country is simultaneously the physical landscape, the Dreaming's body, the source of law, the medium of knowledge, and the identity of its people. Each section of the chapter reveals a new dimension of Country (song, fire, stars, kinship, deep time, art), and the final section shows their convergence. The integration pivot is not a species or an object but the ground itself.
+- **Why it works:** Provides a second instance of the integration-pivot technique, proving it is replicable across deep-time cultures while being specific to each. The San's eland was the right pivot for a culture organized around a single keystone species. Country is the right pivot for a culture organized around the relationship between people and land. The technique adapts to the culture's own organizing principle rather than imposing a uniform structure.
+- **Status:** logged (second integration-pivot instance after San's eland; extends adopted v1.1 Progression innovation)
+
+### Innovation: Triple-Redundancy as Persistence Mechanism
+- **Source:** regions/22-oceania-pacific/aboriginal-australians/eras/01-the-arriving/
+- **Date:** 2026-04-14
+- **Dimension:** Progression / Evidence
+- **Description:** The chapter identifies a specific mechanism for 65,000 years of cultural persistence: knowledge encoded simultaneously in three media (song, landscape, kinship), each reinforcing the others, so that the failure of any one medium is survivable. This is not an assertion of persistence but an explanation of persistence, grounded in the structural design of the knowledge system. The kwertengerle (secondary custodian) role is cited as a specific instance of the redundancy principle.
+- **Why it works:** Transforms the deep-time claim from "they persisted for a long time" (assertion) into "they persisted because their system was designed for redundancy" (mechanism). This satisfies Ibn Khaldun's demand for structural explanation while staying inside the culture's own logic. The technique will apply to any chapter that needs to explain long-duration cultural continuity.
+- **Status:** logged (1 instance -- watching for second to trigger amendment)
+
+### Innovation: Dreaming-Time as Deep-Time Solution
+- **Source:** regions/22-oceania-pacific/aboriginal-australians/eras/01-the-arriving/
+- **Date:** 2026-04-14
+- **Dimension:** Honesty
+- **Description:** The chapter resolves the deep-time uncertainty problem by adopting the Dreaming's own temporal logic rather than imposing archaeological chronology. "The Tjukurpa does not count years. The Ancestors walked when they walked, and they are still walking, and the gap between sixty-five thousand years ago and this morning is a gap that belongs to the measuring system, not to the Dreaming." This is an inside-voice honesty technique: the uncertainty about what happened 65,000 years ago is reframed through the culture's own framework, which does not recognize the uncertainty as a problem because the Dreaming is not time-bound.
+- **Why it works:** Extends the v1.2 Inside-Voice Honesty amendment into a new domain: cultures with non-linear temporal frameworks. The Mali chapter grounded its honesty in the jeli tradition's deliberate silences. This chapter grounds its honesty in the Dreaming's own ontology of time. The technique will apply to any culture whose temporal framework does not map onto linear chronology.
+- **Status:** logged (extends v1.2 Inside-Voice Honesty into non-linear temporal domain)
+
+### Innovation: Oral-Tradition Voice Sustained at Chapter Length (Second Deep-Time Instance)
+- **Source:** regions/22-oceania-pacific/aboriginal-australians/eras/01-the-arriving/
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The Style Guide's oral-tradition voice description ("cadence of the spoken word, repetition as structure, proverb-weight sentences") was tested in the San chapter and is now confirmed at chapter length in a second deep-time culture. The Aboriginal chapter sustains the oral-tradition register for 4,610 words with zero em-dashes. The technique: anaphoric repetition ("It is in the country. It is in the song. It is in the kinship system..."), short declarative sentences that carry the weight of carved statements, and a walking rhythm that mirrors the Songline walk itself. The voice is spare, patient, and close to Country.
+- **Why it works:** Confirms that the oral-tradition voice works for a second deep-time culture, with a different rhythmic quality (the San chapter's rhythm was fire-and-dance; this chapter's rhythm is walking-and-singing). The two chapters together validate the Voice Spectrum for the oral-tradition category. This is the second voice-spectrum validation after the steppe and maritime tests.
+- **Status:** logged (second instance of oral-tradition voice at chapter length; pairs with San for voice-spectrum validation)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
