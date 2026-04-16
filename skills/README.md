@@ -28,6 +28,12 @@ self-contained markdown file with clear inputs, steps, and outputs.
 |-------|---------|
 | [chronicle-e2e](chronicle-e2e.md) | Full 11-stage pipeline end-to-end — OPENING through FINAL |
 
+## Session Management
+
+| Skill | Purpose |
+|-------|---------|
+| [chronicle-handoff](chronicle-handoff.md) | End-of-session handoff — capture state, update punchlist, prepare for next session |
+
 ## Quality & Evolution
 
 | Skill | Purpose |
