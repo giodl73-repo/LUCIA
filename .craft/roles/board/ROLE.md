@@ -63,6 +63,9 @@ introduce new board members. Track them here as they are created:
 | B-soninke-1 | Nehemia Levtzion | Arabic geographical sources, political/economic reconstruction of western Sudan | 10-west-african-sahel-and-savanna |
 | B-soninke-2 | David Conrad | Mande oral traditions, the Dausi, Almoravid-Ghana historiography | 10-west-african-sahel-and-savanna |
 | B-soninke-3 | Susan Keech McIntosh | Archaeology of the western Sahel, Kumbi Saleh, trans-Saharan trade material culture | 10-west-african-sahel-and-savanna |
+| B-fulani-1 | Murray Last | Sokoto Caliphate political/administrative history, emirate system, flag-holders | 10-west-african-sahel-and-savanna |
+| B-fulani-2 | Mervyn Hiskett | Dan Fodio biography, Torodbe scholarly tradition, pre-jihad Gobir | 10-west-african-sahel-and-savanna |
+| B-fulani-3 | Beverly Mack | Nana Asma'u, yan taru system, women's education in Sokoto Caliphate | 10-west-african-sahel-and-savanna |
 
 ## Board Role Template
 
