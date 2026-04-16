@@ -42,7 +42,9 @@ introduce new board members. Track them here as they are created:
 
 | ID | Name | Expertise | Regions Served |
 |----|------|-----------|---------------|
-| *(populated as chapters are written)* | | | |
+| B-1 | Mark Edward Lewis | Tang political institutions, An Lushan rebellion | 17-east-asia |
+| B-2 | Stephen Owen | Tang poetry, keju literary culture, Du Fu/Li Bai | 17-east-asia |
+| B-3 | Valerie Hansen | Silk Road trade, Sogdian communities, foreign religions | 17-east-asia |
 
 ## Board Role Template
 
