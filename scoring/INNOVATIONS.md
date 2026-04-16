@@ -242,6 +242,38 @@ they trigger a rubric amendment.
 - **Why it works:** Extends the v1.2 Inside-Voice Honesty amendment into a new domain: cultures with non-linear temporal frameworks. The Mali chapter grounded its honesty in the jeli tradition's deliberate silences. This chapter grounds its honesty in the Dreaming's own ontology of time. The technique will apply to any culture whose temporal framework does not map onto linear chronology.
 - **Status:** logged (extends v1.2 Inside-Voice Honesty into non-linear temporal domain)
 
+### Innovation: Vertical Ecology as Voice Register
+- **Source:** regions/02-andes/inca/eras/01-manco-capacs-foundation/
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The Inca book sustains a voice register that moves through altitude zones the way the culture moved through its world. Prose ascends from valley to puna and descends from sky to earth. The rhythm is deliberate, weight-bearing, shaped by thin air and long distances. The ecological structure of the vertical archipelago becomes the prose's structural principle: multiple things operating at multiple altitudes simultaneously, the layering of the ecology reflected in the layering of the sentences. This register is sustained across all five eras.
+- **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: mountain/vertical cultures. The steppe voice (short, forward, relentless) and the maritime voice (rolling, gathering, cresting) have now been joined by the vertical voice (ascending, descending, layered, weight-bearing). The register is inseparable from the Inca's defining geographical feature. This establishes a voice benchmark for other Andean and mountain cultures.
+- **Status:** logged (1 instance — first test of vertical voice at book length; pairs with steppe and maritime voice tests)
+
+### Innovation: Information-System Failure as Structural Engine
+- **Source:** regions/02-andes/inca/eras/04-huayna-capacs-empire/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter uses the quipu's categorical failure — the information system encountering an event (epidemic) outside its categories — as the structural engine. The quipucamayoc can record the symptoms (declining numbers, unfulfilled obligations) but not the cause. The engine makes the information system's design the lens through which the reader experiences what the system cannot process. This is a new type of structural engine: not a covenant or cycle or medium but an epistemological limit.
+- **Why it works:** Extends the v1.1 Structural Engine amendment into the domain of information systems encountering unprecedented events. The technique applies to any chapter where a culture's record-keeping or knowledge system faces a category-breaking event: the Maya collapse, the Bronze Age collapse, the Black Death in European record-keeping terms.
+- **Status:** logged (1 instance — extends adopted v1.1 Progression innovation into new category)
+
+### Innovation: Rival-Technology Encounter as Inside-Voice Scene
+- **Source:** regions/02-andes/inca/eras/05-the-war-of-brothers/
+- **Date:** 2026-04-14
+- **Dimension:** Immersion / Honesty
+- **Description:** The encounter between Atahualpa and Valverde's Bible is rendered through the Inca's information-technology framework: Atahualpa holds the book to his ear because in his world, information-bearing objects make sounds (the quipu is read aloud, the pututu carries messages). The moment captures the encounter between two information technologies (the book and the quipu) from inside the non-literate culture's epistemological categories. The reader understands the book's silence as Atahualpa would have understood it — not as illiteracy but as a failed test of the object's communicative capacity.
+- **Why it works:** Provides a technique for conquest-encounter chapters that avoids both the colonizer's perspective (the "native who can't read" framing) and sentimental reversal (the "noble indigenous wisdom vs. Western arrogance" framing). The scene is neither judgment nor reversal. It is inside-voice description of a moment when two information systems met and neither could read the other. This technique will apply to any chapter involving the encounter between literate and non-literate cultures.
+- **Status:** logged (1 instance — watching for second to trigger amendment)
+
+### Innovation: Recursive Book-Level Arc (second instance)
+- **Source:** regions/02-andes/inca/ (all 5 eras)
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The Inca book sustains a five-era arc driven by three structural threads (mit'a, vertical archipelago, quipu) that are planted in Era 1, scaled in Era 2, tested in Era 3, stressed in Era 4, and broken/preserved in Era 5. The closing of Era 5 returns to the opening images of Era 1 (Lake Titicaca, the golden staff, the puna, the wool), completing a circle. This is the second instance of a book-level structural engine (after Mali), confirming that the technique is replicable across cultures with fundamentally different organizing principles.
+- **Why it works:** The Mali book used the Kurukan Fuga's self-consuming redistribution logic as its through-line. The Inca book uses the quipu's relationship between record and recorder as its through-line. Both sustain across five eras, both close by returning to their opening terms, and both let the culture's own persistence mechanism deliver the final note (the jelilu still singing; the quipu still holding). The second instance confirms the technique is not specific to Mali but generalizable to any multi-era book with a culture-specific structural thread.
+- **Status:** logged (second instance of book-level arc — first was Mali; triggers consideration for amendment)
+
 ### Innovation: Oral-Tradition Voice Sustained at Chapter Length (Second Deep-Time Instance)
 - **Source:** regions/22-oceania-pacific/aboriginal-australians/eras/01-the-arriving/
 - **Date:** 2026-04-14
