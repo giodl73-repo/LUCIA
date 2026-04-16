@@ -54,6 +54,9 @@ introduce new board members. Track them here as they are created:
 | B-abbasid-1 | Dimitri Gutas | Graeco-Arabic translation movement, Bayt al-Hikma, Abbasid patronage politics | 08-islamic-heartlands |
 | B-abbasid-2 | George Saliba | Islamic science, Arabic astronomy, critique of the "preservation" narrative | 08-islamic-heartlands |
 | B-abbasid-3 | Hugh Kennedy | Early Abbasid political history, founding of Baghdad, caliphal court | 08-islamic-heartlands |
+| B-maya-1 | David Stuart (model) | Maya epigraphy, Long Count calendar, Classic political history | 01-mesoamerica |
+| B-maya-2 | Michael Coe (model) | Mesoamerican archaeology, Maya sites, material culture | 01-mesoamerica |
+| B-maya-3 | Evon Vogt (model) | Maya ethnography, living communities, calendar continuity | 01-mesoamerica |
 
 ## Board Role Template
 
