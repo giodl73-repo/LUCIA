@@ -198,6 +198,8 @@ True, but you cannot see it, hear it, smell it. It could be anywhere.
 
 Now you are there. You feel the sand. You hear the voices. You smell the manuscripts. Timbuktu is a place, not a fact.
 
+**v1.4 — Sensory-Analytical Fusion:** At its best, sensory detail does not merely ground the narrative. It carries the argument. When the smell of the dye pit tells you about the economic structure (Hausa), when the feel of the hull IS the navigational knowledge (Norse), when the cold of the butter-lamp room IS the urgency of the translation project (Tibet), the principle is operating at its highest level. A reader who skipped the analytical passages should still understand the argument from the sensory ones.
+
 ---
 
 ### 12. Rhythm Belongs to the Story
@@ -242,9 +244,9 @@ The uncertainty becomes part of the story. The mystery is more compelling than a
 | **Em-dash limit (opening)** | ≤ 5 |
 | **Em-dash limit (chapter)** | ≤ 8 |
 
-**On em-dashes:** They are useful. They are also addictive. More than five in an opening or eight in a chapter means the writer is relying on a single rhythmic trick. Find other ways to create pause and emphasis.
+**On em-dashes:** The limit is 8. The benchmark is 0. Every chapter that has scored 80+ achieved zero. The em-dash's absence is not a goal in itself but a symptom of voice discipline: each register finds its own pause mechanism (the period for steppe and saga, the comma-chain for maritime and river, the colon for inscriptional, the semicolon for legal-public). If you reach for an em-dash, the voice may have slipped.
 
-**On chapter length:** 4,500 words is not a suggestion to pad. 5,500 words is not a ceiling to approach. The chapter is as long as the story needs. The range exists to prevent both thinness (too little to immerse) and sprawl (too much to sustain voice).
+**On chapter length:** 4,500 words is not a suggestion to pad. 5,500 words is not a ceiling to approach. The chapter is as long as the story needs. The range exists to prevent both thinness (too little to immerse) and sprawl (too much to sustain voice). For chapters covering distributed events across 5+ locations, the range extends to 6,000 words without requiring justification.
 
 **On openings:** The opening is the Gate. ~800 words is enough to establish a person, a place, a moment, and the pull that makes the reader continue. If you cannot hook the reader in 800 words, more words will not help.
 
@@ -320,6 +322,66 @@ Cadence of the spoken word. Repetition as structure, because repetition is how m
 Density. Overlap. Voices. The sound of a crowd. Urban prose is busy — not rushed, but full. Multiple things happen at once. Descriptions layer sound over smell over sight because that is how a city hits you. Sentences can be longer, more packed, because cities are packed.
 
 > In the Tlatelolco market, sixty thousand people on an ordinary day: the flower sellers near the eastern gate with armloads of marigold and dahlia; the cacao merchants in the shade of cotton awnings, their beans sorted by grade in baskets and every price negotiable; scribes painting accounts on amate bark; the smell of roasting maize and copal incense drifting over everything; a judge sitting on a raised platform at the market's center, resolving a dispute between two jade traders while a runner waited beside him for a verdict to carry back to the palace; the hum of Nahuatl and the dozen other languages that traders brought with them from the coast, the highlands, the southern forests — a sound that Cortés's men compared to the roar of a city twice the size of Seville, which it was.
+
+### Saga-Spare (Nordic/Germanic)
+*Norse, Anglo-Saxon, Icelandic*
+
+Deliberate. Laconic. The prose says less than it means and trusts the reader to hear the rest. Understatement as structural principle: "The wind had been fair" after destruction carries more weight than any adjective. Short declarative default, with proverb-weight sentences spaced carefully. The voice lingers on material objects because things carry meaning that speech does not. Emotional register: cool. "He took that badly" = violence is coming. Distinct from steppe (more deliberate, stops to look at objects) and from oral tradition (cooler, records rather than performs).
+
+### River Cultures
+*Songhai, Nile kingdoms, Mekong polities, Mississippian cultures*
+
+Forward-moving, current-driven. Longer sentences gather momentum like a current gathering tributaries, punctuated by short declarative stops where the current hits a bend. The rhythm is directional, weight-bearing, and steady. The river voice carries institutional analysis the way a river carries cargo: steadily, in one direction. Distinct from hydraulic (which pools and distributes); the river voice flows and carries.
+
+### Hydraulic/Monumental Cultures
+*Khmer, possibly Harappan, canal-state civilizations*
+
+Sentences that gather, hold, and release. The prose moves like water through channels: long cumulative sentences that build pressure through serial clauses, interspersed with short declarative stops. Controlled, monumental, patient. The rhythm of water held in a reservoir, not water flowing freely. Distinct from river (which flows directionally) and maritime (which rolls and crests).
+
+### Sedimentary/Administrative Cultures
+*Sumer, Ur III, Shang oracle bones, temple-economy states*
+
+Accumulative sentences that build like account entries, layer by layer. Short declarative theological statements land with the weight of carved pronouncements. The rhythm mirrors both alluvial deposits and a tablet archive growing. Heavy, wet, specific. The voice of a culture that kept meticulous records of the gods' grain and then used the same system to ask whether death was the end.
+
+### Monument/Stone Cultures
+*Old Kingdom Egypt, possibly Axum, megalithic cultures*
+
+Gravitational, cyclical, certain. Heavy weight-bearing sentences accumulate like courses of limestone. The rhythm is cyclical, returning to the flood the way the flood returns annually. Short declarative sentences carry theological weight. The voice does not pause or qualify, because the cosmic order does not pause or qualify.
+
+### Edict-Inscriptional
+*Maurya, possibly Achaemenid, early Islamic inscription traditions*
+
+Opens with the primary source itself: the inscription IS the voice. Declarative, weighted, carved. Each sentence feels placed on the page the way a mason places a chisel mark on stone. Modulates across modes (war/kinetic, policy/enumerative, material/descriptive, landing/elegiac) while maintaining the inscriptional foundation. The analytical mode is accounting: the voice counts, lists, specifies. Distinct from monument/stone (which builds upward); the edict voice carves outward, communicating rather than enduring.
+
+### Inscriptional/Architectural
+*Maya, possibly Aztec, cultures where the carved record IS the political act*
+
+Carved, precise, placed. Each sentence a glyph block. The rhythm is deliberate and measured, built through commas and conjunctions, not through parenthetical interruptions. Because inscriptions do not pause mid-glyph-block.
+
+### Argumentative/Text-Centered
+*Jewish Talmudic, possibly Confucian commentary, scholastic traditions*
+
+Questioning, cumulative, perpetually unfinished. Accumulative sentences mirror the sugya's method: one question opening the next. Dense, layered, argument-as-structure. The voice of a civilization that made sustained intellectual debate its defining activity.
+
+### Legal-Public
+*Roman Republic/Empire, possibly Athenian democratic, parliamentary traditions*
+
+Declarative sentences that close like legal pronouncements. Measured rhythm shaped by the Forum's acoustics. The weight of inscription. Can progressively transform across eras: expanded in building periods, compressed under crisis, transformed under new dispensations.
+
+### Philosophical-Devotional
+*Tibetan Buddhist, possibly Chan/Zen, Sufi, Vedantic*
+
+The prose moves at the speed of careful thought. Long accumulative sentences build meaning clause by clause, the way a translation builds vocabulary. No separation between intellectual and devotional registers: scholarship IS devotion. Silence between sentences mirrors silence between syllables in a translation session. Distinct from argumentative (which questions and accumulates); the philosophical-devotional voice builds and clarifies.
+
+### Maritime Accumulative (Trade-Coast)
+*Swahili coast, possibly Phoenician trade cities, Malay entrepots*
+
+Rolling clauses that gather like monsoon swells, breaking into short declarative sentences like waves landing on a reef. The rhythm is tidal: accumulation, crest, resolution. The voice carries both atmosphere and argument in the same register. Distinct from oceanic maritime (Tongan/Polynesian), which reads the deep swell; the trade-coast voice reads the harbor, the storehouse, and the two horizons simultaneously.
+
+### Vertical/Mountain Cultures
+*Inca, possibly Tibetan highland, Andean, Ethiopian highland*
+
+Ascending, descending, layered, weight-bearing. Prose moves through altitude zones the way the culture moves through its world. The ecological structure of the vertical archipelago becomes the prose's structural principle. Deliberate, shaped by thin air and long distances.
 
 ---
 
