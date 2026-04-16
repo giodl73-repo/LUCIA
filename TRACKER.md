@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 1 — Skeleton (3 levels deep)
-**Last updated:** 2026-04-14 (Inca Era 1 locked)
+**Last updated:** 2026-04-14 (Aboriginal Australians Era 1 locked — second deep-time chapter, Songline structural engine)
 
 ---
 
@@ -30,12 +30,12 @@
 | 19 | Central/Inner Asia | complete | 10 | draft | 1 | 1 |
 | 20 | Western Christendom | complete | 13 | draft | 0 | 0 |
 | 21 | N & E Europe | complete | 15 | draft | 0 | 0 |
-| 22 | Oceania & Pacific | complete | 10 | draft | 0 | 0 |
+| 22 | Oceania & Pacific | complete | 10 | draft | 2 | 2 |
 | 23 | Americas Reborn | complete | 10 | draft | 0 | 0 |
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 0 | 0 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **11** | **11** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **13** | **13** |
 
 ---
 

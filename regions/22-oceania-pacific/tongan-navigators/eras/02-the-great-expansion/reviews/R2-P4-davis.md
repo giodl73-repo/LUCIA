@@ -1,0 +1,7 @@
+## P-4 — Wade Davis — Review of Notes (Round 2)
+
+**Overall:** The notes are strong. Two things I want to ensure the chapter delivers.
+
+**First:** The apprenticeship must be shown at depth. Not a flash of the grandfather's hand but the SCOPE of the training. A navigator-in-training committed to memory the rising and setting positions of hundreds of stars across seasons, the behavioral patterns of multiple bird species, the swell signatures of dozens of islands, the seasonal current shifts across the western Pacific. This is a curriculum. It takes decades. The chapter should render this the way the Mali chapter rendered the Mukhtasar's inheritance calculations: at the level of method, not at the level of summary.
+
+**Second:** The etak honesty point is critical. I have written about etak in The Wayfinders using primarily Mau Piailug's Carolinian practice. The concept's presence in the broader Polynesian tradition is attested but the specific Tongan term may differ or may not be recorded. The chapter should present the moving-reference-frame paradigm as a feature of Polynesian navigation broadly, note its best documentation from Caroline Islands sources, and be honest about what is specifically Tongan versus what is inferred from the broader tradition. This honesty will STRENGTHEN the chapter, not weaken it. It demonstrates the knowledge system's reach across multiple Pacific cultures while respecting the specificity of each.
