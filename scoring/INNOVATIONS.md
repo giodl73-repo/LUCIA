@@ -426,6 +426,22 @@ they trigger a rubric amendment.
 - **Why it works:** The Mali book used the Kurukan Fuga's redistribution logic. The Inca book used the quipu's record-recorder relationship. The Roman book uses the law's public character as its through-line. All three sustain across five eras, all close by returning to their opening terms, and all let the culture's own persistence mechanism deliver the final note (the jelilu still singing; the quipu still holding; the law still holding). The third instance confirms the technique as a general pattern for multi-era books: find the culture's own persistence mechanism and make it the book's through-line.
 - **Status:** logged (third instance of book-level arc — triggers consideration for amendment)
 
+### Innovation: River Voice Sustained at Chapter Length
+- **Source:** regions/10-west-africa-sahel/songhai-empire/eras/02-the-river-war/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** The chapter sustains a river voice register for 4,508 words with zero em-dashes. The technique: forward-moving sentences that gather momentum through accumulated clauses like a current gathering tributaries, punctuated by short declarative stops where the current hits a bend. The rhythm is neither spare (steppe) nor rolling (maritime) nor repetitive (oral-tradition) nor ascending (vertical) nor hydraulic (pooling, distributing). It is directional, weight-bearing, and steady, the voice of a current that carries everything downstream. The register sustains through both narrative scenes (canoes at dawn, the siege of Djenne, death on the water) and analytical sections (the river-control loop, the scholar-tension) without breaking. The river voice carries institutional analysis the way the river carries cargo: steadily, without stopping, in one direction.
+- **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: river/riverine cultures. The voice is inseparable from the structural engine (river-control loop) and from the culture's defining geographic feature (the Niger). The technique will apply to other river-based cultures (Nile kingdoms, Mekong polities, Mississippian cultures) where the river is both the medium of power and the organizing principle of the state. The register is distinct from the hydraulic voice (Khmer), which pools and distributes; the river voice flows and carries.
+- **Status:** logged (1 instance -- first test of river voice at chapter length; extends voice-spectrum tests)
+
+### Innovation: Legitimacy-Gap as Structural Engine Terminal Condition
+- **Source:** regions/10-west-africa-sahel/songhai-empire/eras/02-the-river-war/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The chapter's structural engine (river-control loop: navy -> conquest -> taxation -> navy) encounters a terminal condition that is neither economic exhaustion (Mali's self-consuming redistribution) nor cyclical resolution (Haudenosaunee's condolence ceremony) nor categorical failure (Maya's inscription-crisis) but a LEGITIMACY GAP. The military river state conquers the scholarly-commercial cities but cannot generate the kind of authority those cities' institutions require. The gap does not break the state during Sunni Ali's lifetime (commerce needs stability, not affection), but it creates the structural precondition for the succession transition. The resolution (Askia Muhammad's coup, legitimized by fatwa) resolves the gap by adopting the scholars' framework while retaining the military apparatus.
+- **Why it works:** A new terminal-condition type for the structural engine. Previous engines terminated through self-consumption (Mali), cyclical resolution (Haudenosaunee), ecological stress (Khmer), categorical failure (Maya). This engine terminates through a mismatch between the type of power the engine produces (military) and the type of legitimacy the territory requires (legal-commercial). The technique applies to any chapter about a military state that conquers a civilization with a different basis of authority.
+- **Status:** logged (1 instance -- extends adopted v1.1 Progression innovation into new terminal-condition category)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
