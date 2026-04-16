@@ -402,6 +402,30 @@ they trigger a rubric amendment.
 - **Why it works:** Confirms that the dual-stream persistence close is a replicable technique across cultures with different knowledge media. The Mali version paired oral tradition with written manuscripts. The Maya version pairs archaeological remains with living calendar practice. Both find the culture's own persistence mechanism rather than imposing authorial summary. The second instance strengthens the v1.1 Landing amendment.
 - **Status:** logged (second instance of dual-stream close; extends adopted v1.1 Landing innovation)
 
+### Innovation: Legal-Public Voice Sustained at Book Length
+- **Source:** regions/05-mediterranean/roman/ (all 5 eras)
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The Roman book sustains a legal-public voice register across all five eras (approximately 24,500 words total). The technique: declarative sentences that close like legal pronouncements, measured rhythm shaped by the Forum's acoustics, the weight of inscription. The voice progressively transforms across the book: expanded in Era 1 (the Republic being built), weighted with military urgency in Era 2 (the Punic Wars), compressed under crisis in Era 3 (the late Republic), expanded again with the stability of marble in Era 4 (the principate), and transformed into the basilica's acoustics in Era 5 (the Christian transformation). The progressive transformation of the voice across eras is itself a narrative technique: the reader feels the Republic's arc in the prose rhythm before understanding it analytically.
+- **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: legal/civic/forum cultures. The voice is inseparable from the culture's defining institution (the Forum as acoustic space for public speech and law). The progressive transformation across five eras proves that a single voice register can carry a full book while evolving to match each era's character. This is distinct from the vertical voice (Inca) which maintained a consistent register. The Roman voice transforms because the culture transformed, and the transformation is carried in the prose.
+- **Status:** logged (1 instance — first test of legal-public voice at book length; extends voice-spectrum tests)
+
+### Innovation: Institutional Machinery as Structural Engine
+- **Source:** regions/05-mediterranean/roman/eras/01-kingdom-and-republics-birth/ through eras/03-late-republic-crisis/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The Roman book's structural engine is the Republic's institutional machinery itself: the oath (never again a king), the annual magistracies, the senatorial collective, the tribune's veto, the census-army binding. The engine operates across three eras: built in Era 1 (the oath and the machinery), tested at scale in Era 2 (the alliance system absorbing Cannae), and weaponized against itself in Era 3 (the machinery eating itself). The engine is not a covenant (Mali), not a psychological mechanism (Haudenosaunee), not a knowledge system (Tang/San), but a CONSTITUTIONAL MACHINERY that the chapter makes the reader experience as a living system rather than a textbook abstraction. The technique: each institution is dramatized through its function (the veto as the power to stop; the annual rotation as a loan from the res publica) rather than described through its form.
+- **Why it works:** Solves the "institutional history" problem: making constitutional structures feel narratively compelling rather than textbook-abstract. The engine operates across multiple eras, with each era revealing a new dimension of the machinery (Era 1: construction; Era 2: resilience; Era 3: self-destruction). The technique will apply to any chapter about a culture whose defining achievement is institutional rather than artistic or military.
+- **Status:** logged (extends adopted v1.1 Progression innovation into new category — institutional machinery)
+
+### Innovation: Recursive Book-Level Arc (Third Instance)
+- **Source:** regions/05-mediterranean/roman/ (all 5 eras)
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The Roman book sustains a five-era arc driven by four structural threads (res publica, libertas vs. imperium, mos maiorum, the law) planted in Era 1 and traced through all five eras. The closing of Era 5 returns to every image from Era 1 (the Forum, the geese, the augures, the consul, the tribune, the Twelve Tables) and shows what survived and what did not. The law is identified as the Roman persistence mechanism, the equivalent of the Mali jelilu and the Inca quipu. This is the third instance of a book-level structural engine (after Mali and Inca).
+- **Why it works:** The Mali book used the Kurukan Fuga's redistribution logic. The Inca book used the quipu's record-recorder relationship. The Roman book uses the law's public character as its through-line. All three sustain across five eras, all close by returning to their opening terms, and all let the culture's own persistence mechanism deliver the final note (the jelilu still singing; the quipu still holding; the law still holding). The third instance confirms the technique as a general pattern for multi-era books: find the culture's own persistence mechanism and make it the book's through-line.
+- **Status:** logged (third instance of book-level arc — triggers consideration for amendment)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
