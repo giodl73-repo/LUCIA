@@ -1,11 +1,12 @@
 # LUCIA Scoring Rubric
 
-## Rubric v1.3 — Amended 2026-04-15
+## Rubric v1.4 — Amended 2026-04-16
 
 **Changelog:**
 - v1.0 → v1.1: Amended Progression, Figures, and Landing based on 8 innovations across 4 chapters (Mali, Haudenosaunee, San, Tang).
 - v1.1 → v1.2: Amended Honesty based on 3 innovations across Mali Eras 2, 4, 5.
-- v1.2 → v1.3: Amended Evidence based on 3 innovations across Tang, Mali Era 4, Tongan. See INNOVATIONS.md for sources.
+- v1.2 → v1.3: Amended Evidence based on 3 innovations across Tang, Mali Era 4, Tongan.
+- v1.3 → v1.4: Amended Voice (Voice Spectrum) based on 16 voice types confirmed at chapter length across 27 cultures. Amended Progression (Book-Level Arc) based on 3 complete books (Mali, Inca, Rome).
 
 ---
 
@@ -171,6 +172,8 @@ Scores run 1–10. Each band below describes what that range looks like.
 
 **v1.1 Amendment — Structural Engine:** The highest-scoring chapters find the culture's own structural mechanism and make it the narrative engine. Not context, not background — the PLOT. The Kurukan Fuga's self-consuming redistribution logic, the Mourning War's grief-violence cycle, the eland as single-species integration pivot. To score 9+, the chapter should identify the culture's own logic and let it drive the arc the way a character's flaw drives a novel. Chronology alone is not progression.
 
+**v1.4 Amendment — Book-Level Arc:** When a culture has multiple eras written as a book (3+ eras), the structural engine should sustain across the full arc. Three books confirm the technique: **Mali** (Kurukan Fuga's redistribution logic planted in Era 1, self-consuming in Era 3, recursive in Era 5), **Inca** (mit'a/vertical archipelago/quipu threads planted in Era 1, stressed in Era 4, broken/preserved in Era 5), **Rome** (res publica/libertas/mos maiorum/law planted in Era 1, tested in Era 2, weaponized in Era 3, transformed in Eras 4-5). The pattern: find the culture's own persistence mechanism, plant it in the first era, trace its transformations through subsequent eras, and let the final era's close return to the opening era's images. The book-level arc is not a requirement for individual chapters but becomes the standard when a full book is written. The culture's persistence mechanism delivers the book's final note: the jelilu still singing, the quipu still holding, the law still holding.
+
 ### Figures (0–10)
 
 | Band  | Anchor |
@@ -192,6 +195,8 @@ Scores run 1–10. Each band below describes what that range looks like.
 | 5–6   | The voice is consistent through most of the chapter; slippage is occasional and recovers. |
 | 7–8   | The chapter sustains its register even through dense evidence and transitions. |
 | 9–10  | The voice never wavers; it is the same instrument at the opening, the middle, and the close. |
+
+**v1.4 Amendment — Voice Spectrum:** 16 voice types have been confirmed at chapter length across 27 cultures. Each culture requires its own voice register — inseparable from that culture's worldview, sustained without breaks, carrying both narrative and analytical weight. The voice is not style applied to content; it IS the culture's way of speaking on the page. Confirmed registers include: **Griot cadence** (Mali), **Steppe** (Mongol), **Maritime** (Tongan), **Oral-tradition** (San, Aboriginal), **Vertical** (Inca), **Hydraulic** (Khmer), **Sedimentary** (Sumer), **Monument** (Egypt), **Urban/scholarly** (Abbasid), **Argumentative** (Jewish Talmud), **Legal-public** (Roman), **Inscriptional** (Maya), **River** (Songhai), **Saga-Spare** (Norse), **Maritime Accumulative** (Swahili), **Philosophical-Devotional** (Tibet), **Edict-Inscriptional** (Maurya), and additional registers for Trade (Ghana), Chronicler (Kanem-Bornu), Diplomatic (Wolof), Scholarly-revolutionary (Fulani), and Urban-manufacturing (Hausa). To score 9+, the voice must: (1) be discovered from the culture's own expressive traditions, not borrowed from another culture's register; (2) sustain across ~5000 words without breaking into textbook or generic literary prose; (3) carry analytical argument in the same register as narrative — the rhythm does intellectual work, not just atmospheric work; (4) produce zero or near-zero em-dashes as an emergent property of the register's own rhythm.
 
 ### Landing (0–10)
 
