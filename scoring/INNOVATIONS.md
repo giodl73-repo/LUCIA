@@ -154,6 +154,46 @@ they trigger a rubric amendment.
 - **Why it works:** Demonstrates that the structural engine innovation can operate across multiple chapters of the same culture's story, creating a through-line that gives the full "book" (all five Mali eras) a unified analytical argument. This is the first instance of a structural engine operating at book-level rather than chapter-level.
 - **Status:** logged (1 instance — watching for second to trigger amendment)
 
+### Innovation: Archive Displacement as Categorical Shift
+- **Source:** regions/11-west-africa-forest/benin-kingdom/eras/04-the-atlantic-trade/
+- **Date:** 2026-04-14
+- **Dimension:** Honesty / Progression
+- **Description:** The chapter identifies a specific type of historical violence that is not physical destruction but categorical displacement: the same object (a bronze plaque) changes its meaning when moved from a palace pillar to a museum case. "The archive had become a collection. The governance documents had become aesthetic objects. The displacement was not just geographic. It was categorical." This technique allows the chapter to describe what happened in 1897 without imposing a verdict, because the categorical description IS the analysis. The reader understands the violence without being told it was violent.
+- **Why it works:** Extends the No-Verdict Decline technique (v1.2) into a new domain: colonial-era removal of cultural property. Rather than calling the removal "tragic" or "unjust" (verdicts), the chapter describes the change in category (governance document to art object) and lets the categorical shift carry the analytical weight. This technique will apply to any chapter dealing with the displacement of objects from their functional context into museum or collecting contexts (Elgin Marbles, Egyptian obelisks, Aztec codices, etc.).
+- **Status:** logged (1 instance — watching for second to trigger amendment)
+
+### Innovation: Outsider Accounts as Structural Evidence of Self (second instance)
+- **Source:** regions/11-west-africa-forest/benin-kingdom/eras/04-the-atlantic-trade/
+- **Date:** 2026-04-14
+- **Dimension:** Honesty / Evidence
+- **Description:** The chapter extends the v1.2 "Outsider's Bias as Inside Characterization" technique to a case where the primary written record is ENTIRELY produced by outsiders (Portuguese, Dutch, British). Unlike Mali Era 4, where Ibn Battuta was one source among many, the Benin chapter faces a situation where the culture's own record is in bronze and oral tradition, and the written accounts are all foreign. The chapter's solution: use the outsider accounts as evidence of what the outsiders valued, feared, and misunderstood, while reconstructing Benin's own story from the plaques, the guild tradition, and the court's logic. "Their surprise was their own. The Edo did not require it." The technique is not just applied to one visitor (as with Ibn Battuta) but to the entire written record's relationship to the culture.
+- **Why it works:** Proves the outsider-bias technique scales from a single visitor to an entire evidentiary base. This is the harder case: when ALL the written sources are outsiders, the temptation to let their frame become the narrative frame is enormous. The chapter resists it by centering the bronzes and the guild as the culture's own record and treating the written accounts as evidence about the writers. This technique will be essential for many colonial-contact chapters where the primary written sources are European.
+- **Status:** logged (second instance of Outsider's Bias technique — extends adopted v1.2 innovation to a more extreme case)
+
+### Innovation: Material Medium as Structural Engine
+- **Source:** regions/11-west-africa-forest/benin-kingdom/eras/04-the-atlantic-trade/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter uses the material medium itself (copper alloy cast as bronze) as the structural engine that drives the narrative arc. The copper supply determines the pace of plaque production. The Atlantic trade increases the copper supply, enabling peak production. The same trade that brings the copper brings the visitors who are recorded on the plaques. The metal is simultaneously the economic input, the archival medium, and the political instrument. The chapter's progression is driven by the medium's journey: from imported copper ingot to melted alloy to cast plaque to palace pillar to museum case.
+- **Why it works:** A new type of structural engine that is neither a covenant (Mali), nor a psychological mechanism (Haudenosaunee), nor a knowledge system (Tang), nor a single species (San), but a material medium. The engine is the most literal possible: the stuff the plaques are made of. This engine type will apply to cultures where a specific material (jade for the Maya, silk for the Tang trade, paper for Timbuktu) is both the medium and the message of cultural production.
+- **Status:** logged (1 instance — watching for second to trigger amendment)
+
+### Innovation: System-as-Protagonist (Steppe Structural Engine)
+- **Source:** regions/19-central-inner-asia/mongol-empire/eras/01-the-unification/
+- **Date:** 2026-04-14
+- **Dimension:** Progression / Voice
+- **Description:** The chapter's structural engine is not a covenant (Mali), a psychological mechanism (Haudenosaunee), a knowledge system (Tang/San), or a material medium (Benin), but a SYSTEM. The decimal structure + yasa + yam is the protagonist. The chapter tracks the system's assembly the way a novel tracks a character's development: the childhood abandonment reveals why the old system fails, the rivalry with Jamukha dramatizes the old vs. new, and the quriltai is the system's birth moment. The landing finds persistence in the system itself ("The man died. The machine did not"). This is the first chapter where an institutional system, rather than a person, covenant, or knowledge tradition, carries the structural engine.
+- **Why it works:** The steppe voice's spare, forward-moving quality matches a chapter whose protagonist is a machine rather than a person. Short sentences describe institutional mechanics the way they describe riding: as action, not analysis. The technique solves the "great man" problem for cultures where institutional innovation matters more than individual charisma. It also proves that the structural engine concept can accommodate a new category (system/machine) alongside the existing categories (covenant, cycle, integration pivot, medium).
+- **Status:** logged (1 instance -- extends adopted v1.1 Progression innovation into new category)
+
+### Innovation: Steppe Voice Sustained at Chapter Length
+- **Source:** regions/19-central-inner-asia/mongol-empire/eras/01-the-unification/
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The Style Guide's steppe voice description ("short bursts, forward motion, space between the sentences") was untested at chapter length. This chapter sustains the steppe register for 4,558 words without a single lapse into textbook, court, or oral-tradition voice. The technique: short declarative sentences for action and events, slightly longer (but still paratactic) sentences for institutional explanation, and deliberate avoidance of em-dashes (0 in the full chapter) because the steppe voice's rhythm is built on periods and commas, not on parenthetical insertions. The zero-em-dash count is not a rule but an emergent property of the voice done right.
+- **Why it works:** Confirms that the Style Guide's steppe voice description works at full chapter length, not just in passages. The voice is sustained through both narrative scenes (the childhood, the Jamukha rivalry) and analytical sections (the decimal system, the yasa) by treating institutional explanation as action rather than exposition. "The yasa said: protect merchants. The yasa said: do not foul running water." is institutional content delivered in steppe rhythm. This validates the Voice Spectrum section for the steppe/nomadic category and establishes a benchmark for future steppe chapters (Scythian, Turkic, Comanche, Bedouin).
+- **Status:** logged (1 instance -- first test of steppe voice at chapter length)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |

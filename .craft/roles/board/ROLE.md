@@ -45,6 +45,9 @@ introduce new board members. Track them here as they are created:
 | B-1 | Mark Edward Lewis | Tang political institutions, An Lushan rebellion | 17-east-asia |
 | B-2 | Stephen Owen | Tang poetry, keju literary culture, Du Fu/Li Bai | 17-east-asia |
 | B-3 | Valerie Hansen | Silk Road trade, Sogdian communities, foreign religions | 17-east-asia |
+| B-tongan-1 | Patrick Kirch | Polynesian archaeology, chiefly systems, Tongan prehistory | 22-oceania-pacific |
+| B-tongan-2 | David Lewis | Traditional Pacific navigation, swell-reading, star paths | 22-oceania-pacific |
+| B-tongan-3 | Epeli Hau'ofa | Pacific identity, Tongan-Fijian worldview, ocean-as-world | 22-oceania-pacific |
 
 ## Board Role Template
 
