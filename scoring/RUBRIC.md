@@ -1,6 +1,8 @@
 # LUCIA Scoring Rubric
 
-## Rubric v1.0 — Established 2026-04-15
+## Rubric v1.1 — Amended 2026-04-15
+
+**Changelog:** v1.0 → v1.1: Amended Progression, Figures, and Landing based on 8 innovations across 4 chapters (Mali, Haudenosaunee, San, Tang). See INNOVATIONS.md for sources.
 
 ---
 
@@ -160,6 +162,8 @@ Scores run 1–10. Each band below describes what that range looks like.
 | 7–8   | The chapter builds with purpose; each section adds something that makes the next section necessary. |
 | 9–10  | The progression feels inevitable — the chapter arrives where it must, having earned every step. |
 
+**v1.1 Amendment — Structural Engine:** The highest-scoring chapters find the culture's own structural mechanism and make it the narrative engine. Not context, not background — the PLOT. The Kurukan Fuga's self-consuming redistribution logic, the Mourning War's grief-violence cycle, the eland as single-species integration pivot. To score 9+, the chapter should identify the culture's own logic and let it drive the arc the way a character's flaw drives a novel. Chronology alone is not progression.
+
 ### Figures (0–10)
 
 | Band  | Anchor |
@@ -169,6 +173,8 @@ Scores run 1–10. Each band below describes what that range looks like.
 | 5–6   | Key figures are vivid enough to be remembered; their decisions make sense on their own terms. |
 | 7–8   | Leaders and ordinary people alike are dimensional; the reader understands them without being told what to think. |
 | 9–10  | The figures are genuinely alive — contradictory, surprising, fully human — and the chapter is unimaginable without them. |
+
+**v1.1 Amendment — Honest Limits as Technique:** When the record cannot support a figure's interiority, the gap itself becomes characterization. Explicitly acknowledging what we cannot know (Inari Kunate's thoughts, /Twi!kxao's specific identity) deepens trust rather than breaking it. For oral/archaeological cultures, composite figures drawn from multiple ethnographic accounts are valid when honestly disclosed in figures.md. A score of 7+ is achievable even with thin records if the chapter handles the thinness as craft rather than evasion.
 
 ### Voice (0–10)
 
@@ -189,6 +195,8 @@ Scores run 1–10. Each band below describes what that range looks like.
 | 5–6   | The close has presence; it feels like an ending rather than a stop. |
 | 7–8   | The landing carries the chapter's full weight; it opens outward without overstating. |
 | 9–10  | The final lines are inevitable — the only way this chapter could have ended — and they resonate past the page. |
+
+**v1.1 Amendment — Culture's Own Persistence as Close:** The highest-scoring landings let the culture's own persistence mechanism deliver the final line. The jelilu still singing (oral tradition as continuity), the present-tense grammar of Haudenosaunee's own name ("people who ARE building"), the dual stream of oral and written memory. To score 9+, the landing should find the culture's own way of enduring and let that — not authorial summary — carry the final weight.
 
 ---
 
