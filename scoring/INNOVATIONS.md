@@ -322,6 +322,22 @@ they trigger a rubric amendment.
 - **Why it works:** Solves the diaspora chapter's fundamental scene problem: the culture has no single geographic location, no single moment of founding drama. The page is the one place where the entire tradition converges, and treating it as a scene (with spatial layout, multiple voices, temporal layering) gives the opening a specificity and immediacy that a geographic scene could not provide for a dispersed people. This technique will apply to other text-centered or idea-centered chapters where the tradition's defining "place" is an intellectual construct rather than a physical location.
 - **Status:** logged (1 instance — watching for second to trigger amendment)
 
+### Innovation: Sedimentary Voice — Administrative-Mythic Register at Chapter Length
+- **Source:** regions/06-fertile-crescent/sumer/eras/01-when-kingship-came-down/
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The chapter sustains an administrative-yet-mythic voice register for 4,548 words with zero em-dashes. The technique: accumulative sentences that build like account entries (item by item, layer by layer), short declarative theological statements ("These were not symbols. The god was present."), and a sedimentary rhythm that mirrors both the alluvial deposits of the plain and the layers of a tablet archive. The voice belongs to a culture that kept meticulous records of the gods' grain and then used the same system to ask whether death was the end. The prose is heavy, wet, specific — the weight of clay. This register is distinct from steppe (spare, forward), maritime (rolling, cresting), oral-tradition (cadenced, repetitive), vertical (ascending, layered), and hydraulic (pooling, distributing). The sedimentary voice deposits.
+- **Why it works:** Extends the Style Guide's Voice Spectrum into a new category: temple-economy/administrative cultures. The voice is inseparable from the structural engine (clay as medium): the accumulative sentence structure mirrors the tablet archive's growth, and the theological declarations mirror the accounting tablets' certainty. The technique will apply to other cultures where administrative record-keeping and religious authority are fused (Egyptian temple economy, Ur III state, Shang oracle bones).
+- **Status:** logged (1 instance — first test of sedimentary/administrative voice at chapter length; pairs with steppe, maritime, oral-tradition, vertical, and hydraulic voice tests)
+
+### Innovation: Recording-as-Persistence Structural Engine
+- **Source:** regions/06-fertile-crescent/sumer/eras/01-when-kingship-came-down/
+- **Date:** 2026-04-14
+- **Dimension:** Progression / Landing
+- **Description:** The chapter's structural engine is the act of recording itself. Clay is the material medium (cf. Benin's bronze), but the engine is not the material per se — it is the cultural compulsion to record, which operates identically whether recording barley receipts, literary epics, or the destruction of cities. The accounting tablet and the lament are sisters, both acts of pressing marks into clay. The engine drives the chapter's arc from the first barley mark through the invention of writing, the edubba, Gilgamesh's poem-as-monument, and the lament-as-grief-accounting, to the landing where the accidental preservation of the archive (fire baking the tablets) transforms the culture's temporary records into permanent ones. The scribe's thumbprint on the back of the tablet is the engine's terminal image: the recorder preserved by the medium of recording.
+- **Why it works:** A new variant of the material-medium structural engine (Benin bronze) where the engine is not the medium itself but the practice of using the medium. The distinction matters: in the Benin chapter, the copper supply drives the arc; in this chapter, the compulsion to record drives the arc, and the clay is the vehicle. This engine type will apply to cultures where a recording practice (not just a recording medium) is the central cultural act: Egyptian temple records, Chinese historical tradition, Mesoamerican codex production.
+- **Status:** logged (1 instance — extends material-medium engine into recording-practice domain)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
