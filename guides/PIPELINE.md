@@ -200,6 +200,22 @@ the draft will execute. It should answer: What is the story of this era?
 Who are the human beings carrying it? What does each section accomplish?
 What will the panel push on when they read the full chapter?
 
+**v1.4 — Structural Engine Finder:** The notes MUST name the structural engine,
+its mechanism, and its terminal condition before the chapter is written. This
+prevents the chapter from defaulting to chronological narration. Example:
+"Engine: the Kurukan Fuga's self-consuming redistribution. Mechanism: generosity
+as legitimacy requiring ever-larger displays. Terminal condition: the display
+exceeds the treasury." If the engine cannot be named at the NOTES stage, the
+chapter is not ready to write.
+
+**Additional prompts for notes.md:**
+- If the culture's primary source is a single named chronicler, consider making
+  the chronicler the anchor figure (see Kanem-Bornu model).
+- For inscriptional cultures, consider opening with the inscription itself
+  (see Maurya model).
+- If the era covers simultaneous events in 5+ locations, flag the chapter for
+  the 6,000-word extended range.
+
 ---
 
 ### Stage 5 — PANEL-2
@@ -249,6 +265,15 @@ integrates into the chapter's first section. The middle sections develop
 the era's arc. The figures.md covers the key people of this era — written
 from inside the worldview, not as a reference list.
 
+**v1.4 — Landing guidance:** The landing section should close the chapter's
+arc, not the era's history. If the era's consequences extend beyond the
+chapter's scope, the landing should acknowledge what is coming without
+narrating it. Name the future, do not tell it.
+
+**v1.4 — Distributed narrative:** For chapters covering simultaneous events
+in 5+ locations, the word range extends to 6,000 words. The narrative may
+follow the distribution rather than a single line (see Fulani model).
+
 ---
 
 ### Stage 8 — GATE-2
@@ -291,7 +316,7 @@ in the same category, propose a rubric amendment. The rubric evolves upward.
 Three distinct editorial lenses, each catching what the others miss:
 
 - **E-1 — The Judgment Auditor**: Hunts outside-lens violations. Forbidden words (primitive, advanced, tribe). Anachronistic morality. Romanticization or demonization. Anything that steps outside the culture's own worldview.
-- **E-2 — The Voice Keeper**: Hunts register drift. Textbook voice ("The economy was based on..."). Modern commentary. Any paragraph that sounds like it was written for a Western audience rather than from inside the culture.
+- **E-2 — The Voice Keeper**: Hunts register drift. Textbook voice ("The economy was based on..."). Modern commentary. Any paragraph that sounds like it was written for a Western audience rather than from inside the culture. **v1.4 — Voice-random-paragraph test:** Open the chapter to three randomly selected paragraphs. Read each in isolation. Does the voice identify the culture? If a reader could not tell, from the rhythm alone, which culture this is, the voice is not sustained.
 - **E-3 — The Compression Editor**: Hunts re-explanation and filler. "This shows that..." "In other words..." Scenes that were followed by explanation of what they showed. Redundancies between sections.
 
 ---

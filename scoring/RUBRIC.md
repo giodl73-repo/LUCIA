@@ -186,6 +186,8 @@ Scores run 1–10. Each band below describes what that range looks like.
 
 **v1.1 Amendment — Honest Limits as Technique:** When the record cannot support a figure's interiority, the gap itself becomes characterization. Explicitly acknowledging what we cannot know (Inari Kunate's thoughts, /Twi!kxao's specific identity) deepens trust rather than breaking it. For oral/archaeological cultures, composite figures drawn from multiple ethnographic accounts are valid when honestly disclosed in figures.md. A score of 7+ is achievable even with thin records if the chapter handles the thinness as craft rather than evasion.
 
+**v1.4 Amendment — Archaeological Figures:** For cultures where the archaeological record preserves structures but not names, the benchmark is embodied presence, not naming. A figure does not need a name, but a figure needs a body. A figure described only through an outside observer's account is a figure at one remove. A figure described through their own sensory experience is a figure in the room. (See Swahili anonymous builder vs. Ghana merchant-at-one-remove for the distinction.)
+
 ### Voice (0–10)
 
 | Band  | Anchor |
