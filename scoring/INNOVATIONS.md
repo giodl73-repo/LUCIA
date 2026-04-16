@@ -82,6 +82,14 @@ they trigger a rubric amendment.
 - **Why it works:** Avoids the "catalog of cultural practices" failure mode that threatens any chapter about a culture with no chronological arc. Instead of listing practices sequentially, the chapter weaves them into a single revelation. The eland section does not summarize — it transforms what the reader understood about every preceding section.
 - **Status:** logged
 
+### Innovation: Poetry as Structural Evidence
+- **Source:** regions/17-east-asia/tang/eras/03-xuanzong-and-the-kaiyuan-peak/
+- **Date:** 2026-04-14
+- **Dimension:** Evidence / Voice
+- **Description:** The chapter uses Du Fu's and Li Bai's actual poems not as decoration or illustration but as primary evidence, characterization, and structural turning points simultaneously. "Spring Prospect" functions as the chapter's emotional hinge, the rebellion section's evidence base, and Du Fu's character revelation in a single eight-line poem. The poems are quoted in translation and then briefly situated, but the poems do the primary work.
+- **Why it works:** Treats poetry as a knowledge system (per Davis's demand) while satisfying narrative craft requirements (per Tuchman) within the same textual move. In a culture where poetry WAS political culture, letting the poems carry structural weight is both historically authentic and narratively effective. The technique avoids the two failure modes of literary chapters: using poems as decoration, or paraphrasing them into prose and losing the medium.
+- **Status:** logged
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |

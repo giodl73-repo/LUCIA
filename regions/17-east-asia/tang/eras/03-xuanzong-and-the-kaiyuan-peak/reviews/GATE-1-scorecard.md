@@ -1,0 +1,17 @@
+# GATE-1 Scorecard — The High Tang
+
+**Chapter:** Tang Dynasty — Xuanzong and the Kaiyuan Peak
+**Scorer:** GATE-1 Scorer
+**Date:** 2026-04-14
+
+| Dimension | Score | Evidence |
+|-----------|-------|----------|
+| Scene     | 5/5   | Opens with Du Fu arriving through the Chunming Gate in the autumn of Kaiyuan 23. Specific person, specific gate, specific season, specific year in the culture's own calendar. The heartbeat is immediate — a young man who has just failed his examination walking into the largest city in the world. |
+| World     | 5/5   | The keju examination system, the ward-and-curfew city structure, the kaiyuan tongbao currency, the Hu restaurants, the cosmopolitan religious landscape — all emerge through Du Fu's experience, never explained from outside. The concept of tianxia ("all under heaven") is felt in the confidence of the city without being named or glossed. |
+| Honesty   | 5/5   | No outside judgment. No "remarkably cosmopolitan." No framing against a Western baseline. The Nestorian Christians and Zoroastrians are presented as part of Chang'an's architecture of confidence, not as exotic. An Lushan is introduced without verdict — "half-Sogdian, half-Turkic, already gathering power." The examination failures are facts, not tragedy. |
+| Texture   | 5/5   | Sesame oil frying, lamb and spice in the Hu restaurants, the twelve-carriage-wide avenue, rammed earth faced with plaster, the drum sounding to open the market, the Zoroastrian eternal flame three wards from the palace. Multiple senses grounded in material specifics. The city is physical before it is conceptual. |
+| Voice     | 4/5   | The prose unfolds in layered observation consistent with the Style Guide's court culture tuning — unhurried, accumulative, each detail carrying political weight. Slight risk: the final two paragraphs shift toward a more reflective, future-knowing register that edges close to authorial commentary rather than pure immersion. The shift is earned by the content but represents a minor departure from the otherwise consistent inside voice. |
+| Pull      | 5/5   | The closing image — Du Fu disappearing among a million people "who did not yet know they were living in the last years of something" — creates genuine narrative tension without a cliffhanger trick. The reader knows the destruction is coming; the pull is in wanting to live through the golden age before it breaks. The failed examination creates personal stakes that mirror the empire's arc. |
+| **Total** | **29/30** | |
+
+**Notes:** Exceptionally strong opening. The choice of Du Fu as the entry point is strategic — he is both a witness to the peak and the poet who will record its fall, creating a natural through-line for the full chapter. The opening avoids the trap of leading with Xuanzong or the court, instead entering Chang'an from the ground level through a young man who has failed. The cosmopolitanism is shown through the market and the temples, not asserted. The single point deducted from Voice reflects a slight tonal shift in the final paragraphs where the prose becomes more self-consciously aware of the reader's foreknowledge of the rebellion — "he was standing at the top of something" edges toward authorial commentary. This is a minor concern that can be addressed in the full chapter by sustaining the inside perspective through the rebellion sections. Gate: **PASSED** (29/30, threshold 24).

@@ -25,7 +25,7 @@
 | 14 | Southern Africa | complete | 11 | draft | 1 | 1 |
 | 15 | South Asia | complete | 15 | draft | 0 | 0 |
 | 16 | Tibet & Himalaya | complete | 9 | draft | 0 | 0 |
-| 17 | East Asia | complete | 21 | draft | 0 | 0 |
+| 17 | East Asia | complete | 21 | draft | 1 | 1 |
 | 18 | Southeast Asia | complete | 11 | draft | 0 | 0 |
 | 19 | Central/Inner Asia | complete | 10 | draft | 0 | 0 |
 | 20 | Western Christendom | complete | 13 | draft | 0 | 0 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 0 | 0 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **3** | **3** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **4** | **4** |
 
 ---
 
