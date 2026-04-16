@@ -1,10 +1,11 @@
 # LUCIA Scoring Rubric
 
-## Rubric v1.2 — Amended 2026-04-15
+## Rubric v1.3 — Amended 2026-04-15
 
 **Changelog:**
 - v1.0 → v1.1: Amended Progression, Figures, and Landing based on 8 innovations across 4 chapters (Mali, Haudenosaunee, San, Tang).
-- v1.1 → v1.2: Amended Honesty based on 3 innovations across Mali Eras 2, 4, 5. See INNOVATIONS.md for sources.
+- v1.1 → v1.2: Amended Honesty based on 3 innovations across Mali Eras 2, 4, 5.
+- v1.2 → v1.3: Amended Evidence based on 3 innovations across Tang, Mali Era 4, Tongan. See INNOVATIONS.md for sources.
 
 ---
 
@@ -155,6 +156,8 @@ Scores run 1–10. Each band below describes what that range looks like.
 | 5–6   | Named figures and real events are present; the chapter has a factual skeleton. |
 | 7–8   | Evidence is woven into narrative; stories feel drawn from the historical record, not invented for effect. |
 | 9–10  | The chapter is dense with specific, verifiable texture — names, objects, events — and none of it feels forced. |
+
+**v1.3 Amendment — Knowledge-System-as-Evidence:** The highest-scoring chapters don't just cite evidence — they let the culture's own knowledge system BE the evidence. Three techniques discovered: (1) **Primary Art as Structural Evidence** — a culture's own artistic production (Tang poetry, Benin bronzes) used not as decoration but as primary evidence, characterization, and structural turning points simultaneously. The poem or plaque does the analytical work. (2) **Disciplinary Depth** — a single specific exercise (Maliki inheritance calculation, navigational star fix) shown at the level of method, transforming generic "they had scholarship" into verifiable intellectual practice. (3) **Body-as-Instrument** — for kinesthetic knowledge systems (Polynesian navigation, San tracking), rendering the knowledge through sensation in the reader's body, not through procedural description. To score 9+, evidence should emerge from the culture's own epistemic medium, not from the author's citations about it.
 
 ### Progression (0–10)
 
