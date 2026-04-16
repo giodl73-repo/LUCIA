@@ -130,6 +130,30 @@ they trigger a rubric amendment.
 - **Why it works:** Provides a replicable technique for handling source material from visitors, travelers, and colonial observers without centering their perspective. The outsider's account is used as evidence, but the evidence it provides is about the outsider, not about the culture. This will apply to any chapter that uses accounts from people outside the culture being described.
 - **Status:** logged (1 instance -- watching for second to trigger amendment)
 
+### Innovation: Unchanging Song as Narrative Measure
+- **Source:** regions/10-west-africa-sahel/mali-empire/eras/05-the-songhai-succession/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter uses the jelilu's unchanging genealogy as the fixed measure against which the empire's contraction becomes visible. The genealogy does not shorten when the empire does; the growing gap between the song's scope and the political reality IS the chapter's central tension. The technique inverts the usual relationship between narrative and context: the cultural narrative stays the same, the political context changes around it, and the reader measures the change by the growing distance between the two.
+- **Why it works:** Provides a narrative engine for decline chapters that avoids both mourning and retrodiction. The unchanging element (the genealogy) creates a stable reference point against which change is measured, without the chapter having to comment on or evaluate the change. This extends the v1.1 Structural Engine amendment into a new mode: where earlier chapters used the covenant's logic as an active driver, this chapter uses the covenant's stability as a passive measure.
+- **Status:** logged (extends existing Progression innovation — already adopted in v1.1; new application)
+
+### Innovation: No-Verdict Decline via Cultural Attribution
+- **Source:** regions/10-west-africa-sahel/mali-empire/eras/05-the-songhai-succession/
+- **Date:** 2026-04-14
+- **Dimension:** Honesty
+- **Description:** The chapter tells a story of political contraction without mourning, retrodiction, or judgment by attributing the refusal to judge to the culture's own voice: "This was not a fall. The jelilu would not use the word." The No Verdicts discipline (Style Principle #7) is rendered as an inside-voice observation rather than an editorial constraint. The culture's own historiographic framework does not carry a narrative of decline, so the chapter does not carry one either.
+- **Why it works:** Solves the hardest No Verdicts problem: how to write about a civilization's contraction without either mourning it (verdict of tragedy) or explaining it as inevitable (verdict of retrodiction). By grounding the refusal to judge in the culture's own practice, the technique makes the editorial constraint disappear into the world. The reader does not feel a rule being followed; the reader feels a culture that simply does not tell its story as a story of decline.
+- **Status:** logged (1 instance — watching for second to trigger amendment)
+
+### Innovation: Recursive Structural Engine Across Eras
+- **Source:** regions/10-west-africa-sahel/mali-empire/eras/05-the-songhai-succession/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter takes the structural engine from Era 3 (the Kurukan Fuga's self-consuming redistribution logic) and traces it to its terminal expression in Era 5, then shows the same structural pattern recurring in the Songhai Empire (Askia Muhammad's rise, concentration of power, succession conflict, contraction). The recursion is made visible without claiming it was inevitable, satisfying No Verdicts while delivering genuine comparative structural insight across the full five-era arc.
+- **Why it works:** Demonstrates that the structural engine innovation can operate across multiple chapters of the same culture's story, creating a through-line that gives the full "book" (all five Mali eras) a unified analytical argument. This is the first instance of a structural engine operating at book-level rather than chapter-level.
+- **Status:** logged (1 instance — watching for second to trigger amendment)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
