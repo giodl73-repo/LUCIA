@@ -259,3 +259,4 @@ they trigger a rubric amendment.
 | v1.1 | 2026-04-15 | Honest Limits as Technique | Mali, San | Figures |
 | v1.1 | 2026-04-15 | Culture's Own Persistence as Close | Mali, Haudenosaunee | Landing |
 | v1.2 | 2026-04-15 | Inside-Voice Honesty | Mali Eras 2, 4, 5 | Honesty |
+| v1.3 | 2026-04-15 | Knowledge-System-as-Evidence | Tang, Mali Era 4, Tongan | Evidence |
