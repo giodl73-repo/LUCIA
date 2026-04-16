@@ -98,6 +98,38 @@ they trigger a rubric amendment.
 - **Why it works:** Avoids the two failure modes of battle chapters in oral-tradition cultures: either rationalizing the battle into conventional military terms (losing the culture's voice) or treating the mythic elements as "colorful" embellishment to be enjoyed but not taken seriously. Instead, the riddle IS the analysis. The jeli's way of telling the battle IS the political philosophy. This technique is specific to oral-tradition cultures where narrative form carries epistemological weight.
 - **Status:** logged (1 instance — watching for second to trigger amendment)
 
+### Innovation: Open Silence as Narrative Technique
+- **Source:** regions/10-west-africa-sahel/mali-empire/eras/02-the-expansion/
+- **Date:** 2026-04-14
+- **Dimension:** Honesty / Voice
+- **Description:** The chapter's treatment of Abu Bakr II's Atlantic voyage introduces a specific technique: leaving a narrative thread deliberately open because the oral tradition leaves it open. "The jelilu do not say he died. They say he did not come back." This is not ambiguity for literary effect. It is the oral tradition's own epistemological practice rendered as narrative technique. The chapter respects the tradition's distinction between known and unknown, and this respect becomes a source of narrative power rather than a weakness.
+- **Why it works:** Related to the Honest Limits innovation but distinct. This is not about gaps in the record due to lost evidence. It is about the tradition's deliberate choice to keep a story open. The technique transforms what could be a frustrating absence (we don't know what happened) into the chapter's most memorable moment. The oral tradition's epistemological precision becomes the narrative's emotional center.
+- **Status:** logged (1 instance — watching for second to trigger amendment)
+
+### Innovation: Institutional Resilience as Structural Engine
+- **Source:** regions/10-west-africa-sahel/mali-empire/eras/02-the-expansion/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter uses the Kurukan Fuga's self-correcting governance mechanism as the narrative engine. Each succession crisis (Khalifa's deposition, Sakura's elevation, Abu Bakr's departure) reveals a new institutional feature, and the accumulation of these revelations IS the chapter's progression. This extends the v1.1 "Covenant as Structural Engine" from Era 3 into a governance mode: where Era 3 used the covenant's redistribution logic, Era 2 uses its resilience logic. Same institution, different narrative function.
+- **Why it works:** Solves the "middle era" problem — an era between founding drama and golden-age peak that lacks a defining event. The chapter makes the absence of a defining event the point. The structural engine transforms a potential weakness (no single dramatic focal point) into the chapter's argument. The technique has broad applicability: many cultures have "middle eras" that need a structural engine other than chronological momentum.
+- **Status:** logged (extends existing Progression innovation — already adopted in v1.1; this is a new application, not a new dimension)
+
+### Innovation: Disciplinary Depth as Structural Evidence
+- **Source:** regions/10-west-africa-sahel/mali-empire/eras/04-the-scholarly-peak/
+- **Date:** 2026-04-14
+- **Dimension:** Evidence
+- **Description:** The chapter's treatment of the Mukhtasar's inheritance calculations describes the specific mathematical work that Maliki jurisprudence demanded, transforming a generic claim about "scholarship" into a specific, verifiable demonstration of intellectual practice. The fractional inheritance problem (wife, mother, two daughters, paternal uncle) is not a metaphor for scholarly activity; it IS scholarly activity, shown at the level of method. This technique applies the v1.1 evidence standard while simultaneously serving the Davis test.
+- **Why it works:** Treats the intellectual tradition at the same depth that a chapter on Oxford or Bologna would require. The specific example is not decorative but demonstrates the integration of legal, mathematical, and pedagogical traditions. The reader understands the tradition's rigor through a single, concrete exercise rather than through assertion.
+- **Status:** logged (1 instance -- watching for second to trigger amendment)
+
+### Innovation: Outsider's Bias as Inside Characterization
+- **Source:** regions/10-west-africa-sahel/mali-empire/eras/04-the-scholarly-peak/
+- **Date:** 2026-04-14
+- **Dimension:** Honesty / Figures
+- **Description:** Ibn Battuta's disapproval of Malian women's freedom is rendered as characterization of HIM, not as commentary on THEM. "He measured it against his own system and found it wanting. The Malians were not measuring." The technique inverts the conventional use of outside observers: instead of the outsider's testimony validating the culture, the outsider's biases reveal HIS limitations while the culture continues undisturbed.
+- **Why it works:** Provides a replicable technique for handling source material from visitors, travelers, and colonial observers without centering their perspective. The outsider's account is used as evidence, but the evidence it provides is about the outsider, not about the culture. This will apply to any chapter that uses accounts from people outside the culture being described.
+- **Status:** logged (1 instance -- watching for second to trigger amendment)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
