@@ -57,6 +57,12 @@ introduce new board members. Track them here as they are created:
 | B-maya-1 | David Stuart (model) | Maya epigraphy, Long Count calendar, Classic political history | 01-mesoamerica |
 | B-maya-2 | Michael Coe (model) | Mesoamerican archaeology, Maya sites, material culture | 01-mesoamerica |
 | B-maya-3 | Evon Vogt (model) | Maya ethnography, living communities, calendar continuity | 01-mesoamerica |
+| B-norse-1 | Neil Price | Viking-age archaeology, social structure, belief systems | 21-northern-eastern-europe |
+| B-norse-2 | Judith Jesch | Old Norse language, runic inscriptions, skaldic poetry, maritime culture | 21-northern-eastern-europe |
+| B-norse-3 | Soren Sindbak | Viking-age trade networks, Scandinavian trading settlements | 21-northern-eastern-europe |
+| B-soninke-1 | Nehemia Levtzion | Arabic geographical sources, political/economic reconstruction of western Sudan | 10-west-african-sahel-and-savanna |
+| B-soninke-2 | David Conrad | Mande oral traditions, the Dausi, Almoravid-Ghana historiography | 10-west-african-sahel-and-savanna |
+| B-soninke-3 | Susan Keech McIntosh | Archaeology of the western Sahel, Kumbi Saleh, trans-Saharan trade material culture | 10-west-african-sahel-and-savanna |
 
 ## Board Role Template
 
