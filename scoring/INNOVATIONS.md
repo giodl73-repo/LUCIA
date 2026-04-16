@@ -104,7 +104,7 @@ they trigger a rubric amendment.
 - **Dimension:** Honesty / Voice
 - **Description:** The chapter's treatment of Abu Bakr II's Atlantic voyage introduces a specific technique: leaving a narrative thread deliberately open because the oral tradition leaves it open. "The jelilu do not say he died. They say he did not come back." This is not ambiguity for literary effect. It is the oral tradition's own epistemological practice rendered as narrative technique. The chapter respects the tradition's distinction between known and unknown, and this respect becomes a source of narrative power rather than a weakness.
 - **Why it works:** Related to the Honest Limits innovation but distinct. This is not about gaps in the record due to lost evidence. It is about the tradition's deliberate choice to keep a story open. The technique transforms what could be a frustrating absence (we don't know what happened) into the chapter's most memorable moment. The oral tradition's epistemological precision becomes the narrative's emotional center.
-- **Status:** logged (1 instance — watching for second to trigger amendment)
+- **Status:** adopted (v1.2)
 
 ### Innovation: Institutional Resilience as Structural Engine
 - **Source:** regions/10-west-africa-sahel/mali-empire/eras/02-the-expansion/
@@ -128,7 +128,7 @@ they trigger a rubric amendment.
 - **Dimension:** Honesty / Figures
 - **Description:** Ibn Battuta's disapproval of Malian women's freedom is rendered as characterization of HIM, not as commentary on THEM. "He measured it against his own system and found it wanting. The Malians were not measuring." The technique inverts the conventional use of outside observers: instead of the outsider's testimony validating the culture, the outsider's biases reveal HIS limitations while the culture continues undisturbed.
 - **Why it works:** Provides a replicable technique for handling source material from visitors, travelers, and colonial observers without centering their perspective. The outsider's account is used as evidence, but the evidence it provides is about the outsider, not about the culture. This will apply to any chapter that uses accounts from people outside the culture being described.
-- **Status:** logged (1 instance -- watching for second to trigger amendment)
+- **Status:** adopted (v1.2)
 
 ### Innovation: Unchanging Song as Narrative Measure
 - **Source:** regions/10-west-africa-sahel/mali-empire/eras/05-the-songhai-succession/
@@ -144,7 +144,7 @@ they trigger a rubric amendment.
 - **Dimension:** Honesty
 - **Description:** The chapter tells a story of political contraction without mourning, retrodiction, or judgment by attributing the refusal to judge to the culture's own voice: "This was not a fall. The jelilu would not use the word." The No Verdicts discipline (Style Principle #7) is rendered as an inside-voice observation rather than an editorial constraint. The culture's own historiographic framework does not carry a narrative of decline, so the chapter does not carry one either.
 - **Why it works:** Solves the hardest No Verdicts problem: how to write about a civilization's contraction without either mourning it (verdict of tragedy) or explaining it as inevitable (verdict of retrodiction). By grounding the refusal to judge in the culture's own practice, the technique makes the editorial constraint disappear into the world. The reader does not feel a rule being followed; the reader feels a culture that simply does not tell its story as a story of decline.
-- **Status:** logged (1 instance — watching for second to trigger amendment)
+- **Status:** adopted (v1.2)
 
 ### Innovation: Recursive Structural Engine Across Eras
 - **Source:** regions/10-west-africa-sahel/mali-empire/eras/05-the-songhai-succession/
@@ -162,3 +162,4 @@ they trigger a rubric amendment.
 | v1.1 | 2026-04-15 | Structural Engine amendment | Mali, Haudenosaunee, San | Progression |
 | v1.1 | 2026-04-15 | Honest Limits as Technique | Mali, San | Figures |
 | v1.1 | 2026-04-15 | Culture's Own Persistence as Close | Mali, Haudenosaunee | Landing |
+| v1.2 | 2026-04-15 | Inside-Voice Honesty | Mali Eras 2, 4, 5 | Honesty |
