@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
-**Phase:** 1 — Skeleton (3 levels deep)
-**Last updated:** 2026-04-14 (Roman book complete — 5 eras locked)
+**Phase:** 2 — Anchor Region Pipeline (in progress)
+**Last updated:** 2026-04-16 (Session 2 — 11 chapters locked, Sahel complete, 4 new voices)
 
 ---
 
@@ -18,24 +18,24 @@
 | 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
 | 8 | Islamic Heartlands | complete | 13 | draft | 1 | 1 |
 | 9 | Egypt & Nile | complete | 9 | draft | 1 | 1 |
-| 10 | W Africa Sahel | complete | 8 | draft | 5 | 5 |
+| 10 | W Africa Sahel | complete | 8 | draft | 12 | 12 |
 | 11 | W Africa Forest | complete | 7 | draft | 1 | 1 |
 | 12 | Central Africa | complete | 6 | draft | 0 | 0 |
-| 13 | E Africa/Horn | complete | 9 | draft | 0 | 0 |
+| 13 | E Africa/Horn | complete | 9 | draft | 1 | 1 |
 | 14 | Southern Africa | complete | 11 | draft | 1 | 1 |
-| 15 | South Asia | complete | 15 | draft | 0 | 0 |
-| 16 | Tibet & Himalaya | complete | 9 | draft | 0 | 0 |
+| 15 | South Asia | complete | 15 | draft | 1 | 1 |
+| 16 | Tibet & Himalaya | complete | 9 | draft | 1 | 1 |
 | 17 | East Asia | complete | 21 | draft | 1 | 1 |
 | 18 | Southeast Asia | complete | 11 | draft | 1 | 1 |
 | 19 | Central/Inner Asia | complete | 10 | draft | 1 | 1 |
 | 20 | Western Christendom | complete | 13 | draft | 0 | 0 |
-| 21 | N & E Europe | complete | 15 | draft | 0 | 0 |
+| 21 | N & E Europe | complete | 15 | draft | 1 | 1 |
 | 22 | Oceania & Pacific | complete | 10 | draft | 2 | 2 |
 | 23 | Americas Reborn | complete | 10 | draft | 0 | 0 |
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 1 | 1 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **28** | **28** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **39** | **39** |
 
 ---
 
@@ -64,15 +64,16 @@ Build the three-level skeleton across all 26 regions.
 
 - [x] 26 landscape files (one per region)
 - [x] ~250–300 people-group overviews with eras enumerated (259 created)
-- [ ] All L2 entries indexed under their region
+- [x] All L2 entries indexed under their region
 
 **Exit criteria:** Every region has a landscape file; all major peoples have an overview with eras named.
 
-### Phase 2 — Anchor Region Pipeline
+### Phase 2 — Anchor Region Pipeline (current)
 Drive one anchor region through the full 11-stage writing pipeline to prove the end-to-end process.
 
-- [ ] Select anchor region
-- [ ] Complete all chapters for anchor region (all eras, all stages)
+- [x] Select anchor region (Mali Empire — completed Session 1)
+- [x] Complete all chapters for anchor region — Mali 5 eras locked (79.2 mean)
+- [x] Expand to full Sahel region — all 8 peoples now have chapters (Session 2)
 - [ ] Retrospective: refine pipeline based on lessons learned
 
 **Exit criteria:** Anchor region fully written, scored, and locked.

@@ -442,6 +442,182 @@ they trigger a rubric amendment.
 - **Why it works:** A new terminal-condition type for the structural engine. Previous engines terminated through self-consumption (Mali), cyclical resolution (Haudenosaunee), ecological stress (Khmer), categorical failure (Maya). This engine terminates through a mismatch between the type of power the engine produces (military) and the type of legitimacy the territory requires (legal-commercial). The technique applies to any chapter about a military state that conquers a civilization with a different basis of authority.
 - **Status:** logged (1 instance -- extends adopted v1.1 Progression innovation into new terminal-condition category)
 
+### Innovation: Intermediary Economics as Structural Engine
+- **Source:** regions/10-west-africa-sahel/soninke/eras/03-the-high-wagadu/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** First engine driven by trade-position economics explained through the culture's own sacred framework (Bida serpent covenant). The Soninke controlled neither gold nor salt but controlled the crossing. The covenant was the culture's own theory of why intermediary power worked.
+- **Why it works:** New structural engine category: intermediary economics. Applicable to other intermediary cultures (Sogdians, Swahili, Phoenicians).
+- **Status:** logged
+
+### Innovation: Twin-Source Narration
+- **Source:** regions/10-west-africa-sahel/soninke/eras/03-the-high-wagadu/
+- **Date:** 2026-04-16
+- **Dimension:** Evidence
+- **Description:** Systematic use of outside written source (Al-Bakri) for material detail + inside oral source (Dausi) for interpretive framework, with the tension acknowledged and productive.
+- **Why it works:** Turns source-type mismatch into a narrative technique. The outside source provides specificity; the inside source provides meaning. The gap between them IS the chapter's epistemological honesty.
+- **Status:** logged
+
+### Innovation: Manufacturing Process as Knowledge System
+- **Source:** regions/10-west-africa-sahel/hausa-city-states/eras/03-the-manufacturing-peak/
+- **Date:** 2026-04-16
+- **Dimension:** Evidence
+- **Description:** The dyer's nose-to-vat assessment rendered as intellectual act, extending Body-as-Instrument to craft traditions. Manufacturing knowledge treated at the level of method, not summary.
+- **Why it works:** Extends Disciplinary Depth and Body-as-Instrument innovations into artisanal knowledge systems.
+- **Status:** logged
+
+### Innovation: City as Sensory Map
+- **Source:** regions/10-west-africa-sahel/hausa-city-states/eras/03-the-manufacturing-peak/
+- **Date:** 2026-04-16
+- **Dimension:** Immersion
+- **Description:** Navigating urban economic structure through smell transitions between quarters. The city's geography rendered through olfactory experience rather than spatial description.
+- **Why it works:** New immersion technique for urban chapters. The sensory map carries economic analysis (production zones, trade routes) without separating description from argument.
+- **Status:** logged
+
+### Innovation: Parallel Institutional Systems as Inside-Voice Technique
+- **Source:** regions/10-west-africa-sahel/hausa-city-states/eras/03-the-manufacturing-peak/
+- **Date:** 2026-04-16
+- **Dimension:** Honesty
+- **Description:** Mosque-Bori coexistence rendered as lived reality rather than theological problem. Two institutional systems operating in parallel without the chapter privileging either or treating the coexistence as a paradox to be explained.
+- **Why it works:** Avoids the "religious syncretism" framing that imposes an outside analytical category. The culture did not experience it as syncretism; the chapter does not frame it that way.
+- **Status:** logged
+
+### Innovation: Curtain as Structural Device
+- **Source:** regions/10-west-africa-sahel/kanem-bornu/eras/04-the-bornu-empire/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** A single physical object from the culture's own practice (the curtain shielding the mai) serves as the chapter's structural backbone across all sections. The curtain embodies the tension between sacred immobility and strategic action.
+- **Why it works:** New technique: a material object from the culture's own political practice becomes the chapter's organizing metaphor without being imposed from outside. The curtain IS the culture's political theory made physical.
+- **Status:** logged
+
+### Innovation: Chronicler-Within-the-Chronicle
+- **Source:** regions/10-west-africa-sahel/kanem-bornu/eras/04-the-bornu-empire/
+- **Date:** 2026-04-16
+- **Dimension:** Figures / Evidence
+- **Description:** Ahmad ibn Fartuwa is simultaneously anchor figure and primary source. The chapter inhabits the act of its own documentation. The chronicler's perspective shapes the narrative while remaining visible as a perspective.
+- **Why it works:** Solves the problem of cultures whose richest source IS a single court chronicle. Rather than treating the chronicle as transparent evidence, the chapter makes the chronicler's presence and limitations part of the story.
+- **Status:** logged
+
+### Innovation: Distributed Network as Narrative Engine
+- **Source:** regions/10-west-africa-sahel/fulani/eras/04-dan-fodio-and-the-sokoto-jihad/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The scholarly correspondence network IS the plot. The flag-holder system rendered as knowledge-infrastructure repurposed for political action. The Torodbe network's transformation from scholarly community to governing order drives the arc.
+- **Why it works:** New engine type: a pre-existing knowledge network becomes a revolutionary infrastructure. The engine explains both the speed of the jihad's success (the network already existed) and its specific character (scholarly, not purely military).
+- **Status:** logged
+
+### Innovation: Scholarly Critique as Landing Mechanism
+- **Source:** regions/10-west-africa-sahel/fulani/eras/04-dan-fodio-and-the-sokoto-jihad/
+- **Date:** 2026-04-16
+- **Dimension:** Landing
+- **Description:** The Shehu's own post-jihad writings (critiquing the state his jihad created) serve as the culture's persistence mechanism. The pen judges the sword. The landing uses the founder's self-critique as the closing image.
+- **Why it works:** New landing technique: the culture's own reflexive capacity delivers the final note. The tradition persists not despite self-criticism but through it.
+- **Status:** logged
+
+### Innovation: Outsider-as-Evidence for Structural Position
+- **Source:** regions/10-west-africa-sahel/wolof/eras/02-the-first-atlantic-contact/
+- **Date:** 2026-04-16
+- **Dimension:** Progression / Honesty
+- **Description:** Portuguese sources used not as authorities on the Wolof but as evidence of the structural relationship. Zurara's bafflement characterizes Portuguese limitations. Barros's account of Bemoim's death reveals Portuguese unreliability as allies.
+- **Why it works:** Extends v1.2 Outsider's Bias technique into the Progression dimension. The outsider's account becomes structural evidence of the power relationship, not just characterization of the outsider.
+- **Status:** logged
+
+### Innovation: Ecological Mechanism as Structural Engine
+- **Source:** regions/10-west-africa-sahel/wolof/eras/02-the-first-atlantic-contact/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The tsetse fly and horse mortality (3-5 year lifespan in coastal zones) make cavalry a flow, not a stock. The supply route (Saharan vs. Atlantic) becomes the decisive political variable. Ecology becomes plot.
+- **Why it works:** Extends v1.1 Structural Engine by grounding it in ecological constraint. The environment is not backdrop but the mechanism driving political outcomes.
+- **Status:** logged
+
+### Innovation: Saga Understatement as No-Verdict Mechanism
+- **Source:** regions/21-northern-and-eastern-europe/norse-vikings/eras/02-the-viking-age-opens/
+- **Date:** 2026-04-16
+- **Dimension:** Voice / Honesty
+- **Description:** The saga tradition's own narrative practice IS the Honesty discipline. "The wind had been fair" after describing destruction does more ethical work than any explicit commentary. The culture's own technique of saying less than it means naturally produces no-verdict prose.
+- **Why it works:** Parallels v1.2 Inside-Voice Honesty but in a new tradition. The Norse don't withhold judgment because the rubric says so; they withhold it because their storytelling tradition does. The editorial constraint disappears into the culture's voice.
+- **Status:** logged
+
+### Innovation: Material Object as Structural Engine
+- **Source:** regions/21-northern-and-eastern-europe/norse-vikings/eras/02-the-viking-age-opens/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The ship drives the entire chapter arc. Not a technology section or setting but the organizing principle: ship's flexibility mirrors social flexibility, ship determines who goes, how far, what returns. First chapter to find its engine in a material object rather than a social mechanism.
+- **Why it works:** New engine category. The ship is not metaphor but mechanism. Where Benin used material medium (bronze), this uses material object (ship) — the object's physical properties determine the culture's expansion logic.
+- **Status:** logged
+
+### Innovation: Saga-Spare Voice Sustained at Chapter Length
+- **Source:** regions/21-northern-and-eastern-europe/norse-vikings/eras/02-the-viking-age-opens/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** New voice register validated at chapter length. Understatement as structural principle. Short declarative default, proverb-weight sentences spaced carefully, laconic emotional register where "he took that badly" = violence is coming. Distinct from steppe (more deliberate, stops to look), maritime (flatter, drier), oral tradition (cooler, records rather than performs).
+- **Why it works:** Extends Voice Spectrum into saga/Nordic category. The register's understatement naturally produces the Honesty discipline without enforcement.
+- **Status:** logged
+
+### Innovation: Maritime Accumulative Voice Sustained at Chapter Length
+- **Source:** regions/13-east-africa-horn-and-swahili-world/swahili-city-states/eras/02-the-classic-swahili-period/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** New voice register: rolling, gathering clauses like swells building, breaking into short declarative sentences like waves landing. Distinct from existing maritime voice (Tongan) because the Swahili register makes the rhythm do analytical work — trade calculations, information asymmetry, structural tension all delivered in the accumulative-then-breaking register.
+- **Why it works:** Extends Voice Spectrum with a maritime variant that carries both atmosphere and argument. The monsoon cycle becomes the temporal structure of the prose itself.
+- **Status:** logged
+
+### Innovation: Anonymous Builder as Framing Device
+- **Source:** regions/13-east-africa-horn-and-swahili-world/swahili-city-states/eras/02-the-classic-swahili-period/
+- **Date:** 2026-04-16
+- **Dimension:** Figures
+- **Description:** Unnamed representative figure for cultures where archaeology preserves structures but not individual names. The gap becomes collective voice rather than individual silence.
+- **Why it works:** Extends Honest Limits technique to archaeological cultures. The anonymity is not a failure but a reflection of who these builders were: their work survives, their names do not.
+- **Status:** logged
+
+### Innovation: The Node as Structural Center
+- **Source:** regions/13-east-africa-horn-and-swahili-world/swahili-city-states/eras/02-the-classic-swahili-period/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** Chapter's center of gravity located in a commercial space (the merchant woman's storehouse) rather than a political or religious institution. Reflects the trade-based organizing principle of the city-states.
+- **Why it works:** The structural center matches the culture's own center of gravity. For a trade civilization, the storehouse where inland and oceanic goods meet IS the political institution.
+- **Status:** logged
+
+### Innovation: Translation-as-Civilizational-Recovery Structural Engine
+- **Source:** regions/16-tibet-and-the-himalayan-world/post-imperial-tibet/eras/02-the-western-revival/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The act of translation used not as context but as PLOT. Chain breaks, king invests in repair, method shown at depth, living teacher completes the repair. Intellectual-devotional engine where scholarship IS devotion.
+- **Why it works:** New engine type: intellectual practice as narrative driver. The translation chain drives the arc the same way a covenant or cycle does in other chapters.
+- **Status:** logged
+
+### Innovation: Philosophical-Devotional Voice Sustained at Chapter Length
+- **Source:** regions/16-tibet-and-the-himalayan-world/post-imperial-tibet/eras/02-the-western-revival/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** New voice register: moves at the speed of careful thought. Long accumulative sentences build meaning clause by clause, the way a translation builds vocabulary. No separation between intellectual and devotional registers. Silence between sentences mirrors silence between syllables in a translation session.
+- **Why it works:** Extends Voice Spectrum into contemplative/translation cultures. First voice where the pace of thought IS the prose's defining rhythm.
+- **Status:** logged
+
+### Innovation: Self-Consuming Patron Logic
+- **Source:** regions/16-tibet-and-the-himalayan-world/post-imperial-tibet/eras/02-the-western-revival/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** Yeshe-O's system consumes its own patron (the king dies so the gold can fund Atisha's invitation). Unlike Mali's unintended self-consumption, this is DELIBERATE — the tradition understands the king's death as the system performing correctly.
+- **Why it works:** Intentional variant of Mali's self-consuming covenant. The dharmaraja exists to serve the Dharma, even unto death. Extends the self-consuming engine into cultures where self-sacrifice is the system's design, not its failure mode.
+- **Status:** logged
+
+### Innovation: Edict-as-Voice
+- **Source:** regions/15-south-asia/maurya/eras/03-ashokas-conquest-and-turn/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** New voice register: edict-inscriptional. Opening with the primary source text itself (Rock Edict 13) as the chapter's first lines. The physical medium of inscription as the structural principle of the prose. Declarative, weighted, carved. Modulates across war (kinetic), policy (enumerative), stone (material-descriptive), and landing (elegiac).
+- **Why it works:** First voice where the culture's own inscriptional medium becomes the narrator's register. Zero em-dashes is a natural property — inscriptional prose does not interrupt itself.
+- **Status:** logged
+
+### Innovation: Stone Paradox as Structural Engine
+- **Source:** regions/15-south-asia/maurya/eras/03-ashokas-conquest-and-turn/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** Power expressed through vulnerability. The medium of sovereignty (carved stone edict) becomes the medium of grief (Kalinga remorse). The vulnerability proves more durable than the power: the Arthashastra state lasted three generations; the edicts lasted twenty-three centuries.
+- **Why it works:** New engine class: material-medium paradox. The same physical medium serves opposite purposes, and the paradox resolves in favor of the vulnerable use. Extends Material Medium engine into paradox territory.
+- **Status:** logged
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |

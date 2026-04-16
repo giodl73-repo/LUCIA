@@ -77,19 +77,47 @@ All 28 chapters were written in Session 1. Score is combined (Gate + Chronicle, 
 
 ---
 
+## Spawn History — Session 2
+
+### West Africa Sahel Completion (7 chapters)
+
+| Spawn | Culture | Era | Score | Status |
+|-------|---------|-----|-------|--------|
+| SCRIBE-songhai-01 | Songhai Empire | The River War | 81/90 | Locked |
+| SCRIBE-fulani-01 | Fulani | Dan Fodio and the Sokoto Jihad | 82/90 | Locked |
+| SCRIBE-wolof-01 | Wolof | First Atlantic Contact | 80/90 | Locked |
+| SCRIBE-kanem-01 | Kanem-Bornu | The Bornu Empire | 79/90 | Locked |
+| SCRIBE-soninke-01 | Soninke | The High Wagadu | 77/90 | Locked |
+| SCRIBE-hausa-01 | Hausa City-States | Manufacturing Peak | 75/90 | Locked |
+| SCRIBE-ghana-01 | Ghana Empire | The Age of Gold | 74/90 | Locked |
+
+### New Voice Tests (4 chapters)
+
+| Spawn | Culture | Era | Score | Voice Discovered | Status |
+|-------|---------|-----|-------|------------------|--------|
+| SCRIBE-tibet-01 | Post-Imperial Tibet | The Western Revival | 80/90 | Philosophical-Devotional | Locked |
+| SCRIBE-maurya-01 | Maurya | Ashoka's Conquest and Turn | 79/90 | Edict-Inscriptional | Locked |
+| SCRIBE-swahili-01 | Swahili City-States | The Classic Swahili Period | 79/90 | Maritime Accumulative | Locked |
+| SCRIBE-norse-01 | Norse/Vikings | The Viking Age Opens | 78/90 | Saga-Spare | Locked |
+
+**Session 2 batch mean: 78.5/90**
+
+---
+
 ## Aggregate Metrics
 
 | Metric | Value |
 |--------|-------|
-| Total chapters locked | 28 |
+| Total chapters locked | 39 |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Cultures with chapters | 16 |
-| Regions with chapters | 15 / 26 |
+| Cultures with chapters | 27 |
+| Regions with chapters | 19 / 26 |
 | Score range | 74–86 / 90 |
-| Manuscript mean | ~80.7 / 90 |
-| Board reviewers | 49 across 16 cultures |
-| Innovations logged | 35+ |
+| Manuscript mean | ~79.8 / 90 |
+| Board reviewers | 82 across 27 cultures |
+| Innovations logged | 55+ |
 | Rubric version | v1.3 |
+| Voice types confirmed | 15+ |
 
 ---
 
