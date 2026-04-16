@@ -14,7 +14,7 @@
 | 3 | Amazonia/Caribbean | complete | 8 | draft | 0 | 0 |
 | 4 | North America | complete | 12 | draft | 1 | 1 |
 | 5 | Mediterranean Classical | complete | 10 | draft | 0 | 0 |
-| 6 | Fertile Crescent | complete | 8 | draft | 0 | 0 |
+| 6 | Fertile Crescent | complete | 8 | draft | 1 | 1 |
 | 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
 | 8 | Islamic Heartlands | complete | 13 | draft | 1 | 1 |
 | 9 | Egypt & Nile | complete | 9 | draft | 1 | 1 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 1 | 1 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **21** | **21** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **22** | **22** |
 
 ---
 
