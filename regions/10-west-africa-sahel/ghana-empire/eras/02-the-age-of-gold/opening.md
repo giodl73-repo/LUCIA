@@ -1,0 +1,27 @@
+# The Age of Gold
+
+The merchant from Sijilmasa smelled Kumbi Saleh before he saw it. Three months across the sand, his lips cracked and his hands raw from the dry wind, and the first sign of the capital was not its walls or its towers but the smoke of ten thousand cooking fires drifting south on the harmattan, carrying with it the scent of millet porridge and roasting mutton and the sharp mineral tang of the forges where Soninke smiths worked iron from dawn prayers to the midday heat.
+
+He came from the north, where the camels had carried salt. The great slabs of Taghaza salt, cut from the earth by men who lived and died in the deposits, had been lashed to the camels and carried south for weeks across sand that held no sound but the creak of leather and the soft thud of camel feet on packed ground. South of the Sahara, in the gold country, men would trade gold for salt measure for measure, because the body cannot live without salt and the forest provided none. The merchant knew this. His father had known this. The route was older than anyone could say.
+
+But first, Kumbi Saleh.
+
+He saw it in two parts, because that is what it was. To the west, the stone-walled town of the Muslim merchants: twelve mosques, their minarets catching the late-afternoon light, and between them the houses of traders from across the Saharan world. Berbers and Arabs and Soninke converts lived here among the warehouses and counting rooms, speaking Arabic for commerce and Soninke for everything else, praying five times daily in mosques built of the same honey-colored stone that lined the streets. This was the town where gold met salt and both were weighed and taxed and sent on their way.
+
+One mile east, a different city. The royal city of the Ghana had no mosques. It had the sacred grove, dark with trees that no one cut, where the priests maintained the rites that bound the Soninke to the land and the land to the sky. It had the palace compound, ringed by a wall. The merchant had never entered. He was not permitted. But he had heard the drums from a mile away on audience days, and he had seen the dust rise when the horsemen gathered, and once, from a distance, he had glimpsed the Ghana himself beneath an umbrella of gold, flanked by men carrying golden swords and leading dogs that wore collars of gold and silver.
+
+Two cities, one mile apart. Neither could exist without the other.
+
+This was the arrangement that had made Wagadu rich. The Muslim merchants needed mosques, qadis to adjudicate disputes under Islamic law, warehouses and standardized measures. The Ghana needed the merchants, because gold from the Wangara fields to the south and salt from Taghaza to the north produced wealth only when they met, and they met in his capital, and he taxed the meeting. Every donkey-load of salt entering the city paid one golden dinar; every load leaving paid two. Gold nuggets above a certain weight belonged to the Ghana alone; gold dust belonged to the traders. This kept the metal scarce enough to remain precious and plentiful enough to keep the caravans coming.
+
+The merchant from Sijilmasa understood these rules the way a carpenter understands grain. He did not question them. They were the conditions of his livelihood, and his father's, and his grandfather's. When the routes were safe, the caravans came. When the caravans came, the gold flowed north and the salt flowed south and the tolls filled the treasury. When the treasury was full, the Ghana could keep the routes safe. The circle held.
+
+Al-Bakri, writing in Cordoba in the year 460 of the Hijra (1068 CE) from the reports of merchants who had made this journey, described the court. The Ghana sat in audience wearing a high cap decorated with gold and wrapped in fine cloth. Around him stood ten horses covered in gold-embroidered blankets. Behind him, ten pages carrying gold-mounted shields and swords. At the door of the pavilion, dogs wearing gold and silver collars. The beginning of a royal audience was announced by a drum made from a single long piece of hollowed wood. The people gathered. When they approached the Ghana, they fell on their knees and threw dust on their heads. This was how a people showed their king that the covenant between the throne and the land still held.
+
+The gold was real. The ceremony was real. The dogs with their collars were real. But the merchant from Sijilmasa did not trade in ceremony. He traded in the arrangement beneath it: two cities, two religions, two systems of law and authority, held together not by conquest or conversion but by the logic that gold and salt needed each other, and the Ghana stood between them, and while he stood there, the balance held.
+
+The heat of the afternoon drove the market into shade. The merchant unloaded his salt in a stone warehouse in the merchant quarter, the slabs heavy and chalky-white against the dark floor, and paid his toll at the customs house where a clerk weighed the load and scratched the figure into a tablet. Three other caravans had arrived that week. The price of salt was lower than last season. The negotiations would be harder. He sat under an awning in the merchant quarter and drank water that tasted of the clay jar it had been stored in, and he waited for the morning, when the market opened in the cool hours before the heat returned.
+
+Around him, in both cities, the system that made the western Sudan the richest territory between the Sahara and the forest continued to do what it had done for generations.
+
+It continued to hold.
