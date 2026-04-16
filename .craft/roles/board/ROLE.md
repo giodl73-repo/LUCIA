@@ -51,6 +51,9 @@ introduce new board members. Track them here as they are created:
 | B-egypt-1 | Mark Lehner | Giza plateau excavation, workers' village, pyramid construction logistics | 09-egypt-nile |
 | B-egypt-2 | James P. Allen | Pyramid Texts, Old Kingdom theology, solar religion, ma'at | 09-egypt-nile |
 | B-egypt-3 | Barry Kemp | Old Kingdom social structure, provincial administration, centralization/fragmentation | 09-egypt-nile |
+| B-abbasid-1 | Dimitri Gutas | Graeco-Arabic translation movement, Bayt al-Hikma, Abbasid patronage politics | 08-islamic-heartlands |
+| B-abbasid-2 | George Saliba | Islamic science, Arabic astronomy, critique of the "preservation" narrative | 08-islamic-heartlands |
+| B-abbasid-3 | Hugh Kennedy | Early Abbasid political history, founding of Baghdad, caliphal court | 08-islamic-heartlands |
 
 ## Board Role Template
 

@@ -378,6 +378,30 @@ they trigger a rubric amendment.
 - **Why it works:** Second instance of the Disciplinary Depth technique (first: Mali Era 4, Mukhtasar). The specific innovation here is the ESCALATION: the chapter uses the inheritance calculation to show why a new mathematical discipline was needed, connecting daily legal practice to foundational mathematical innovation through a single concrete example. The technique proves that Knowledge-System-as-Evidence (v1.3) works for mathematical cultures as well as legal and kinesthetic ones.
 - **Status:** logged (second instance of Disciplinary Depth -- extends adopted v1.3 Evidence innovation)
 
+### Innovation: Inscription-as-Reality Structural Engine
+- **Source:** regions/01-mesoamerica/maya/eras/03-the-late-classic-flowering/
+- **Date:** 2026-04-14
+- **Dimension:** Progression
+- **Description:** The chapter identifies the ontological identity between inscription and event as the structural engine of the Maya Late Classic. A stela is not a memorial; it IS the act. The Long Count date does not record an event; it constitutes the event's position in cosmic order. The engine drives the chapter's arc: when the inscriptions stop, the political system they constitute also stops, because the record and the event are the same thing. The terminal condition (the inscription system encounters a crisis it cannot inscribe) follows necessarily from the engine's logic. This is a new engine type: not a covenant (Mali), not a psychological mechanism (Haudenosaunee), not a knowledge system (Tang/San), not a material medium (Benin), not a system-as-machine (Mongol), not a prestige-exchange (Tongan), not a resource cycle (Khmer), not a text-as-territory (Jewish), not a translation cycle (Abbasid), but an INSCRIPTION SYSTEM where record and reality are ontologically identical.
+- **Why it works:** The engine makes the "collapse" explicable without requiring a verdict: the inscription system could not inscribe its own failure, so the failure was total. The engine also explains why the transformation was specifically a cessation of monument-erection rather than a military collapse or demographic catastrophe. The political order was constituted by inscription; when inscription stopped, the political order stopped with it. The people continued because they were not identical with the inscription system.
+- **Status:** logged (extends adopted v1.1 Progression innovation into new category)
+
+### Innovation: Inscriptional Voice at Chapter Length
+- **Source:** regions/01-mesoamerica/maya/eras/03-the-late-classic-flowering/
+- **Date:** 2026-04-14
+- **Dimension:** Voice
+- **Description:** The chapter sustains an inscriptional voice register for 4,558 words with zero em-dashes. The technique: sentences that build like stone courses, accumulative and precise, layered with specific detail (dates, names, materials) the way a stela is layered with glyph blocks. The rhythm is deliberate and measured, neither spare (steppe) nor rolling (maritime) nor repetitive (oral-tradition) nor ascending (vertical) nor hydraulic (Khmer). It is carved: each sentence feels placed rather than spoken. The voice belongs to a culture of sculptors and scribes whose medium was stone, paint, and stucco. The zero em-dash count is an emergent property: the inscriptional voice builds through commas and conjunctions, not through parenthetical interruptions, because inscriptions do not pause mid-glyph-block.
+- **Why it works:** Extends the Style Guide's Voice Spectrum into the inscriptional/architectural category. The Maya voice is inseparable from the chapter's structural engine (inscription-as-reality) and from the culture's material medium (carved limestone). The register sustains through both narrative scenes (bloodletting, burial) and analytical passages (the star-war system, the collapse) without breaking. This validates the Voice Spectrum concept for cultures where the primary knowledge medium is carved stone rather than voice (oral-tradition), paper (text-centered), or body (kinesthetic).
+- **Status:** logged (1 instance -- first test of inscriptional voice at chapter length; extends voice-spectrum tests)
+
+### Innovation: Dual-Medium Persistence Close (Second Instance)
+- **Source:** regions/01-mesoamerica/maya/eras/03-the-late-classic-flowering/
+- **Date:** 2026-04-14
+- **Dimension:** Landing
+- **Description:** The chapter's landing parallels the Mali dual-stream innovation (v1.1): two forms of memory (the stone inscriptions and the living 260-day count maintained by the aj q'ij) carry the culture's persistence, each holding what the other cannot. The stone holds dates and names and images; the living count holds the calendar knowledge that no stone was needed to preserve. The technique extends the v1.1 Landing amendment to a case where one medium (stone) is archaeological and the other (the count) is living practice. This is the same structural logic as the Mali close (oral tradition + manuscript tradition) but applied to a different pair of media.
+- **Why it works:** Confirms that the dual-stream persistence close is a replicable technique across cultures with different knowledge media. The Mali version paired oral tradition with written manuscripts. The Maya version pairs archaeological remains with living calendar practice. Both find the culture's own persistence mechanism rather than imposing authorial summary. The second instance strengthens the v1.1 Landing amendment.
+- **Status:** logged (second instance of dual-stream close; extends adopted v1.1 Landing innovation)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
