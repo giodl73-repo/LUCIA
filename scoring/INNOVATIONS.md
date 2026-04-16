@@ -90,6 +90,14 @@ they trigger a rubric amendment.
 - **Why it works:** Treats poetry as a knowledge system (per Davis's demand) while satisfying narrative craft requirements (per Tuchman) within the same textual move. In a culture where poetry WAS political culture, letting the poems carry structural weight is both historically authentic and narratively effective. The technique avoids the two failure modes of literary chapters: using poems as decoration, or paraphrasing them into prose and losing the medium.
 - **Status:** logged (1 instance — watching for second to trigger amendment)
 
+### Innovation: Oral-Tradition Narrative Form as Political Theory
+- **Source:** regions/10-west-africa-sahel/mali-empire/eras/01-the-lions-time/
+- **Date:** 2026-04-14
+- **Dimension:** Voice / Evidence
+- **Description:** The Battle of Kirina is told through the jeli tradition's riddle form (the white rooster's spur, the invulnerable skin pierced) as a structural analysis of political power's vulnerability. The "riddle" is not a fairy-tale device retold for modern readers but the culture's own framework for encoding political theory: that every form of authority carries a structural weakness, and knowledge of that weakness is the decisive weapon. The chapter lets the oral tradition's narrative form (the quest for the secret) do the analytical work that in other chapters would be carried by authorial exposition. Form and argument become identical.
+- **Why it works:** Avoids the two failure modes of battle chapters in oral-tradition cultures: either rationalizing the battle into conventional military terms (losing the culture's voice) or treating the mythic elements as "colorful" embellishment to be enjoyed but not taken seriously. Instead, the riddle IS the analysis. The jeli's way of telling the battle IS the political philosophy. This technique is specific to oral-tradition cultures where narrative form carries epistemological weight.
+- **Status:** logged (1 instance — watching for second to trigger amendment)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
