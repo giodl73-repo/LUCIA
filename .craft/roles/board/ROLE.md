@@ -48,6 +48,9 @@ introduce new board members. Track them here as they are created:
 | B-tongan-1 | Patrick Kirch | Polynesian archaeology, chiefly systems, Tongan prehistory | 22-oceania-pacific |
 | B-tongan-2 | David Lewis | Traditional Pacific navigation, swell-reading, star paths | 22-oceania-pacific |
 | B-tongan-3 | Epeli Hau'ofa | Pacific identity, Tongan-Fijian worldview, ocean-as-world | 22-oceania-pacific |
+| B-egypt-1 | Mark Lehner | Giza plateau excavation, workers' village, pyramid construction logistics | 09-egypt-nile |
+| B-egypt-2 | James P. Allen | Pyramid Texts, Old Kingdom theology, solar religion, ma'at | 09-egypt-nile |
+| B-egypt-3 | Barry Kemp | Old Kingdom social structure, provincial administration, centralization/fragmentation | 09-egypt-nile |
 
 ## Board Role Template
 
