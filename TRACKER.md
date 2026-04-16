@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 1 — Skeleton (3 levels deep)
-**Last updated:** 2026-04-14 (Inca book complete — 5 eras locked)
+**Last updated:** 2026-04-14 (Sumer Era 1 — When Kingship Came Down from Heaven locked)
 
 ---
 
@@ -16,8 +16,8 @@
 | 5 | Mediterranean Classical | complete | 10 | draft | 0 | 0 |
 | 6 | Fertile Crescent | complete | 8 | draft | 0 | 0 |
 | 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
-| 8 | Islamic Heartlands | complete | 13 | draft | 0 | 0 |
-| 9 | Egypt & Nile | complete | 9 | draft | 0 | 0 |
+| 8 | Islamic Heartlands | complete | 13 | draft | 1 | 1 |
+| 9 | Egypt & Nile | complete | 9 | draft | 1 | 1 |
 | 10 | W Africa Sahel | complete | 8 | draft | 5 | 5 |
 | 11 | W Africa Forest | complete | 7 | draft | 1 | 1 |
 | 12 | Central Africa | complete | 6 | draft | 0 | 0 |
@@ -26,16 +26,16 @@
 | 15 | South Asia | complete | 15 | draft | 0 | 0 |
 | 16 | Tibet & Himalaya | complete | 9 | draft | 0 | 0 |
 | 17 | East Asia | complete | 21 | draft | 1 | 1 |
-| 18 | Southeast Asia | complete | 11 | draft | 0 | 0 |
+| 18 | Southeast Asia | complete | 11 | draft | 1 | 1 |
 | 19 | Central/Inner Asia | complete | 10 | draft | 1 | 1 |
 | 20 | Western Christendom | complete | 13 | draft | 0 | 0 |
 | 21 | N & E Europe | complete | 15 | draft | 0 | 0 |
 | 22 | Oceania & Pacific | complete | 10 | draft | 2 | 2 |
 | 23 | Americas Reborn | complete | 10 | draft | 0 | 0 |
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
-| 25 | Diasporas | complete | 6 | draft | 0 | 0 |
+| 25 | Diasporas | complete | 6 | draft | 1 | 1 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **17** | **17** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **21** | **21** |
 
 ---
 
