@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 1 — Skeleton (3 levels deep)
-**Last updated:** 2026-04-14 (Sumer Era 1 — When Kingship Came Down from Heaven locked)
+**Last updated:** 2026-04-14 (Maya Era 3 — The Late Classic Flowering locked)
 
 ---
 
@@ -9,7 +9,7 @@
 
 | # | Region | Landscape | Peoples | Overviews | Chapters | Locked |
 |---|--------|-----------|---------|-----------|----------|--------|
-| 1 | Mesoamerica | complete | 10 | draft | 0 | 0 |
+| 1 | Mesoamerica | complete | 10 | draft | 1 | 1 |
 | 2 | Andes & Western SA | complete | 9 | draft | 5 | 5 |
 | 3 | Amazonia/Caribbean | complete | 8 | draft | 0 | 0 |
 | 4 | North America | complete | 12 | draft | 1 | 1 |
