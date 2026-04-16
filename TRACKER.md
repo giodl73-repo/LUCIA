@@ -18,7 +18,7 @@
 | 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
 | 8 | Islamic Heartlands | complete | 13 | draft | 0 | 0 |
 | 9 | Egypt & Nile | complete | 9 | draft | 0 | 0 |
-| 10 | W Africa Sahel | complete | 8 | draft | 0 | 0 |
+| 10 | W Africa Sahel | complete | 8 | draft | 1 | 1 |
 | 11 | W Africa Forest | complete | 7 | draft | 0 | 0 |
 | 12 | Central Africa | complete | 6 | draft | 0 | 0 |
 | 13 | E Africa/Horn | complete | 9 | draft | 0 | 0 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 0 | 0 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **0** | **0** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **1** | **1** |
 
 ---
 
