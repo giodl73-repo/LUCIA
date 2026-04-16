@@ -1,0 +1,49 @@
+# Figures -- The House of Wisdom
+
+## Hunayn ibn Ishaq (808-873 CE)
+
+Hunayn was a Nestorian Christian from al-Hira, a city in southern Iraq where Syriac-speaking Christians had maintained their scholarly traditions since before the Arab conquest. He came to Baghdad young, studied medicine, and then left the city to learn Greek, traveling through the eastern Mediterranean for years, collecting manuscripts, building the linguistic competence that would make him the most important translator in the history of Arabic science.
+
+His method was the key. Earlier translators had worked word by word, producing Arabic texts that were technically accurate and practically useless, because a word-for-word translation from Greek into Arabic generates nonsense in the same way that a word-for-word translation from any inflected language into any root-based language generates nonsense. Hunayn translated sense for sense. He read the Greek, understood the thought, and then expressed the thought in Arabic as an Arabic speaker would naturally say it. The method required mastery of both languages at the level of thought rather than vocabulary, and it required subject-matter expertise, because a translator who could not follow Galen's medical reasoning could not translate Galen's medical texts even with perfect Greek.
+
+He was also a physician who practiced what he translated. This double role made him something more than a translator: it made him a critic. When he found passages in Galen that contradicted his own clinical observations, he noted the discrepancy. His marginal corrections are among the earliest examples of empirical critique applied to inherited authority in the Arabic medical tradition. Hunayn did not treat the Greeks as infallible. He treated them as colleagues who had been dead for seven hundred years and who, being dead, could not update their work. He updated it for them.
+
+His output was vast. His Risala, the letter describing his translations, lists 129 works of Galen that he translated or revised. He also translated Hippocrates, Dioscorides, and the Neoplatonist philosophical texts that were attributed to Aristotle. His son Ishaq ibn Hunayn and his nephew Hubaysh ibn al-Hasan worked alongside him, forming a translation workshop that operated as a family enterprise and training school simultaneously. The workshop model meant that Hunayn's methods were not personal secrets but teachable practices that survived his death and shaped Arabic translation for generations.
+
+He was a Christian translating for Muslim patrons in a Muslim city, and the sources do not suggest that anyone found this remarkable. The Bayt al-Hikma's project was linguistic and intellectual, not confessional. What mattered was that Hunayn could read Greek and write Arabic and understand medicine. That he prayed in a different direction was, in the context of the translation movement, irrelevant.
+
+## Muhammad ibn Musa al-Khwarizmi (c. 780-850 CE)
+
+Al-Khwarizmi's biography is thin. He was probably from Khwarezm, the region south of the Aral Sea in modern Uzbekistan and Turkmenistan. He worked at the Bayt al-Hikma under the caliphate of al-Mamun. He wrote on mathematics, astronomy, geography, and the Jewish calendar. His personal life, his family, his temperament, his daily habits are not recorded. What is recorded is his work, and the work speaks for itself.
+
+The Kitab al-jabr wal-muqabala is a practical text. It opens by explaining that its purpose is to address the needs of people in their calculations concerning inheritance, legacies, partition, lawsuits, trade, and in their dealings with one another, and in surveying land, digging canals, and other kinds of work. This is not the voice of a theoretical mathematician in the modern sense. This is the voice of a scholar in a society that needed computational tools and could not wait for Greek geometers to provide them.
+
+The synthesis was the achievement. Indian mathematicians had developed positional notation and the zero, making calculation efficient. Greek mathematicians had developed rigorous proof, making mathematical statements trustworthy. Neither tradition had combined efficiency with rigor in the way al-Khwarizmi did. His text solves equations using Indian-derived methods and then proves that the solutions are correct using Greek-derived geometric demonstrations. The combination is original, and it created a discipline that neither tradition contained.
+
+The two words he gave to the world's languages -- "algebra" from al-jabr, "algorithm" from his Latinized name Algoritmi -- carried further than any other products of the Bayt al-Hikma. Al-Khwarizmi was not a name. He was a place: the man from Khwarezm who worked in Baghdad and solved problems that needed solving.
+
+## Caliph al-Mamun (786-833 CE)
+
+Al-Mamun was the seventh Abbasid caliph and the son whose caliphate would be remembered longest, not for the military victories he won or the territories he held but for the knowledge he funded. He came to power through civil war. His brother al-Amin held Baghdad; al-Mamun held Khorasan. The war lasted four years and ended with al-Amin's death and the partial destruction of Baghdad's eastern quarters. Al-Mamun entered the capital as a victor who had broken the city he intended to rule.
+
+His reconstruction included the intellectual project. Al-Mamun's commitment to the Mutazilite theological position, which held that the Quran was created rather than co-eternal with God and that human reason was capable of accessing divine truths, gave the translation movement a theological foundation: if reason could access truth, then the pursuit of knowledge through rational inquiry was not merely permitted but obligatory, and the knowledge of the Greeks and Indians and Persians, insofar as it was true, was part of the divine order and should be brought into Arabic.
+
+The mihna, the inquisition that al-Mamun imposed in the last year of his life, tested religious scholars on the doctrine of the Quran's createdness and imprisoned those who refused to affirm it. The episode is the darkest moment of al-Mamun's caliphate, and it is important to state it plainly: the same caliph who funded the most productive translation movement in medieval history also imposed a theological test that punished dissent. The intellectual openness and the political coercion came from the same source -- the conviction that the caliph had the right and the duty to determine what was true. The Mutazilite position that empowered rational inquiry also empowered the state to enforce rational conclusions, and the enforcement was ugly.
+
+Al-Mamun died in 833 CE, on campaign against the Byzantines. The translation movement he had institutionalized continued for another century under his successors, sustained by the infrastructure his funding had created.
+
+## Al-Kindi (c. 801-873 CE)
+
+Abu Yusuf Yaqub ibn Ishaq al-Kindi was the first self-identified philosopher writing in Arabic, and he gave himself a title that claimed the territory: Faylasuf al-Arab, the Philosopher of the Arabs. The title was deliberate. Philosophy, falsafa, had been a Greek practice transmitted through translation. Al-Kindi was declaring that it was now an Arabic practice, and that he was its first practitioner.
+
+His central argument, developed across dozens of short treatises, was that philosophy and prophetic revelation were compatible because both pursued truth and truth could not contradict itself. The argument was conceptually simple and practically explosive: it claimed the entire Greek philosophical heritage as legitimate material for Islamic intellectual life, subject to the condition that nothing in it contradicted revealed truth. The condition was, in practice, flexible enough to admit nearly everything.
+
+Al-Kindi fell from favor in the late Abbasid period as the Mutazilite position that had supported his work was displaced by more conservative theological schools. His personal library was confiscated, an indignity that the sources record with the precision of a wound. The books were returned. The humiliation was not. Al-Kindi continued to write but his influence waned during his lifetime. It revived after his death, when his students and their students built the Arabic philosophical tradition that would culminate in al-Farabi and Ibn Sina.
+
+## Thabit ibn Qurra (836-901 CE)
+
+Thabit was a Sabian from Harran, a city in what is now southeastern Turkey, where a small community maintained the worship of celestial bodies in a tradition that reached back to pre-Christian and pre-Islamic Mesopotamia. The Sabians occupied a peculiar position in Islamic law: they were recognized as "People of the Book," a status that granted them legal protection, despite the fact that their scriptures were not the Torah, the Gospels, or the Quran but a body of star-worship texts that most Muslim jurists found difficult to classify.
+
+Thabit's mathematical work was foundational. His translations of Euclid, Archimedes, and Apollonius created the Arabic vocabulary for geometry, and his original contributions extended the Greek corpus in directions the Greeks had not explored. His work on amicable numbers produced the first new result on the topic since Pythagoras, and the result stood unchallenged for seven centuries.
+
+His presence in the Bayt al-Hikma was, in its way, the strongest possible argument for the translation movement's cosmopolitan character. A Sabian star-worshipper translating Greek mathematics into Arabic for Muslim patrons in a city where the call to prayer sounded from a hundred mosques: this was not tolerance in the modern liberal sense. It was a practical arrangement in a society that needed mathematical texts translated and did not care what the translator prayed to, so long as he got Euclid right.
