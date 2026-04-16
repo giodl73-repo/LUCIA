@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 1 — Skeleton (3 levels deep)
-**Last updated:** 2026-04-14 (Mongol Empire Era 1 locked)
+**Last updated:** 2026-04-14 (Inca Era 1 locked)
 
 ---
 
@@ -10,7 +10,7 @@
 | # | Region | Landscape | Peoples | Overviews | Chapters | Locked |
 |---|--------|-----------|---------|-----------|----------|--------|
 | 1 | Mesoamerica | complete | 10 | draft | 0 | 0 |
-| 2 | Andes & Western SA | complete | 9 | draft | 0 | 0 |
+| 2 | Andes & Western SA | complete | 9 | draft | 1 | 1 |
 | 3 | Amazonia/Caribbean | complete | 8 | draft | 0 | 0 |
 | 4 | North America | complete | 12 | draft | 1 | 1 |
 | 5 | Mediterranean Classical | complete | 10 | draft | 0 | 0 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 0 | 0 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **10** | **10** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **11** | **11** |
 
 ---
 
