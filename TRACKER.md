@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 1 — Skeleton (3 levels deep)
-**Last updated:** 2026-04-14 (Maya Era 3 — The Late Classic Flowering locked)
+**Last updated:** 2026-04-14 (Roman book complete — 5 eras locked)
 
 ---
 
@@ -13,7 +13,7 @@
 | 2 | Andes & Western SA | complete | 9 | draft | 5 | 5 |
 | 3 | Amazonia/Caribbean | complete | 8 | draft | 0 | 0 |
 | 4 | North America | complete | 12 | draft | 1 | 1 |
-| 5 | Mediterranean Classical | complete | 10 | draft | 0 | 0 |
+| 5 | Mediterranean Classical | complete | 10 | draft | 5 | 5 |
 | 6 | Fertile Crescent | complete | 8 | draft | 1 | 1 |
 | 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
 | 8 | Islamic Heartlands | complete | 13 | draft | 1 | 1 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 1 | 1 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **23** | **23** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **28** | **28** |
 
 ---
 
