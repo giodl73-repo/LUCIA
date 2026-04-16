@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 1 | 1 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **22** | **22** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **23** | **23** |
 
 ---
 
