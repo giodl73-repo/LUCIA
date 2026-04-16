@@ -1,0 +1,19 @@
+## E-3 — Compression Editor — CLEAN pass on "The Great Hajj"
+
+**Word count:** ~4,537. Within the 4,500-5,500 range (low end).
+
+**Violations found:** 6
+
+1. Section III, paragraph 3 (line 73): "He gave in quantities that the city had not seen from a single visitor, and he gave with a systematic generosity that was not impulsive but deliberate. This is what the covenant required." — **P3, re-explanation**: The preceding sentences already showed the systematic giving (poor, officials, scholars, merchants, beggars — each named). "Systematic generosity that was not impulsive but deliberate" tells the reader what the list already demonstrated. "This is what the covenant required" then re-anchors to the covenant, which the next two sentences do more effectively. The list is doing the work. Author decides.
+
+2. Section III, paragraph 3 (line 73): "Musa was not performing wealth for Cairo. He was performing the obligations of kingship for himself, for the jelilu who would sing of this journey, for the covenant that had made him mansa." — **P2, re-explanation**: Section I (lines 17-19) already established this exact point: "The Kurukan Fuga demanded generosity. A king who does not give is not a king... So the gold was not extravagance. The gold was the point." Line 73 restates it. The scene in Cairo should stand on its own — the reader already has the covenant framework from Section I. Must fix before FINAL.
+
+3. Section III, paragraph 7 (line 81): "The mechanism is worth sitting with." — **P2, throat-clearing**: This sentence delays the analysis while telling the reader to pay attention. The analysis itself (the covenant consuming what it produced) is strong enough to land without an introduction. Cut the throat-clear; start with the analysis. Must fix before FINAL.
+
+4. Section IV, paragraph 4 (line 105): "The scholars from Cairo and the Hejaz and al-Andalus who came with Musa did not establish this tradition. They entered it." followed by "They brought texts that Timbuktu did not have, commentaries on commentaries, treatises on mathematics and astronomy, works of Andalusian and Egyptian scholarship that expanded the libraries but did not create them." — **P3, repetition**: "Did not establish... They entered it" and "expanded the libraries but did not create them" make the same point twice. The point is important — guarding against the framing that Musa "brought learning" to Timbuktu — but stating it twice in the same paragraph dilutes rather than reinforces. Author decides which formulation to keep.
+
+5. Section IV, paragraph 6 (line 109): "These were not artifacts. They were the working tools of an intellectual tradition that produced, debated, revised, and preserved knowledge across generations." — **P2, re-explanation**: The preceding passage (the scholar copying in the courtyard, the ink, the paper, the touch) already showed the manuscripts as living, working objects. These two sentences then explain what the scene demonstrated. The scene is doing its job. Cut the explanation. Must fix before FINAL.
+
+6. Section V, paragraph 4 (line 131): "The manuscripts survived because the tradition of preserving them survived. The tradition survived because the families survived. The families survived because they understood, as the Kurukan Fuga had understood, that knowledge is not a possession but an obligation." — **P3, repetition of covenant framework**: The covenant-as-obligation idea has been stated in Section I (lines 17-19), Section II (line 53), and Section III (line 73). This is the fourth iteration. The cascading "survived because" structure is rhythmically strong and belongs to the oral-tradition register, so it earns more room than a flat restatement. But "knowledge is not a possession but an obligation" is the author delivering a verdict the narrative should earn. Author decides.
+
+**Verdict:** 6 fixes needed (0 P1, 3 P2, 3 P3)
