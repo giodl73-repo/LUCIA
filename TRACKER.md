@@ -12,7 +12,7 @@
 | 1 | Mesoamerica | complete | 10 | draft | 0 | 0 |
 | 2 | Andes & Western SA | complete | 9 | draft | 0 | 0 |
 | 3 | Amazonia/Caribbean | complete | 8 | draft | 0 | 0 |
-| 4 | North America | complete | 12 | draft | 0 | 0 |
+| 4 | North America | complete | 12 | draft | 1 | 1 |
 | 5 | Mediterranean Classical | complete | 10 | draft | 0 | 0 |
 | 6 | Fertile Crescent | complete | 8 | draft | 0 | 0 |
 | 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
@@ -22,7 +22,7 @@
 | 11 | W Africa Forest | complete | 7 | draft | 0 | 0 |
 | 12 | Central Africa | complete | 6 | draft | 0 | 0 |
 | 13 | E Africa/Horn | complete | 9 | draft | 0 | 0 |
-| 14 | Southern Africa | complete | 11 | draft | 0 | 0 |
+| 14 | Southern Africa | complete | 11 | draft | 1 | 1 |
 | 15 | South Asia | complete | 15 | draft | 0 | 0 |
 | 16 | Tibet & Himalaya | complete | 9 | draft | 0 | 0 |
 | 17 | East Asia | complete | 21 | draft | 0 | 0 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 0 | 0 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **1** | **1** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **3** | **3** |
 
 ---
 
