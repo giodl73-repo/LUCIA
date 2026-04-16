@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 1 — Skeleton (3 levels deep)
-**Last updated:** 2026-04-14 (Mali Era 5 locked — all 5 Mali eras complete)
+**Last updated:** 2026-04-14 (Mongol Empire Era 1 locked)
 
 ---
 
@@ -19,7 +19,7 @@
 | 8 | Islamic Heartlands | complete | 13 | draft | 0 | 0 |
 | 9 | Egypt & Nile | complete | 9 | draft | 0 | 0 |
 | 10 | W Africa Sahel | complete | 8 | draft | 5 | 5 |
-| 11 | W Africa Forest | complete | 7 | draft | 0 | 0 |
+| 11 | W Africa Forest | complete | 7 | draft | 1 | 1 |
 | 12 | Central Africa | complete | 6 | draft | 0 | 0 |
 | 13 | E Africa/Horn | complete | 9 | draft | 0 | 0 |
 | 14 | Southern Africa | complete | 11 | draft | 1 | 1 |
@@ -27,7 +27,7 @@
 | 16 | Tibet & Himalaya | complete | 9 | draft | 0 | 0 |
 | 17 | East Asia | complete | 21 | draft | 1 | 1 |
 | 18 | Southeast Asia | complete | 11 | draft | 0 | 0 |
-| 19 | Central/Inner Asia | complete | 10 | draft | 0 | 0 |
+| 19 | Central/Inner Asia | complete | 10 | draft | 1 | 1 |
 | 20 | Western Christendom | complete | 13 | draft | 0 | 0 |
 | 21 | N & E Europe | complete | 15 | draft | 0 | 0 |
 | 22 | Oceania & Pacific | complete | 10 | draft | 0 | 0 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 0 | 0 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **8** | **8** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **10** | **10** |
 
 ---
 
