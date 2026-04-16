@@ -1,0 +1,15 @@
+# Pachacuti's Transformation
+
+The Chanka were coming, and the old Sapa Inca ran.
+
+Viracocha Inca, eighth ruler of the line that began at the lake, heard the reports from the west and made his calculation. The Chanka confederacy had gathered its warriors, tens of thousands of them according to the accounts that would later reach the Spanish chroniclers, and they were moving toward Qusqu through the mountain passes, and Viracocha Inca decided that the valley could not be held. He took his household and his favorites and withdrew to the fortress of Caquia Xaquixaguana, above the valley, where the walls were thick and the altitude favored defense, and he left Qusqu to whatever the Chanka would do with it.
+
+His son stayed.
+
+Cusi Yupanqui was not the heir. He was not the one Viracocha Inca had chosen to succeed him. But when the Sapa Inca retreated and the court retreated with him and the compounds of Qusqu began to empty, the young prince who had not been chosen looked at the city his ancestors had built and chose not to leave it. The accounts diverge here, as they always do when the event is large enough to reshape what came after. Some chronicles say the stones of the battlefield came to life and fought alongside him, the purunaucas, warriors of stone sent by the sun to defend his chosen city. Some say allied peoples rallied to his side when they saw that one man would not run. Some say both, because in the Inca understanding, the supernatural aid did not contradict the human alliance. It confirmed it.
+
+What is certain across the versions: the Chanka attacked, and Cusi Yupanqui fought, and the Chanka were defeated, and when the dust settled and the dead lay on the approaches to Qusqu, the young prince who had held the city walked over the battlefield and the world was different. He would not go back to being what he was before that day. He would not accept the succession his father had planned. He took a new name. Pachacuti. The earth-shaker. The one who turns the world over.
+
+The name was not boastful. It was a promise. In Quechua, pachacuti means the overturning of time and space, a cosmic reversal, the end of one age and the beginning of another. He had looked at the small valley polity his ancestors had maintained for two centuries and decided it was not enough. Not the valley. Not the reciprocal network that extended to the nearest neighbors. Not the ayllu-level practices that had kept the Cusco basin fed and organized for generations. He wanted all of it, the whole vertical world, from the coast to the puna to the jungle's edge, organized under a single system, connected by a single road, recorded by a single corps of quipucamayoc, held together by the obligation that flowed from the son of the sun to every household in every ayllu in every ecological zone the Andes contained.
+
+Tawantinsuyu began here. Not at the lake. Not with the golden staff. Here, on a battlefield outside Qusqu, in the decision of a prince who had not been chosen, who chose himself, who looked at the world his people had built and decided to rebuild it at the scale of a continent.
