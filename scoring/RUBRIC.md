@@ -1,8 +1,10 @@
 # LUCIA Scoring Rubric
 
-## Rubric v1.1 — Amended 2026-04-15
+## Rubric v1.2 — Amended 2026-04-15
 
-**Changelog:** v1.0 → v1.1: Amended Progression, Figures, and Landing based on 8 innovations across 4 chapters (Mali, Haudenosaunee, San, Tang). See INNOVATIONS.md for sources.
+**Changelog:**
+- v1.0 → v1.1: Amended Progression, Figures, and Landing based on 8 innovations across 4 chapters (Mali, Haudenosaunee, San, Tang).
+- v1.1 → v1.2: Amended Honesty based on 3 innovations across Mali Eras 2, 4, 5. See INNOVATIONS.md for sources.
 
 ---
 
@@ -58,6 +60,8 @@ looks like in practice.
 | 3 | The culture is treated on its own terms, though occasional neutral-but-distancing language appears. |
 | 4 | The prose inhabits the culture's perspective without editorializing or sentimentalizing. |
 | 5 | The culture is so fully itself that no outside vantage point is even available to the reader. |
+
+**v1.2 Amendment — Inside-Voice Honesty:** The highest-scoring chapters ground the No Verdicts discipline in the culture's own historiographic practice rather than applying it as an external editorial constraint. Three techniques discovered: (1) **Open Silence** — when the oral tradition deliberately leaves a story unresolved, the text honors that silence rather than filling it with modern certainty (Abu Bakr II's Atlantic voyage: "They say he did not come back. There is a difference."). (2) **Outsider's Bias as Inside Characterization** — when an outside observer's account is used, their biases become evidence about THEM, not about the culture ("He measured it against his own system and found it wanting. The Malians were not measuring."). (3) **No-Verdict Decline via Cultural Attribution** — when telling decline, the refusal to judge is attributed to the culture's own voice, not to editorial restraint ("This was not a fall. The jelilu would not use the word."). To score 5, the honesty should feel like it belongs to the CULTURE, not to the project's rules.
 
 ### Texture (0–5)
 
