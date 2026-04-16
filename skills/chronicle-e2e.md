@@ -77,6 +77,7 @@ Apply corrections. Board feedback is authoritative on factual matters.
 - Apply all remaining board corrections
 - Update `TRACKER.md` — mark chapter as FINAL
 - Log any innovations to `scoring/INNOVATIONS.md`
+- **Run innovation threshold check** (see below)
 - Lock the chapter: no further revision without documented reason
 
 ---
@@ -100,6 +101,36 @@ Tracker updated: `TRACKER.md`
 
 Pipeline reference: `guides/PIPELINE.md`
 
+## Innovation Threshold Check (Stage 11)
+
+After logging innovations, scan `scoring/INNOVATIONS.md` for any dimension
+with 2+ innovations still at status `logged`. If found:
+
+1. **Propose a rubric amendment** — draft the amendment text for that dimension
+2. **Prompt the user**: "Dimension [X] has [N] innovations. Proposed amendment:
+   [summary]. Adopt to rubric v[next]?"
+3. If approved: update `scoring/RUBRIC.md` with the amendment, increment version,
+   update innovation statuses to `adopted (vX.X)`, update the Amendment History table
+4. If declined: mark innovations as `reviewed — not adopted` with reason
+
+This ensures the rubric evolves automatically as chapters are written.
+Do not skip this step.
+
+## Pre-Chapter Rubric Sync
+
+Before starting Stage 1, check the rubric version:
+- Read the version header in `scoring/RUBRIC.md`
+- If the version has changed since the last chapter you wrote, read ALL
+  amendments. The bar may have risen.
+
+## Cross-Compare Trigger
+
+After every 3rd locked chapter, prompt the user: "3 chapters locked since
+last cross-comparison. Run /chronicle-cross-compare?" This surfaces patterns
+that individual reviews miss.
+
+---
+
 ## Checklist
 
 - [ ] All 11 stages executed in order
@@ -110,4 +141,7 @@ Pipeline reference: `guides/PIPELINE.md`
 - [ ] Board corrections applied
 - [ ] TRACKER.md updated with FINAL status
 - [ ] Innovations logged if present
+- [ ] Innovation threshold check run (propose amendments if 2+ in any dimension)
+- [ ] Rubric version synced before starting
+- [ ] Cross-compare prompted if 3+ chapters since last comparison
 - [ ] Chapter locked
