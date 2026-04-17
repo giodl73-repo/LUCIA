@@ -100,7 +100,21 @@ All 28 chapters were written in Session 1. Score is combined (Gate + Chronicle, 
 | SCRIBE-swahili-01 | Swahili City-States | The Classic Swahili Period | 79/90 | Maritime Accumulative | Locked |
 | SCRIBE-norse-01 | Norse/Vikings | The Viking Age Opens | 78/90 | Saga-Spare | Locked |
 
-**Session 2 batch mean: 78.5/90**
+**Sahel + new voice batch mean: 78.5/90**
+
+### Fertile Crescent Sweep (7 chapters)
+
+| Spawn | Culture | Era | Score | Voice | Status |
+|-------|---------|-----|-------|-------|--------|
+| SCRIBE-mitanni-01 | Mitanni | The Age of Equals | 82/90 | Diplomatic | Locked |
+| SCRIBE-arameans-01 | Arameans | Age of Aramean States | 82/90 | Merchant-diplomatic | Locked |
+| SCRIBE-hittites-01 | Hittites | Telipinu Edict | 82/90 | Treaty-speak | Locked |
+| SCRIBE-babylon-01 | Babylon | Hammurabi's Babylon | 82/90 | Legal-theological | Locked |
+| SCRIBE-akkad-01 | Akkad | Rise of Sargon | 81/90 | Dynastic-epic | Locked |
+| SCRIBE-urartu-01 | Urartu | Kingdom's Rise | 80/90 | Inscriptional-fortress | Locked |
+| SCRIBE-assyria-01 | Assyria | Merchants of Ashur | 78/90 | Epistolary-commercial | Locked |
+
+**Fertile Crescent sweep mean: 81.0/90**
 
 ---
 
@@ -108,16 +122,17 @@ All 28 chapters were written in Session 1. Score is combined (Gate + Chronicle, 
 
 | Metric | Value |
 |--------|-------|
-| Total chapters locked | 39 |
+| Total chapters locked | 46 |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Cultures with chapters | 27 |
+| Complete regions | 2 (Sahel 12/12, Fertile Crescent 8/8) |
+| Cultures with chapters | 34 |
 | Regions with chapters | 19 / 26 |
 | Score range | 74–86 / 90 |
-| Manuscript mean | ~79.8 / 90 |
-| Board reviewers | 82 across 27 cultures |
+| Manuscript mean | ~80.2 / 90 |
+| Board reviewers | 103 across 34 cultures |
 | Innovations logged | 55+ |
-| Rubric version | v1.3 |
-| Voice types confirmed | 15+ |
+| Rubric version | v1.4 |
+| Voice types confirmed | 20+ |
 
 ---
 
