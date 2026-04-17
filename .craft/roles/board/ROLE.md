@@ -69,6 +69,9 @@ introduce new board members. Track them here as they are created:
 | B-fulani-1 | Murray Last | Sokoto Caliphate political/administrative history, emirate system, flag-holders | 10-west-african-sahel-and-savanna |
 | B-fulani-2 | Mervyn Hiskett | Dan Fodio biography, Torodbe scholarly tradition, pre-jihad Gobir | 10-west-african-sahel-and-savanna |
 | B-fulani-3 | Beverly Mack | Nana Asma'u, yan taru system, women's education in Sokoto Caliphate | 10-west-african-sahel-and-savanna |
+| B-babylon-1 | Dominique Charpin | Old Babylonian political history, Hammurabi biography, Mari archive, royal correspondence | 06-fertile-crescent |
+| B-babylon-2 | W. G. Lambert | Babylonian creation myths, Enuma Elish, divine assembly, Babylonian theology | 06-fertile-crescent |
+| B-babylon-3 | Raymond Westbrook | Ancient Near Eastern law, the code's function debate, comparative legal history | 06-fertile-crescent |
 
 ## Board Role Template
 

@@ -1,0 +1,15 @@
+## P-4 — Wade Davis — Review of Hittites Era 2 Opening
+
+**Overall:** The opening enters a knowledge system on its own terms: a world where written covenants carry divine force, where the clay tablet is not merely a medium but a moral instrument. The Hittite understanding of law as covenant witnessed by gods is treated as a fully rational system, not as a precursor to something more developed. This is the correct approach.
+
+**What works:**
+- The edict is presented as a technology: a tool invented to solve a specific problem. The opening does not frame it as a step toward modern constitutionalism. It does not say "the first constitution" or "an early form of rule of law." It says: a kingdom was killing itself, and a king tried to stop it with a written document. The sophistication is implicit in the description, never advertised.
+- The theological mechanism is presented without condescension. The gods punish oath-breakers. The harvests fail when royal blood is spilled. This is not superstition in the text; it is the operative logic of the world. The opening inhabits this logic rather than standing outside it.
+- The treaty form turned inward is a genuine insight about how knowledge systems evolve: tools built for one purpose (binding foreign kings) are repurposed for another (binding the royal family). This is how cultures innovate within their own categories, not by importing new ideas from outside but by extending existing instruments to new domains.
+
+**What doesn't:**
+- The opening could go deeper into what the clay tablet IS in Hittite culture. Clay is not merely a writing surface. In the treaty tradition, the tablet is the treaty: it is the object that holds the covenant, that the gods can see, that exists as a physical fact in the world. The phrase "the clay was the mechanism" gestures at this but does not fully develop it. What is the relationship between the physical object (the tablet) and the divine order (the oath)? The Hittites had a specific answer to this, and the chapter should know it.
+- The passage about Telipinu's administrative acts ("He reorganized the judiciary. He regulated the provinces.") is accurate but thin. These were not minor bureaucratic adjustments. The judicial reorganization involved defining jurisdictions, separating different kinds of legal cases, and establishing procedures. The chapter should treat these as expressions of the same constitutional logic that produced the edict, not as separate items in a list.
+
+**The question I'd push on:**
+The opening positions the edict as Telipinu's invention. But was it? The treaty form already existed. The practice of invoking divine witnesses already existed. The court assembly already existed as an institution. What Telipinu did was combine existing elements in a new configuration. The chapter should show the components that were already available and make clear what the innovation was: not the invention of a new form, but the application of an existing form to an internal problem it was never designed to solve. Innovation within tradition is the story. Not innovation from nothing.
