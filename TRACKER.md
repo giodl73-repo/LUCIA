@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 2 — Anchor Region Pipeline (in progress)
-**Last updated:** 2026-04-16 (Session 2 — 23 chapters locked, Sahel + Fertile Crescent + Diasporas complete)
+**Last updated:** 2026-04-17 (Session 2 — 42 chapters locked, 7 complete regions, 3-model comparison)
 
 ---
 
@@ -17,10 +17,10 @@
 | 6 | Fertile Crescent | complete | 8 | draft | 8 | 8 |
 | 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
 | 8 | Islamic Heartlands | complete | 13 | draft | 1 | 1 |
-| 9 | Egypt & Nile | complete | 9 | draft | 1 | 1 |
+| 9 | Egypt & Nile | complete | 9 | draft | 9 | 9 |
 | 10 | W Africa Sahel | complete | 8 | draft | 12 | 12 |
 | 11 | W Africa Forest | complete | 7 | draft | 1 | 1 |
-| 12 | Central Africa | complete | 6 | draft | 0 | 0 |
+| 12 | Central Africa | complete | 6 | draft | 6 | 6 |
 | 13 | E Africa/Horn | complete | 9 | draft | 1 | 1 |
 | 14 | Southern Africa | complete | 11 | draft | 1 | 1 |
 | 15 | South Asia | complete | 15 | draft | 1 | 1 |
@@ -34,8 +34,8 @@
 | 23 | Americas Reborn | complete | 10 | draft | 0 | 0 |
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 6 | 6 |
-| 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **51** | **51** |
+| 26 | Pacific Century | complete | 5 | draft | 5 | 5 |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **70** | **70** |
 
 ---
 

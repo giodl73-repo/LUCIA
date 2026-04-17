@@ -72,6 +72,9 @@ introduce new board members. Track them here as they are created:
 | B-babylon-1 | Dominique Charpin | Old Babylonian political history, Hammurabi biography, Mari archive, royal correspondence | 06-fertile-crescent |
 | B-babylon-2 | W. G. Lambert | Babylonian creation myths, Enuma Elish, divine assembly, Babylonian theology | 06-fertile-crescent |
 | B-babylon-3 | Raymond Westbrook | Ancient Near Eastern law, the code's function debate, comparative legal history | 06-fertile-crescent |
+| B-lunda-1 | Jan Vansina | Lunda oral tradition reconstruction, methodology for oral tradition as historical evidence | 12-central-africa |
+| B-lunda-2 | Robert Schecter | Lunda expansion mechanics, titled-subordinate system, daughter-state connections to the center | 12-central-africa |
+| B-lunda-3 | James Pritchett | Lunda-Ndembu ethnography, Lunda ceremonial practice, cultural authenticity in living communities | 12-central-africa |
 
 ## Board Role Template
 

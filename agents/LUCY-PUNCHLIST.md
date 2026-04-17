@@ -29,6 +29,10 @@
 - [x] Rubric v1.5 — cluster promotion rule + 5 cluster amendments (27 innovations adopted)
 - [x] Fertile Crescent sweep: 7 chapters (mean 81.0)
 - [x] Diaspora sweep: 5 chapters (mean 80.8) — Crossroads model validated
+- [x] Egypt sweep: 8 chapters (mean 81.3, Opus) — Region 9 complete
+- [x] Central Africa sweep: 6 chapters (mean 82.5, Sonnet) — Region 12 complete, 3 perfect Gates
+- [x] Pacific Century sweep: 5 chapters (Haiku) — Region 26 complete, reliability issues noted
+- [x] 3-model comparison: Sonnet > Opus > Haiku for SCRIBE work
 
 ## BLOCKING
 (none)
@@ -50,15 +54,15 @@
 ## METRICS
 | Metric | Value |
 |--------|-------|
-| Chapters locked | 51 |
+| Chapters locked | 70 |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Complete regions | 3 (Sahel, Fertile Crescent, Diasporas) |
-| Regions with chapters | 19 / 26 |
-| Peoples with chapters | 39 / 259 |
+| Complete regions | 7 (Sahel, Fertile Crescent, Diasporas, Egypt, Central Africa, Pacific Century) |
+| Regions with chapters | 22 / 26 |
+| Peoples with chapters | 58 / 259 |
 | Rubric version | v1.5 |
-| Mean score | ~80.3 / 90 |
-| Board reviewers | 118 |
-| Voice types confirmed | 25+ |
-| Structural engine types | 33+ |
-| Estimated words | ~290,000 |
-| Innovations | 0 backlog (all adopted via instance or cluster) |
+| Mean score | ~81.0 / 90 |
+| Board reviewers | 157 |
+| Voice types confirmed | 30+ |
+| Structural engine types | 40+ |
+| Estimated words | ~400,000 |
+| Default SCRIBE model | Sonnet (validated Session 2) |
