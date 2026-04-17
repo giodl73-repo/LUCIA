@@ -103,18 +103,35 @@ Pipeline reference: `guides/PIPELINE.md`
 
 ## Innovation Threshold Check (Stage 11)
 
-After logging innovations, scan `scoring/INNOVATIONS.md` for any dimension
-with 2+ innovations still at status `logged`. If found:
+After logging innovations, check for promotion via TWO pathways:
 
-1. **Propose a rubric amendment** — draft the amendment text for that dimension
-2. **Prompt the user**: "Dimension [X] has [N] innovations. Proposed amendment:
+### Instance Trigger (original)
+Scan `scoring/INNOVATIONS.md` for any dimension with 2+ innovations still
+at status `logged`. If found, propose a rubric amendment.
+
+### Cluster Trigger (v1.5)
+Scan all `logged` innovations for thematic clusters: 3+ innovations that
+share a principle even if no two are exact duplicates. Group by THEME, not
+by formal dimension. If a cluster holds across genuinely different cultures,
+propose a cluster amendment.
+
+**When cluster analysis is MANDATORY:**
+- At every session boundary
+- After completing a book (all eras of one culture)
+- After completing a region sweep
+- After any batch of 5+ chapters
+
+### Promotion Process (either trigger)
+1. **Propose a rubric amendment** — draft the amendment text
+2. **Prompt the user**: "[N] innovations form cluster [name]. Proposed amendment:
    [summary]. Adopt to rubric v[next]?"
 3. If approved: update `scoring/RUBRIC.md` with the amendment, increment version,
-   update innovation statuses to `adopted (vX.X)`, update the Amendment History table
+   update all constituent innovation statuses to `adopted (vX.X)`, update
+   the Amendment History table
 4. If declined: mark innovations as `reviewed — not adopted` with reason
 
-This ensures the rubric evolves automatically as chapters are written.
-Do not skip this step.
+This ensures the rubric evolves at the pace of discovery, not at the pace of
+exact duplication. Do not skip this step.
 
 ## Pre-Chapter Rubric Sync
 
