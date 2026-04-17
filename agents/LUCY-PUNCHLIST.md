@@ -20,40 +20,44 @@
 - [x] 33 new board reviewers (82 total across 27 cultures)
 - [x] ~22 innovations logged from session 2 chapters
 - [x] Directory fix: Soninke moved to correct path
-- [x] TRACKER.md updated (39 chapters locked)
+- [x] TRACKER.md updated
 - [x] AGENT-ROSTER.md updated with session 2 spawns
+- [x] Fertile Crescent sweep: 7 chapters (Mitanni 82, Arameans 82, Hittites 82, Babylon 82, Akkad 81, Urartu 80, Assyria 78)
+- [x] 21 new board reviewers from Fertile Crescent (103 total)
+- [x] Cross-compare R2 complete (14 chapters sampled)
+- [x] Cross-compare amendments applied (Style Guide, Pipeline, Rubric)
 
 ## BLOCKING
 (none)
 
 ## HIGH PRIORITY (this session, remaining)
-- [ ] Run cross-compare R2 (39 chapters, 31 since R1)
 - [x] Innovation threshold check: Voice (16 instances) and Book-Level Arc (3 instances) exceeded
-- [x] Adopt rubric v1.4 — Voice Spectrum amendment (16+ voice types catalogued)
-- [x] Adopt rubric v1.4 — Book-Level Arc amendment (Mali, Inca, Rome)
-- [ ] Commit session 2 housekeeping
+- [x] Adopt rubric v1.4 — Voice Spectrum + Book-Level Arc + Archaeological Figures
+- [ ] Final session 2 commit and handoff
 
 ## NEXT CANDIDATES
 - Complete more books: Tang (4 remaining eras), Haudenosaunee (4 remaining), San (remaining)
-- Complete West Africa Sahel book (remaining eras for all 8 peoples)
+- Complete more Fertile Crescent eras (Akkad has 2 more, Assyria has 4 more, Babylon has 4 more, etc.)
 - Write Norse/Vikings remaining eras (4 remaining)
 - Begin a Crossroads book (US or Haiti — modern test)
-- Scale: dispatch agents for the 7 remaining empty regions (7, 12, 20, 23, 24, 3 partially)
+- Scale: dispatch agents for the 7 remaining empty regions (3, 7, 12, 20, 23, 24, 26)
 - Write Mughal chapter (Region 15 — Akbar/Sulh-i-Kul)
+- Region sweep: Egypt (8 remaining), South Asia (14 remaining), or East Asia (20 remaining)
 
 ## METRICS
 | Metric | Value |
 |--------|-------|
-| Chapters locked | 39 |
+| Chapters locked | 46 |
 | Complete books | 3 (Mali, Inca, Rome) |
+| Complete regions | 2 (Sahel 12/12, Fertile Crescent 8/8) |
 | Regions with chapters | 19 / 26 |
-| Peoples with chapters | 27 / 259 |
+| Peoples with chapters | 34 / 259 |
 | Rubric version | v1.4 |
-| Mean score | ~79.8 / 90 |
-| Board reviewers | 82 |
-| Voice types confirmed | 15+ |
-| Structural engine types | 22+ |
-| Estimated words | ~215,000 |
-| Git commits | ~75 |
+| Mean score | ~80.2 / 90 |
+| Board reviewers | 103 |
+| Voice types confirmed | 20+ |
+| Structural engine types | 28+ |
+| Estimated words | ~260,000 |
+| Git commits | ~85 |
 | Skills | 14 chronicle + 6 signal |
 | Innovations logged | 55+ |
