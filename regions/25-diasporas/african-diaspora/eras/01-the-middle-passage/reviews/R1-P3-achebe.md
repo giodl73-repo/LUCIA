@@ -1,0 +1,16 @@
+## P-3 — Chinua Achebe — Review of The Middle Passage (Opening)
+
+**Overall:** The voice is right. The story belongs to the man from Oyo. The Portuguese factor is a mechanism, not a character. The dignity is absolute. This is the most sensitive chapter in the project, and the opening earns its right to proceed.
+
+**What works:**
+- The man from Oyo is a person before he is a captive. We learn what he knows (the praise songs, the bata rhythms, the Ifa system, the geography of the dead in compound soil) before we learn what has been done to him. This ordering is essential. He is defined by his knowledge, not by his suffering. The suffering is the condition; the knowledge is the identity.
+- The Yoruba cosmological system is not "described." It is inhabited. "Thunder was not weather but voice." "The dancer was no longer the dancer but the orixa himself." These are not explanatory sentences written for a Western reader. They are the world as the man from Oyo experienced it. A Yoruba reader would recognize this. That is the test, and it passes.
+- The singing in the hold is the right moment. It is not resistance as a Western reader might define it (organized, political, goal-directed). It is something deeper: the persistence of a pattern that the body knows. The call goes out and the response comes, not because anyone decided to resist but because the structure of the music is the structure of the being. This is exactly right.
+- The violence is present without being spectacle. "Seven hundred square feet. Two hundred and twelve human beings. Plank space the width of a coffin." The reader knows what this means. The text does not linger. It does not ask the reader to feel horror. It states the conditions and moves to what the conditions could not destroy. This is dignity.
+
+**What doesn't:**
+- "He was purchasing a library." I hear what this sentence is doing, and it does it well as a piece of rhetoric. But it is the author's voice, not the culture's voice. The man from Oyo would not have thought of his knowledge as a "library." He would not have thought of it as a thing at all. It was simply what he was. The metaphor works from outside and slightly breaks the inside perspective. Consider: "He was purchasing a man who knew things the ledger had no column for."
+- The final paragraph shifts from the man from Oyo to a broader view: "What arrived in Bahia and Saint-Domingue and Jamaica and Virginia..." This is necessary, but the shift should be earned more carefully. The man is still on the beach. The reader should feel the transition from this one man to the twelve million, not be told it.
+
+**The question I'd push on:**
+The chapter covers 370 years and the experience of twelve million people. The opening has established one man's interiority. How will the chapter maintain the inside perspective across that scope? The danger is that the chapter will retreat to a survey voice when it moves beyond the individual story. The voice established here (call-and-response, body-carried knowledge, the orixa in the hold) must sustain across the full chapter or the opening's promise will be broken. I want the notes to name exactly how the inside voice will be maintained at scale.

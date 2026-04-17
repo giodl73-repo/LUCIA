@@ -1,0 +1,37 @@
+# Figures — The Trade: The Middle Passage
+
+## The Man from Oyo (Composite)
+
+The man who opens this chapter is a composite figure. He is not a specific individual whose name appears in any archive. He is drawn from the demographic and cultural record: the Bight of Benin was a primary embarkation zone for captives from the Oyo Empire during the early-to-mid eighteenth century, and the religious practices described (Shango devotion, Ifa divination, the bata drum rhythms) are well-documented elements of Yoruba spiritual life in this period. His capture in warfare is consistent with the primary source of captives entering the Atlantic trade from the Oyo region: wars between Oyo and neighboring kingdoms produced prisoners who were sold to European factors at coastal ports, primarily Ouidah and Porto-Novo.
+
+He is unnamed because we cannot name him. The ship's ledgers recorded cargo, not persons. The *São João Baptista* is a documented Portuguese slave vessel, but the specific voyage and manifest referenced in the opening are representative rather than documentary. The honest disclosure: this man is the twelve million compressed into one body, and his interiority is constructed from what the Yoruba cultural record tells us a devotee of Shango in this period would have known. He is not fiction. He is the closest the sources allow us to get to the experience of a specific human being within a system designed to erase specificity.
+
+## Olaudah Equiano (c. 1745-1797)
+
+Equiano published *The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African* in 1789. It became the most widely read account of the Middle Passage in the English language and was a significant weapon in the abolitionist cause. Equiano described his capture in what he said was the Igbo town of Essaka, his transport to the coast, his experience in the ship's hold, and his subsequent life as an enslaved and then free man in the Atlantic world.
+
+The honest disclosure: the historian Vincent Carretta, in *Equiano, the African* (2005), presented evidence (a naval muster record and a baptismal record) suggesting Equiano may have been born in South Carolina rather than in Africa. The scholarly debate is unresolved. If Carretta is correct, Equiano's account of the Middle Passage was not memoir but testimony constructed from the memories of other survivors, a community's experience rendered in the first person. The chapter uses his account because it remains the most detailed sensory description of the crossing available, and because the possibility that it was transmitted communally rather than experienced individually itself demonstrates the body-archive's function: the community carried the memory and gave it to the one who could write it down.
+
+## Mahommah Gardo Baquaqua (c. 1824-1857?)
+
+Born in Djougou, in what is now the Republic of Benin. Enslaved, transported to Brazil, eventually escaped to the United States with the help of abolitionists while his enslaver's ship was docked in New York harbor. His autobiography, *An Interesting Narrative. Biography of Mahommah G. Baquaqua* (1854), was dictated to Samuel Moore and provides a second first-person account of the Middle Passage from a different century and a different region of Africa than Equiano's. Baquaqua's account of the hold, the forced confinement, the wish for death, corroborates Equiano's testimony from a perspective separated by nearly a century.
+
+## Nanny of the Maroons (c. 1686-c. 1755)
+
+Leader of the Windward Maroons in the Blue Mountains of Jamaica. Nanny is one of Jamaica's National Heroes and the only woman among them. She led the Maroon community of Nanny Town in armed resistance against British colonial forces for over thirty years. The British signed a peace treaty with the Maroons in 1739, granting them land and autonomy, an acknowledgment that the colonial military could not defeat them.
+
+Nanny is described in the oral tradition as an Ashanti woman, a practitioner of obeah (spiritual practice), and a military leader of exceptional skill. The British records confirm the military leadership; the spiritual dimensions come from the Maroon oral tradition. The honest disclosure: the historical Nanny is inseparable from the legendary Nanny, and the oral tradition carries elements (catching bullets, supernatural powers) that belong to the tradition's own register of honoring extraordinary leadership. The chapter uses her as the embodiment of the principle that the body-archive, given territory and community, could rebuild a complete society.
+
+## The Fon Priestess (Composite)
+
+The Fon priestess referenced in the chapter is a composite figure representing the vodunsi tradition of Dahomey. The historical Cécile Fatiman, a priestess present at the Bois Caiman ceremony of 1791 according to the Haitian oral tradition, is named. The scholarly debate about the Bois Caiman ceremony is significant: the details of the ceremony come primarily from oral tradition and later accounts, not from contemporary documentation, and historians disagree on what specifically occurred. The chapter presents the ceremony as the tradition tells it while noting the debate. The structural argument (that the practice of spiritual gathering was also the infrastructure of political organizing) does not depend on the specific details of a single ceremony; it is confirmed by the broader pattern of Vodou's role in Haitian resistance throughout the colonial period.
+
+## Alexander Falconbridge (External Source)
+
+Ship's surgeon on several slave voyages. His *Account of the Slave Trade on the Coast of Africa* (1788) is used in the chapter for physical description of conditions aboard slave ships. Falconbridge wrote as an abolitionist witness, not as a member of the communities described. His account is used as corroborating external evidence of conditions, not as the chapter's voice. The chapter does not adopt his perspective; it uses his measurements and observations as physical data that supports the sensory descriptions grounded in the testimony of the captives themselves.
+
+## Source Asymmetry Note
+
+The fundamental source asymmetry of this chapter is that the people whose story it tells were systematically denied the tools of documentation. The captives were not literate in European languages. Their own oral traditions were disrupted by the mixing of language groups. The primary documentary record of the Middle Passage (ship logs, factor accounts, insurance documents, plantation inventories) was created by the people who enslaved them, for the purpose of tracking profit, not human experience. Equiano's and Baquaqua's narratives are exceptional precisely because they are rare: first-person accounts from within the system, written after escape.
+
+The chapter addresses this asymmetry by making it visible rather than apologizing for it. "The ledger had no column for what this man knew" is not a metaphor. It is a statement about the source record. The chapter draws its sensory and experiential content from the first-person accounts that exist (Equiano, Baquaqua), from the physical evidence of the ships themselves (hold dimensions, shackling systems, mortality data from the Trans-Atlantic Slave Trade Database), from the cultural evidence of what survived (the Candomblé drum rhythms, the ring shout, the cosmograms), and from the oral traditions of the communities that carried the memory. The composite figures are the chapter's honest response to a source record designed to record commodities, not people.

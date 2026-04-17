@@ -1,0 +1,15 @@
+## P-2 — Ibn Khaldun — Review of The Middle Passage (Opening)
+
+**Overall:** The opening identifies its mechanism with unusual clarity for an 800-word piece. The argument is not that the Middle Passage was terrible. The argument is that what the traders could not weigh or price was exactly what survived. This is a structural claim, and it is the right one.
+
+**What works:**
+- The causal logic is embedded in the narrative, not stated beside it. "He was purchasing a library" is not a metaphor hung on a story. It is the analytical claim of the chapter delivered as narrative observation. The Portuguese factor's blindness is the system's blindness: the trade valued bodies as labor and could not see bodies as carriers of intellectual systems.
+- The opening correctly identifies the structural mechanism: embodied knowledge (rhythm, cosmology, call-and-response pattern) survives conditions designed to destroy culture because it requires no material infrastructure. This is not sentiment. It is an analysis of the relationship between a knowledge system's medium and its resilience. Textual cultures lose their libraries when the libraries burn. Embodied cultures lose their compounds but not their knowledge, because the body is the archive.
+- The deliberate mixing of captives from different language groups is presented not as mere cruelty but as a structural strategy that failed: the traders mixed Yoruba and Fon and Igbo to prevent communication, but the deep structure of West African music (call-and-response) operated below the level of language. The strategy defeated itself because the traders did not understand what they were trying to suppress.
+
+**What doesn't:**
+- The opening announces its engine but does not yet name the terminal condition. What is the structural logic of the Middle Passage as a system? The trade lasted 370 years. What sustained it? What made it self-perpetuating? And what, structurally, ended it? The opening focuses on what survived the crossing. The chapter will need to address the crossing itself as a system with its own logic, not only as a backdrop for cultural survival.
+- The economic structure of the trade is absent. I understand this is an opening, not a chapter. But the trade was a commercial system driven by specific commodity demands (sugar, cotton, tobacco), financed by specific institutions (the Royal African Company, the Asiento), and sustained by a specific labor economics. The chapter will need to engage with this, or the survival narrative floats above the material conditions that produced it.
+
+**The question I'd push on:**
+What is the asabiyyah of the slave ship? Not the solidarity of the captives (though that matters) but the social glue that held the trading system together for nearly four centuries. Who benefited, how, and what structural change finally broke the system? The chapter should tell the story from inside the experience of the enslaved, but it must also understand the system that created that experience, or the narrative becomes a story of endurance without a story of structure.

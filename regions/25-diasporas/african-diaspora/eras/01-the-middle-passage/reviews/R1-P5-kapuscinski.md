@@ -1,0 +1,17 @@
+## P-5 — Ryszard Kapuściński — Review of The Middle Passage (Opening)
+
+**Overall:** I can smell this opening. The oak gall ink, the flux, the wood and iron and skin. The hold of the *São João Baptista* is a physical place, and the reader is in it. This is what sensory grounding does: it makes the argument land in the body before it reaches the mind.
+
+**What works:**
+- The sensory inventory of the hold is devastating because it is precise, not because it is graphic. "Seven hundred square feet. Two hundred and twelve human beings. Plank space roughly the width of a coffin, the ceiling so low a man could not sit upright." These are measurements. They are also the entire horror, because the reader's body does the calculation. The text does not say "imagine the suffering." The text gives you the dimensions and your body imagines it without instruction.
+- "Iron against skin, skin against wood, wood against the Atlantic." This is physical writing. The chain of contact (iron/skin/wood/ocean) places the reader at the point where the human body meets the system. The Atlantic is the last link. You feel the scale through the body.
+- The oak gall and vinegar ink is a perfect opening detail. It is specific to the period, specific to the document (the ship's ledger), and it grounds the bureaucratic violence in a physical object. The trade was conducted in ink that smelled like something. This is the kind of detail that separates embodied writing from abstraction.
+- The singing in the hold arrives at exactly the right sensory moment. After the smell of flux, the shackles, the darkness "below the waterline where the Portuguese sailors did not go unless they had to," a voice rises. The sensory shift from the body's suffering to the voice's persistence is the strongest moment in the opening.
+- "The air was urine and sweat and vomit and the sweet thick smell of flux." Five smells in one sentence. The reader is in the hold.
+
+**What doesn't:**
+- The beach at Ouidah is underdeveloped. The man is purchased there, but I do not feel the beach. What was the temperature? The West African coast in the dry season has a particular heat. What did Ouidah's slave market look like, smell like, sound like? The chapter should ground the embarkation point as fully as it grounds the ship's hold. The reader needs to feel where this man was taken FROM, not only where he was taken TO.
+- The compound on the outskirts of Oyo is mentioned but not sensed. "A compound on the outskirts of Oyo" could be anywhere. What did a Yoruba compound smell like? (Shea butter. Fermented locust beans. The particular red dust of the savanna.) What did it sound like? (The bata drums, yes, but also the compound's daily sounds: children, goats, the pounding of yam.) The chapter needs to establish the world that was lost with the same sensory precision it uses to render the world of the ship.
+
+**The question I'd push on:**
+The crossing itself. Six to twelve weeks on the Atlantic. The opening gives us the hold's conditions at embarkation. But the crossing was not static. There were storms where the hatches were sealed and the captives lay in complete darkness for days. There were calms where the ship sat motionless and the heat below decks became something beyond what the word "heat" can carry. There were moments when the hatches opened and the captives were brought on deck and the light was blinding and the air was the cleanest thing they had tasted in weeks. The chapter should take the reader through the crossing as a physical experience, not only as a condition.
