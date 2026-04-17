@@ -26,6 +26,9 @@
 - [x] 21 new board reviewers from Fertile Crescent (103 total)
 - [x] Cross-compare R2 complete (14 chapters sampled)
 - [x] Cross-compare amendments applied (Style Guide, Pipeline, Rubric)
+- [x] Rubric v1.5 — cluster promotion rule + 5 cluster amendments (27 innovations adopted)
+- [x] Fertile Crescent sweep: 7 chapters (mean 81.0)
+- [x] Diaspora sweep: 5 chapters (mean 80.8) — Crossroads model validated
 
 ## BLOCKING
 (none)
@@ -47,17 +50,15 @@
 ## METRICS
 | Metric | Value |
 |--------|-------|
-| Chapters locked | 46 |
+| Chapters locked | 51 |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Complete regions | 2 (Sahel 12/12, Fertile Crescent 8/8) |
+| Complete regions | 3 (Sahel, Fertile Crescent, Diasporas) |
 | Regions with chapters | 19 / 26 |
-| Peoples with chapters | 34 / 259 |
-| Rubric version | v1.4 |
-| Mean score | ~80.2 / 90 |
-| Board reviewers | 103 |
-| Voice types confirmed | 20+ |
-| Structural engine types | 28+ |
-| Estimated words | ~260,000 |
-| Git commits | ~85 |
-| Skills | 14 chronicle + 6 signal |
-| Innovations logged | 55+ |
+| Peoples with chapters | 39 / 259 |
+| Rubric version | v1.5 |
+| Mean score | ~80.3 / 90 |
+| Board reviewers | 118 |
+| Voice types confirmed | 25+ |
+| Structural engine types | 33+ |
+| Estimated words | ~290,000 |
+| Innovations | 0 backlog (all adopted via instance or cluster) |

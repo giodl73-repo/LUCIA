@@ -116,20 +116,32 @@ All 28 chapters were written in Session 1. Score is combined (Gate + Chronicle, 
 
 **Fertile Crescent sweep mean: 81.0/90**
 
+### Diaspora Sweep (5 chapters)
+
+| Spawn | Culture | Era | Score | Voice | Status |
+|-------|---------|-----|-------|-------|--------|
+| SCRIBE-armenian-01 | Armenian Diaspora | Hayastan | 82/90 | Scholarly-reverent | Locked |
+| SCRIBE-indian-overseas-01 | Indian Overseas | Girmit | 82/90 | Domestic-extractive | Locked |
+| SCRIBE-african-diaspora-01 | African Diaspora | The Middle Passage | 82/90 | Call-and-response | Locked |
+| SCRIBE-chinese-overseas-01 | Chinese Overseas | Tang-Song Nanyang | 80/90 | Mercantile-poetic | Locked |
+| SCRIBE-romani-01 | Romani People | O Lungo Drom | 78/90 | Linguistic-nomadic | Locked |
+
+**Diaspora sweep mean: 80.8/90**
+
 ---
 
 ## Aggregate Metrics
 
 | Metric | Value |
 |--------|-------|
-| Total chapters locked | 46 |
+| Total chapters locked | 51 |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Complete regions | 2 (Sahel 12/12, Fertile Crescent 8/8) |
-| Cultures with chapters | 34 |
+| Complete regions | 3 (Sahel 12/12, Fertile Crescent 8/8, Diasporas 6/6) |
+| Cultures with chapters | 39 |
 | Regions with chapters | 19 / 26 |
 | Score range | 74–86 / 90 |
-| Manuscript mean | ~80.2 / 90 |
-| Board reviewers | 103 across 34 cultures |
+| Manuscript mean | ~80.3 / 90 |
+| Board reviewers | 118 across 39 cultures |
 | Innovations logged | 55+ |
 | Rubric version | v1.4 |
 | Voice types confirmed | 20+ |

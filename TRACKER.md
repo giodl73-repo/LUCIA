@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 2 — Anchor Region Pipeline (in progress)
-**Last updated:** 2026-04-16 (Session 2 — 18 chapters locked, Sahel + Fertile Crescent complete, 4 new voices)
+**Last updated:** 2026-04-16 (Session 2 — 23 chapters locked, Sahel + Fertile Crescent + Diasporas complete)
 
 ---
 
@@ -33,9 +33,9 @@
 | 22 | Oceania & Pacific | complete | 10 | draft | 2 | 2 |
 | 23 | Americas Reborn | complete | 10 | draft | 0 | 0 |
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
-| 25 | Diasporas | complete | 6 | draft | 1 | 1 |
+| 25 | Diasporas | complete | 6 | draft | 6 | 6 |
 | 26 | Pacific Century | complete | 5 | draft | 0 | 0 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **46** | **46** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **51** | **51** |
 
 ---
 
