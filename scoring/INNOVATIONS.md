@@ -690,6 +690,22 @@ trigger supplements it — it does not replace it.
 - **Why it works:** New voice register. The prose structure mirrors the culture's experience: accumulation without settlement, each place adding a layer without replacing the core.
 - **Status:** logged (1 instance — watching for 2nd or cluster)
 
+### Innovation: Lacustrine Accumulative Voice Register
+- **Source:** regions/12-central-africa/luba-empire/eras/01-the-upemba-tradition/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** A new voice register for lakeshore cultures: rolling clauses that gather information the way a net gathers fish, broken by short declaratives that land with the weight of a catch hauled aboard. Distinct from maritime accumulative (Swahili), which reads the harbor and two horizons; the lacustrine voice reads the seasonal lake cycle, the exchange shore, and the long accumulation of surplus. Rhythm is patient, seasonal, accumulative — tied to lake ecology rather than ocean trade. Zero em-dashes: the voice's rhythm is built on commas and periods, not interruptions. Sustained for approximately 4,950 words.
+- **Why it works:** Extends the Voice Spectrum into a new subcategory: lacustrine/lakeshore cultures. The register is inseparable from the structural engine (iron-fish surplus accumulating across centuries) and from the chapter's organizing principle (the net as structural metaphor). The voice carries both sensory ground and analytical argument in the same register. Applicable to other lakeshore cultures (Great Lakes East Africa, Lake Chad basin).
+- **Status:** logged (1 instance — watching for 2nd or cluster)
+
+### Innovation: Pre-State Accumulation as Structural Engine
+- **Source:** regions/12-central-africa/luba-empire/eras/01-the-upemba-tradition/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** Structural engine for a pre-state era: the iron-fish surplus accumulates over a thousand years, gradually deepening social differentiation, until the social structure is ready for a named political principle (bulopwe) but has not yet received it. The engine is not a covenant, not a cycle, not a material medium in the sense of a specific object, but a PRECONDITION ENGINE — the engine's function is to create the conditions for the next era's engine, not to resolve itself. Terminal condition: the social differentiation becomes stable enough to require legitimizing ideology. The era ends at the threshold of the kingdom, not through the door.
+- **Why it works:** New engine type for first-era chapters of cultures whose founding narrative is in a later era. The precondition engine satisfies the structural requirement (the chapter must build) while respecting the historical reality (the kingdom has not yet arrived). The engine creates narrative momentum toward a future that the chapter does not narrate. Applicable to any first-era chapter whose culture crystallizes as a named state after the era being described.
+- **Status:** logged (1 instance — watching for 2nd or cluster)
+
 ### Innovation: Portable Civilization as Structural Engine
 - **Source:** regions/25-diasporas/romani-people/eras/01-o-lungo-drom/
 - **Date:** 2026-04-16
@@ -714,6 +730,30 @@ trigger supplements it — it does not replace it.
 - **Why it works:** Extends v1.5 Knowledge System at Method Level. Food preparation as cultural evidence, not decoration.
 - **Status:** adopted (v1.5 — cluster extension)
 
+### Innovation: Material Object as Figures Entry
+- **Source:** regions/12-central-africa/lunda/eras/01-the-lueji-chibinda-foundation/
+- **Date:** 2026-04-16
+- **Dimension:** Figures
+- **Description:** The lukanu (royal bracelet) is given its own entry in figures.md alongside the human figures, with its own historical narrative: material properties, political theology, custodial obligations, ceremonial maintenance, its role in the founding transmission, and its survival into the modern era as a living institution. The object is treated as an agent in the chapter's story — with its own trajectory, its own significance, its own "death" and potential resurrection (the Mwaant Yav exile and the hidden lukanu). This extends the v1.5 Material Object as Structural Principle beyond the chapter body into the documentation apparatus.
+- **Why it works:** For cultures whose political theology genuinely centers on a physical object (not metaphorically but ontologically — the Lunda state's legitimacy resided IN the bracelet), giving the object a figures entry honors that cultural logic without anthropomorphizing it. The lukanu entry functions as both historical documentation and cultural argument: it shows that the founding object's story did not end with the transmission but continued across four centuries, was tested by the Chokwe disruption, and survives into the present. This technique will apply to cultures with sacred regalia, to cultures where a single object embeds the state's legitimacy (Ark of the Covenant, Japanese imperial regalia, Aztec xiuhuitzolli), and to any chapter where the v1.5 Material Object engine needs full documentation beyond what the chapter body can sustain.
+- **Status:** logged (1 instance — watching for 2nd or cluster)
+
+### Innovation: Ceremonial-Genealogical Voice Register
+- **Source:** regions/12-central-africa/lunda/eras/01-the-lueji-chibinda-foundation/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** New voice register for cultures that recorded founding events through genealogical recitation and ceremonial narrative — the voice of a court remembrancer speaking an official lineage. Deliberate, weighted, with short declarative sentences at moments of highest weight. The rhythm is measured and certain, building through accretion. Distinct from griot-cadence (which performs and praises), from oral-tradition general (which repeats and carves), from legal-public (which pronounces), and from philosophical-devotional (which builds and clarifies). The genealogical voice NAMES and PLACES — it creates the world through naming. Zero em-dashes sustained for approximately 5,100 words. Key techniques: genealogical naming chains ("the son of Kalala Ilunga, who..."), present-weight in past narration, aphoristic authority at moments of maximum significance ("An authority that passes in secret passes partially. An authority that passes before witnesses passes fully.").
+- **Why it works:** Extends the Voice Spectrum into a new category: ceremonial-genealogical traditions. This register applies specifically to cultures whose founding narratives were preserved by court remembrancers or lineage specialists — not praise-singers (griot) but recorders and transmitters. The voice is inseparable from the culture's specific epistemological practice: the Lunda tradition holds founding authority through genealogical chain and witnessed ceremony, and the prose rhythm embodies this. Applicable to other cultures with court-genealogist traditions (Polynesian genealogists, Hawaiian ali'i lineage keepers, Kongo lineage traditions). The voice's aphoristic weight at key moments is the register's equivalent of the griot's refrain — it marks the transmission points.
+- **Status:** logged (1 instance — watching for 2nd or cluster)
+
+### Innovation: Female Constitution as Non-Anomalous Founding
+- **Source:** regions/12-central-africa/lunda/eras/01-the-lueji-chibinda-foundation/
+- **Date:** 2026-04-16
+- **Dimension:** Honesty / Figures
+- **Description:** The chapter renders female political authority as normal within the tradition's own framework by structural means rather than by assertion. Lueji rules, adjudicates, and constitutes the kingdom; the text does not pause to note that a woman is doing this or to explain why it was possible. The key technique: "She ruled. The tradition does not present this as unusual." This one sentence embeds the culture's own framework as the operating logic without editorializing. The chapter then maintains this internal-logic frame throughout: the transmission is presented as constitution, not as surrender; Lueji's continued role after the transmission is treated as structural, not as surprising; the female lineage's ongoing political functions are documented without comment.
+- **Why it works:** The v1.2 Inside-Voice Honesty amendment established three techniques for embedding No Verdicts in the culture's own practice. This chapter adds a fourth: for cultures where the historical record includes significant female authority that might trigger modern readers' surprise, the technique is to present it without pause, as the tradition presents it, and let one strategic sentence ("the tradition does not present this as unusual") carry the entire cultural framing. The chapter neither over-emphasizes the female authority (making it the novelty) nor under-emphasizes it (erasing it). This technique applies to any culture with female political authority embedded in the tradition's own logic: Luba queens, West African queen mothers, Polynesian female chieftains, Akan matrilineal political traditions.
+- **Status:** logged (1 instance — watching for 2nd or cluster)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
@@ -731,3 +771,71 @@ trigger supplements it — it does not replace it.
 | v1.5 | 2026-04-16 | Knowledge System at Method Level | Hausa, Tongan, Abbasid, Tibet, Babylon (cluster, extends v1.3) | Evidence |
 | v1.5 | 2026-04-16 | Non-Chronological Organizing Principle | San, Aboriginal, Swahili, Hausa, Jewish (cluster) | Progression/Scene |
 | v1.5 | 2026-04-16 | Terminal Condition as Culture-Specific | Songhai, Tibet, Inca, Egypt, Wolof (cluster) | Progression |
+
+---
+
+## New Innovations (Session 2026-04-16: South Korea Era 1)
+
+### Innovation: Haegeum as Structural Persistence Engine
+- **Source:** regions/26-pacific-century/modern-korea-south/eras/01-japanese-colonization/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The haegeum (two-stringed fiddle) functions as the organizing principle throughout the chapter. Its presence/absence tracks the presence/absence of Korean cultural identity. The instrument persists where words cannot. Sectionalization follows what the haegeum can and cannot do: plays (resistance), silenced (erasure), plays again (liberation). The structural arc is materialized in the instrument's movement through the narrative.
+- **Why it works:** Extends v1.5 Material Object engine but with a twist: the object is alive because it is alive with meaning. The haegeum is not just a passive symbol — it is an active carrier of cultural knowledge. The object's agency (it keeps asking questions) mirrors the culture's agency (it keeps persisting).
+- **Status:** logged (1 instance — watching for 2nd instance or cluster with other material-object variants)
+
+### Innovation: Bilingual Voice Embodied in Narrative Structure
+- **Source:** regions/26-pacific-century/modern-korea-south/eras/01-japanese-colonization/
+- **Date:** 2026-04-16
+- **Dimension:** Voice / Progression
+- **Description:** Young-Sook's bilingual identity is not just thematized; it is structurally embodied. Sections shift between bureaucratic Japanese logic (Tanaka's scenes: precise, administrative, systematic) and Korean embodied knowledge (haegeum teaching: oral, kinesthetic, question-and-answer). The reader experiences the collision of epistemologies directly through prose register shifts, without explicit commentary.
+- **Why it works:** Extends v1.4 Voice Spectrum by showing how bilingual cultures must sustain multiple voice registers simultaneously, not sequentially. The chapter does not say "Young-Sook is caught between two worlds." It *makes the reader experience the catching* through rhythm changes.
+- **Status:** logged (1 instance — watching for 2nd instance from other bilingual/multicultural chapters)
+
+### Innovation: Liberation Through External Event as Terminal Condition
+- **Source:** regions/26-pacific-century/modern-korea-south/eras/01-japanese-colonization/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The era's terminal condition is not internal agency (Korean resistance succeeds) but external circumstance (Japan loses WWII). Adds a sixth terminal-condition type to v1.5's list: **circumstantial independence** (the colonized people are freed not by their own victory but by the colonizer's defeat). The chapter shows that this is not less tragic — it is *differently* tragic. Freedom comes but not earned. The culture persists but through luck, not through victory.
+- **Why it works:** Extends v1.5 Terminal Condition cluster. Previous types were all culture-internal (legitimacy gap, self-consumption, categorical failure, reversible loop, ecological constraint). This type depends on external historical force. It is uncommon (many colonized cultures did earn independence through struggle), but when it occurs, it creates a unique narrative posture: gratitude without agency.
+- **Status:** logged (1 instance — watching for 2nd instance from other late-colonial or occupied territories)
+
+### Innovation: The Body as Permanent Commitment Object
+- **Source:** regions/12-central-africa/mangbetu/eras/02-the-expansion-under-tuba/
+- **Date:** 2026-04-16
+- **Dimension:** Progression (extends v1.5 Material Object as Structural Principle)
+- **Description:** The v1.5 amendment identifies material objects (curtain, ship, stone edict, bronze plaque) as structural engines whose physical properties determine the chapter's narrative logic. The Mangbetu head-binding extends this principle to the human body itself as the "material object." The elongated skull is: (1) permanently shaped by a deliberate process, like a carved artifact; (2) visible at a distance, like a bronze plaque on a palace wall; (3) transmitted through specialist knowledge (the mother who knows how to bind), like any craft tradition; (4) the irreversible marker of aristocratic allegiance, like a charter or covenant. The chapter's structural engine (court aesthetic as political authority) operates through this body-as-object rather than through a manufactured artifact. The aesthetic franchise mechanism — subsumed lineages participating in the court's visual language at reduced register — is the engine's political logic, and it flows from the object's permanence: binding a daughter's skull is a commitment that cannot be taken back.
+- **Why it works:** The body-as-permanent-commitment extends the Material Object amendment to cultures whose "objects" are the shaped human form. It shows that the v1.5 principle applies more broadly than physical artifacts — any culture-specific commitment that is: durable, visible, produced through specialist knowledge, and used as a governance/legitimacy mechanism can function as the structural engine. The Mangbetu case is especially powerful because the object is the person, making the aesthetic and the political literally the same body.
+- **Status:** logged (1 instance — watching for 2nd instance from cultures that use body modification as political identity marker)
+
+### Innovation: Epistolary-Legal Voice Sustained at Chapter Length
+- **Source:** regions/12-central-africa/kongo-kingdom/eras/02-the-portuguese-encounter/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** New voice register: theological-legal, epistolary, argumentative. The prose moves at the speed of a formal letter being composed by someone who believes the argument is correct and that its correctness must be recognized. Declarative sentences of medium length build an argument. The vocabulary is legal ("covenant," "obligation," "record," "archive"). Zero em-dashes in 4,850 words — the register finds its pauses in semicolons and periods, not in parenthetical interruptions, because a formal Latin letter does not pause mid-argument. The voice modulates within the register: longer sentences for theological argument, shorter and starker sentences at confrontation points ("The ships left Mpinda below"). Distinct from Roman legal-public (Forum acoustics, civic space) and from Talmudic-argumentative (questioning, perpetually unfinished). The Kongo register is the prose of a man arguing from shared premises with a counterpart who does not honor them.
+- **Why it works:** Extends the Voice Spectrum into a new category: diplomatic-theological cultures where the letter IS the political instrument. Inseparable from the chapter's structural engine (covenant argument confronting commercial logic) and from Afonso I's historical practice. A Kongo paragraph cannot be mistaken for a Wolof, Roman, or Talmudic paragraph.
+- **Status:** logged (1 instance — watching for 2nd instance from cultures that use theological-legal argument as primary diplomatic instrument)
+
+### Innovation: Archive-as-Landing
+- **Source:** regions/12-central-africa/kongo-kingdom/eras/02-the-portuguese-encounter/
+- **Date:** 2026-04-16
+- **Dimension:** Landing
+- **Description:** The persistence mechanism is the physical archive in Lisbon. The letters exist. They have outlasted everything else. The landing closes on this fact: not on the Kongo kingdom's continuation (it did not survive as Afonso built it), not on Afonso's personal triumph (he did not achieve it), but on the argument's survival in the language and the archive of the people who failed to honor it. "The argument is still in Lisbon. It has outlasted everything else." New variant of the v1.1 Culture's Own Persistence as Close technique: where Mali used oral tradition still singing and Haudenosaunee used present-tense grammar of their name, this chapter uses the preserved letter itself — material persistence in an adversarial archive.
+- **Why it works:** The archive is simultaneously the evidence of failure (the letters needed to exist because the covenant failed) and the evidence of persistence (the argument outlasted everything else). The irony is structural, not authorial. Applies to any chapter where a culture's primary surviving record is preserved in an outsider's archive.
+- **Status:** logged (1 instance — watching for 2nd instance or cluster with other archive-persistence closings)
+
+### Innovation: Forest-Intimate Voice Register
+- **Source:** regions/12-central-africa/equatorial-forest-peoples/eras/01-deep-time-in-the-forest/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** New voice register confirmed at chapter length: Forest-Intimate. Characteristics: sentences that move at the pace of observation rather than argument; sensory density embedded in action and never announced ("the smell of loam and decay and new growth is so dense it is almost a thing you could hold" — not "the forest smells of"); the non-human world as grammatical participant rather than backdrop (the honeyguide, the okapi, the forest's "baka" presence treated as presences, not as setting); zero em-dashes as emergent property of the register's own rhythm, which finds pauses in periods and the space of short declarative sentences. Analytical content arrives fully embedded in scene — the epistemological argument about relational knowing is never stated as a claim but demonstrated through Mambu's practice, the Arom encounter, Ekali's teaching. Closest neighbors: San oral-tradition (Aboriginal), but distinguished by forest density (the register is acoustically and olfactorily overwhelmed), relational-rather-than-territorial relationship to place, and the embedded knowledge-system argument that runs through the sensory detail without ever emerging as explicit analysis.
+- **Why it works:** The forest peoples' epistemology — knowledge as right relationship maintained through practice, verified by the non-human world — cannot be argued in an analytical register without immediately misrepresenting it. The Forest-Intimate voice demonstrates it instead, by rendering the world the way the forest peoples move through it: as a dense, layered, simultaneous presence that responds to correct behavior. A reader who skips the analytical sections understands the argument from the sensory ones, because the sensory ones ARE the argument.
+- **Status:** logged (1 instance — watching for 2nd instance from forest cultures or other ecologically-intimate epistemological systems)
+
+### Innovation: Non-Human Partner as Structural Figure
+- **Source:** regions/12-central-africa/equatorial-forest-peoples/eras/01-deep-time-in-the-forest/
+- **Date:** 2026-04-16
+- **Dimension:** Figures
+- **Description:** The greater honeyguide is treated as a figure in the chapter — not as an animal used by humans, not as a charming ecological detail, but as a partner with its own learned behavior, its own judgment (it distinguishes correct signals from incorrect ones), and its own role in the narrative arc (present at opening, midpoint, and landing). The chapter gives it narrative weight equivalent to the human figures. This is not anthropomorphism — the chapter does not project human interiority onto the bird. It is accurate characterization: the honeyguide has, through co-evolutionary learning, a behavioral repertoire adapted to the human partnership, and that repertoire functions in the chapter as a character's knowledge and agency function. The bird's learned discrimination between correct and incorrect calls IS its characterization. Its appearance in the landing ("the bird is three trees ahead") IS the persistence mechanism.
+- **Why it works:** For cultures whose epistemology is fundamentally relational — knowledge arising from and maintained through relationships with non-human beings — the non-human partner cannot be a backdrop without misrepresenting the culture's worldview. The Achebe Test applied not just to human dignity but to the dignity of the entire relational system. Treating the honeyguide as a figure is the chapter's most direct implementation of the "present from within" rule: from inside the Mbuti worldview, the honeyguide IS a partner.
+- **Status:** logged (1 instance — watching for 2nd instance from cultures with formal interspecies relationships or animist epistemologies where the non-human world is a deliberate partner)

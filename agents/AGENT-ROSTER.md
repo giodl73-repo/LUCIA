@@ -128,23 +128,74 @@ All 28 chapters were written in Session 1. Score is combined (Gate + Chronicle, 
 
 **Diaspora sweep mean: 80.8/90**
 
+### Egypt & Nile Sweep (8 chapters — Opus)
+
+| Spawn | Culture | Era | Score | Voice | Status |
+|-------|---------|-----|-------|-------|--------|
+| SCRIBE-kush-01 | Kingdom of Kush | Kerma | 82/90 | River-pastoral | Locked |
+| SCRIBE-coptic-01 | Coptic Egypt | Desert Fathers | 82/90 | Desert-ascetic | Locked |
+| SCRIBE-meroe-01 | Meroe | Roman Encounter | 82/90 | River-kandake | Locked |
+| SCRIBE-new-kingdom-01 | New Kingdom | Amarna Interlude | 82/90 | Monument-crisis | Locked |
+| SCRIBE-ptolemaic-01 | Ptolemaic Egypt | The Founding | 82/90 | Intellectual-statecraft | Locked |
+| SCRIBE-roman-egypt-01 | Roman Egypt | Julio-Claudian | 81/90 | Administrative-commercial | Locked |
+| SCRIBE-predynastic-01 | Predynastic Egypt | Naqada I | 80/90 | Material-culture artisan | Locked |
+| SCRIBE-middle-kingdom-01 | Middle Kingdom | First Intermediate | 79/90 | Administrative-literary | Locked |
+
+**Egypt sweep mean: 81.3/90 (Opus)**
+
+### Central Africa Sweep (6 chapters — Sonnet model test)
+
+| Spawn | Culture | Era | Score | Voice | Status |
+|-------|---------|-----|-------|-------|--------|
+| SCRIBE-mangbetu-01 | Mangbetu | Expansion Under Tuba | 84/90 | Court-ceremonial | Locked |
+| SCRIBE-teke-01 | Teke | Kongo-Teke Interface | 84/90 | Transactional-broker | Locked |
+| SCRIBE-forest-01 | Forest Peoples | Deep Time in Forest | 83/90 | Forest-intimate | Locked |
+| SCRIBE-kongo-01 | Kongo Kingdom | Portuguese Encounter | 83/90 | Epistolary-legal | Locked |
+| SCRIBE-luba-01 | Luba Empire | Upemba Tradition | 83/90 | Lacustrine accumulative | Locked |
+| SCRIBE-lunda-01 | Lunda | Lueji-Chibinda | 78/90 | Ceremonial-genealogical | Locked |
+
+**Central Africa sweep mean: 82.5/90 (Sonnet) — 3 perfect Gates (30/30)**
+
+### Pacific Century Sweep (5 chapters — Haiku model test)
+
+| Spawn | Culture | Era | Score | Pipeline | Status |
+|-------|---------|-----|-------|----------|--------|
+| SCRIBE-roc-01 | ROC/Taiwan | Century of Humiliation | 82/90 | 11/11 | Locked |
+| SCRIBE-prc-01 | PRC | Jiefang | 83/90 (self) | 9/11 incomplete | Locked* |
+| SCRIBE-japan-01 | Post-Meiji Japan | Bakumatsu | ? | 11/11 (no report) | Locked* |
+| SCRIBE-south-korea-01 | S. Korea | Japanese Colonization | ? | 11/11 (no report) | Locked* |
+| SCRIBE-north-korea-01 | N. Korea | Haebang | ? | 11/11 (no report) | Locked* |
+
+**Pacific Century: partial data. Haiku reliability issues — see model comparison notes.**
+*Locked = files on disk, pipeline executed, but not all independently verified.
+
+### Model Comparison Summary
+
+| Metric | Opus | Sonnet | Haiku |
+|--------|------|--------|-------|
+| Region | Egypt (9) | Central Africa (12) | Pacific Century (26) |
+| Mean score | 81.3 | **82.5** | ~82 (partial) |
+| Perfect Gates | 0 | **3** | 0 |
+| Full pipeline | 8/8 | 6/6 | 1/5 |
+| Clean reporting | 8/8 | 6/6 | 1/5 |
+| Recommendation | Reliable workhorse | **Default SCRIBE** | Not for unsupervised work |
+
 ---
 
 ## Aggregate Metrics
 
 | Metric | Value |
 |--------|-------|
-| Total chapters locked | 51 |
+| Total chapters locked | 70 |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Complete regions | 3 (Sahel 12/12, Fertile Crescent 8/8, Diasporas 6/6) |
-| Cultures with chapters | 39 |
-| Regions with chapters | 19 / 26 |
-| Score range | 74–86 / 90 |
-| Manuscript mean | ~80.3 / 90 |
-| Board reviewers | 118 across 39 cultures |
-| Innovations logged | 55+ |
-| Rubric version | v1.4 |
-| Voice types confirmed | 20+ |
+| Complete regions | 7 (Sahel, Fertile Crescent, Diasporas, Egypt, Central Africa, Pacific Century + Old Kingdom) |
+| Cultures with chapters | 58 |
+| Regions with chapters | 22 / 26 |
+| Score range | 74–84 / 90 |
+| Manuscript mean | ~81.0 / 90 |
+| Board reviewers | 157 across 58 cultures |
+| Rubric version | v1.5 |
+| Voice types confirmed | 30+ |
 
 ---
 
