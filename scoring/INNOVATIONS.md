@@ -650,6 +650,70 @@ trigger supplements it — it does not replace it.
 - **Why it works:** New engine class: material-medium paradox. The same physical medium serves opposite purposes, and the paradox resolves in favor of the vulnerable use. Extends Material Medium engine into paradox territory.
 - **Status:** adopted (v1.5 — cluster promotion)
 
+### Innovation: Body-Archive as Structural Engine
+- **Source:** regions/25-diasporas/african-diaspora/eras/01-the-middle-passage/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The human body itself as the organizing principle. What survives the Middle Passage is what is stored in the body: rhythm, cosmology, call-and-response, spirit possession, agricultural knowledge. The trade could confiscate property but could not confiscate embodied knowledge.
+- **Why it works:** Extends v1.5 Material Object cluster into living-body territory. The "object" is the person. Terminal condition follows from embodied knowledge's requirement for community transmission.
+- **Status:** adopted (v1.5 — Material Object cluster extension)
+
+### Innovation: Source Asymmetry as Founding Condition
+- **Source:** regions/25-diasporas/african-diaspora/eras/01-the-middle-passage/
+- **Date:** 2026-04-16
+- **Dimension:** Evidence / Honesty
+- **Description:** The source asymmetry is not accidental but a deliberate product of the system being described. The ledger's silence about personhood IS the story. The absence of names in the record is the slavers' design, not a gap to be apologized for.
+- **Why it works:** Extends v1.5 Source Asymmetry cluster. The asymmetry is not a limitation external to the narrative but the founding condition of the narrative itself.
+- **Status:** adopted (v1.5 — Source Asymmetry cluster extension)
+
+### Innovation: Vindicating Terminal Condition
+- **Source:** regions/25-diasporas/armenian-diaspora/eras/01-hayastan/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** The fall of the Arsacid dynasty (428 CE) ends the kingdom but proves the engine: the alphabet was built to outlast the kingdom, and it does. The terminal condition does not end the engine — it confirms it. Sixth terminal-condition type alongside legitimacy gap, deliberate self-consumption, categorical failure, reversible loop, ecological constraint.
+- **Why it works:** New terminal pattern: the engine was designed to survive the terminal condition. Applicable to cultures whose founding technology was explicitly built for civilizational continuity (script, legal code, religious institution).
+- **Status:** logged (1 instance — watching for 2nd or cluster)
+
+### Innovation: Language as Primary Source Material
+- **Source:** regions/25-diasporas/romani-people/eras/01-o-lungo-drom/
+- **Date:** 2026-04-16
+- **Dimension:** Evidence
+- **Description:** In a culture without chronicles, the Romani language itself functions as archaeological evidence. Loanword stratigraphy does the analytical work that carbon dating does for material cultures. Sanskrit-derived core vocabulary proves Indian origin; Persian, Armenian, Greek layers map the route.
+- **Why it works:** Extends v1.5 Knowledge System at Method Level and Source Asymmetry clusters. The language IS the primary source, not a supplement to written records.
+- **Status:** adopted (v1.5 — cluster extension)
+
+### Innovation: Nomadic-Discover Voice Register
+- **Source:** regions/25-diasporas/romani-people/eras/01-o-lungo-drom/
+- **Date:** 2026-04-16
+- **Dimension:** Voice
+- **Description:** Accumulative, forward-moving prose where each sentence adds a layer of distance and vocabulary. The voice reveals what the language has been carrying all along. Distinct from oral-tradition (which performs) and sedimentary (which archives). The discover voice moves.
+- **Why it works:** New voice register. The prose structure mirrors the culture's experience: accumulation without settlement, each place adding a layer without replacing the core.
+- **Status:** logged (1 instance — watching for 2nd or cluster)
+
+### Innovation: Portable Civilization as Structural Engine
+- **Source:** regions/25-diasporas/romani-people/eras/01-o-lungo-drom/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** A complete culture carried in language, craft, kinship, and music rather than in territory, architecture, or written records. The engine's power derives from intangibility: you cannot burn a language, confiscate a skill, demolish a kinship system. Terminal: being named by outsiders is the first step toward being controlled.
+- **Why it works:** New engine type where survival works precisely because the culture has no material form to destroy. Extends the structural engine concept into intangible-infrastructure territory.
+- **Status:** logged (1 instance — watching for 2nd or cluster)
+
+### Innovation: The List as Material Object
+- **Source:** regions/25-diasporas/chinese-overseas/eras/01-the-tang-song-nanyang/
+- **Date:** 2026-04-16
+- **Dimension:** Progression
+- **Description:** Captain Lin's folded paper list of names functions as a material-object engine variant. The list IS the law, the credit system, the institutional memory. Physical properties (paper softened by sweat, ink fading) carry the structural argument.
+- **Why it works:** Extends v1.5 Material Object cluster. The list's physicality (fragile, portable, perishable) mirrors the network's character.
+- **Status:** adopted (v1.5 — Material Object cluster extension)
+
+### Innovation: Food as Cultural Evidence
+- **Source:** regions/25-diasporas/chinese-overseas/eras/01-the-tang-song-nanyang/
+- **Date:** 2026-04-16
+- **Dimension:** Evidence
+- **Description:** Wedding scene uses food (Hokkien noodles, Malay rendang, laksa) as primary evidence of Peranakan cultural synthesis. The dish IS the argument about what happened when two cultures merged.
+- **Why it works:** Extends v1.5 Knowledge System at Method Level. Food preparation as cultural evidence, not decoration.
+- **Status:** adopted (v1.5 — cluster extension)
+
 ## Amendment History
 
 | Version | Date | Amendment | Source | Dimension |
