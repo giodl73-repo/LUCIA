@@ -1,49 +1,58 @@
-# Figures — The High Wagadu (Era 3)
+# Figures — The High Wagadu
 
-## Tunka Manin (r. c. 1062-1076 CE)
+**Era:** The High Wagadu, c. 700–1076 CE
+**Rubric:** v1.6, Figures dimension (v1.1 and v1.4 amendments applied)
 
-The king Al-Bakri describes. Ruler of Wagadu at its documented peak and at the moment of its disruption. Grandson of a previous king, Basi, to whom the throne came through the matrilineal system: sister's son inheriting from uncle.
+---
 
-**What we know:** Tunka Manin is the most fully described ruler of Wagadu in the written record. Al-Bakri's account (1067 CE) provides details of his court ceremonies, his audience rituals, his military capacity, his accommodation of Muslim merchants, his dress (the gold cap wound in cotton), and his administration. He was not Muslim but employed Muslim officials and interpreters, maintained a policy of tolerance toward the merchant community, and presided over the twin-city structure that was Wagadu's distinctive political form. His reign appears to coincide with the period of Almoravid pressure from the north.
+## The Unnamed Girl at the Well
 
-**What we cannot know:** Tunka Manin's personality, his private deliberations, his response to the gathering Almoravid threat. Al-Bakri describes the court as his informants saw it from outside. The Soninke oral tradition (the Dausi) does not preserve Tunka Manin as a named character in the way it preserves the founding legends. He is a historical figure known primarily through an outsider's account, and the chapter renders him through the ceremonies and structures Al-Bakri observed, not through invented interiority.
+The Dausi does not give her a name. This is not an oversight; it is the tradition's deliberate form. She is preserved in the oral cycle by her walk — the cold sand, the muffled drums, the well at the world's edge — not by individual identity. The names in the Dausi belong to the people whose individual choices changed the covenant's trajectory: Siya Yatabere, who broke it, has a name. The girl who sustained it does not. The tradition encodes this asymmetry deliberately: the covenant required her, she gave what the covenant required, and what she gave was absorbed into the order of things without remainder.
 
-**Sources:** Al-Bakri, *Kitab al-Masalik wa-l-Mamalik* (1067 CE), translated in Levtzion & Hopkins, *Corpus of Early Arabic Sources for West African History* (1981/2000). Levtzion, *Ancient Ghana and Mali* (1973).
+The chapter preserves this asymmetry. She appears in her body — cold leather soles, tight cotton, the stone lip warm on one side and cold on the other — because a figure needs a body even without a name. To give her a name the Dausi did not preserve would be to step outside the tradition's own frame. What the Dausi kept, the chapter keeps.
 
-## Bida
+---
 
-The serpent of the covenant. Not a historical figure in the Western biographical sense, but a force in the Soninke understanding of their own world. The other party in the compact that sustained Wagadu.
+## Tunka Manin
 
-**What we know:** Bida appears in the Dausi, the Soninke epic cycle, as the serpent whose covenant with the Soninke people guaranteed the gold, the rains, and the order of the world. The annual sacrifice of a virgin to the serpent is the central ritual obligation of the compact. The tradition is consistent across collected versions: Wagadu exists because Bida sustains it; when Bida is killed, Wagadu ends.
+*Reigned c. 1062–1076 CE. Last major king of the High Wagadu.*
 
-**What we cannot know:** The historical practice behind the legend. Whether annual human sacrifice occurred as the tradition describes, or whether the Bida legend encodes a more complex set of ritual obligations in narrative form, is not recoverable from the sources. The chapter presents the covenant as the Soninke's own operative understanding of their prosperity, neither literalized nor rationalized.
+Tunka Manin is the only named historical figure in this chapter. Al-Bakri's informants described him sitting in his pavilion: the gold cap wound in cotton, the guard dogs with gold and silver collars, the court officials in silk and brocade, the soothsayers behind the throne in their caps and fine cotton garments. These are not Al-Bakri's embellishments — they are the specific details that his informants recorded because they were significant to the Soninke understanding of what a king was.
 
-**Sources:** Frobenius, *Dichten und Denken im Sudan* (1925); Monteil, "La legende du Wagadou"; Meillassoux, Doucouré, & Simagha, *Legende de la dispersion des Kusa* (1967). Discussion in Levtzion (1973) and Conrad (2004).
+The gold on the dogs and the harness was not luxury. In the Soninke system, gold was the material that Bida's covenant had placed in the world's streams for the Soninke to channel through the crossing. The king's proximity to gold — on his head, on his animals, in his treasury — announced his position as the covenant's keeper. The man who wore gold was not displaying wealth; he was wearing his office's proof.
 
-## Siya Yatabere (also: Mamadu the Silent)
+The matrilineal succession: Tunka Manin came to the throne through his mother's line, as the grandson of King Basi. His own sons would not rule. His sister's sons would. Al-Bakri recorded the reasoning: a man could be certain his sister's son was of his blood in a way he could not be certain about his own son. This is kinship logic, not mystery, and its political consequence was significant: power circulated across lineages, never accumulating in a single male line, which meant the king's son had no expectation of the throne and the king's nephew had every expectation. The web of obligation this created ran through the royal women.
 
-The young man who breaks the covenant. The suitor who kills Bida to save his beloved from the annual sacrifice. His name varies across versions of the Dausi.
+What we do not know: Tunka Manin's private response to the Almoravid pressure gathering to his north during his reign. His court would have received reports. The trade flows would have been perceptible as they shifted. Whether he understood the structural nature of what was happening — the premise withdrawal of the Sanhaja commercial partners who were becoming Almoravid religious reformers — we cannot know. Al-Bakri wrote before the final disruption; the king he describes is a king at the system's peak, not yet at its crisis. The chapter holds this honest limit: Tunka Manin as Al-Bakri describes him, without invented crisis-consciousness.
 
-**What we know:** Siya Yatabere appears in the Dausi as the figure whose act of love destroys the covenant and causes Wagadu's fourth fall. He hides near the well with a sword, strikes Bida three times, and each severed head flies to a different point, drying up the gold and the rain. His act is understood by the tradition as simultaneously heroic and catastrophic: heroic because he acts from love, catastrophic because the covenant's rupture ends Wagadu.
+---
 
-**What we cannot know:** Whether Siya Yatabere corresponds to a historical individual or is a narrative vehicle for the tradition's understanding of how and why Wagadu ended. The Dausi does not distinguish between historical and mythic registers in the way that Western historiography does. The figure's reality is narrative, not biographical.
+## Ibrahima al-Sanhaji (Composite Figure)
 
-**Honest limit:** The chapter presents Siya Yatabere as the tradition presents him: as the covenant-breaker. It does not attempt to identify a historical correlate.
+*Composite Sanhaja Berber merchant, c. 1030–1060 CE.*
 
-**Sources:** Frobenius (1925); Monteil; Meillassoux et al. (1967).
+The Sanhaja Berber merchants who traversed the western Saharan crossing are not named individually in the Arabic sources that survive. Al-Bakri describes their presence collectively — the foreign merchants in the stone houses of the merchant quarter, the mosques they maintained, their commercial practices. The figure of Ibrahima al-Sanhaji is drawn from this aggregate pattern: a Sanhaja trader of the generation that practiced the crossing in its high period, before the Almoravid movement transformed the Sanhaja's self-understanding.
 
-## Al-Bakri (Abu Ubayd al-Bakri, d. 1094 CE)
+The composite is grounded in: (a) Al-Bakri's description of the merchant quarter and its foreign inhabitants; (b) the tax rates Al-Bakri recorded, which the caravan master would have calculated as a cost of doing business; (c) the pattern of Sanhaja commercial presence in the western Saharan trade documented across the Arabic geographical corpus; (d) the material culture of the trans-Saharan trade (salt from Taghaza, its weight and smell after weeks of travel, the brass scales, the gold dust's appearance in midday light) that Connah's archaeological work confirms.
 
-The Andalusian geographer whose *Kitab al-Masalik wa-l-Mamalik* (Book of Routes and Kingdoms), completed around 1068 CE, provides the most detailed written account of Wagadu at its peak.
+The disclosure is made here and not in the chapter text, following the v1.1 Honest Limits amendment: a composite figure honestly disclosed in figures.md is valid when the record is aggregate rather than individual. The caravan master needed a body to carry the crossing's mechanics, and the body had to come from somewhere. It comes from the pattern of bodies Al-Bakri describes.
 
-**What we know:** Al-Bakri wrote from Cordoba and never crossed the Sahara himself. His account of Wagadu is assembled from the reports of merchants, travelers, and scholars who had visited the region or gathered information from those who had. His descriptions of the twin-city structure, the court ceremonies, the taxation system, the gold monopoly, and the military capacity are the primary written evidence base for the chapter.
+---
 
-**What we cannot know:** The reliability of specific numbers (200,000 warriors, 40,000 archers) and the degree to which his informants shaped their accounts for their audience. Al-Bakri's perspective is that of an outside observer's informants. He describes what they saw and what they were told. The Soninke's own understanding of their institutions is not directly accessible through his account, which is why the chapter uses the Dausi and the oral tradition for the interpretive framework while using Al-Bakri for the material and institutional details.
+## Siya Yatabere
 
-**Sources:** Al-Bakri, *Kitab al-Masalik wa-l-Mamalik*, in Levtzion & Hopkins (1981/2000). Levtzion, *Ancient Ghana and Mali* (1973). Masonen, "Trans-Saharan Trade and the West African Discovery of the Mediterranean World" (1997).
+*Oral tradition figure; preserved in the Dausi.*
 
-## A Note on Sources and the Archetype
+Siya Yatabere is not a historical individual in the documentary record. He is the Dausi's figure for the covenant's terminal condition — the person whose love for an individual overrode the collective covenant, producing consequences that were structural rather than punitive.
 
-The opening of this chapter uses an unnamed figure: the virgin who walks to the well. This is an archetype, not a composite. The Soninke oral tradition does not preserve individual names for the sacrificial virgins; the tradition's interest lies in the covenant's logic, not in the biography of those who fulfilled it. The chapter acknowledges this by presenting the virgin as a figure within the covenant's ritual structure rather than as a named historical person.
+The Dausi's treatment of him is notable for what it does not do: it does not condemn him. The tradition preserves his act as comprehensible — the kind of thing love does when it places one person above the system that sustains everyone. The chapter follows the Dausi's own ambiguity: Siya Yatabere broke the covenant; the covenant required his refusal; the world paid; the tradition holds all three of these simultaneously without resolving them into a verdict.
 
-The chapter's primary written source, Al-Bakri, is an outsider. The chapter's primary oral source, the Dausi, is inside. The tension between these two types of evidence is acknowledged throughout: Al-Bakri provides the institutional and material description; the Dausi provides the Soninke's own understanding of why their world worked as it did and why it ended. Neither source alone is sufficient. Together, they allow the chapter to render Wagadu from the inside (the covenant, the sacred logic, the cyclical historiography) while grounding it in the specific, verifiable details (the taxation, the court, the twin cities) that the Arabic geographical tradition preserves.
+His function in the chapter is to embody the terminal condition from the inside — the Dausi's own account of why Wagadu fell — before the chapter layers in the Arabic-source and historical-revisionist account of the same collapse. Two lenses on one event: the Dausi gives us the covenant's logic of consequence; Conrad & Fisher give us the structural mechanism of premise non-recognition. The Dausi account is not myth decorating history. It is the Soninke's own theory of how systems break — from within, through failures of the obligations that hold the order together — rendered in narrative.
+
+---
+
+## Source Notes
+
+The chapter uses the **twin-source narration** technique (v1.5 Evidence amendment): Al-Bakri provides material detail and external calibration; the Dausi provides interpretive framework and cultural authority. The tension between them — an outside observer's precision and an inside tradition's meaning — is productive rather than resolved. Where they describe the same events from different angles (the annual offering, the covenant's breaking, the system's collapse), the chapter holds both rather than adjudicating.
+
+The identification of Kumbi Saleh as the probable capital is treated as probable, not certain, following Levtzion and McIntosh. The silent trade practice at the southern margins is presented as reported and contested, following Al-Bakri, Al-Masudi, and the scholarly debate about its literal form.

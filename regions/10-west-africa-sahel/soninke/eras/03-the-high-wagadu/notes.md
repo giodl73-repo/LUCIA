@@ -1,85 +1,126 @@
-# Production Notes — The High Wagadu (Era 3)
+# Notes — The High Wagadu (Soninke Era 3)
+## Production Bible
 
-## Structural Engine
+**Era:** The High Wagadu, c. 700–1076 CE
+**Dir:** regions/10-west-africa-sahel/soninke/eras/03-the-high-wagadu/
+**Pipeline stage:** NOTES (Stage 4)
+**Date:** 2026-04-17
 
-The structural engine for this chapter is **covenant economics: the logic of intermediary power sustained by sacred contract**. The Bida serpent covenant is not a decorative legend. It is the Soninke's own theory of why they are wealthy: they honor an obligation, and in return, the conditions that sustain their intermediary position are maintained. The twin-city structure (royal/sacred quarter + Muslim merchant quarter) is the mechanism through which the covenant operates in practice. The chapter's arc follows the covenant from establishment through peak functioning to rupture.
+---
 
-The engine's internal logic: the Soninke control neither gold nor salt but control the exchange point. Their wealth comes from position, not production. The Bida covenant explains and sustains this position in the culture's own terms. When the covenant is broken (the legend of the suitor who kills Bida), the structural logic predicts the result: gold stops, rains fail, Wagadu scatters. The Almoravid disruption of 1076 maps onto this: external force ruptures the conditions that sustained intermediary power. But the Soninke's own tradition frames this as a covenant violation, not as military defeat.
+## 1. Structural Engine
 
-**Key insight:** The covenant is simultaneously sacred logic and economic logic. The chapter must never separate these. They are one system seen from two angles.
+**Engine:** The intermediary position — holding the crossing between the desert's goods (salt, copper, Mediterranean cloth) and the savanna's goods (gold, kola nuts) — sustained by the Bida covenant that makes the crossing cosmically legitimate.
 
-## Arc Design
+**Mechanism:** The Soninke do not own the goldfields or the salt mines. They own the space between them, and they maintain the right to that space through: (a) military capacity that makes the crossing safe and taxable, (b) the twin-city structure that separates sacred authority from commercial function while binding them in mutual dependency, (c) the covenant with Bida that explains and sanctifies the prosperity. Without the covenant, the intermediary position is just geography. With the covenant, it is the order of the world.
 
-1. **The Covenant and the Well** (~800w, revised opening) — The virgin walks to the well. Sensory grounding at the well's edge, the desert's boundary. The Bida covenant presented as operating logic. The ecology of the Sahel transition zone as the foundation of intermediary position. Focus: why the Soninke are here, what Bida's contract means, what the landscape makes possible.
+**The two-form gold distinction as engine detail:** Gold nuggets stay with the king. Gold dust circulates in trade. This is not arbitrary — it is the mechanism of value management. The king bears scarcity so the market can bear exchange. This is the Soninke theory of value: restraint at the top enables flow throughout the system.
 
-2. **The Twin Cities** (~900w) — Al-Bakri's account as the primary evidence base. The royal quarter: the king in his grove, the drum, the court ceremonies, the prostration. The merchant quarter: stone houses, twelve mosques, the muezzin's call. The six miles between them as architecture of interdependence. A specific market scene: the silent trade, the weighing of gold dust, the arrival of a caravan. Focus: how the system works in practice.
+**Terminal condition (v1.6 types — compound):**
+1. **Ecological constraint:** The Almoravid movement does not just redirect trade routes. It alters the ecology of legitimacy in the western Sahara. The Sanhaja Berbers, who had been among the taxable parties crossing Soninke territory, reorganize under an Islamic reform movement that gives them their own legitimacy framework — one that supersedes the Soninke covenant in their own self-understanding. The desert routes change because the human ecology of the desert changes.
+2. **Premise non-recognition (v1.6):** The Sanhaja, as Almoravids, do not recognize the Bida covenant as binding on them. The Soninke system depends on all parties accepting that the crossing has a sacred keeper with rightful authority to tax and protect. When the Almoravids refuse this premise — when they assert an alternative legitimacy derived from Islamic reform rather than from the covenant — the system loses the cooperative premise that made it work. The terminal condition is not military defeat. It is premise non-recognition by a trading partner who has become a competing authority.
 
-3. **The Mechanics of the Crossing** (~800w) — The taxation system (Al-Bakri's specific numbers: one dinar on salt entering, two leaving). The gold nugget monopoly as monetary policy. The military capacity (200,000 warriors / 40,000 archers). The silent trade as institution. The caravan routes: the physical reality of the Saharan crossing. Focus: the specific policy instruments that sustained intermediary power.
+This compound terminal condition is more precise than the original chapter's rendering of the collapse. The v1.6 framework provides the exact vocabulary.
 
-4. **The King and the Sacred** (~700w) — Tunka Manin (Al-Bakri's contemporary, ruling c. 1062-1076). The court as Al-Bakri describes it: the audience ritual, the gold cap, the silk robes, the prostration, the dust thrown on heads. The king's dual role: secular authority and sacred compact-keeper. The relationship between the king and the soothsayers/diviners. The succession system: matrilineal (nephew inherits, not son). Focus: how sacred kingship operates in the specific person of Tunka Manin.
+---
 
-5. **Wagadu's Four Deaths** (~700w) — The Soninke oral tradition's cyclical model: Wagadu was founded and destroyed four times, each time for vanity (vanity of love, vanity of song, vanity of gold, vanity of war). This era is one of those cycles. The story of the suitor who kills Bida to save his beloved. The covenant broken. The gold stops. The rains fail. The Almoravid factor: the Sanhaja Berber movement, their disruption of the southern Saharan trade, the sack of Kumbi Saleh (c. 1076). But told through the Soninke lens: not as military defeat but as covenant rupture. Focus: how the structural engine predicts its own failure.
+## 2. Key Figures
 
-6. **Landing** (~400w) — The Soninke scatter. But they carry Wagadu with them. The word "Wagadu" in the oral tradition means not just a place but a condition: prosperity, order, the state of being that exists when the covenant is honored. The Soninke diaspora across the western Sudan carries the memory and the possibility. Wagadu is not destroyed. It is waiting to return. The culture's own persistence mechanism: the idea of Wagadu as a portable, renewable covenant. Close with the tradition's own statement: Wagadu will return a fifth time, and this time it will remain.
+**The unnamed girl at the well (opening only):** She is not composite — she is the Dausi's own figure, preserved exactly as the Dausi preserves her: without a name but with a walk. Her function in the chapter is to embody the covenant before the system is explained. After the opening, the chapter does not return to her. The Dausi's silence is honored.
 
-## Key Figures
+**Tunka Manin (Sections III-IV):** The king Al-Bakri's informants describe, ruling c. 1062–1076 CE. What we know from Al-Bakri: the gold cap wound in cotton, the audience forms, the gold-collared guard dogs, the matrilineal succession (his grandfather was Basi), the accommodation of Muslim practice in his court. What we don't know: his interior life, his private views on the Almoravid threat emerging to his north, his relationship to the covenant ceremonies. The chapter will use him at full Al-Bakri depth without inventing what Al-Bakri doesn't say.
 
-- **Tunka Manin** — The king Al-Bakri describes, ruling c. 1062-1076. The most documented ruler. His court, his ceremonies, his specific policies (taxation, gold monopoly). Historical figure with substantial Al-Bakri material.
-- **Bida** — The serpent. Not a "character" in the Western sense but a force in the Soninke understanding. The covenant's other party. Present through the tradition's account of the annual sacrifice.
-- **The virgin** — Unnamed in most versions. The annual sacrifice. Present in the opening as the embodiment of the covenant's human cost. Acknowledged as archetypal/unnamed.
-- **Siya Yatabere / Mamadu the Silent** — The suitor who kills Bida to save his beloved. The covenant-breaker. His act is simultaneously heroic (love) and catastrophic (it ends Wagadu). Present in the covenant-rupture section.
-- **Al-Bakri** — Abu Ubayd al-Bakri, writing in Cordoba in 1068. Never visited Wagadu. His informants' descriptions are the primary written source. Present as a witness, not a character. His perspective reveals both information and the limits of outside observation.
+**Siya Yatabere (Section V — the Dausi figure):** The young man who kills Bida to save the woman he loves. He is the narrative embodiment of the terminal condition — the moment when love for an individual overrides the covenant that sustains the collective. He is not a villain in the Dausi's own logic; he is a tragedy. The covenant required his loss. He refused. The world paid.
 
-## Sources and Their Limits
+**The unnamed caravan master from the north (Section II):** Composite figure, explicitly disclosed, drawn from the pattern of Sanhaja Berber merchants Al-Bakri's informants describe. His arrival in the merchant quarter — his familiarity with the arrangements, his calculation of the tax as cost of business — embodies the system working as designed.
 
-**Arabic written sources (Tier 1/2):**
-- Al-Bakri, *Kitab al-Masalik wa-l-Mamalik* (1068) — the most detailed contemporary description. Written from Cordoba based on merchant and traveler informants. Describes Tunka Manin's court, taxation, military, twin-city structure.
-- Al-Idrisi, *Nuzhat al-Mushtaq* (1154) — later, less detailed, but confirms the broad picture.
-- Al-Zuhri (12th c.) — brief references to "Ghana."
-- Ibn Khaldun, *Kitab al-Ibar* (c. 1375) — retrospective account drawing on earlier sources and informants.
-- Yaqut, *Mu'jam al-Buldan* (13th c.) — geographical references.
+**Figures.md disclosure:** Tunka Manin is the chapter's only named historical figure. The caravan master is a composite drawn from the Arabic sources' aggregate descriptions of Sanhaja traders at Wagadu. Siya Yatabere is a Dausi figure — oral tradition, not individual historical record. The unnamed girl is the Dausi's own preservation: named with her walk, not her name.
 
-**Oral tradition (Tier 1):**
-- The Dausi (Soninke epic cycle) — carries the Bida legend, the founding and destruction of Wagadu, the Siya Yatabere story.
-- Collected/published versions: Frobenius (*Dichten und Denken im Sudan*, 1925), Monteil, Meillassoux et al.
-- The "four Wagadus" cycle: each destroyed by a form of vanity.
+---
 
-**Archaeological evidence (Tier 2):**
-- Kumbi Saleh excavations (Thomassey & Mauny, 1951; Berthier, 1997) — stone buildings, mosque, trading materials. Confirms the twin-city structure described by Al-Bakri. Some debate about whether Kumbi Saleh is actually the capital Al-Bakri describes.
-- Iron-working sites in the broader region.
+## 3. Sources Used
 
-**Key scholarly works (Tier 2/3):**
-- Levtzion, *Ancient Ghana and Mali* (1973) — the foundational academic reconstruction.
-- Levtzion & Hopkins (eds.), *Corpus of Early Arabic Sources for West African History* (1981/2000) — the Arabic sources translated and annotated. Essential.
-- Conrad & Fisher, "The Conquest That Never Was" (1983) — questions whether the Almoravid "conquest" was as total as assumed.
-- Masonen & Fisher (1996) — further critique of the Almoravid conquest narrative.
-- Monteil, "La legende du Wagadou" — oral tradition collection.
-- Meillassoux, *L'esclavage en Afrique precoloniale* — social structure, including servitude categories.
+**Primary:**
+- Al-Bakri, *Kitab al-Masalik wa'l-Mamalik* (1067 CE) — tax rates, court ceremony, Tunka Manin, the twin-city description, matrilineal succession, king's burial. Used via Levtzion & Hopkins, *Corpus of Early Arabic Sources*.
+- Dausi oral epic — four Wagadus cycle, Siya Yatabere legend, Bida covenant. Versions in Dieterlen & Sylla, *L'Empire de Ghana* (1992).
+- Al-Masudi — silent trade description at southern margins (cross-referenced with Al-Bakri; scholarly debate on the practice's literal form noted).
 
-**Honest uncertainty:** The identification of Kumbi Saleh with Al-Bakri's capital is not certain. The date of 1076 for the "fall" is debated; Conrad & Fisher argue the Almoravid impact was gradual, not a single conquest. The Bida legend's relationship to historical events is a matter of scholarly interpretation. The chapter must hold these uncertainties honestly.
+**Academic:**
+- Levtzion, *Ancient Ghana and Mali* (1973) — foundational chronology, source criticism.
+- Conrad & Fisher, "The Conquest That Never Was" (1983) — Almoravid revisionism; the disruption-not-conquest reading is adopted.
+- Connah, *African Civilizations* (2016) — Kumbi Saleh archaeology, material culture.
+- Dieterlen & Sylla, *L'Empire de Ghana* (1992) — Dausi structure and oral tradition methodology.
 
-## Panel Feedback Integration
+**Source asymmetry acknowledgment:** Al-Bakri is an outside source (Andalusian geographer writing from Cordoba, never visiting the Sudan). The Dausi is an inside source (Soninke oral tradition, multiple versions, preserved by jeli). The chapter uses the **twin-source narration** technique (v1.5): Al-Bakri provides material detail and external calibration; the Dausi provides interpretive framework and cultural authority. When they contradict, the chapter honors the tension rather than resolving it.
 
-**Tuchman (P-1):** The virgin needs a fate, not just a function. The analytical middle (paragraphs 3-5) is static. Find a specific transaction or moment to embody the intermediary logic. **ACCEPT.** Will revise opening to add more sensory detail at the well. Will embed a market/transaction scene in the twin-city section.
+---
 
-**Ibn Khaldun (P-2):** Tighten the causal chain: military control, taxation specifics, gold monopoly as monetary policy. Engage with the four-Wagadu cycle as the Soninke's own cyclical historiography. **ACCEPT.** Will add "Mechanics of the Crossing" section with specific policy instruments. Will engage with the four-Wagadus in the arc's penultimate section.
+## 4. Narrative Arc — Section Plan
 
-**Achebe (P-3):** Remove "This was not myth told to children" (addresses an outsider). Remove "genius" (author's judgment). Find the inside voice for the intermediary economics insight. The virgin needs the culture's own emotional logic around sacrifice, not just function. **ACCEPT.** Critical. Will revise opening to remove the outsider-addressing sentences. Will find the Soninke's own way of expressing intermediary logic through the covenant.
+**I. The Covenant and the Well** (~800w — the opening, integrated)
+Open: The unnamed girl's walk. Close: the drum speaks.
+Function: Establish the covenant as the system's foundation — not mythology separate from economics but political theology inseparable from it.
 
-**Davis (P-4):** Deepen the ecology as foundation. The Sahel transition zone creates the crossroads. The gold-mining knowledge system is sacred, not just extractive. The silent trade as remarkable economic institution. **ACCEPT.** Will ground the ecology throughout as foundational, not background. Will include silent trade in the trade-mechanics section.
+**II. The Crossing** (~900w)
+Open: The caravan master's arrival — the mechanics seen from a trader who has done this before.
+Function: Show the intermediary economics at method level. The tax rates, the nugget-dust distinction, the military capacity — rendered through the experience of arriving at the crossing, not through explanation of the system.
+Key sensory: Salt blocks, their smell, the weight of the crossing on the caravan master's body. The brass scales. The gold dust — its color in morning light, its weight in the hand.
+Analytical carry: The Soninke theory of value — scarcity as mechanism, restraint as power.
 
-**Kapuscinski (P-5):** The well needs sensory grounding: temperature, dust, stone, darkness. The Bida covenant paragraphs are abstract. The Saharan crossing needs physical weight. A market scene needs the five senses. **ACCEPT.** Will revise opening for sensory density at the well. Will add physical reality of caravan travel and market life.
+**III. The Twin Cities** (~800w)
+Open: The road between the royal enclosure and the merchant quarter on a market day.
+Function: Show the dual-city structure as political architecture — each system complete, neither able to absorb the other. The covenant-authority in the south. The commercial-Islamic order in the north. The road as the state's design.
+Key figure: The caravan master again, moving between worlds. What he owes in the south (submission to the king's form). What he practices in the north (prayer, weights, Arabic contracts).
+Analytical carry: The intermediary position maintained not just geographically but institutionally — the state is structured so neither legitimacy system can crowd out the other.
 
-## Voice Notes
+**IV. The King's Weight** (~800w)
+Open: Tunka Manin in his pavilion — the court's material language.
+Function: Render the king as covenant-keeper at full Al-Bakri depth. The gold harness and collared dogs are not luxury; they are state language about what the state commands. The matrilineal succession distributes power across lineages — the king's sister's son knows he will rule; the king's son knows he will not. The accommodation of Muslim practice is the twin-city logic in the person of the king.
+Key figure: Tunka Manin specifically — the gold cap, the forms of submission, the Muslim officials in his treasury.
+Analytical carry: Sacred kingship and commercial Islam as co-requisites, not competitors. The king's burial (sealed dome, attendants inside) as covenant completion — the obligation continues past the threshold.
 
-This is a **trade-crossroads culture**. The Voice Spectrum guidance for "Urban and Market Cultures" applies partially: density, overlap, multiple things happening at once. But Wagadu is not a dense city like Tenochtitlan. It is two towns six miles apart in the Sahel. The voice should be:
-- **Measured.** Not rushing. The intermediary waits.
-- **Layered.** Two systems operating simultaneously: sacred and commercial.
-- **Dry.** In the literal sense. This is Sahel prose. The air is dry, the sentences should carry that quality. Not lush, not green, not wet.
-- **Accumulating.** Wealth builds slowly. Power builds slowly. The prose should build in layers, each sentence adding another element to the structure.
+**V. Siya Yatabere's Three Cuts** (~700w)
+Open: The Dausi's version of the terminal condition — from the inside.
+Function: Render the ecological + premise non-recognition compound terminal condition through the Dausi's own narrative before explaining it through the Arabic record.
+The three sword cuts: first head to the south (gold diminishes), second head farther (rains weaken), third cut (covenant broken, everything the covenant sustained begins to end).
+Then: Conrad & Fisher's "conquest that never was" — the Almoravid disruption is real but not a single military sack. Trade routes shift. The Sanhaja, newly Almoravid, no longer recognize the Soninke covenant as binding. They have a different legitimacy now. The crossing's premises are not shared.
+Analytical carry: Premise non-recognition as the specific vulnerability of covenant-based intermediary systems. Named precisely.
 
-Em-dash budget: 8 maximum. Use for the pauses of deliberate trade, not for dramatic interruption.
+**VI. Wagadu Waiting** (~500w)
+Open: What the dispersal carries.
+Function: The Dausi's promise (fifth Wagadu, coming back to stay) as the landing's frame. The Soninke diaspora builds the Dyula commercial network — the covenant's expertise, disbursed. The ruins at Kumbi Saleh: stone from the merchant quarter holds; wood and thatch from the royal enclosure returns to earth. The archaeological silence is its own evidence.
+Landing: The clan names persist. The commercial knowledge persists. Wagadu is not a ruin. It is a principle waiting for conditions.
+Voice: Return to the drum. The drum that spoke in the opening — does it still speak somewhere? The Dausi says yes.
 
-## Forbidden-Word Watch
+---
 
-No: primitive, advanced, civilization (as compliment), discovered by, the New World, tribe, Dark Ages. Also: "myth" for the Bida covenant (use "tradition" or "covenant" or simply present it as operating logic). "Superstition." "Remarkable" or "remarkably." "Genius." "Empire" only when the Soninke's own political terms have been established first. "Animism" or "animist" (describe the specific beliefs and practices). "Ghana" only after establishing that it was the outsiders' title, not the Soninke's name.
+## 5. Panel Pressure Points Anticipated
+
+**Tuchman:** Voice must hold the covenant frame through the economic mechanics. Solution: Render tax rates and nugget-dust distinction through the caravan master's embodied experience, not through Al-Bakri's reportage.
+
+**Ibn Khaldun:** Terminal condition must name the premise shift precisely. Solution: Section V uses both the Dausi (covenant's own story of breaking) and Conrad & Fisher (historical revisionism on Almoravid impact) to build the compound terminal condition.
+
+**Achebe:** Tunka Manin must be a king as the Soninke understand kingship. Solution: Section IV renders him through the covenant logic, not through external political analysis. His authority derives from the covenant, and everything he does in court — the dust on heads, the gold on dogs, the Muslim treasury officials — is the covenant's architecture in the physical world.
+
+**Davis:** Bida's presence needs a sensory correlate. Solution: The well's temperature at the stone lip (cold water below, sun-warmed stone above, the meeting point is the covenant's physical address). In Section I, the girl hears the distance of the well — "a slight pull in the air." In Section V, the Dausi renders Bida's death as a sequence of ecological consequences: gold, then rain, then order.
+
+**Kapuściński:** Market section needs full sensory immersion. Solution: Section II and III give: the smell of desert-crossed salt (mineral, dusty, weeks of travel in the stone), gold dust's weight and color, the sweat of caravan animals at the end of the desert crossing, kola nuts' bitter scent, shea butter's sweetness, the layered language-sound of the market.
+
+---
+
+## 6. Open Questions
+
+- The exact year of the Almoravid disruption: 1076 is the traditional date (Abu Bakr ibn Umar's death in battle); Conrad & Fisher suggest the disruption was more gradual. Chapter adopts the gradual disruption reading; 1076 appears as the conventional marker, not as the precise date of a single sack.
+- Kumbi Saleh identification: The chapter treats the identification as "probable but not certain," following Levtzion and McIntosh. The chapter does not identify Kumbi Saleh as the confirmed capital; it describes the site as "what archaeologists have identified as the probable capital."
+- The silent trade: The chapter presents the practice as reported and contested — "Al-Masudi, al-Bakri, and others describe versions... Some scholars question whether the practice was as literal as reported." This honest uncertainty is maintained.
+
+---
+
+## 7. Voice Register
+
+**Name:** Intermediary-Sacred (covenant-framed, ecological, dual structure)
+**Signature rhythm:** Paired counterweights. Two towns. Two forms of gold. Two systems of legitimacy. The prose mirrors the twin-city structure — statements in pairs, the hinge between them always visible. Short declarative sentences at moments of covenant weight (the drum speaks; the covenant was not an affliction; the gold stopped coming). Longer cumulative sentences when the crossing is in full motion (the caravan's arrival, the market day). No em-dashes; the paired structure provides its own pause mechanism.
+
+**Distinction from Ghana chapter:** Ghana is synchronic (a snapshot of the system at its peak, exterior merchant-eye view). Soninke is diachronic (the covenant's arc from peak through terminal condition) and interior (covenant-eye view). Ghana chapter: observational, balance-as-theme. Soninke chapter: sacred-structural, hinge-as-frame.
+
+**Em-dash target: 0**

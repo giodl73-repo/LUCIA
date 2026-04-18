@@ -1,20 +1,17 @@
-# R2-P3 — Chinua Achebe — Review of Notes
+# Panel Review — R2-P3 — Chinua Achebe (PANEL-2, Notes Review)
 
-**Chapter:** Ghana Empire / Era 2: The Age of Gold
-**Round:** 2 (focused)
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (notes.md)
+**Voice:** Chinua Achebe — Cultural voice, dignity, authenticity, ownership
+**Stage:** PANEL-2
 
-## Assessment
+---
 
-The notes acknowledge my central concern: the opening's merchant viewpoint must give way to Soninke voices in the body of the chapter. The section plan addresses this explicitly in Section III (crossing the mile to the royal city, rendering the Ghana's ceremony from inside) and Section IV (the covenant, sacred kingship, burial practices). Good.
+The notes' instruction to treat the Bida legend as "the epistemological framework within which the gold is understood" rather than as "superstition requiring verification" is correct and essential. The gold comes from the earth because the earth consents. The Ghana maintains consent. These are not metaphors for economic relationships; they are the Soninke understanding of what economic relationships are. The chapter must write from inside that understanding.
 
-## Remaining Concerns
+**Pressure points:**
 
-**The Wagadu serpent legend.** The open questions section flags the Bida legend and says it "must be handled carefully." This is correct but insufficient. The Bida story is the Soninke's own explanation for the fall of their kingdom. It is not a quaint myth to be "handled." It is their historiography. If this chapter is to be told from inside, the Bida story deserves the same narrative weight as al-Bakri's economic descriptions. The oral tradition is not a secondary source to be verified against Arabic accounts. It is a primary source, in a different epistemological register. The chapter should present it as the Soninke's own historical narrative, alongside but not subordinated to the Arabic textual tradition.
+1. The Wangara gold-washer composite figure is well-conceived. A body at the riverbank — cold water, the pan tilting, the placer gold settling in the silt — makes the source of the gold a human practice rather than a geographic abstraction. Execution note: the Wangara's silence trade policy must be presented as a decision made by people who understood their own interests, not as an exotic practice. They knew that a merchant who saw the goldfields could bypass the exchange system. They chose secrecy the way the Ghana chose the dual-city arrangement: as policy.
 
-**Section II (The Gold Road) risks remaining in the merchant's perspective too long.** The commercial system is seen through trade routes, caravans, and the merchant's physical experience. This is Saharan, not Soninke. The Wangara gold producers, who were Soninke and Mande, kept their gold sources secret for generations. That secrecy is itself a form of cultural agency. The chapter should render the Wangara's decision to hide the goldfields as an act of deliberate power, not merely as a commercial mystery observed from outside.
+2. The sacred grove must not be aestheticized. The notes describe it correctly — "the darkness, the undisturbed trees, the air that holds moisture" — but the execution must resist turning this into atmospheric description. The grove is dark because the trees have not been cut. The trees have not been cut because the covenant requires their preservation. The darkness is the consequence of an obligation, not a mood. Write it that way.
 
-**The burial practices.** "The Ghana who died was buried with his servants and his possessions in a great tumulus, and his servants were sealed inside with him." This must be handled without flinching and without apology. It is a funerary practice consistent with the culture's understanding of the Ghana's cosmic role. The servants are not "victims" to be mourned by the modern reader. They are participants in a transition the Soninke understood on their own terms. The text should present the practice inside the worldview that made it coherent, as the notes propose, but the writing must not reveal the author's own discomfort or rush past it.
-
-## Verdict
-
-The notes are structurally sound and explicitly address the concerns I raised in Round 1. The execution risk is in the rendering: can the author actually inhabit the Soninke perspective in Sections III and IV with the same facility they inhabited the merchant's perspective in the opening? The Soninke voice is harder because the sources are thinner. That is not an excuse. The Wagadu legend, the sacred grove, the Ghana's ceremonial world must be entered with as much confidence as the merchant quarter.
+3. The Conrad lens on the Bida legend: "the oral tradition as parallel historical record, not as myth requiring verification." This must show in the prose. Do not introduce Bida with "the Soninke oral tradition preserves the legend of..." Introduce Bida the way you would introduce a historical fact: directly, in the Soninke voice. The chapter's narrator knows what the Soninke knew. The Bida legend is not the narrator's source; it is the narrator's inheritance.

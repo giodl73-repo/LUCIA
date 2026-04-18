@@ -78,6 +78,9 @@ introduce new board members. Track them here as they are created:
 | B-marajoara-1 | Denise Schaan (model) | Camutins chiefdom, Marajoara ceramic typology, burial differentiation, Florescence period social organization | 03-amazonia-caribbean |
 | B-marajoara-2 | Anna Roosevelt (model) | Marajoara archaeology, Teso dos Bichos excavations, paleodemography, post-Meggers revisionism | 03-amazonia-caribbean |
 | B-marajoara-3 | Cristiana Barreto (model) | Marajoara ceramic social meaning, mortuary analysis, tanga evidence, gender archaeology | 03-amazonia-caribbean |
+| B-portugal-1 | Peter Russell (model) | Henry the Navigator biography, Sagres myth-busting, Portuguese exploration program structure | 20-western-christendom |
+| B-portugal-2 | A.C. de C.M. Saunders (model) | Social history of Black slaves and freedmen in Portugal 1441–1555, first-generation Atlantic slave trade | 20-western-christendom |
+| B-portugal-3 | Bailey Diffie (model) | Foundations of the Portuguese Empire, institutional/economic analysis of exploration program | 20-western-christendom |
 
 ## Board Role Template
 

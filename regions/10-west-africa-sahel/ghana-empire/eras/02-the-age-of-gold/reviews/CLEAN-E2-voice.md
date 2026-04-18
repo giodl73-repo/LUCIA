@@ -1,44 +1,56 @@
-# CLEAN-E2 — Voice Keeper — The Age of Gold
+# CLEAN — E-2 Voice Keeper
 
-**Chapter:** Ghana Empire / Era 2: The Age of Gold
-**Date:** 2026-04-16
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (REWRITE)
+**Editorial lens:** Register drift, textbook voice, modern commentary, voice-random-paragraph test
+**Date:** 2026-04-17
 
-## Baseline Voice
+---
 
-Established in Section I: a trade-culture register. Cumulative sentences, building through conjunction ("and...and...and"). Weight-and-measure cadence. Moderate pace, neither steppe-fast nor court-slow. The prose moves at the speed of a caravan: steady, loaded, purposeful. Short declarative sentences for emphasis ("The circle held." "It continued to hold."). Sensory anchors in smell, sound, temperature.
+## Register Assessment
 
-## Voice Consistency Audit
+**Confirmed register:** Trade-intermediary. The CROSS-COMPARE-R2 identified this as the Ghana chapter's voice. The rewrite has committed to it and found its rhythmic signature: paired clauses, weight as both physical and political metaphor, the balance as the prose's organizing rhythm. The short declarative stop ("The circle held." / "The balance was the world.") serves as the period pause that the steppe voice uses but in a commercial rather than kinetic mode.
 
-**Section I (The Gate):** Baseline established and maintained. The cumulative sentence structure ("the gold flowed north and the salt flowed south and the tolls filled the treasury") sets the pattern. Short closers land the section. **Consistent.**
+---
 
-**Section II (The Gold Road):** The voice holds through the Wangara passage and the Taghaza passage. The Sanhaja Berber paragraph maintains the register. The final paragraph ("the mints of North Africa and the Middle East depended on a supply chain...") shifts slightly toward a broader analytical register, but recovers by grounding the abstraction in the physical chain (forest streams, Sahelian capital, gold, dinars). **Consistent, minor drift in final paragraph.**
+## Voice-Random-Paragraph Test
 
-**Section III (The Two Cities):** The qadi scene is grounded and specific (bone spatulas, wooden chest, interpreter). The path between the cities is physical (packed red laterite, women with water jars). The audience ceremony maintains the register. **Consistent.**
+Three paragraphs selected at random:
 
-The burial passage: "The servants were sealed inside. Offerings of food and drink were placed at the tumulus and renewed." This shifts to a slightly more clinical register (passive constructions: "were sealed," "were placed"). The preceding sentences are active and specific. The passives here may be intentional (emphasizing the ritual's impersonal, institutional character) but create a slight register break. **Minor drift — P3.**
+**Paragraph A (Section II, gold-washer):**
+"In the dry season, when the water dropped, a man waded in to the knees and worked a shallow pan through the gravel of the streambed. The work was cold. The Sahara sun made the air hot but the forest streams held the cold of deep ground, and a man stood in cold water while the air burned his shoulders, tilting the pan, letting the light gravel wash away over the rim, watching what settled at the bottom as the current died. Placer gold settled because it was heavy. The pan tilted. The sand washed out. The gold stayed."
 
-**Section IV (The Covenant and the Balance):** "The Ghana's power rested on two pillars, and neither could be removed without toppling the whole structure." This is more analytical than the chapter's governing register. It is a thesis statement, and thesis statements belong to essays, not to this chapter's trade-culture voice. **P2 — register shift.** Suggest grounding: show the two pillars through the Ghana's day rather than stating them as an analytical framework.
+**Result:** Unmistakably Ghana. The paired-clause observation, the weight settling, the specificity of the physical practice — no other chapter in the Sahel corpus has this voice applied at this angle (the goldfields, the productive source). The register is sustained.
 
-The passage on the tributary system ("A tributary chief who sent gold to the Ghana received cloth, horses, weapons, and the prestige...") recovers the transactional voice. **Consistent.**
+**Paragraph B (Section IV, covenant):**
+"The Ghana who held the covenant could not give it up. Not because anyone would punish him for it, but because the covenant was not something a person held by choice. It was what a person was. The Ghana was the hinge between the Soninke and the forces that sustained them. Without the hinge, the door does not move."
 
-"Iron, cotton, grain, and cattle moved through this same network alongside the gold and salt." This is the trade voice at its best — listing, accumulating, weighing. **Consistent.**
+**Result:** Trade-intermediary voice carrying epistemological weight. The mechanical metaphor (hinge, door) is precisely right for the register: a merchant's way of understanding a political-theological problem. Not Soninke interior (which would not use the hinge image). Not Griot cadence (which would use genealogy). Identifiably Ghana.
 
-**Section V (The Weight of Gold):** The Bida passage maintains the oral-tradition register: "the rains would come and the gold would appear from the ground." The conditional cadence is appropriate for rendering a legend within the chapter's voice. **Consistent.**
+**Paragraph C (Section VI, landing):**
+"Al-Bakri, reading the merchants' reports in Cordoba, could record the number of mosques and the weight of the gold collars and the system of tolls and the two cities' positions relative to each other. He could not record what the drums sounded like from inside the royal city, or what the grove smelled like in the evening, or what the Ghana carried in the silence between the end of the audience and the beginning of the night."
 
-"In the tenth century, the covenant had not broken." This is the right register for the recap. Short. Declarative. Forward-referring without editorializing. **Consistent.**
+**Result:** The source asymmetry is made a narrative technique (v1.5 amendment) — al-Bakri's limitations become a statement about what knowledge is preserved and what is not. The voice is the same paired observation-and-qualification structure that runs through the whole chapter. Identifiably Ghana.
 
-**Section VI (Landing):** "The drums sounded. The grove held its silence. The gold moved. The balance endured." Four sentences, each shorter than the last. The landing matches the opening's register and tightens it. **Consistent and strong.**
+**Test result: PASSED.** All three paragraphs identify the culture from rhythm alone.
 
-## Em-Dash Count
+---
 
-Total: 0 (limit: 8). **CLEAN.**
+## Em-Dash Audit
 
-## Findings Summary
+Zero em-dashes in chapter.md. Zero em-dashes in opening.md. Benchmark achieved.
 
-| Level | Count | Details |
-|-------|-------|---------|
-| P1 | 0 | No sustained register shifts |
-| P2 | 1 | Section IV opening sentence ("two pillars") — thesis-statement register |
-| P3 | 1 | Section III burial passage — passive constructions |
+---
 
-**VERDICT: One P2 finding. Recommend revision of Section IV opening sentence.**
+## Register Drift Checks
+
+**Section III (qadi's court):** "The qadi listened, consulted the Maliki text he kept in a chest beside his chair, and rendered judgment in Arabic, which an interpreter translated into Soninke for the parties who needed it." — This could drift toward textbook, but it does not, because the sentence is anchored in the physical objects (the chest, the chair) and the human exchange (interpreter, parties). The voice holds.
+
+**Section V (system analysis):** "New routes were forming east of the Ghana's traditional territory... The Ghana still controlled the primary routes; the monopoly on the crossing was eroding at the edges, slowly, the way laterite erodes: invisible season by season, legible only over decades." — The laterite erosion simile is voice-consistent (physical, local, observed from inside the landscape). Holds.
+
+**No drift detected.** The voice does not break into textbook or generic literary prose at any point.
+
+---
+
+## Verdict
+
+**No revisions required from E-2.** The voice register is sustained throughout. The trade-intermediary voice is identifiable from any randomly selected paragraph. Zero em-dashes.

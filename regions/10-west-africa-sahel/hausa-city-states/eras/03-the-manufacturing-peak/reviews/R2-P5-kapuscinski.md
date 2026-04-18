@@ -1,27 +1,14 @@
-# R2-P5 — Kapuscinski — Targeted Review of Production Bible
+# Panel-2 Review — Ryszard Kapuscinski
+## Hausa Era 3: The Manufacturing Peak (v2 notes)
 
-## Focus: Sensory Planning for Sections 3 and 4
+**Focus:** Sensory palette, Amina's scene, the Bori's sound
 
-The opening is sensorily strong. The notes plan a sensory palette. Good. But two sections worry me.
+The sensory palette in the notes is better than the original's. The addition of the wet-season campaign constraint — "the mud and the mosquitoes, the cavalry nervous in thicker vegetation" — is exactly what Amina's section needs. This is what the cross-compare was calling for and what the original version lacked. Execute this scene with maximum physical specificity.
 
-## Section 3 — Amina's Campaign
+**What I need for Amina:** Not just mud. The specific mud south of the Sahel belt — the laterite clay that sticks to horses' hooves and makes them pull their legs out with effort on every step. The mosquitoes at dusk on the Benue plateau, the kind that arrive in clouds when the sun touches the horizon. The smell of a camp that has been up for two weeks in wet ground — wet leather, wet horses, cooking fires that struggle in humidity. The earthwork walls going up in waterlogged soil, the soldiers discovering that packed earth does not compact the same way in the south as it does in the open Sahel. Amina watching this and adjusting — walls narrower, better drained, working with the ground rather than against it.
 
-The sensory palette lists "horses, dust, the green of the southern landscape." This is thin. A cavalry campaign in the Hausa savanna is a specific physical experience. I need:
+**On the Bori's sound:** Paden documents that different spirits have different drum rhythms. The chapter should name this specificity. Not "the Bori drums" — the specific rhythmic pattern that calls the spirit of iron, or the spirit of the market, or the spirit of healing. The rhythm is not decoration. The rhythm is the call. If you hear the wrong rhythm, the wrong spirit might arrive. The senior Bori woman knows this the way the guild dyer knows the fermentation smell — years of embodied attention, not text, not theory.
 
-- **The sound of the cavalry column on the move.** Hundreds of horses on packed earth. The jingle of harness. The thud of hooves that you feel in the ground before you hear. The riders calling to each other.
-- **The transition of landscape.** Moving south from Zaria, the savanna thickens. More trees, denser grass, the air becomes heavier with moisture. The road narrows. This is not the open Sahel — this is the approach to the forest zone, and the landscape should feel different from Kano.
-- **The wall-building.** Earthwork construction is heavy, physical work. Digging. Carrying. Packing the earth with hands and tools. The walls are not abstract infrastructure — they are dirt moved and shaped by bodies. Show the bodies doing the work.
-- **The dawn departure.** The tradition says Amina left her consort at dawn. Give me that dawn — the light, the cool air before the heat, the horses stirring, the camp breaking. This is the most intimate moment the tradition preserves. Make it physical.
+**On the eastern caravans arriving:** I asked in Panel-1 whether Ibrahim finds better cloth. The answer in the notes is yes, briefly. This is good. It should be one sentence, maybe two — the relief of quality restored. The cloth that arrives from Kano on the eastern road, the weight right, the beat-glaze present, the smell of indigo still in the fibers from a vat that was ready when the master dyer said it was. Ibrahim's brass weight in one hand, the cloth in the other. The system working.
 
-## Section 4 — The Bori Ceremony
-
-This is the section most at risk of becoming abstract. The Bori is a bodily practice — spirit possession is a physical event. I need:
-
-- **The drums.** Bori drumming is specific — different rhythms for different spirits. The drums call the spirit. The rhythm changes when the spirit arrives. The sound is not background music — it is the mechanism of possession.
-- **The body of the possessed.** When the spirit takes hold, the body changes — the voice changes, the posture changes, sometimes the person speaks in a different register or language. This is physical. Show it.
-- **The space.** Where does the ceremony happen? A compound. The ground is packed earth. There are people sitting around the edges. The air is close and hot. Incense or offerings are burning. The light is dim or firelit.
-- **The contrast with the mosque.** The mosque interior is cool, clean, the sound is recitation — measured, rhythmic, controlled. The Bori ceremony is hot, close, the sound is drums — insistent, building, overwhelming. The contrast is sensory before it is theological.
-
-## The City as Sensory Map
-
-The notes mention this in the palette but it must be a structural element of the chapter, not just a reference. Kano is a city organized by smell. You know which quarter you are in by what you breathe. Indigo fermentation. Tanning hides. Charcoal smoke. Fresh cotton. The market's spice and dust and animal smell. If the reader can navigate the city by nose, the chapter has succeeded.
+**Verdict:** Execute the Amina scene with full physical commitment. Do not pull back from the mud.

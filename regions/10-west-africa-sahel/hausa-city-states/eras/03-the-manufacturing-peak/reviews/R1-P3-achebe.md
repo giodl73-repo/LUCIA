@@ -1,29 +1,18 @@
-# R1-P3 — Chinua Achebe — Review of "The Manufacturing Peak" Opening
+# Panel-1 Review — Chinua Achebe
+## Hausa Era 3: The Manufacturing Peak (Rewrite v2)
 
-## Whose Story Is This?
+**Voice:** Cultural voice — dignity, authenticity, ownership
 
-It is Kano's story. It is told from inside the dye pit, inside the guild, inside the city's own economic logic. That is correct. But I have concerns.
+Ibrahim al-Katsinawi passes the Achebe Test. He is a Hausa Muslim merchant whose inner life is organized around professional judgment, inherited knowledge (the brass weight his father gave him), and a practical understanding of how the system works. He is not observed from outside. He is not remarkable. He simply is, in the way that people in functioning societies simply are.
 
-## What Works
+What is particularly right: Ibrahim's assessment of Zazzau's campaigns. "He had no particular feeling about this." This is the correct inside-voice register for a merchant who lives in a system. He is not approving. He is not celebrating. He is noting a fact that affects his business. The chapter does not moralize about the slave trade through Ibrahim's perspective — nor does it sanitize it. The reader understands that the walls are supply-chain infrastructure, and that the supply chain includes people, and that Ibrahim understands this without pausing to have feelings about it. This is how systems work. This is how people inside systems think.
 
-**The dye pit as entry point.** This is exactly right. Not a king, not a battle, not a scholar — a craftsman. The story of the Hausa Manufacturing Peak should begin with the people who manufactured. The dyer is a person in his own world, doing his own work, and the chapter's themes emerge from what he does. This is inside voice.
+The Bori drums are correctly placed: heard, filed, not explained. Ibrahim noting "not his business" is exactly right. He is not hostile to the Bori; he simply has business to do. This is the mosque-Bori coexistence rendered in one sentence of inside-voice consciousness.
 
-**"It came from Kano."** The misattribution of the leather to Morocco is handled perfectly. No outrage, no editorial comment — just the quiet correction. "The Europeans who bought it assumed it came from Morocco. It came from Kano." The culture reclaims its own work in three words. This is the Achebe Test at its cleanest.
+**Concerns for the full chapter:**
 
-**The Kano Chronicle as internal authority.** "The Kano Chronicle, the city's own history written by its own scholars, records the reigns of the sarkis..." The reference is to the Hausa's own record, not to an outside observer describing them. Good.
+The Bori section must stay in this register when it is opened up. The risk in the original was that the Bori section became an essay — the scholar's outside voice explaining an institution to a modern reader. The new version must inhabit the Bori from inside: the practitioners know what they know; the drums call what they call; the spirits come when they come. Do not explain the iskoki. Show them arriving.
 
-**The treatment of enslavement.** "The enslaved people who arrived became laborers in the workshops, porters on the caravans, cultivators on the farms." No modern moralizing. No evasion. The text presents the system as the system understood itself. This is honesty, and it is necessary.
+When the enslaved trade is addressed directly, it must remain inside the Hausa system's own categories — the Maliki legal tradition's distinctions, the sarki's administrative machinery, the qadi's court. The chapter should not reach for modern moral vocabulary. The gap between the law's categories and economic practice is itself the historical content.
 
-## What Concerns Me
-
-**"This was the difference."** Difference from what? This sentence implies a comparison — the Hausa city-states against some other model (empires that taxed trade routes). But the comparison is not named, and the sentence asks the reader to measure the Hausa against an unstated standard. Remove this sentence. Let the manufacturing stand on its own terms, not as a contrast.
-
-**"No other city in the Sahel could match in volume or quality."** This is a ranking statement. It positions Kano at the top of a regional hierarchy. The claim may be true, but the phrasing is competitive — it tells us about Kano by telling us that others were less. Let Kano's production speak for itself without the comparative. The bales on the caravans, the pits in the quarter, the routes running north — the reader can feel the scale without being told it was the biggest.
-
-**The dyer is anonymous.** I understand this may be a deliberate choice — the tradition does not preserve the names of individual dyers. If so, the chapter must be honest about that. But an anonymous figure risks becoming representative rather than human. If you cannot name him, give him something specific that resists generalization — a particular batch that went wrong, a judgment call about shade, a moment where his expertise is visible as knowledge, not as labor.
-
-**The word "serious."** "Prices that men in the Mediterranean would recognize as serious." This is an outside validation — the Mediterranean as the judge of what constitutes a serious price. The Hausa market set its own prices. The cloth commanded what it commanded because the guild controlled quality and the demand was real. Frame the value from inside: what did a bale of Kano cloth buy in the Katsina market? What did it represent in the dyer's own economy?
-
-## The Question I'd Push On
-
-Whose intelligence is on display? The dyer works the cloth with his feet, he lifts, he spreads. But where is his knowledge? The indigo process is not simple labor — it is chemistry. The fermentation time, the ratio of leaves to ash to potash, the judgment of when the oxidation has reached the right shade — these are decisions that require expertise accumulated over generations. The opening shows the process but not the knowledge system behind it. The full chapter must render the dyer as an intellectual, not just a worker. His hands are blue because he knows something.
+**The question I would push on:** Does the chapter at any point step outside the Hausa world to validate it against another world's standards? If Ibrahim or any other figure registers the cloth trade's value in terms that only a North African or European observer would use, the inside voice has slipped.

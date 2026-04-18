@@ -1,28 +1,15 @@
-# R1-P1 — Barbara Tuchman — Review of Opening
+# Panel Review — R1-P1 — Barbara Tuchman
 
-**Chapter:** Ghana Empire / Era 2: The Age of Gold
-**Round:** 1
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (opening.md)
+**Voice:** Barbara Tuchman — Narrative craft, pacing, scene construction
+**Stage:** PANEL-1
 
-## What Works
+---
 
-The opening line is excellent: "The merchant from Sijilmasa smelled Kumbi Saleh before he saw it." The reader is placed in a sensory moment with a specific person traveling toward a specific destination. That is how you earn the second paragraph.
+The opening earns its reader. The weight-leaving-the-body as the salt is offloaded is a genuine narrative decision: it grounds the reader in a specific physical sensation before asking them to think about systems or structures. Smart. The vertebra-by-vertebra unknotting is precise enough to feel real, and the thirst that follows — "grateful for it" — earns the quietness of the next paragraph.
 
-The two-city reveal is well-paced. The merchant sees them in sequence, and the reader discovers the dual structure through his eyes rather than through a map or a textbook description. By the time we reach "Two cities, one mile apart. Neither could exist without the other," the reader has already understood why, which makes the statement land as confirmation rather than instruction.
+The Al-Bakri passage is handled with more craft than usual for this kind of source disclosure. "He never crossed the sand himself. He wrote from reports, merchant to merchant, generation to generation" — this is telling the reader something important about epistemology without calling it epistemology. The source's limitation becomes a narrative fact about how knowledge of this place was built.
 
-The al-Bakri paragraph is a strong set piece. The accumulation of gold details (cap, blankets, shields, swords, dogs) builds through repetition in a way that feels appropriate to the source and to the culture's own aesthetic of ceremonial display.
+The drums at dusk create a second narrative thread that pulls the reader forward: what is in the royal city? The glimpse of the Ghana from a distance — "a figure under a canopy of gold" — is used exactly right. The merchant cannot enter, so we cannot enter, so we want to.
 
-"It continued to hold" is a good close. The past tense creates the pull: this held, and the reader knows it will stop holding. The desire to know when and how is genuine.
-
-## What Needs Work
-
-The merchant is an effective viewpoint, but he has no decision to make. He arrives, he sees, he unloads, he negotiates. A scene needs tension within the scene, not just the promise of tension ahead. What would strengthen this: the negotiations at the end. If the season's prices are lower than expected, if the salt market is glutted because three other caravans arrived the same week, if the merchant faces a specific commercial problem within the system the opening has just described, the scene gains internal stakes. Right now, the stakes are all structural (will the balance hold?) and none are personal (will this merchant succeed this season?).
-
-The transition from the merchant's perspective to al-Bakri's account is slightly abrupt. One sentence establishing that the merchant has heard these descriptions from returning traders, or that he has seen fragments of the ceremony from outside the wall, would bridge the two perspectives without breaking the viewpoint.
-
-## The Question I Would Push On
-
-Does this opening earn its length at ~900 words for what is essentially a single arrival scene? The Mali hajj opening covers more narrative ground in comparable space. This opening reveals a structure rather than launching a story. That is a valid choice for a "discover" voice type, but the full chapter will need to move; the opening has planted a question (when does the balance break?) that requires narrative momentum to answer.
-
-## Verdict
-
-Strong. The discovery of the two-city structure through the merchant's eyes is the right narrative choice for this material. The opening needs slightly more internal tension to match its structural pull.
+**The question I'd push on:** The opening's pull is toward the system — how it works, what holds it — but the chapter will need to deliver dramatic stakes alongside the analytical content. The merchant is a viewpoint character, but the chapter will eventually have to step beyond his viewpoint to render the Soninke interior life (the sacred grove, the Ghana's covenant). How will the narrative handle that shift? The opening positions the merchant as outside the royal city by design. The chapter needs to get inside.

@@ -1,28 +1,13 @@
-# R1-P2 — Ibn Khaldun — Review of Opening
+# Panel Review — R1-P2 — Ibn Khaldun
 
-**Chapter:** Ghana Empire / Era 2: The Age of Gold
-**Round:** 1
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (opening.md)
+**Voice:** Ibn Khaldun — Historical systems, patterns, causation, cycles
+**Stage:** PANEL-1
 
-## What Works
+---
 
-The opening correctly identifies the structural mechanism of the Ghana Empire: the dual-city arrangement as an institutional solution to the problem of maintaining a commercial network across religious and legal boundaries. The tax structure (one dinar in, two out; nuggets to the king, dust to the traders) is presented not as a detail but as the mechanism that kept the entire system functioning. This is the right analytical instinct. The tax policy is the empire.
+The opening correctly identifies the engine: two cities, one mile apart, each completing the other. The tax structure is laid out precisely — one dinar in, two dinars out, nuggets to the Ghana, dust to the traders — and the chapter earns this specificity because the merchant's own body has already established the cost of the crossing. We understand that the tax is not arbitrary; it is the price of the system that made the crossing worth making.
 
-The circular logic of the merchant's paragraph is precisely right: "When the routes were safe, the caravans came. When the caravans came, the gold flowed north and the salt flowed south and the tolls filled the treasury. When the treasury was full, the Ghana could keep the routes safe." This is a self-reinforcing system clearly articulated. The reader understands both its power and its fragility without being told either word.
+The phrase "each rule the residue of a decision someone had made about how to keep the caravans coming and the balance holding" is doing serious analytical work in the voice of the trade-intermediary register. This is asabiyyah logic applied to commercial systems: the rules are social sediment, accumulated over generations, each layer resting on the previous one.
 
-The merchant's relationship to the system is well-observed. He does not question the rules; he inhabits them. This is how systems work in practice: participants operate within them as given conditions, not as objects of analysis. The analysis emerges for the reader precisely because the merchant does not perform it.
-
-## What Needs Work
-
-The opening describes the system at its peak but does not show the forces that sustain it beyond the circular logic. What is the Ghana's asabiyyah? What solidarity holds the Soninke elite together? The sacred kingship is mentioned (the covenant, the grove, the ceremony), but the social base of that kingship is not yet visible. Who are the soldiers? Who enforces the trade routes? The Soninke royal establishment maintained its authority through something more specific than ceremony, and the chapter will need to show what that was.
-
-The relationship between the Soninke traditional elite and the Muslim merchant community is described as functional, which it was, but the opening should hint at the tension within this arrangement. The Ghana maintained traditional religion while depending on Muslim commercial networks. This is not simply coexistence; it is a managed contradiction. The Almoravid pressure that eventually disrupts the system does not arrive from outside alone. It arrives because the internal tension between these two communities already existed. The opening should plant this seed.
-
-The gold-salt exchange is presented as the economy, but it was not the only economy. Iron, cotton, cattle, grain, and enslaved people also moved through these networks. The opening narrows the economic lens to gold and salt for narrative clarity, which is defensible, but the full chapter must show the full commercial ecology or risk presenting a simplified version of the system.
-
-## The Question I Would Push On
-
-What is the structural engine of this chapter? The balance between the two cities is the opening's discovery, but the chapter's arc must be the story of how that balance was built, maintained, and eventually stressed. The opening shows the system at equilibrium. Where is the disequilibrium? What changes during the period 700-1000 CE that makes this era a story rather than a description? The answer is likely the intensification of trans-Saharan trade following the Islamic expansion and the Abbasid demand for West African gold. That intensification both enriches and destabilizes the Ghana system. If the structural engine is "the balance that feeds on what will eventually consume it," the chapter has a genuine arc.
-
-## Verdict
-
-Analytically sound. The mechanism of the dual-city system is correctly identified and clearly presented. The chapter will succeed if it traces the arc of that mechanism through time, showing not just what the balance looked like but what pressured it, what adapted it, and what eventually broke it.
+**The question I'd push on:** The opening shows the system at peak function. The chapter must show the system's logic from its formation to its terminal condition. What made the balance possible to build in the first place? What made it fragile? The opening's final image — "He held it because it held him" — is a description of the system's self-reinforcing character, but the chapter will need to make visible what happens when the self-reinforcement begins to strain. The Almoravid pressure, the Niger bend routes opening, the Islamic penetration of the Soninke court — these are not background; they are the mechanism's terminal phase, and the chapter must build toward them as inevitabilities written into the system's own design, not as external shocks.

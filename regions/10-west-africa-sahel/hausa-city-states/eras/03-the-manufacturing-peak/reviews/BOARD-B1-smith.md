@@ -1,27 +1,41 @@
-# B-hausa-1 — M.G. Smith — Board Review of "The Manufacturing Peak"
+# Board Review — B-hausa-1: M.G. Smith
+## Hausa Era 3: The Manufacturing Peak (v2)
 
-**Expertise relevant to this chapter:** The political institutions of Kano, the sarki system, guild organization, and the competitive city-state dynamic from the fourteenth through the twentieth centuries.
+**Expertise:** Political institutions of Kano, the sarki system, guild organization, competitive city-state dynamic, 1350–1950.
+
+---
 
 **Historical accuracy:**
-- The guild-sarki-taxation chain is accurately rendered. The guilds did answer to the sarki, the sarki did tax production, and the revenue did fund the state's military and scholarly establishments. The chapter gets the institutional relationship right.
-- Muhammad Rumfa's reign is correctly dated (c. 1463-1499) and his key achievements are accurately listed: the Kurmi market, the city wall expansion, the Tara-ta-Kano (council of nine), and the invitation to al-Maghili. The Kano Chronicle confirms all of these.
-- Al-Maghili's treatise for Rumfa is a real document and the chapter's characterization of its content (obligations of an Islamic ruler, the problem of governing a religiously plural city) is accurate.
-- The competitive specialization dynamic (Kano-cloth, Katsina-scholarship, Zazzau-military) is broadly correct, though the reality was more fluid than the chapter implies. Katsina also had significant craft production, and Kano also had scholars. The specializations were dominant tendencies, not exclusive identities.
-- The Kano Chronicle is correctly identified as a Hausa-authored source. Its use in the chapter as internal authority is appropriate.
+
+The guild-sarki-taxation chain is correctly rendered. The guilds answered to the titled officials who administered them under the sarki's authority; the chapter's "the sarki taxed their output" is accurate at the level of the relationship, though it simplifies the administrative layer (the Galadima and other titled officials sat between the sarki and the guilds). This simplification is appropriate for a narrative chapter. The institutional framework is correct.
+
+Muhammad Rumfa's achievements are accurately listed: the Kurmi market, the city wall expansion, the Tara-ta-Kano (council of nine titled officials), and the invitation to al-Maghili. All confirmed by the Kano Chronicle.
+
+The competitive specialization dynamic — Kano as manufacturing pole, Katsina as scholarly exchange hub, Zazzau as military frontier — is correctly rendered with the caveat that these were dominant tendencies rather than exclusive identities. The chapter acknowledges both the Bakwai (seven founding cities) and the Banza Bakwai, which addresses the simplification flagged in the v1 board review.
+
+The Songhai collapse (1591 at Tondibi) as the hinge that made Kano dominant rather than merely productive is historically sound. The trade route redirection following the Moroccan invasion is well-documented.
+
+The population estimate ("may have held a hundred thousand people") is correctly framed as an estimate drawn from wall scale and settlement density, not from census data. This addresses the v1 board flag directly.
 
 **Cultural authenticity:**
-- The chapter successfully presents the city-state system as a distinct political form rather than as a failed empire. The Bakwai framework, the competitive dynamic, and the guild-based economy are rendered on their own terms.
-- The characterization of the sarki's dual patronage (mosque and Bori) as pragmatic governance rather than hypocrisy is consistent with how the system understood itself.
+
+The chapter presents the city-state system as a distinct political form rather than a failed empire. This is correct.
+
+The Maliki legal system's role in commercial infrastructure — the qadi adjudicating disputes, the scholars' opinions enabling trust at distance — is accurately rendered at the level of function.
+
+The sarki's dual patronage of mosque and Bori as pragmatic governance is consistent with how the Hausa political system understood itself.
 
 **What the chapter gets right:**
-- The dye-pit process is the correct entry point for a chapter on the Manufacturing Peak. The chemistry, the guild control, the trade reach are all grounded in the historical record.
-- The treatment of the competitive city-state system as an engine rather than a liability is historically sound.
-- The guild system is rendered as an institution, not just a practice.
 
-**What needs correction:**
-- The chapter states the Bakwai were "founded by the seven sons of Bayajidda." The tradition is more complex: six of the seven Bakwai states were founded by sons of Bayajidda and the Queen of Daura; the seventh (Daura) predates the myth as the queen's own city. Additionally, the tradition includes the Banza Bakwai (the seven "illegitimate" states), which are not mentioned. The omission is understandable for space, but the simplification of the founding myth should be noted.
-- Kano's population of "perhaps a hundred thousand" in Section V is plausible for the seventeenth-century peak but should be treated as an estimate, not a firm figure. The sources do not provide reliable census data.
-- The chapter does not mention the role of the Galadima and other titled officials in the administrative structure. The sarki did not govern alone; the titled officeholders managed the guilds, the markets, and the military. This is a simplification that serves narrative but misses institutional depth.
+The Ibrahim al-Katsinawi figure is an excellent analytical device. A merchant who knows the difference between a Marina guild vat and an apprentice's vat embodies the quality-control mechanism that the guild system created. The specificity of "the beat-glaze missing" is well-researched — this is a real quality marker of finished Hausa cloth.
 
-**Verdict:** APPROVED-WITH-CONDITIONS
-Conditions: (1) Acknowledge the Banza Bakwai or note the simplification of the Bayajidda tradition. (2) Treat the population figure as an estimate. (3) Consider adding one reference to the titled officials who administered the guild system under the sarki.
+The Songhai collapse as structural hinge is analytically superior to the v1 chapter, which described the manufacturing system without explaining what made this period the peak.
+
+The Amina section is improved significantly. The wet-season campaign constraints are geographically accurate — cavalry in the transitional belt south of the Sahel was genuinely less effective than in open grassland, and earthwork construction in wet laterite clay presented specific engineering challenges.
+
+**What needs attention:**
+
+One minor factual point: the chapter describes the Tara-ta-Kano as "the council of nine titled officials who administered the guilds, the markets, the military, and the treasury under his authority." The Tara-ta-Kano was a council of nine, correct, but the titled officials had more complex and differentiated functions than this summary suggests. The Galadima administered civil affairs; the Wombai had different responsibilities. This is a simplification the narrative can sustain, but figures.md should note that the titled officials had differentiated roles.
+
+**Verdict:** APPROVED
+The v2 chapter addresses all conditions from the v1 board review. The population estimate is correctly framed. The Banza Bakwai are acknowledged. The Songhai hinge is present. The titled-officials layer is simplified but not misrepresented.

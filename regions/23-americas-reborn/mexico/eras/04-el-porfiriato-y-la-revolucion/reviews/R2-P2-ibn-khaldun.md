@@ -1,0 +1,14 @@
+# PANEL-2 Review — P2: Ibn Khaldun (Targeted)
+## Mexico Era 4 — El Porfiriato y La Revolución
+
+**Focus:** Structural engine, causal mechanisms, systemic analysis
+
+---
+
+The notes have answered my primary concern from Panel-1. The railroad-to-dispossession chain — railroad access → commodity demand (sugar) → hacienda expansion → Ley de Baldíos application → village dispossession — is now explicit and sequenced. Section 1 will need to show this at the level of mechanism, meaning: what did the surveyor actually do when he arrived? Under the Ley de Baldíos, the surveying companies were paid in land — one-third of whatever they surveyed as "vacant." Their incentive was to classify as much land as possible as vacant. The villages' communal land tenure, with its lack of formal cadastral registration, was precisely the target. This chain is the era's structural motor and must be shown at the level of specific practice, not just asserted.
+
+The secondary engine — the Porfiriato's modernization paradox — is a sound addition. What I want the chapter to show is that this was not an accidental pairing (growth and dispossession happening to occur simultaneously) but a structural necessity: the foreign investment required land security for capital, which meant suppressing the forms of communal tenure that were legally ambiguous. The Científicos understood this and designed it. Limantour (Finance Minister) and the railroad concession treaties are the policy level; the surveying companies are the implementation level; the rurales are the enforcement level. The chapter should show all three as one system.
+
+The terminal condition — "domestic covenant gap" — is sound and I believe it is genuinely distinct from v1.6 Type 4. In the Taíno case (Premise non-recognition), the colonial party does not recognize the covenant's premises at all. In the Mexican case, the revolutionary state WROTE the covenant (Article 27) and then failed to implement it. The failure is not non-recognition — it is political cowardice and class interest operating within a recognized framework. This is worth noting as a potential new terminal-condition type if the chapter executes it clearly.
+
+One remaining concern: the Constitutionalist period (Carranza 1915–1920) needs its own structural logic. Why does Carranza suppress the ejido implementation even after writing Article 27? The chapter should name the mechanism: the Constitutionalist coalition included hacienda owners and regional strongmen who supported the revolution against Díaz and against Huerta but had no interest in redistributing their own land. Carranza's coalition was broader than the Zapatistas'; he needed it to win; keeping it meant not antagonizing its landholding elements. This is the structural reason the covenant was not honored in 1917–1920.

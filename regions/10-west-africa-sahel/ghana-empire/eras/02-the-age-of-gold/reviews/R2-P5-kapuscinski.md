@@ -1,20 +1,17 @@
-# R2-P5 — Ryszard Kapuscinski — Review of Notes
+# Panel Review — R2-P5 — Ryszard Kapuscinski (PANEL-2, Notes Review)
 
-**Chapter:** Ghana Empire / Era 2: The Age of Gold
-**Round:** 2 (focused)
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (notes.md)
+**Voice:** Ryszard Kapuscinski — Sensory immersion, heat, smell, sound, texture
+**Stage:** PANEL-2
 
-## Assessment
+---
 
-The section plan explicitly assigns sensory work to the analytical sections. Section II promises "the weight of salt on a camel, the sound of the caravan at night, the dust." Section III promises the physical space between the two cities. Good. These were the specific weaknesses I flagged.
+The notes' sensory plan is strong. The goldfields: cold water, the pan in the hands, the weight of placer gold settling. The desert crossing: heat under the blanket, the dark caravan. The grove: moisture in the air, undisturbed canopy. The negotiation: early morning cool, the calculating silence. These are the right sensory anchors.
 
-## Remaining Concerns
+**Pressure points:**
 
-**The sacred grove must be physical, not conceptual.** Section III plans to cross the mile and enter the royal city. But the grove is the hardest scene to ground sensorially because we have almost no physical description of it from the sources. Al-Bakri mentions the grove and the tombs of the dead kings but does not describe the trees, the undergrowth, the quality of light, the sounds. The author will need to work from what Sahelian sacred groves look like in the broader West African tradition: specific tree species (baobab, shea, silk-cotton), the change in temperature under the canopy, the insect sounds that replace the open-air silence, the prohibition on cutting that makes the grove visibly different from the cleared land around it. This is legitimate extrapolation from the ecology and the tradition. But it must feel specific, not generic.
+1. The Taghaza salt mines passage must earn its place. Taghaza was a place where men lived and died cutting salt from the earth, where the houses were built of salt blocks and the mosque was roofed with camel hides, where the water was brackish and no food grew and everything eaten was carried in by caravan. This is one of the most extreme human environments in history. The chapter must not describe it in a sentence and move on. Give it a body: a salt-cutter's hands, the sound of the chisel on the crystal surface, the white dust on everything. The salt carries physical weight in the chapter's opening. Let the salt's origin carry equivalent weight.
 
-**The burial scene.** The tumulus graves with the dead Ghana's servants sealed inside are one of the most physically present moments available in this material. The weight of earth over the chamber. The darkness inside. The objects placed with the body. This is not a moment to rush past or to handle at a clinical distance. It must be physically rendered because the burial is the most complete expression of the covenant: the Ghana's body returns to the earth that produced the gold, and the people who served him follow. The physical reality of the burial IS the covenant made visible.
+2. The silent trade passage: the chapter needs to render this with sensory specificity. Goods laid on a riverbank and withdrawn. Silence. The producers coming, examining, leaving gold or not. Whether exactly as al-Bakri described or as a story that explained a more opaque process — in either case, render the experience: the merchants waiting behind a rise of ground, hearing nothing, not knowing.
 
-**Heat remains an open problem.** The section plan does not specifically assign temperature as a sustained sensory thread. In the Sahel, heat governs the rhythm of every day. Audiences are held in the morning before the heat peaks. Markets operate in the cool hours. The afternoon is for rest, for shade, for the silence of a city that has retreated indoors. The full chapter should use heat as a structural sensory element, not just an occasional mention.
-
-## Verdict
-
-The notes show awareness of the sensory gaps. The test will be in the execution. The sacred grove, the burial, and the sustained presence of Sahelian heat are the three physical challenges the full chapter must solve.
+3. The drums. The notes correctly identify the drums as a recurring sensory anchor. From the merchant's perspective: first heard at dusk from the merchant quarter. The sound traveling "in the chest rather than the ears." Use this throughout — the chapter should return to the drums as the physical signature of the royal city's presence just beyond the mile.

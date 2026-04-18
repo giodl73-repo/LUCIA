@@ -1,31 +1,33 @@
-# B-ghana-2 — Insoll — Board Review of The Age of Gold
+# Board Review — B-2 — Insoll (Archaeological Accuracy)
 
-**Expertise relevant to this chapter:** Archaeology of Islamic communities in the Sahel; Kumbi Saleh excavation record; material culture of the trans-Saharan trade.
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (REWRITE)
+**Reviewer:** Modeled on Timothy Insoll — Archaeology of Islam in Sub-Saharan Africa, Kumbi Saleh material culture
+**Date:** 2026-04-17
 
-## Historical Accuracy
+---
 
-**Confirmed by archaeology:**
-- The stone architecture in the merchant quarter at Kumbi Saleh is confirmed by excavation. The site's stone buildings, multi-story structures, and urban density are consistent with a major commercial settlement.
-- Iron-working is well attested in the Sahel archaeological record for this period.
-- The existence of mosques in the commercial quarter is supported by the archaeological identification of what appear to be religious structures at the site.
+## Archaeological Accuracy Assessment
 
-**Consistent with textual sources but not confirmed by archaeology:**
-- The twin-city structure is al-Bakri's description. The site identified as Kumbi Saleh by archaeologists corresponds to the stone town (the merchant quarter). A separate royal city has not been conclusively identified through excavation. The chapter should be clearer about this gap: the twin-city structure is a textual claim, not an archaeological confirmation. The chapter mentions that "archaeology [is] ongoing" in the notes, but the chapter text itself presents the two cities with a confidence that the archaeological record does not yet fully support.
-- The golden objects described by al-Bakri (collars, shields, swords, horse blankets) have not been recovered archaeologically. Gold artifacts from this region and period are extremely rare in the archaeological record, partly because gold objects were recycled and partly because the royal tombs have not been systematically excavated. The chapter correctly attributes these descriptions to al-Bakri.
-- The tumulus burial tradition is attested in the broader region (el-Oualadji, Rao), consistent with the practice al-Bakri describes. Specific tumuli at Kumbi Saleh have not been definitively linked to Ghana rulers.
+**Twin-city structure at Kumbi Saleh:** The chapter presents the dual-city structure as al-Bakri describes it, without asserting that archaeology has fully confirmed it. The original chapter had an explicit caveat ("the stone town has been partially excavated at the site identified as Kumbi Saleh, but the royal city has not been conclusively located by archaeology"). The rewrite absorbs this uncertainty differently: by foregrounding al-Bakri's Cordoba position and his dependence on merchant reports, it makes the partial nature of the evidence structural rather than editorial. This is an acceptable and more sophisticated approach. The reader understands that this is what merchants reported, which carries its own epistemic uncertainty.
 
-**Needs clarification:**
-- The "honey-colored stone" described in the opening is a reasonable inference for the local sandstone/limestone used in Kumbi Saleh construction, but this is an aesthetic description that comes from the author, not from the sources. It should be understood as atmospheric writing rather than documented material.
-- The "packed red laterite" path between the two cities is a reasonable description of Sahel ground surface but is not archaeologically documented for this specific location.
-- The sacred grove's physical description (cooling air, insect sounds, moisture retention) is extrapolated from Sahelian ecology, not from specific evidence at Kumbi Saleh.
+**Mosques:** "Twelve mosques" is al-Bakri's figure. Archaeological work at the site identified as Kumbi Saleh has confirmed substantial stone architecture consistent with a major Islamic commercial quarter, including structures interpreted as mosque-related. The number twelve cannot be archaeologically confirmed, but it is within the range of what a major commercial center of this period would have supported. Acceptable.
 
-## What the Chapter Gets Right
+**Material culture — gold objects:** The golden collars, the golden shields, the gold-embroidered horse blankets are all from al-Bakri's account. Gold artifacts are well-attested in the region archaeologically; the specific objects described are textual, not excavated. The chapter correctly presents these as what "al-Bakri's informants" described rather than as independently verified material facts.
 
-- The chapter correctly avoids claiming more archaeological certainty than exists. The figures.md disclosure is honest about the composite nature of the characters and the limitations of the source base.
-- The presentation of the commercial infrastructure (warehouses, weights, scales) is consistent with what the archaeology of the merchant quarter suggests about the scale and organization of trade.
+**The sacred grove:** The chapter renders the grove through its physical properties (the darkness, the moisture, the undisturbed canopy) rather than through specific architectural features that archaeology would be expected to confirm. This is the correct approach: a sacred grove is not an excavatable structure, and the chapter makes no material claims about it beyond what its physical presence in a semi-arid environment would naturally involve.
 
-## What Needs Correction
+**The tumulus burial:** The chapter describes the burial practice as al-Bakri records it (dome of wood over a platform, body with possessions, servants, earth covering the structure). West African tumulus burial is archaeologically attested in the region; the specific form described by al-Bakri is consistent with regional practice. No archaeological overreach.
 
-1. Add a clearer note that the twin-city structure is al-Bakri's description and that the second city (the royal city) has not been conclusively identified archaeologically. The chapter's text presents the two cities as established fact; a brief acknowledgment of the archaeological uncertainty would strengthen the chapter's honesty.
+**Stone warehouse:** The opening describes the merchant "unloaded his salt in a stone warehouse in the merchant quarter." Stone warehouses are consistent with the archaeological evidence from Kumbi Saleh, which has produced substantial stone architecture in the area identified as the commercial quarter. Accurate.
 
-**Verdict:** APPROVED-WITH-CONDITIONS (clarification on twin-city archaeological status)
+---
+
+## Issues Flagged
+
+**Minor:** The chapter does not specify that the identification of Kumbi Saleh as the Ghana capital is itself a scholarly inference, not a fact confirmed by inscription or contemporary naming. The site is the best candidate based on the textual and archaeological evidence, but no inscription naming it "Kumbi Saleh" has been found. This is a very minor issue — the chapter correctly presents the city through al-Bakri's account rather than as an independently verified geographic fact — and the figures.md notes the archaeological uncertainties. No revision required; the chapter's handling is within acceptable limits.
+
+---
+
+## Verdict
+
+**The chapter passes archaeological accuracy review.** Material claims are consistent with the excavation record or correctly identified as textual rather than archaeological. The chapter does not overreach beyond what the sources support.

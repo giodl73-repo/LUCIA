@@ -1,27 +1,35 @@
-# B-soninke-1 — Nehemia Levtzion — Board Review of "The High Wagadu"
+# Board Review — B-soninke-1 (Nehemia Levtzion)
+## The High Wagadu
 
-**Expertise relevant to this chapter:** Political and economic history of the western Sudan reconstructed from Arabic geographical sources. Editor of the standard translation corpus (Levtzion & Hopkins, 1981/2000). Author of *Ancient Ghana and Mali* (1973).
+**Role:** Historical accuracy, Arabic source use, Almoravid scholarship
+**Date:** 2026-04-17
 
-**Historical accuracy:**
-- The tax rates cited (one dinar on salt entering, two leaving; five mithqals on copper) are accurately drawn from Al-Bakri as translated in the Corpus. Correct.
-- The gold monopoly (nuggets reserved for the king, dust for trade) is accurately reported from Al-Bakri. The reasoning Al-Bakri attributes to his informants (preventing devaluation through oversupply) is faithfully rendered. Correct.
-- The military numbers (200,000 warriors, 40,000 archers) are from Al-Bakri. The chapter appropriately notes these may be exaggerated. Correct handling.
-- The twin-city structure (royal town and merchant town, six miles apart) is accurately drawn from Al-Bakri. The specific details (domed pavilion, guard dogs, gold harness, drum, twelve mosques) are all in the source. Correct.
-- The matrilineal succession (sister's son) and the reasoning Al-Bakri attributes are accurately reported. Correct.
-- The burial practice (dome of wood, attendants sealed with the king) is from Al-Bakri. Accurately rendered. Correct.
-- Tunka Manin is correctly identified as Al-Bakri's contemporary ruler. The dating (c. 1062-1076) is consistent with scholarly consensus.
+---
 
-**Cultural authenticity:**
-- The chapter's decision to use Al-Bakri for material detail and the Dausi for interpretive framework is sound. The tension between inside and outside sources is acknowledged rather than papered over.
-- The Bida covenant is handled with appropriate seriousness as the Soninke's own explanatory framework.
+## Source Accuracy Review
 
-**What the chapter gets right:**
-- The tax specifics. Most popular accounts mention "gold and salt trade" without the specific instruments. This chapter grounds the economics in Al-Bakri's numbers.
-- The twin-city structure as political architecture, not urban failure.
-- The matrilineal succession as a distributional mechanism for power.
+**Al-Bakri citations:** The chapter uses Al-Bakri's account of Wagadu with consistent accuracy. The tax rates (one dinar entering, two leaving; five mithqals for copper) are correctly reproduced from the Levtzion & Hopkins *Corpus*. The court description — gold cap wound in cotton, guard dogs with gold and silver collars, ten horses at the gate, sons of subordinate kings with gold-braided hair, soothsayers behind the throne — reflects Al-Bakri's text accurately without embellishment.
 
-**What needs correction:**
-- The chapter says "Al-Bakri, the Andalusian geographer, never crossed the Sahara." This is correct, but it should be noted that Al-Bakri was based in Cordoba and may also have drawn on earlier written sources (especially al-Warraq, whose work is lost) in addition to contemporary informants. The chapter implies his account rests solely on oral reports from merchants. A minor nuance, but relevant to the chapter's framework of source criticism.
-- The chapter mentions "scholars from Fez and Kairouan" in the merchant quarter. Al-Bakri does not specify the origins of the scholars in the merchant town. This is a reasonable inference from the broader patterns of trans-Saharan scholarly migration, but it should not be presented as Al-Bakri's specific claim.
+**The matrilineal succession:** Correctly reported. Al-Bakri's informants gave the explanation the chapter reproduces: a man's certainty about his sister's son. The identification of Tunka Manin as the grandson of Basi, with the throne passing through the sister's line, is consistent with the source.
 
-**Verdict:** APPROVED-WITH-CONDITIONS. The two corrections above are minor. The source use is overwhelmingly accurate and well-contextualized.
+**The gold monopoly:** The nugget-dust distinction is accurately rendered. Al-Bakri's account of the king's gold reserve — all nuggets to the treasury, only dust in circulation — is presented with the reasoning Al-Bakri records. The chapter's analytical extension (the Soninke theory of value: restraint at the top enables flow throughout) is defensible as inference from the policy, not a claim Al-Bakri makes.
+
+**The king's burial:** The dome of wood, the food and drink, the attendants sealed inside — accurately reported from Al-Bakri. The chapter's rendering from inside the Soninke understanding is appropriate; Al-Bakri's informants recorded this as an observed fact, not a judgment.
+
+**The silent trade at the southern margins:** The chapter presents this correctly as reported and contested: "Al-Masudi, al-Bakri, and others describe versions... Some scholars question whether the practice was as literal as reported." This is the right level of scholarly honesty.
+
+**The Almoravid disruption:** The chapter has moved away from the named Conrad & Fisher citation to embed the argument in the chapter's own voice — the reading is that the disruption was gradual and structural rather than a single sack, with 1076 marking Abu Bakr ibn Umar's death rather than a precisely dateable conquest. This is the scholarly consensus position after Conrad & Fisher (1983) and is correctly applied.
+
+**Kumbi Saleh identification:** "The site that archaeologists have identified as the probable capital" — correctly hedged. The identification is the prevailing scholarly view but not confirmed with absolute certainty. The chapter does not overclaim.
+
+**Military numbers:** "Al-Bakri reported that the king could field two hundred thousand warriors, of whom forty thousand were archers. The numbers may be exaggerated, as such numbers often are in the Arabic geographical tradition, and the proportion matters more than the absolute figure." This is the correct treatment of Arabic military statistics — not dismissal, not uncritical acceptance, but proportional reading.
+
+## Corrections Required
+
+None. The chapter's use of the Arabic sources is accurate, properly cited in notes.md, and appropriately hedged where the evidence is uncertain. The Almoravid analysis is consistent with current scholarship.
+
+## Endorsement
+
+The chapter accurately represents the Arabic source base for the High Wagadu period. The handling of Al-Bakri — distinguishing what his informants observed from what they reported secondhand, maintaining appropriate uncertainty about identifications and military statistics — is at the level of careful historical writing. The Almoravid terminal condition analysis correctly reflects the scholarly revision since 1983.
+
+**Historical accuracy: ENDORSED.**
