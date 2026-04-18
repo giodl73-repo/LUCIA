@@ -1,7 +1,7 @@
 # LUCY Punchlist
 
-**Session:** 2 (in progress)
-**Last updated:** 2026-04-16
+**Session:** 2 (closed)
+**Last updated:** 2026-04-18
 
 ## Completed (Session 1)
 - [x] Design spec, all infrastructure (CLAUDE.md, style guide, pipeline, scoring, sources)
