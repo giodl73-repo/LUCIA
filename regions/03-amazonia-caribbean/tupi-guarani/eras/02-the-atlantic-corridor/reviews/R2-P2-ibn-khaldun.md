@@ -1,0 +1,16 @@
+# R2-P2 — Ibn Khaldun
+## Panel Review — Notes (PANEL-2)
+**Chapter:** Tupí-Guaraní Era 2 — The Atlantic Corridor
+**Round:** 2 (PANEL-2)
+
+---
+
+The production bible has done something I find analytically honest: it has named the terminal condition not as the failure of the dream but as its reorientation. "The Land has not been reached. The Land has not been abandoned." This is correct. A cosmological claim that cannot be falsified does not collapse when the evidence fails to confirm it — it adapts. Yvy Maraey cannot be disproved because it is not a prediction. It is an orientation. And an orientation that has been pointing east for four hundred years, reaching the ocean and finding the land is still east, across the water — that is a system that has been tested and that has maintained its hold not by being proved true but by being unprovable false. This is the structural logic I needed to see named.
+
+The feast cycle as the migration's social glue is correct and important. What I want the notes to address more directly is: what happens to chiefly authority when the feast cannot be maintained at full scale? The notes mention that "a chief who cannot feast is a chief losing his authority." But the migration must have created exactly this situation — the feast reduced to manioc cake eaten standing, the chicha in smaller vessels. Either a new form of authority is developed to replace the feast's binding function, or the social structure is under genuine stress throughout the migration, or the karai's authority absorbs some of the function that the chief's feast previously held. Which is it? The chapter should have a view.
+
+The network of obligation in Section 3 is the most analytically promising element of the plan. The idea that the corridor works because communities give what they can because the people behind them will need what the people ahead of them gave — this is a specific social mechanism. I want to see it at the level of what, exactly, is exchanged. Seeds? Ceremony access? Information about the route? The right to camp in a community's territory for a given number of nights? The exchange mechanism is the evidence that the corridor is not just a route but a system. Name it more precisely in the chapter.
+
+The source asymmetry question is handled well: the tradition's continuity IS the evidence. I would add only that the chapter should be explicit, at some point, about when the record becomes direct rather than reconstructed. The Jesuit and French observations of the 1550s are close enough to project backward with care; the chapter should let the reader feel that reconstruction as part of the story, not hide it.
+
+**Final concern:** The chapter plan is strong on the migration's horizontal movement (east to the coast) but thin on vertical structure — the relationship between the communities at different stages of the corridor. Are communities that have been on the coast for three generations still in contact with inland communities? Do they maintain obligations to help the arriving? Or does the corridor eventually create a break, where coastal communities become their own thing and the inland tradition and coastal tradition diverge? The Tupinambá and the Guaraní are evidence of exactly this divergence. The chapter should touch the beginning of it.

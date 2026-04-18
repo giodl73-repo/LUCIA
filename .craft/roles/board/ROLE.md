@@ -75,6 +75,9 @@ introduce new board members. Track them here as they are created:
 | B-lunda-1 | Jan Vansina | Lunda oral tradition reconstruction, methodology for oral tradition as historical evidence | 12-central-africa |
 | B-lunda-2 | Robert Schecter | Lunda expansion mechanics, titled-subordinate system, daughter-state connections to the center | 12-central-africa |
 | B-lunda-3 | James Pritchett | Lunda-Ndembu ethnography, Lunda ceremonial practice, cultural authenticity in living communities | 12-central-africa |
+| B-marajoara-1 | Denise Schaan (model) | Camutins chiefdom, Marajoara ceramic typology, burial differentiation, Florescence period social organization | 03-amazonia-caribbean |
+| B-marajoara-2 | Anna Roosevelt (model) | Marajoara archaeology, Teso dos Bichos excavations, paleodemography, post-Meggers revisionism | 03-amazonia-caribbean |
+| B-marajoara-3 | Cristiana Barreto (model) | Marajoara ceramic social meaning, mortuary analysis, tanga evidence, gender archaeology | 03-amazonia-caribbean |
 
 ## Board Role Template
 

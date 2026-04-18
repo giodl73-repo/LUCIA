@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 2 — Anchor Region Pipeline (in progress)
-**Last updated:** 2026-04-17 (Session 2 — 42 chapters locked, 7 complete regions, 3-model comparison)
+**Last updated:** 2026-04-18 (Session 2 — 50 chapters locked in session, 8 complete regions, rubric v1.6)
 
 ---
 
@@ -11,7 +11,7 @@
 |---|--------|-----------|---------|-----------|----------|--------|
 | 1 | Mesoamerica | complete | 10 | draft | 1 | 1 |
 | 2 | Andes & Western SA | complete | 9 | draft | 5 | 5 |
-| 3 | Amazonia/Caribbean | complete | 8 | draft | 0 | 0 |
+| 3 | Amazonia/Caribbean | complete | 8 | draft | 8 | 8 |
 | 4 | North America | complete | 12 | draft | 1 | 1 |
 | 5 | Mediterranean Classical | complete | 10 | draft | 5 | 5 |
 | 6 | Fertile Crescent | complete | 8 | draft | 8 | 8 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 6 | 6 |
 | 26 | Pacific Century | complete | 5 | draft | 5 | 5 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **70** | **70** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **78** | **78** |
 
 ---
 

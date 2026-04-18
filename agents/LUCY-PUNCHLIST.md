@@ -33,6 +33,8 @@
 - [x] Central Africa sweep: 6 chapters (mean 82.5, Sonnet) — Region 12 complete, 3 perfect Gates
 - [x] Pacific Century sweep: 5 chapters (Haiku) — Region 26 complete, reliability issues noted
 - [x] 3-model comparison: Sonnet > Opus > Haiku for SCRIBE work
+- [x] Amazonia/Caribbean sweep: 8 chapters (mean 85.0, Sonnet) — highest region mean, Kuikuro 89/90 new project high
+- [x] Rubric v1.6 — Terminal Condition Types Expanded (5→10) from Amazonia + Diaspora innovations
 
 ## BLOCKING
 (none)
@@ -54,15 +56,17 @@
 ## METRICS
 | Metric | Value |
 |--------|-------|
-| Chapters locked | 70 |
+| Chapters locked | 78 |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Complete regions | 7 (Sahel, Fertile Crescent, Diasporas, Egypt, Central Africa, Pacific Century) |
-| Regions with chapters | 22 / 26 |
-| Peoples with chapters | 58 / 259 |
-| Rubric version | v1.5 |
-| Mean score | ~81.0 / 90 |
-| Board reviewers | 157 |
-| Voice types confirmed | 30+ |
-| Structural engine types | 40+ |
-| Estimated words | ~400,000 |
+| Complete regions | 8 (Sahel, Fertile Crescent, Diasporas, Egypt, Central Africa, Pacific Century, Amazonia) |
+| Regions with chapters | 23 / 26 |
+| Peoples with chapters | 66 / 259 |
+| Rubric version | v1.6 |
+| Mean score | ~81.6 / 90 |
+| Score ceiling | 89/90 (Kuikuro) |
+| Board reviewers | 181 |
+| Voice types confirmed | 40+ |
+| Terminal condition types | 10 |
+| Structural engine types | 45+ |
+| Estimated words | ~445,000 |
 | Default SCRIBE model | Sonnet (validated Session 2) |
