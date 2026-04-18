@@ -1,0 +1,24 @@
+# Board Review — Eduardo Viveiros de Castro
+## Amazonian Anthropology | The Network's Height | Kuikuro Era 2
+
+---
+
+The chapter avoids the most common failure in writing about Amazonian peoples: reducing their social institutions to Western political-economic categories. The Quarup is not described as a "political institution" or a "trade fair." The anetü is not described as a "chief in the Western sense" (with the implicit correction that position requires). The exchange is not described as "trade." This negative achievement — the absence of reductive framing — is the chapter's most important ontological accomplishment.
+
+**Specific assessments:**
+
+**The Quarup's cosmological dimension:** The chapter characterizes the egitsü as "the mechanism that transforms autonomous forest towns into a functioning social system" — this is a social-system framing that risks reducing the ceremony to its functions. The ceremony is more than its functions. The quarup log is the deceased chief's representation — not a symbol, in the Western sense, but a presence. The ceremony is efficacious: it does something in the world (closes grief, releases the spirit) that is not separable from what it does socially (renews obligations, restores community). The chapter's hüge section handles this well — the incorrect performance does not just fail politically; it fails cosmologically, and the community cannot return to normal obligations because the cosmological work has not been done. This is correct. However, the opening of the "Ceremony's Work" section ("The communities have arranged themselves around it. The fires burn at the plaza's edges...") could do more to establish the quarup log as a presence rather than as a ceremonial object.
+
+**The forest beings:** The hüge section mentions "the forest beings" in passing ("the dead chief had a particular relationship with one of the forest beings"). This is a correct and important detail — in Kuikuro cosmology, the forest beings (the amulaw) are real entities with whom humans can have specific relational histories. The chapter treats this correctly: not as "belief" but as a fact that has ceremonial consequences (the specific song that belongs to this relationship must be performed correctly). This is one of the chapter's best moments.
+
+**The gift exchange ontology:** The chapter correctly avoids calling the gift exchange "trade." The obligations are characterized as specific, bilateral, multi-generational — this is consistent with Amazonian perspectivism's understanding of exchange as the creation and maintenance of relational positions between persons (including persons of different communities). The chapter's phrase "The obligations travel with the community from Quarup to Quarup" correctly represents the temporal structure of the obligation.
+
+**Terra preta and landscape relationship:** The chapter's terra preta section treats the enriched soil as the product of a relationship with the landscape — something built through generations of attentive practice. This is consistent with Amazonian understandings of the landscape as a relational entity, not a resource. The gardener (Tüke) reads the soil; she does not manage it. This distinction is subtle but correct.
+
+**One concern:** The chapter's final framing ("the network lives in the interval between ceremonies, in the specific work of the specific roads...") is good. But the epidemic passage risks framing the network's end as a tragedy legible from the outside ("Something is coming that the network was not built to survive"). This is the author's outside vantage point — the one moment in the chapter where the Kuikuro perspective is replaced by the view from a position they could not have occupied. The chapter acknowledges this ("No one at Kuhikugu knows this. The anetü does not know it...") but the framing itself remains tragic from an outside temporal position. This is a known and difficult problem in writing about cultures before epidemic contact — there is no inside voice that knows the epidemic is coming, so any writing that anticipates it is necessarily from outside. The chapter handles this as well as it can. The concern is registered, not as a correction, but as a note.
+
+**Corrections required:** None required. One suggestion: in the quarup log description, add one sentence that establishes the log as a presence — "the quarup log decorated with his ceremonial patterns, the log that is him" or similar — to signal the cosmological ontology rather than the symbolic one.
+
+**Endorsement:** The chapter is consistent with the anthropological understanding of upper Xingu social organization as a specific form of Amazonian sociality, not as a proto-state or a simple trading arrangement. It treats the Kuikuro as having a way of organizing their world that is complete on its own terms.
+
+— E. Viveiros de Castro (board)

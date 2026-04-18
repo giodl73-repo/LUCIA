@@ -1,0 +1,135 @@
+# The Expansion Under Tuba
+
+## The Shape of a Crown
+
+The woman sitting in the center of the room did not need a crown. Her head was the crown.
+
+Nasakara had been bound from birth, strips of cloth wound around her infant skull with the steady patience that only mothers who knew what beauty required would sustain. Month after month the cloth had held, and the skull, soft in those early months, had yielded to the pressure the way rivers yield to the channels dug for them. By the time she was three years old the shape was fixed: the long oval rising from the back of the neck, the gentle taper at the crown, the characteristic profile that told anyone who saw her, in an instant, everything they needed to know about where she had come from and who she was.
+
+Now she sat while Amunzika built the coiffure.
+
+The coiffure was its own ceremony, and it demanded its own time. Amunzika worked with the focused attention of a craftsman at the height of a difficult task, her fingers moving through Nasakara's hair with a precision that was partly skill and partly memory, because she had learned from watching her own mother work the same way on the women of the same families. The hair was drawn upward from the base of the neck, wound around a frame of woven palm fiber and small ivory pins, built outward from the elongated crown in graduated layers until the whole structure rose another hand's width above the natural apex of the skull. Not added on top, but continuous with it: a natural extension of a form that was itself already an extension, the coiffure completing an aesthetic that had begun twenty years ago with a mother and a length of cloth.
+
+From across the room, a man was playing the pluriarc.
+
+The instrument had eight strings running from a curved body to a central resonating gourd. He played with the right hand pulling melody, the left hand steadying rhythm, his body moving almost imperceptibly with each phrase, his eyes closed not from inattention but from concentration. The music was not background. At the Ne Tuba's court, music was structural, as structural as the long avenue of palm trees that led from the forest road to the entrance of the great hall, as structural as the placement of the Ne's own seat at the hall's center and the precise distance at which even senior advisors were required to remain. The pluriarc filled the chamber the way the incense smoke filled it, present in every part of the room, and no one in the room heard it as decoration.
+
+Outside, the Uele River moved through the valley in its slow, permanent way, indifferent to what the humans along its banks had built. Inside, in the Ne's compound, the building that held the reception hall was one of the most ambitious structures in the northeastern forest: two hundred paces in length, its walls made from the trunks of straight-cut trees lashed upright and sealed with packed clay, its interior hung with woven palm-leaf panels that an explorer who arrived two decades later would describe as tapestry. The columns were carved. The proportions were deliberate. The building was a statement before anyone spoke inside it.
+
+Nasakara understood this without being taught it. The Ne's court was not a place where important things were said and lesser things were decorated. The decoration was the statement. The coiffure was the statement. The music was the statement. The long avenue of palms through which visitors walked, the arrangement of figures within the hall, the spacing of the ceremony's silences: all of it communicated, and all of it was designed to communicate, not to an audience that needed explanation, but to an audience that already knew how to read it.
+
+The woman who could not read it did not belong in the room.
+
+Amunzika added a final ivory pin to the upper structure of the coiffure and stepped back to look. The shape was right. The layers met the angle of the skull at the correct graduation. The whole form, the elongated head, the built coiffure, the seated posture that held the composition still, resolved into the image that the court required, that Nasakara's family had been producing across three generations: the image of a woman for whom beauty and status were not two separate things but a single thing, expressed through a single form, maintained with a daily discipline most people never saw.
+
+The music continued. The incense burned. The ceremony had not formally begun, because the ceremony's formal beginning would be its minor part. What mattered had already been happening for an hour: the preparation, the arrangement, the assembly of every element that would allow the event to mean what the Ne's court needed it to mean.
+
+---
+
+## The Knowledge in the Hands
+
+The coiffure required understanding that no one could acquire quickly.
+
+The first thing Amunzika's mother had taught her was the direction of the hair. Hair grown on an elongated skull behaves differently than hair grown on an unbound skull, the grain of it different, the way it falls naturally from the extended occipital bone different, the angles at which it could be woven into the structure carrying their own requirements. The second thing was the frame: palm fiber braided to the exact tightness that would hold weight without shifting, the ivory pins placed at intervals measured not by counting but by feel, because the spacing that worked for one skull did not always work for another. The third thing was patience. A coiffure of this complexity, built properly, required the better part of a morning. A coiffure built quickly was a coiffure that would not hold through ceremony, and a coiffure that failed during ceremony was not a private matter.
+
+Beauty at the Mangbetu court was public. Its failures were public too.
+
+Across the room, the musician had been trained by a man who had been trained by his uncle, who had been trained by a man whose name was still spoken when people discussed the earliest tradition at the Ne Nabiembali's court. The eight-string pluriarc was not a simple instrument. Each string was a different length, tied from the curved wooden body across the resonating gourd at a different tension, and the combination of lengths and tensions produced a specific range of pitches that could be further modified by the player's thumb pressing behind the string near the bridge. The right hand developed its own vocabulary of attack: a flick from the nail, a pull from the pad of the finger, a brush stroke that sounded three strings nearly simultaneously. The left hand held the gourd against the chest and felt the vibration there, making adjustments by the resonance the body produced rather than the sound the room carried.
+
+A student spent two years learning to make a consistent sound. Another two years learning to connect phrases. The repertoire that ceremony required, the specific pieces for the Ne's entrance, the pieces for the presentation of tribute, the pieces that marked the conclusion of an audience and signaled that the room could begin to move again, came only after that foundation was laid. The student learned by watching. By listening. By being present in the chamber during ceremonies for years before being permitted to play in one.
+
+The knowledge was in the hands and in the ears and in the body, and it moved between people only through proximity. You could not learn the pluriarc tradition by reading about it, because no one had written about it. You could not learn it from a description, because description could not convey what the instrument felt like against the chest when the resonance was right. You could not learn it from anything other than a teacher who had learned from a teacher.
+
+The Ne's court sustained the teachers. This was the arrangement on which everything rested.
+
+The specific pieces in the pluriarc repertoire carried their own histories. A piece associated with the Ne's entrance to the hall was not interchangeable with a piece played during the presentation of tribute; each ceremony had its musical requirements, and a musician who played the wrong piece at the wrong moment had made an error as legible as a craftsman who placed the ivory pins in the wrong configuration. The repertoire was governance. The music told the room what kind of event it was witnessing. When the particular sequence began that signaled the audience was ending, people knew to begin preparing themselves to leave without anyone having to say so aloud. The musician's knowledge organized time the way the Ne's spatial arrangements organized space: not through declaration but through form.
+
+The great hall itself embodied a similar accumulation. Building two hundred paces of enclosed space in a forest environment, where wood rots, where the humidity works at joints and bindings, where the forest presses at every clearing, required a sustained knowledge of which timbers held and which did not, which orientations caught the prevailing wind through the openings and which trapped heat, how much weight a roof of dried palm thatch could support before it sagged, and how to read a sagging beam before it failed. This knowledge was not written. It was held by the men who had built and rebuilt the hall across the years, and it was demonstrated in the building itself: a hall that had stood and been maintained long enough to acquire the carved columns and the woven palm-leaf interior that made it look less like a building in progress and more like a building that had always existed.
+
+Outside the hall, the avenue of palms led back toward the forest at the settlement's edge. The trees had been planted in rows whose straightness required care to maintain, the lateral pressure of neighboring growth and the tendency of any individual palm to lean toward light corrected by tying and training and the occasional removal of a tree that had grown wrong. The avenue was a designed thing. The forest beyond its end was what the design was defined against.
+
+You could feel the difference the moment you stepped from one into the other: the sound changed first, from the relative quiet of the cleared settlement to the layered constant sound of the forest, insects and birds and the distant water. Then the smell changed, from the cleared air and the burning incense of the compound to the deeper, damper smell of living things too close together, rotting at the base while growing at the top. Then the light changed from direct to filtered, the canopy overhead catching most of what fell and releasing the rest in moving shafts that gave the forest floor the quality of a room lit from holes in the ceiling.
+
+The avenue existed to make you feel the settlement's order before you arrived at the hall. It was a processional, a transition, a preparation. You were not supposed to walk it quickly.
+
+Inside the hall, the quality of sound was different from the sound of the compound outside. The building's enclosed length gave the pluriarc's notes a resonance they could not have in open air, each phrase expanding and then returning slightly softened from the walls, so that the room held the music for a moment after the player had moved on. This was not accidental. The builders who had designed the hall's proportions had built other halls before this one, and the memory of how sound moved in enclosed forest-wood construction was part of what they carried into each new commission. They did not call this acoustics; they knew it as the quality of a room that held music well. They built for it. The room held music well.
+
+The carved columns were oiled periodically, the wood requiring attention in the forest's humidity or it would begin to gray and then to soften. The palm-leaf interior panels were replaced in sections as sections aged and dried; at any given time, some panels were fresh and some were dark with years. This meant the interior was never entirely new and never entirely old: it aged in a staggered rotation, which gave it the quality of a thing that had always been in the process of being maintained, the maintenance itself a form of ceremony. The hall's custodians were as important as the hall's builders, and their work was as continuous.
+
+---
+
+## The State Behind the Court
+
+Tuba had inherited a kingdom and extended it to a reach the later oral accounts would name as the widest it had ever been, a reach the Mangbetu expressed not in words but in the spread of the court's forms through the valley and beyond it.
+
+Nabiembali had consolidated diverse populations in the Uele valley: Mangbetu-speaking families who formed the ruling class, and many others who did not share that language or that lineage. The process by which Nabiembali had brought these groups together, through military pressure, through negotiated alliance, through marriage, through the simple arithmetic of proximity to a power that could protect or destroy, left intact the question of what held them together once the consolidation was done.
+
+Tuba's answer, expressed not as policy but as practice, was the same answer the court always gave: belonging was demonstrated through participation in the court's forms.
+
+A lineage that provided its young women for head-binding was a lineage that had committed to the Mangbetu aesthetic system. The skull, once bound and shaped, could not be unbound. The commitment was permanent and visible. A lineage that sent its sons to apprentice with the court's craftsmen, the ivory-carvers, the smiths who worked iron and occasionally copper, the wood-carvers who made the handles of weapons and tools in the elongated-head forms that the aristocracy favored, was a lineage that was learning the court's visual language, making itself legible in the terms the court understood. This was not assimilation in the sense of erasure. A subsumed lineage that sent an apprentice to the court's craftsmen retained its own identity; the apprentice carried the court's visual vocabulary back home and produced it there, at a smaller scale, for a local audience. The court's aesthetic was a franchise, and belonging to the franchise meant owing something to the center.
+
+What the lineages owed was specific: labor for the great building projects, food for the court's consumption, tribute in the trade goods that the Uele valley's position made accessible. The valley connected the forest interior to the north and northeast, where the Azande and other peoples held territory, and to the Great Lakes margin to the southeast. Ivory moved through these connections, drawn from the forest elephants that the hunting peoples knew, and also metal, iron from the local smelting operations, and occasionally the rarer copper that came from networks reaching south toward Katanga. The Ne's court consumed these goods and controlled access to them, which made allegiance to the Ne materially rational for the lineages around him and dangerous to resist.
+
+But material rationality explains the minimum of compliance, not the quality of participation. The Mangbetu court in Tuba's era attracted something more than the compliance of people who had calculated their options. It attracted the imitation of people who found the court's forms worth aspiring to, who sent daughters for binding not because they had to but because the bound skull meant something, and what it meant was worth the commitment.
+
+The court's visual language spoke for itself. The elongated head was striking across distance, legible as aristocratic from the first glance. The coiffure built on it amplified what the skull alone communicated. Together they produced a figure that carried authority on its surface, that announced itself before it spoke, that required no credential beyond the form itself to be recognized. For the lineages incorporated into Tuba's expanding state, participation in this system, even at the margins, even at a reduced register, was participation in a prestige structure that extended from the Ne's seat outward through the entire valley.
+
+This was the court's genius and its logic: it made belonging beautiful.
+
+The people whose labor sustained it did not all have elongated skulls. The women who grew the food, the men who built and maintained the structures, the hunting peoples who provided forest products and occasionally served as guides through terrain the Mangbetu themselves had not fully mapped, these people were present in the economy of the court without being fully present in its aesthetic. The distinctions within the subject populations were specific: women from captured or tributary groups provided labor and were bound within the court's household structures in ways that differed significantly from the position of Mangbetu noblewomen. The aesthetic system that expressed the court's identity also expressed its stratifications. Beauty was distributed unequally.
+
+None of this was hidden. The distribution was visible in every gathering: the elongated skull at the center, the unbound skull at the margins, the specific distance between the Ne's seat and everyone else in the hall. The court's architecture of presence made the social architecture of the state legible to everyone who entered it.
+
+---
+
+## The Valley at Its Fullest
+
+In the years of Tuba's reign, the Uele valley held more territory under Mangbetu authority than it had ever held before or would hold again.
+
+The valley itself was not a single landscape. Moving north from the forest margin, the character of the land shifted: denser canopy giving way to gallery forest along the rivers, which gave way in turn to more open savanna as the land rose toward the Nile-Congo watershed. The Mangbetu heartland was the river valley itself, the cleared settlements along the Uele's banks, the cultivated areas around the capital, the hunting grounds in the forest to the south and east. Tuba's expansion had pushed the state's effective authority outward from this heartland into territories where the Ne's court was present not directly but through the lineages that owed allegiance to it.
+
+The eastern margin touched the territory of the Ituri Forest peoples, including the Mbuti, who had been in that forest since before any of the agricultural states around them existed, and who maintained their own sovereign knowledge of the deep forest that no savanna court had ever fully accessed. The Mangbetu traded with them and did not attempt to govern them; the Mbuti's territory was the forest itself, and the forest was theirs in a way that no declaration of authority could alter.
+
+The northern margin approached the Azande, a people with their own political organization and their own court traditions, who were Tuba's neighbors rather than his subjects. The relationship between Tuba's court and the Azande courts was one of adjacent powers: mutual awareness, trade along their shared frontier, occasional conflict over the lineages in between. The Azande spoke different languages from the Mangbetu and organized their authority on different principles; the zone between them was a gradient rather than a clear line.
+
+What trade moved through the valley followed the rivers where it could and the established paths between major settlements where it could not. Ivory was the prestige good that connected the Uele valley to wider networks, southward toward the Congo basin's interior trade systems, eventually toward the coast, where the Atlantic trade's appetite for ivory had been drawing goods out of Central Africa since the seventeenth century. The Mangbetu court was not directly connected to those coastal networks; there were too many intermediary peoples and too many stages of trade between the Uele valley and the Atlantic. But the ivory that left the valley entered currents that flowed toward that distant shore, and the goods that flowed back, cloth, metal objects, beads, eventually found their way to courts like Tuba's, filtered through the same intermediary networks.
+
+The Ne's court was not a trading court in the way the Swahili city-states were trading courts. Its relationship to material wealth was that of a consumer of tribute rather than a manager of exchange. The goods flowed in toward the court because they were owed to it; the court redistributed them through ceremony and gift-giving in ways that maintained allegiance. The arithmetic was not commercial. It was political.
+
+This was, in a sense, the court's limit as well as its logic. A commercial system can extend its reach through intermediaries who profit from the extension. A tribute system extends its reach only as far as its authority extends, and authority in the northeastern forest was measured in the number of days' march it took to reach somewhere no one would enforce the Ne's claim. At Tuba's maximum extent, the state's practical authority was perhaps five or six days from the capital in the most favorable directions, less in terrain that slowed movement. Beyond that margin, the court's aesthetics could inspire imitation, a lineage that had seen the capital and returned with a craftsman's knowledge, but the court's demand for tribute became difficult to maintain.
+
+The peak was a specific territory, and the territory was full.
+
+The anthropomorphic objects that the court's craftsmen produced during this period carried the same visual logic outward that the court itself carried through its ceremonies. The pots thrown in the form of the elongated female head, the small carved ivory figures with their characteristic profiles, the knife handles and harp bodies shaped to the same aesthetic, these were not luxury goods separate from the court's political purpose. They were the court's visual argument made portable. A pot in the elongated-head form, present in a household days' travel from the capital, was the court's presence in that household. The craftsman who had made it had trained in the capital; the household that owned it participated in the court's aesthetic logic, at a smaller scale and at greater distance, but participating nonetheless. The franchise extended further than the tribute collection could reach, because objects traveled where authority could not follow.
+
+---
+
+## The Court's Own Terms
+
+The great hall was not built to last forever. Nothing built from wood and palm in a forest environment was built to last forever. It was built to last long enough, which in practice meant long enough for the generation that built it to see its grandchildren use it, and perhaps long enough for a visitor to arrive and believe, correctly, that the building had always been there.
+
+Schweinfurth arrived in 1870, two decades after Tuba's era had ended, and found Mbunza's capital in a state that the German naturalist could only describe as astonishing. The long avenues of palms. The hall that could hold several thousand people. The carved columns. The woven palm-leaf interior. The music. The women of the aristocratic families moving through the compound with the long-oval profiles and elaborate coiffures that he had not expected and could not initially understand, and then could not stop writing about.
+
+He was not writing about Tuba's court. He was writing about a court that Tuba's court had become: the accumulated generations of the aesthetic tradition that Nabiembali had established and Tuba had elaborated and Mbunza's people were still maintaining. The forms had continued. The knowledge had moved forward through the hands of the women who learned from their mothers, through the ears and fingers of the musicians who learned from their teachers, through the callused hands of the builders who learned the specific timbers and the specific angles from the men who had built the halls before them.
+
+The continuity was not automatic. It required constant maintenance, of the palm avenues, of the halls themselves, of the coiffure tradition, of the musical apprenticeships. Every element of the court aesthetic was a chain that could be broken by a single generation failing to transmit it. The chain had not broken. It had held through Nabiembali's consolidation, through Tuba's expansion, through the succession of Ne after Ne, through the contact with European explorers in the 1860s, through the years in which the Mangbetu court was gradually becoming visible to a world outside the Uele valley that was, by then, making plans.
+
+The knowledge in Amunzika's hands would outlast Amunzika. It would move to the apprentice watching her, watching the direction of the hair, the angle of the ivory pins, the graduated layering of the structure over the elongated crown. It would move to that apprentice's apprentice. It would move as long as the court existed to require it.
+
+The court existed because the Ne existed. The Ne existed as long as the Ne existed. This was the tautology on which everything rested, and it was not fragile in ordinary times, because courts of this character are self-reinforcing: the aesthetic maintains the authority that maintains the court that maintains the aesthetic. The vulnerability was specific. It was not the vulnerability of age or succession or internal conflict, though those existed too. It was the vulnerability of a system that had placed all its transmission chains inside a single institution.
+
+Break the institution, and the chains would break with it.
+
+In the years of Tuba's reign, in the interior of the great hall, with the music moving through the room and the incense smoke moving with it and Amunzika's fingers moving through the graduated layers of the coiffure with the precision of someone who had learned this from a person who had learned it from a person before her, none of this fragility was present in the room. What was present was the thing itself, complete and functioning, the court at the fullness of what a court can be when every element of it is still in place.
+
+Nasakara held still. Amunzika finished and stepped back. Across the room, the musician resolved a phrase and began another, his body moving almost imperceptibly, his eyes closed. The ceremony had not formally begun. It was already happening.
+
+Outside, the Uele moved south and west through the forest toward its meeting with the Congo. The palms along the avenue stood in their designed rows. The hall held the music inside it the way a gourd holds the sound of the pluriarc: the chamber itself a resonator, giving the music a body it would not have had in open air.
+
+Twenty years. Perhaps thirty. Not more.
+
+The mother who bound the next generation's skulls was already somewhere in the capital, tending to a child whose shape was not yet fixed. The apprentice who would take his place at the pluriarc was somewhere in the compound, listening. The builders who would maintain the hall were already learning which timbers held.
+
+The court continued to be what it was, because that was what continuity meant here: each generation doing what the previous generation had done, with the same materials and the same knowledge and the same understanding that this was what was required.
+
+It was the most durable thing imaginable, right up until the moment it wasn't.

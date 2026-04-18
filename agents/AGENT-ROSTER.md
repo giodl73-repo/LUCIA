@@ -169,6 +169,21 @@ All 28 chapters were written in Session 1. Score is combined (Gate + Chronicle, 
 **Pacific Century: partial data. Haiku reliability issues — see model comparison notes.**
 *Locked = files on disk, pipeline executed, but not all independently verified.
 
+### Amazonia/Caribbean Sweep (8 chapters — Sonnet)
+
+| Spawn | Culture | Era | Score | Gate | Voice | Status |
+|-------|---------|-----|-------|------|-------|--------|
+| SCRIBE-kuikuro-01 | Kuikuro | Network's Height | 89/90 | 30/30 | Garden-Town | Locked |
+| SCRIBE-yanomami-01 | Yanomami | Parima World | 88/90 | 30/30 | Shamanic-observational | Locked |
+| SCRIBE-taino-01 | Taíno | Classic Taíno | 88/90 | 30/30 | Areíto-ceremonial | Locked |
+| SCRIBE-tupi-01 | Tupi-Guaraní | Atlantic Corridor | 85/90 | 29/30 | Prophetic-migratory | Locked |
+| SCRIBE-marajoara-01 | Marajoara | Teso Florescence | 83/90 | 29/30 | Ceramic-cosmological | Locked |
+| SCRIBE-kalinago-01 | Kalinago | Colonial Frontier | 83/90 | 29/30 | War-canoe | Locked |
+| SCRIBE-arawak-01 | Arawak-Lokono | Island Expansion | 82/90 | 29/30 | Maritime-accumulative | Locked |
+| SCRIBE-wayuu-01 | Wayúu | Great Cattle Era | 82/90 | 30/30 | Desert-pastoral | Locked |
+
+**Amazonia sweep mean: 85.0/90 (Sonnet) — 4 perfect Gates, new project high (Kuikuro 89/90)**
+
 ### Model Comparison Summary
 
 | Metric | Opus | Sonnet | Haiku |
@@ -186,16 +201,16 @@ All 28 chapters were written in Session 1. Score is combined (Gate + Chronicle, 
 
 | Metric | Value |
 |--------|-------|
-| Total chapters locked | 70 |
+| Total chapters locked | 78 |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Complete regions | 7 (Sahel, Fertile Crescent, Diasporas, Egypt, Central Africa, Pacific Century + Old Kingdom) |
-| Cultures with chapters | 58 |
-| Regions with chapters | 22 / 26 |
-| Score range | 74–84 / 90 |
-| Manuscript mean | ~81.0 / 90 |
-| Board reviewers | 157 across 58 cultures |
-| Rubric version | v1.5 |
-| Voice types confirmed | 30+ |
+| Complete regions | 8 (Sahel, Fertile Crescent, Diasporas, Egypt, Central Africa, Pacific Century, Amazonia/Caribbean) |
+| Cultures with chapters | 66 |
+| Regions with chapters | 23 / 26 |
+| Score range | 74–89 / 90 |
+| Manuscript mean | ~81.6 / 90 |
+| Board reviewers | 181 across 66 cultures |
+| Rubric version | v1.6 |
+| Voice types confirmed | 40+ |
 
 ---
 

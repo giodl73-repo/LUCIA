@@ -1,6 +1,6 @@
 # LUCIA Scoring Rubric
 
-## Rubric v1.5 — Amended 2026-04-16
+## Rubric v1.6 — Amended 2026-04-18
 
 **Changelog:**
 - v1.0 → v1.1: Amended Progression, Figures, and Landing based on 8 innovations across 4 chapters (Mali, Haudenosaunee, San, Tang).
@@ -8,6 +8,7 @@
 - v1.2 → v1.3: Amended Evidence based on 3 innovations across Tang, Mali Era 4, Tongan.
 - v1.3 → v1.4: Amended Voice (Voice Spectrum) based on 16 voice types confirmed at chapter length across 27 cultures. Amended Progression (Book-Level Arc) based on 3 complete books (Mali, Inca, Rome).
 - v1.4 → v1.5: Cluster promotion of 5 amendments from 27 logged innovations across 46 chapters. Material Object as Structural Principle (Progression), Source Asymmetry as Technique (Evidence/Honesty), Knowledge System at Method Level (Evidence), Non-Chronological Organizing Principle (Progression/Scene), Terminal Condition as Culture-Specific (Progression).
+- v1.5 → v1.6: Terminal Condition types expanded from 5 to 10 based on 5 new instances across Diaspora and Amazonia sweeps.
 
 ---
 
@@ -182,6 +183,20 @@ Scores run 1–10. Each band below describes what that range looks like.
 **v1.5 Amendment — Material Object as Structural Principle:** A physical object or material from the culture's own practice can serve as the chapter's organizing principle — not as metaphor but as mechanism. The object's properties determine the narrative's logic. Confirmed across 6 cultures: the curtain shielding the mai IS Kanem-Bornu's political theory made physical; the ship's clinker-built flexibility IS Norse social flexibility; the stone edict's durability IS Maurya's paradox of vulnerability outlasting power; the bronze plaque IS Benin's governance medium; the clay tablet IS Sumer's compulsion to record; the fortress-canal IS Urartu's state-building cycle. To score 9+, a material-object engine must derive from the culture's own relationship to that object, not from the author's symbolic imposition.
 
 **v1.5 Amendment — Terminal Condition as Culture-Specific:** The structural engine's ending must be as specific to the culture as the engine itself. Five terminal-condition types confirmed: **legitimacy gap** (Songhai — military authority can't generate commercial-legal legitimacy), **deliberate self-consumption** (Tibet — the patron system performs correctly when the king dies), **categorical failure** (Inca — the information system encounters an event outside its categories), **reversible feedback loop** (Egypt — the cosmic loop runs backward when capacity is exceeded), **ecological constraint** (Wolof — the tsetse fly makes cavalry a flow, not a stock, and the supply route becomes the decisive variable). The terminal condition should follow from the engine's own logic, not from external shock.
+
+**v1.6 Amendment — Terminal Condition Types Expanded (5 new):** Five additional terminal-condition types confirmed across Diaspora and Amazonia sweeps, extending the v1.5 framework to 10 total types:
+
+1. **Vindicating** (Armenian) — the terminal condition confirms the engine rather than ending it. The alphabet was built to outlast the kingdom; the kingdom falls; the alphabet proves the system worked. The engine's fall is its vindication. Applies to cultures whose founding technology was designed for civilizational continuity through rupture.
+
+2. **Embodied-transmission vulnerability** (Yanomami) — knowledge held in human bodies is one transmission generation from silence. The continuity mechanism (oral/shamanic knowledge chain) is itself the terminal condition's specific fragility. Applies to cultures whose knowledge system has no material backup.
+
+3. **Substrate exhaustion** (Kalinago) — the engine's base erodes through demographic attrition rather than military defeat. The canoe-builders are not killed; they run out. The system cannot rebuild its own substrate. Applies to cultures whose engine depends on specialist populations that cannot be reconstituted.
+
+4. **Premise non-recognition** (Taíno) — the system does not fail because it was weak. It fails because the colonial party does not recognize its premises as binding. The terminal condition is not endogenous weakness but exogenous refusal. Applies to diplomatic/covenant-based engines meeting parties that operate by different rules.
+
+5. **Unfalsifiable direction** (Tupi-Guaraní) — the engine's terminal condition IS its unfalsifiability. The Yvy Maraey cannot be reached because it cannot be disproven; the migration continues because it cannot be completed. Applies to prophetic-migratory systems organized around an eschatological horizon.
+
+With these additions, the framework now captures 10 terminal-condition types: legitimacy gap, deliberate self-consumption, categorical failure, reversible feedback loop, ecological constraint, vindicating, embodied-transmission vulnerability, substrate exhaustion, premise non-recognition, and unfalsifiable direction. The principle remains: the engine's ending must be as specific to the culture as the engine itself.
 
 **v1.5 Amendment — Non-Chronological Organizing Principle:** For cultures without a linear chronological arc, the chapter needs a non-temporal organizing principle — a species (San/eland), a landscape (Aboriginal/Country), a commercial space (Swahili/storehouse), a sensory map (Hausa/city-by-smell), a page (Jewish Talmud). Confirmed across 5 cultures. These chapters score highest when the organizing principle comes from the culture's own center of gravity: the eland for a hunting culture, the storehouse for a trade culture, the page for a text-centered culture. Chronology is not the only way to build progression; integration around a culture-specific center can be equally powerful.
 
