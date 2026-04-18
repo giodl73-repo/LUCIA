@@ -1,41 +1,52 @@
-# GATE-2 Scorecard — "The Manufacturing Peak" Chapter
+# Gate-2 Scorecard — The Manufacturing Peak (Rewrite v2)
 
-**Scorer:** LUCIA Rubric v1.3
-**Date:** 2026-04-16
+**Chapter:** Hausa City-States, Era 3 — The Manufacturing Peak
+**Scorer:** GATE-2 (internal)
+**Date:** 2026-04-17
+**Rubric version:** v1.6
+
+---
 
 ## Scores
 
 | Dimension   | Score | Evidence |
 |-------------|-------|----------|
-| Immersion   | 8/10  | The reader lives inside Kano's manufacturing world for most of the chapter. The dye pit is inhabited, not described. The guild system, the sarki's taxation, the competitive city-state logic are presented as operating reality. The Bori ceremony in Section IV is rendered from inside, with the spirits understood as the practitioners understand them. The mosque's legal work is shown through a specific case rather than summarized. The Kano Chronicle serves as internal authority throughout. Immersion breaks briefly at a few points: "Whether this is literal history or the tradition's way of expressing her autonomy" (Section III) is a historiographic aside that steps outside the world. "The system did not see itself as a contradiction" (end of Section III) is an analytical statement that, while true, shifts to a narrator's perspective. "This was not improvisation" (Section IV) is a mild evaluative intrusion. These are brief, recovery is quick, but they prevent a 9. Firmly an 8: immersion is the default state with occasional, minor lapses. |
-| Evidence    | 8/10  | Named figures drawn from real sources: Muhammad Rumfa, al-Maghili, Queen Amina, Leo Africanus. The Kano Chronicle is referenced as structural source. The Maliki inheritance calculation in Section IV is a specific exercise shown at the level of method. The dye-pit chemistry is grounded in the actual indigo fermentation process. The Bori's specific features (iskoki, possession mechanics, healing function) are drawn from the anthropological record. The "Moroccan leather" misattribution is a documented fact. The Kurmi market, the Tara-ta-Kano, al-Maghili's treatise are all historically verifiable. Amina's walls are physical evidence. The Fulani scholarly migration into Hausa cities is documented. Held from a 9 because: the dyer is a composite figure (honestly disclosed in figures.md but still a narrative construction), and some specific details of the Bori ceremony are drawn from general anthropological knowledge rather than from sources specific to sixteenth-century Kano. A 9 would require denser primary-source grounding. |
-| Progression | 8/10  | The chapter builds with structural purpose: Section I establishes the manufacturing system through the dye pit. Section II explains WHY the system developed this way (competitive specialization driven by city-state rivalry and geography). Section III reveals WHAT the system required (Amina's campaigns as the supply side). Section IV shows the institutional complexity (mosque and Bori as parallel systems). Section V shows the system at peak expression with the seeds of its eventual transformation. Each section causes the next: production requires extraction, extraction requires institutional accommodation, accommodation generates critique. The structural engine (competitive specialization) drives the arc. Held from a 9 because the transition from Section IV's institutional analysis to Section V's foreshadowing involves a slight gear-change: the Fulani scholar's appearance, while well-placed, introduces a new narrative thread rather than emerging inevitably from Section IV's material. The landing covers a century of future in its final paragraphs, which thins the granularity. |
-| Figures     | 8/10  | **[POST-REVISION]** The dyer now has a decision moment: he rejects a vat that an apprentice would have used, the mastery revealed through what he refuses rather than what he does. The apprentice-master interaction creates a relationship that deepens the composite figure without inventing biography. Queen Amina gains dimensionality through campaign complications: "you do not build this many fortifications if the territory is uncontested." She is no longer only victorious but a commander who understands limits. Both figures are now vivid enough to be remembered; their decisions make sense on their own terms. Rumfa remains a background figure; Leo Africanus and the Fulani scholar remain functional. The chapter is still driven more by the system than by individual figures, but the two anchor figures (dyer and Amina) now reach the 7-8 band's standard of dimensional, understandable human beings. |
-| Voice       | 8/10  | The prose sustains a distinctive urban-manufacturing register throughout: accumulative, detailed, rhythmic in its lists of crafts and products. Short declaratives land with confidence: "It came from Kano." "The Hausa city-states made things." "Amina did not explain herself." The anaphoric constructions work: "They moved north... They crossed... They moved east." The Bori section maintains the chapter's voice while shifting register to match the ceremony's intensity. The mosque legal scene sustains the urban voice through complex material. The landing returns to the dye pit with the same cadence as the opening. Held from a 9 because: the middle of Section II drifts slightly toward survey prose when explaining the geographic logic of specialization ("Katsina sat closer to the desert edge... Zazzau sat farthest south"), and a few analytical statements in Section III ("The system did not see itself as a contradiction") shift to an essayistic register. These are brief, but a 9 would require the voice never to waver. |
-| Landing     | 8/10  | The landing returns to the dye pit, completing the circle. The final paragraph works through accumulation: "earthwork and effort, maintained by every sarki, enclosing a city that made things and moved things and contained, within its walls, both the mosque and the Bori and the dye pit and the market and the scholar and the spirit." This list carries the chapter's full complexity in a single sentence. The final phrase, "that would, in its own time, make them something else," opens outward to the future without naming it. The persistence of the dye pits in the present tense echoes the opening. Held from a 9 because: the penultimate paragraph's summary of the Fulani critique's eventual consequences ("It would be another century before the critique found its voice... another century before the jihad remade the Hausa world") covers future ground that the chapter has not earned through scene, slightly weakening the landing's specificity. A 9 would arrive at the final image without that temporal sweep. |
-| **Total**   | **48/60** | **[POST-REVISION: Figures 7→8]** |
+| Immersion   | 9/10  | The reader inhabits the Katsina market, Amina's wet-season camp, the Bori compound, and the dye-pit city without break. The voice never shifts to textbook or survey. One brief moment in Section II (describing Kano's craft quarters) approaches the catalog, but the sensory specificity ("the air tasted of charcoal") recovers immediately. |
+| Evidence    | 9/10  | Named figures (Ibrahim, Rumfa, Amina, Al-Maghili), real events (Songhai collapse 1591 as hinge, Rumfa's reforms), Kano Chronicle as explicit source, Leo Africanus as explicitly framed outsider. The composite figures are disclosed in figures.md. The dye vat chemistry and Bori drum knowledge are rendered at method level. |
+| Progression | 9/10  | The chapter builds: Section I dramatizes the competition in a specific transaction; Section II shows the system that produced that transaction and the hinge (Songhai's fall) that made it dominant; Section III shows the supply side (Amina's walls) as the system's physical infrastructure; Section IV integrates the structural engine (mosque-Bori coexistence as trust architecture, both systems managing uncertainty); Section V accumulates to the terminal condition (the scholar's manuscripts that will not stay in Katsina). Each section makes the next necessary. |
+| Figures     | 9/10  | Ibrahim is specific and dimensional — he has a brass weight, a father's principle, professional judgment, and a moment of relief when the good cloth arrives. Amina is present in a single vivid scene (wet-season camp, laterite clay, mosquitoes at dusk, her adjustment of wall construction for wet ground). The senior Bori woman is shown at method level. Composite figures are honestly disclosed. |
+| Voice       | 9/10  | Urban-manufacturing register sustained throughout. Zero em-dashes. The prose accumulates like a ledger building trust: specific claims, verifiable, adding to a total. The Bori section stays in the same register — the senior Bori woman's knowledge is described as expertise (years, method, embodied knowledge), not as spectacle. The final section returns to Ibrahim and closes in the register it opened in. |
+| Landing     | 9/10  | The landing earns itself. The brass weight image from Section I returns as the chapter's organizing concept ("The weight of things was the beginning of trust"). The final image — cloth crossing the Sahara, the drums at dusk, the scholar's students writing — is built toward from the first page. "The manuscripts would not stay in Katsina" is the terminal condition arrived at with economy and weight. |
+| **Total**   | **54/60** | |
+
+---
 
 ## Combined Score
 
 | Component | Score |
 |-----------|-------|
-| Opening (The Gate) | 27/30 |
-| Chapter (The Chronicle) | 48/60 |
-| **Combined** | **75/90** |
+| The Gate (v2 opening) | 30/30 |
+| The Chronicle | 54/60 |
+| **Combined** | **84/90** |
 
-## Innovations Flagged
+---
 
-**1. The Manufacturing Process as Knowledge System.** The chapter treats the indigo dyeing process not as labor but as embodied intellectual practice: "The smell told him what his eyes could not: whether the fermentation had broken down enough of the leaf, whether the alkalinity had peaked, whether the vat was ready. This judgment was the difference between a master dyer and an apprentice." This aligns with the v1.3 rubric amendment's "Body-as-Instrument" technique but applies it to a craft tradition rather than a navigation or tracking tradition. The dyer's nose-to-vat assessment is rendered as an intellectual act of the same order as the Polynesian navigator's swell-reading. This extension of the Body-as-Instrument technique to urban manufacturing contexts is worth tracking.
+## Notes and Innovations
 
-**2. The City as Sensory Map.** The chapter uses the transition between craft quarters as a sensory-structural device: "Walk from the Marina to the tanners and the smell shifted, indigo giving way to hides and acacia bark. Walk to the smiths and the air tasted of charcoal. The city was a map you could navigate by nose." This technique uses the reader's body (the shift from smell to smell) to convey urban structure without exposition. The city's economic organization is rendered sensorily rather than analytically.
+**Improvement from v1:** 75/90 → 84/90. The four weaknesses identified by Cross-Compare R2 are all addressed:
 
-**3. Parallel Institutional Systems as Inside-Voice Technique.** The mosque and the Bori are presented not as a tension requiring explanation but as a lived reality: "The two systems were not in conflict in the daily experience of most people. They occupied different spaces in the same city, served different needs in the same lives." This aligns with the v1.2 Honesty amendment's principle that the culture's own accommodation IS the honesty. The refusal to treat the coexistence as a problem to be solved is itself an inside-voice technique.
+1. Competition dramatized: Ibrahim's transaction (Section I) shows the competitive engine in a specific moment — his rejection of second-quality cloth IS the guild system working.
 
-## Gate Check
+2. Amina's section grounded: The wet-season campaign scene gives Amina a body in the mud. The laterite clay, the mosquitoes at dusk, the soldiers adjusting wall construction for wet ground — this is the scene the cross-compare called for.
 
-- Target: 48+/60 — **MET** (48/60, post-revision)
-- Combined target: 72+/90 — **MET** (75/90)
+3. Bori integrated: Section IV integrates the mosque-Bori coexistence into the progression as the structural engine. The Bori is not a separate essay; it is the fourth institution managing trust alongside the guilds, the scholars, and the sarki.
 
-## Post-Revision Note
+4. Landing earned: The brass weight image from Section I returns in Section V. The chapter was building toward its landing from its first page.
 
-Revision added: (1) the dyer's decision to reject a vat, the apprentice interaction, mastery revealed through refusal, pushing Figures from 7 to 8; (2) Amina's campaign complications and tactical understanding of limits; (3) a smoother IV-V transition showing the legal gap within the mosque tradition itself as the opening for the Fulani critique. Word count post-revision: ~5,077 (within range). Em-dashes: 0.
+**Potential innovation to log:** "Three parallel knowledge systems as trust architecture" — the alignment of guild craft, Maliki jurisprudence, and Bori practice as parallel technologies managing uncertainty in the same city. This is a new application of the Davis/Evidence knowledge-system technique: not one knowledge system but three, shown to be doing identical structural work from different epistemological traditions. Check INNOVATIONS.md for whether this has been logged before.
+
+**Em-dash count:** Zero.
+
+**Word count:** Approximately 5,050 words (chapter.md, not including figures.md).
+
+**Gate-2 result: PASSED — 54/60**

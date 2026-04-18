@@ -1,91 +1,101 @@
-# Production Notes — The Age of Gold (Ghana Empire, Era 2, c. 700-1000 CE)
+# Production Notes — The Age of Gold (Ghana Empire, Era 2, c. 700–1000 CE)
+## Rewrite — v1.6 Standards
+
+---
+
+## Structural Engine
+
+**Engine:** The intermediary-economics machine. The Ghana controlled neither the gold nor the salt — the Wangara held the goldfields, the Sanhaja held the desert routes — but the Ghana controlled the crossing point where both had to meet. This is not a monopoly on a resource; it is a monopoly on a location that neither resource could bypass.
+
+**Mechanism:** The system was self-reinforcing in both directions simultaneously. The Ghana needed the merchants (tolls funded the court, the court maintained route security, route security brought more merchants). The merchants needed the Ghana (the dual-city arrangement provided Islamic law in the stone town and sacred peace in the royal town; without both, the exchange collapsed). The Wangara needed the exchange (gold without a market is just heavy earth). The Sanhaja needed the exchange (their desert skill was only valuable if the flow justified the crossing). Every participant was locked in.
+
+**The rhythmic signature:** The balance was PAIRED. Two cities, one mile apart. Two taxes, one entering and one leaving. Two currencies: the nugget (rare, kept by the Ghana, held as reserve) and the dust (common, circulating, the traders' medium). Two knowledge systems: the Maliki law of the stone town, the sacred covenant of the royal town. Two sources neither party controlled (the gold from Bambuk/Buré to the south, the salt from Taghaza to the north). The prose voice must discover and sustain this pairing rhythm: clause balanced against clause, weight against weight, city against city.
+
+**Terminal condition: legitimacy gap of a second kind.** (v1.5 terminal condition type: ecological constraint, but more specifically a structural one.) The Ghana's authority rested on holding the balance between the sacred and the commercial. As Islam penetrated deeper into the Soninke elite during the tenth century, the balance could only be maintained by the Ghana himself continuing to hold the traditional rites. But the more successful the commercial system became, the more Muslim merchants populated the court, the more Soninke nobles converted, the more the Ghana stood as the last formal representative of the covenant between the people and the land. The terminal condition was not external attack. It was the slow erosion of the covenant's constituency, amplified by the Almoravid pressure from the Sanhaja side of the network. The very success of the commercial integration was what made the sacred legitimacy progressively harder to maintain. The balance that held everything together required two equally weighted cities. One city was becoming heavier.
+
+---
 
 ## Sources
 
 **Primary:**
-- Al-Bakri, *Kitab al-Masalik wa'l-Mamalik* (1068 CE): Most detailed description of the Ghana court, dual-city capital, trade regulations, royal ceremony. Written from Cordoba using merchant reports. Never visited.
-- Ibn Hawqal, *Surat al-Ard* (c. 977 CE): Trade network description, reference to Ghana's wealth.
-- Al-Idrisi, *Nuzhat al-Mushtaq* (1154 CE): Later geographic account, post-decline context.
-- Ibn Khaldun, *Kitab al-Ibar*: Later synthesis, chronological framework.
+- Al-Bakri, *Kitab al-Masalik wa'l-Mamalik* (1068 CE): Court ceremony, capital description, tax structure. Essential. Must handle carefully: al-Bakri wrote from Cordoba from merchant reports; he never visited.
+- Ibn Hawqal, *Surat al-Ard* (c. 977 CE): Trade network, Ghana's wealth, slave trade.
+- Al-Idrisi, *Nuzhat al-Mushtaq* (1154 CE): Later; post-decline context.
+- Ibn Khaldun synthesis: Chronological framework.
 
 **Academic:**
-- Levtzion, *Ancient Ghana and Mali* (1973): Foundational scholarly reconstruction.
-- Conrad & Fisher, "The Conquest That Never Was" (1982): Revisionist work on Almoravid-Ghana relations.
-- Insoll, *The Archaeology of Islam in Sub-Saharan Africa* (2003): Archaeological evidence for Kumbi Saleh.
-- Mauny, *Tableau geographique de l'Ouest africain au Moyen Age* (1961): Geographic context.
+- Levtzion, *Ancient Ghana and Mali* (1973): Foundational reconstruction. Distinguishes primary sources from scholarly inference.
+- Conrad & Fisher, "The Conquest That Never Was" (1982): Revisionist on Almoravid-Ghana. Read carefully: the Almoravid role in Ghana's "fall" is debated. This chapter covers the era BEFORE that pressure peaks.
+- Insoll, *The Archaeology of Islam in Sub-Saharan Africa* (2003): What excavation has confirmed vs. what al-Bakri says.
 
-**Limitations:**
-- No Soninke-authored written records survive from this period. All written sources are Arabic, by outsiders (merchants, geographers) who never entered the royal city.
-- Archaeological work at Kumbi Saleh is ongoing but limited. The twin-city structure is attested by al-Bakri and partially confirmed by excavation, but much remains uncertain.
-- The Soninke oral tradition (the Wagadu legend, the serpent Bida) is documented in later recordings but cannot be reliably dated to this period in its specific form.
+**Source limitations:**
+- No Soninke-authored written records survive from this period.
+- Kumbi Saleh excavation: twin-city structure partially confirmed but not fully resolved.
+- The Wagadu/Bida oral tradition is documented in later recordings; cannot be precisely dated.
+- Silent trade: debated. Handle with honest uncertainty.
+
+---
 
 ## Key Figures
 
-**The Ghana (the ruler, not a personal name):**
-- Title, not name. Arabic sources do not preserve individual names for most Ghana rulers of this period. Al-Bakri describes the Ghana of his informants' time but does not name him individually.
-- Handles: composite figure based on al-Bakri's detailed court description. The audience ceremony, the gold regalia, the dogs with golden collars. Must be disclosed as composite in figures.md.
+**The merchant from Sijilmasa (composite):** The chapter's opening viewpoint. Gives sensory grounding for the commercial system. Composite from al-Bakri's merchant informants. Must have a body throughout: the ache in the back, the thirst, the weight of the salt, the calculation that never stops. Must be disclosed in figures.md.
 
-**The merchant from Sijilmasa:**
-- Composite figure. Represents the Berber and Arab traders who crossed the Sahara. Grounded in al-Bakri's merchant informants.
-- Must be disclosed in figures.md as composite. The specific details (smelling the city, seeing it in two parts) are extrapolated from what merchants would have experienced on the standard Sijilmasa-to-Kumbi-Saleh route.
+**The Ghana (title, not name):** No individual rulers named in the sources for this period. Al-Bakri's court description is the basis. Must be disclosed as composite institution. The chapter must enter the Ghana's world from inside Soninke understanding, not from al-Bakri's outside view. The Ghana is not performing sacred kingship for the merchants' benefit. He is performing it because the covenant requires it.
 
-**The priests of the sacred grove:**
-- Not individually named in any source. The grove and its religious specialists are described by al-Bakri. Their role in maintaining the covenant is inferred from the broader West African tradition of sacred kingship.
+**The Wangara gold-washer (composite, unnamed):** The chapter needs a figure from the goldfields — the source of the gold. They do not appear in al-Bakri directly. Composite from what is known about alluvial gold washing in Bambuk. Must give this figure a body: the cold water of the stream, the pan in the hands, the placer gold settling in the silt. This figure is the anchoring point for Section II. v1.4 Archaeological Figures: the figure needs a body, not a name.
 
-**The qadis and Muslim scholars:**
-- Al-Bakri mentions twelve mosques. Islamic legal practice at Kumbi Saleh is inferred from the broader Maliki tradition operating across the western Sudan.
+**The priests of the sacred grove (collective):** Not named. Al-Bakri mentions the grove. The priests are inferred from the broader West African sacred kingship tradition. Must be rendered through the sensory reality of the grove itself — the darkness, the undisturbed trees, the air that holds moisture the surrounding laterite has surrendered — not through speculation about their practices.
 
-## Narrative Arc
+---
 
-**Structural engine:** The dual-city balance as a self-reinforcing system that both sustains itself and carries the seed of its own instability.
+## Narrative Arc — DIACHRONIC (building → peak → terminal condition)
 
-**The arc across c. 700-1000 CE:**
+The cross-compare diagnosis: the original chapter was synchronic (a snapshot of the system from multiple angles). The rewrite must be diachronic (the system's building, peak, and terminal condition as a progression).
 
-1. **The system emerges (c. 700-800):** Trans-Saharan trade intensifies after the Islamic expansion creates demand for West African gold across the new caliphate. The Ghana consolidates control of the gold-salt nexus. The dual-city arrangement takes form: sacred Soninke kingship on one side, Muslim commercial infrastructure on the other.
+**Section I (opening integrated, ~800w): The crossing — system at operating peak (c. 900)**
+The merchant arrives. His body has been remade by the crossing. He discovers the system through experience. The Al-Bakri framing: the city was known the way caravans know cities, by accumulation of testimony. The balance holds and holds and holds — and the word "holds" should begin to carry weight it hasn't yet earned.
 
-2. **The system matures (c. 800-900):** Peak wealth. The gold-salt exchange reaches its greatest volume. The tax system is refined. The court ceremony becomes elaborate (the gold, the horses, the dogs). The Ghana's authority extends over a network of tributary communities. The sacred covenant is maintained: the grove, the rites, the burial of the dead Ghana with his possessions and servants.
+**Section II (~1000w): The building — how this came to be (c. 700–800)**
+The system's formation. The Wangara goldfields and why the location was kept secret: not fear, policy. The Sanhaja and their desert knowledge. The Ghana's position: neither the gold nor the salt, but the crossing. The silent trade: handled with honest uncertainty — whether exactly as al-Bakri describes or as a story that explained a more opaque process, the result was the same. The Soninke understanding of why the balance was sacred: the gold came from the earth because the earth consented to give it; the covenant maintained the consent. Introduce the goldfields figure here: a Wangara washer at dawn, cold water, the pan, the bright weight settling.
 
-3. **The system peaks and strains (c. 900-1000):** The very success of the trade attracts more participants, more routes, more pressure. Islam penetrates deeper into the Soninke elite (some courtiers convert while the Ghana maintains traditional practice). The Berber and Tuareg intermediaries grow more powerful. The balance is still holding, but the forces pressing on it are multiplying. The era ends not with collapse but with the system at maximum extension, the moment before the Almoravid pressure begins.
+**Section III (~1000w): Two cities — the system in structure (c. 800–900)**
+The dual-city arrangement rendered physically. The mile of packed red laterite between them. The stone town: the qadi's court, the Maliki law, the standardized weights, the Arabic that handled commerce and the Soninke that handled everything else. Then cross the mile: the royal city, the drums, the palace, the sacred grove. The Ghana's audience ceremony rendered from inside the Soninke framework. The golden objects are not signs of wealth; they are the material of the covenant made visible. The Ghana is not a king who happens to be sacred. He is the living evidence that the covenant between the Soninke and the earth is intact.
 
-## Section Plan
+**Section IV (~800w): The covenant — what holds the balance**
+The burial rites as the covenant made complete: the Ghana's body returning to the earth that gave the gold. The servants who entered the tumulus within the covenant's framework of meaning. The Bida legend introduced here as the Soninke's own explanation of what makes the system work — and what happens if it fails. Not as superstition. As the epistemological framework within which the gold is understood. The Wangara's silence trade was not mysterious to the Soninke; it was consistent with how the earth and its people negotiated. Apply Conrad's lens: the oral tradition as parallel historical record, not as myth requiring verification.
 
-**I. The Gate (opening integrated, ~800w):**
-The merchant arrives. The two cities. The arrangement. The balance holds.
+**Section V (~800w): The weight of gold — peak extension, strain beginning (c. 900–1000)**
+The volume of gold at maximum. The Abbasid demand driving more caravans. The visible display: ten horses in gold blankets, the dogs' collars. But the display is not vanity; it is advertisement, and advertisement is investment. The problem: success attracts alternatives. New routes forming east, through the Niger bend. Islam penetrating deeper into the Soninke court. The Ghana still holds the traditional rites; his counselors are beginning to attend Friday prayers. The Sanhaja intermediaries are themselves being transformed by a religious movement forming in the desert. The balance is at maximum extension — which means any additional weight on either side will begin to matter.
 
-**II. The Gold Road (~1000w):**
-The commercial system in its maturity. The Wangara goldfields and their secret location. The "silent trade" tradition (whether historical or legendary). The Taghaza salt mines. The scale of the exchange. Ground this in the experience of the merchant crossing: the loading, the route, the oasis stops, the arrival. Follow the gold from mine to market. Sensory: the weight of salt on a camel, the sound of the caravan at night, the dust.
+**Section VI (~400w): Landing — the drums still beat, the grove still holds**
+Evening in Kumbi Saleh. The merchant makes his numbers: adequate, not generous. The gold he carries north will still justify the crossing. He has heard the drums from the royal city. He has seen what the system requires: the Ghana must hold the covenant AND the commerce. Neither can go slack. The chapter closes with the persistence mechanism: the drums still beat, the grove still stands, the Ghana still sits beneath his golden umbrella, and the word the chapter closes on — "holds" — must carry everything it has built: the physical weight of salt, the political weight of balance, and the first barely perceptible tremor of what is coming.
 
-Panel pressure points addressed: Kapuscinski's demand for heat and physical cost of the journey. Ibn Khaldun's demand for the economics beyond gold and salt (iron, cotton, enslaved people, cattle).
+---
 
-**III. The Two Cities (~1000w):**
-The dual structure in detail. The merchant quarter: its mosques, its legal system, its commercial apparatus. What a qadi's judgment looked like. How weights were standardized. Then cross the mile of ground to the royal city. What the sacred grove meant. What the priests did. The Ghana's audience ceremony rendered from inside the Soninke perspective, not from al-Bakri's outside view.
+## Panel Pressure Points for Full Chapter
 
-Panel pressure points addressed: Achebe's demand for a Soninke voice. Davis's demand for equal depth on the sacred knowledge system. Kapuscinski's demand for the physical space between the two cities.
+1. **Tuchman:** The shift from merchant viewpoint (Section I) to Soninke interior (Sections III-IV) must be executed as a narrative move, not an editorial shift. One city discovered from outside; the other entered from inside. The reader feels the crossing of the mile as a crossing of two worlds.
 
-**IV. The Covenant (~1000w):**
-The sacred kingship and its obligations. The Ghana as the living hinge between the Soninke and the forces that sustained them. The burial practices (tumulus graves with servants and possessions). The relationship between sacred authority and commercial authority. How the Ghana's religious role underwrote the commercial peace. The tension: Islam gaining ground among the elite, the traditional practices maintained by the Ghana himself.
+2. **Ibn Khaldun:** The diachronic arc must make the terminal condition legible in the building, not just visible in the peak. Section II (how the system formed) must plant what Section V (where the system strains) will pay off.
 
-Panel pressure points addressed: Ibn Khaldun's demand for the structural forces sustaining the system. Achebe's demand that the Soninke own their own story.
+3. **Achebe:** The Soninke covenant framework must be treated as a complete epistemological system: the gold comes from the earth because the earth consents; the Ghana maintains consent; the Bida legend explains what happens when consent is broken. This is not explained or analyzed from outside. It is inhabited.
 
-**V. The Weight of Gold (~800w):**
-The system at peak extension. The intensification of demand from the Abbasid world. More gold flowing north. More salt flowing south. The price of maintaining the balance rises. The Berber intermediaries are themselves being transformed by the Almoravid movement forming in the western Sahara. The era ends at the moment of maximum wealth and maximum vulnerability. The balance still holds.
+4. **Davis:** The sacred knowledge system and the commercial knowledge system must receive equivalent analytical depth. The Maliki qadi's jurisprudence and the sacred grove's rites are both knowledge systems operating simultaneously in the same city. Equal depth, equal respect.
 
-Panel pressure points addressed: Tuchman's demand for pull toward the next era. Ibn Khaldun's demand for the structural forces of decline visible within the peak.
+5. **Kapuscinski:** Every analytical section must have a sensory anchor. The goldfields: the cold water, the pan, the weight of placer gold. The desert crossing: the heat under the blanket, the sound of the caravan in the dark. The grove: the darkness, the undisturbed trees, the air that holds moisture. The negotiation: the early morning cool, the buyer's patience, the merchant's calculating silence.
 
-**VI. Landing (~400w):**
-The merchant from Sijilmasa returns north with his gold. The route is the same. The system is the same. But the forces that will change it are already in motion in the desert. The landing should echo the opening but shift the weight: the same circle, the same balance, but now the reader knows what is pressing against it from outside. Use the culture's own persistence mechanism: the drums still beat, the grove still stands, the Ghana still sits beneath his golden umbrella. The system continues to hold. The word "still" carries the weight.
+---
 
-## Panel Pressure Points Anticipated for Full Chapter
+## Voice Notes
 
-1. **Achebe:** Will push for Soninke voices to dominate the middle sections. The opening's merchant viewpoint was acceptable for discovery; the chapter cannot remain in that viewpoint.
-2. **Ibn Khaldun:** Will push for the structural forces driving the 700-1000 trajectory. Not just "they were rich" but WHY the system worked and what was already stressing it.
-3. **Davis:** Will push for equal analytical depth between the commercial and sacred knowledge systems. The mosques are easy to describe; the grove is harder. Both must receive equal treatment.
-4. **Kapuscinski:** Will push for heat, dust, physical cost, and sensory grounding in every analytical passage.
-5. **Tuchman:** Will push for internal scene tension and narrative momentum. The opening planted the structural question; the chapter must pay it off.
+**Register:** Trade-intermediary. Paired clauses. Weight as both physical and political metaphor. The balance itself as the prose's organizing rhythm.
 
-## Open Questions
+**Signature constructions:**
+- "X came south. Y went north. Between them, the Ghana."
+- "He [did X] the way a [person] understands [their domain]."
+- Two sentences of equal weight, the second qualifying or completing the first.
+- Short declarative stop after an accumulation: "The circle held." / "The balance held." / "The gold moved."
 
-1. **Silent trade:** Al-Bakri describes a form of "silent trade" or "dumb barter" at the gold-producing regions. This account is debated. Some scholars accept it as reflecting a real practice; others view it as a literary convention. Must be handled with honest uncertainty.
-2. **Kumbi Saleh archaeology:** The site identified as Kumbi Saleh has been partially excavated but the twin-city structure is not fully confirmed archaeologically. Must note the gap between al-Bakri's description and what the archaeology has confirmed so far.
-3. **Named rulers:** No individual Ghana rulers of the 700-1000 period can be named with confidence from the sources. The chapter uses the title "the Ghana" as the figure rather than attempting to name individuals. This must be disclosed honestly.
-4. **The Wagadu serpent legend:** The Soninke oral tradition of Bida the serpent, whose death broke the covenant and caused the rains to fail and the gold to disappear, is a powerful narrative. It may reflect memories of the empire's decline. Must be handled carefully: presented as the oral tradition, not as historical fact, but with full respect for its significance as the culture's own explanation.
+**Em-dash target:** Zero. Every pause mechanism must come from the register's own logic: the period for declarative stops, the comma-chain for accumulative clauses, the colon for the enumeration that follows a statement of principle.
+
+**Voice-random-paragraph test:** Any randomly selected paragraph must sound like Kumbi Saleh and nowhere else. The test fails if the voice sounds like it could be the Soninke chapter (interior-sacred, covenant-framed) or the Mali chapter (griot cadence, genealogy-as-structure). The Ghana voice is mercantile and observational and precise, and it finds its analytical content in the language of weight and balance.

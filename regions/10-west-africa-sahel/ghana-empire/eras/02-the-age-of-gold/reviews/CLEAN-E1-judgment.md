@@ -1,50 +1,54 @@
-# CLEAN-E1 — Judgment Auditor — The Age of Gold
+# CLEAN — E-1 Judgment Auditor
 
-**Chapter:** Ghana Empire / Era 2: The Age of Gold
-**Date:** 2026-04-16
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (REWRITE)
+**Editorial lens:** Outside-lens violations — forbidden words, anachronistic morality, romanticization, condescension
+**Date:** 2026-04-17
 
-## Automated Scan — Forbidden Words
+---
 
-| Word | Found | Count |
-|------|-------|-------|
-| primitive | No | 0 |
-| advanced | No | 0 |
-| tribe | No | 0 |
-| Dark Ages | No | 0 |
-| discovered by | No | 0 |
-| the New World | No | 0 |
-| civilization (as compliment) | No | 0 |
+## Forbidden Words Audit
 
-**Result:** CLEAN
+Scan complete. **No forbidden words found.**
 
-## Automated Scan — Forbidden Framings
+- "primitive": absent
+- "advanced": absent
+- "tribe": absent
+- "Dark Ages": absent
+- "discovered by [Europeans]": absent
+- "the New World": absent
 
-| Framing | Found |
-|---------|-------|
-| "While Europe was doing X..." | No |
-| "Before contact with the West..." | No |
-| "remarkably sophisticated for..." | No |
+---
 
-**Result:** CLEAN
+## Forbidden Framings Audit
 
-## Manual Pass — Implicit Judgment, Hidden Hierarchy, Anachronistic Morality
+**"While Europe was doing X, these people were doing Y":** Not present. The chapter has no comparative frame with any external civilization. The Abbasid demand for gold is mentioned, but the Abbasid world is presented as a recipient in the system, not as a measuring stick.
 
-1. **Section II, paragraph on Taghaza:** "The salt miners lived at the beginning of the chain. They did not profit from it. They survived it, or they did not." This states a fact about the conditions of enslaved laborers at Taghaza without moralizing. The sentence "They survived it, or they did not" is stark but does not pass judgment. The reader draws their own conclusion. **CLEAN.**
+**"Before contact with the West, they had already...":** Not present.
 
-2. **Section III, burial passage:** "The servants were sealed inside." The chapter presents this within the Soninke framework of the covenant, explaining that "This was not cruelty by the Soninke's understanding. It was completion." The phrase "by the Soninke's understanding" correctly attributes the framework without endorsing or condemning. **CLEAN.**
+**"They were remarkably sophisticated for...":** Not present.
 
-3. **Section IV, on enslaved people:** "Enslaved people, captured in wars or acquired through tribute, moved through the same routes that carried gold and salt, sold northward into the Saharan trade or kept as laborers in the agricultural settlements that fed the two cities." States the practice without judgment. Does not apologize, does not condemn, does not linger for spectacle. **CLEAN.**
+---
 
-4. **Section V, on the Bida legend:** "Whether Bida was a specific historical practice or a narrative framework for understanding loss, the Soninke kept this story because it explained, in their own terms, what happened to Wagadu." The phrase "in their own terms" correctly centers the culture's epistemology. **CLEAN.**
+## Outside-Lens Violations
 
-5. **Section II:** "The Wangara made the gold available and the goldfields invisible, and they maintained this arrangement with a discipline that baffled the Arab geographers who tried to map it." The word "baffled" could be read as implying the Arab geographers expected to understand, positioning them as the default knowers. However, in context, "baffled" is attributed to the geographers' own frustration, not to the chapter's perspective. **P3 — Borderline.** Author may consider replacing "baffled" with "frustrated" or simply "who tried to map it but could not."
+**Section IV — Burial rites:** The sentence "This was not cruelty by the Soninke's understanding" does not appear in this rewrite (it appeared in the original and was a subtle outside-lens marker). The rewrite instead says: "The servants who entered the tumulus within this framework did not enter as sacrifice in the sense a foreign observer might understand. They entered as participants in the covenant's completion, within a system that gave their passage its meaning." This is correctly handled — the outside-framing is attributed to "a foreign observer," and the chapter distances itself from it without judgment in either direction.
 
-## Findings Summary
+**Section IV — Bida:** "This is not a superstition to be noted" does not appear as authorial intrusion. Instead, the chapter inhabits the Soninke framework directly: "The covenant was specific: what the serpent was owed, the serpent received." The chapter does not call this a belief system or explain it from outside. It operates within it. Correct.
 
-| Level | Count | Details |
-|-------|-------|---------|
-| P1 | 0 | None |
-| P2 | 0 | None |
-| P3 | 1 | "baffled" in Section II — borderline; author decides |
+**Section V — Islam:** The description of Islam penetrating the Soninke elite is handled without verdict. "Islam was not conquering the Soninke. It was being adopted by the Soninke, selectively, the way a culture adopts what is useful, over generations." This is inside-voice framing: no hero, no villain, the process as the Soninke would have experienced it.
 
-**VERDICT: CLEAN — no required fixes.**
+---
+
+## Romanticization Audit
+
+**Sacred grove:** "The grove stood because the covenant required it to stand" — this is correct. The grove is not romanticized as exotic or mysterious. Its darkness is the result of protection from cutting, which is the result of an obligation. No romanticization.
+
+**The Wangara:** Presented as making a policy decision about secrecy, not as a mystical practice. "Not fear. Policy." Correct.
+
+**The Ghana's court:** The golden objects are explained as advertisement ("the display was investment") and as the covenant made visible, not as exotic splendor. Correct.
+
+---
+
+## Verdict
+
+**No revisions required from E-1.** The chapter passes the judgment audit cleanly.

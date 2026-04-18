@@ -1,0 +1,16 @@
+# R1 — Panel Review: Wade Davis
+## Haiti, Era 3: Fè Sa — The Revolution (opening.md)
+
+**Date:** 2026-04-17
+
+---
+
+I have spent years studying Haitian Vodou. I have sat with houngans, have felt the shift in the room when the lwa arrives, have seen what happens to a person in possession — the transformation that Western observers call hysteria or theater and that Vodou practitioners understand as something else entirely: a membrane between the visible and invisible worlds, made permeable. This opening gets it right. "She came into possession the way the spirit enters a person who is ready — not gradually, not politely, but all at once, the lwa riding her like a horse rides water." The metaphor of the horse and water is the emic metaphor — it comes from the tradition itself. The practitioner is the horse; the lwa is the rider. Using the culture's own image, not an external description of the experience, is the difference between understanding and observing.
+
+What the opening achieves is the description of Vodou as what it is: a knowledge system, an organizational system, a technology for maintaining collective identity under conditions designed to destroy it. "Vodou, which was not a system of belief so much as a system of organization, a way of maintaining collective identity and collective memory under conditions designed to destroy both." This is not romantic. This is precise. And it treats Vodou with the same intellectual seriousness that a chapter on Roman administrative law or Abbasid court scholarship would treat those systems.
+
+**The question I'd push on:** The opening names the lwa — Ogu and Ezili appear briefly — but does not show how the specific lwa who were invoked at Bois Caïman or throughout the revolution carried specific political theology. Ogu (sometimes spelled Ogou) is the warrior lwa, associated with iron, with the boundary that bleeds when crossed. His invocation in a ceremony organizing an armed uprising is not arbitrary. The chapter should, in the full treatment, show Vodou at the level of method: which lwa are called in which contexts, what the ceremony IS as a practice, what the covenant means in terms of the religious tradition's own logic. "They drank the blood and the covenant was sealed" is correct and present-voiced, but the full chapter can go deeper into why blood covenant is the appropriate form for this kind of political pact within the tradition.
+
+I am also flagging something for the notes: the relationship between Haitian Vodou and the African religious traditions it draws from — Fon, Yoruba, Kongolese — is not a simple translation. The Atlantic crossing and the plantation conditions produced a synthesis that is its own thing. The chapter should be careful not to reduce Haitian Vodou to "African religion transplanted." It is African religious tradition transformed by the specific historical conditions of Saint-Domingue into something new.
+
+**What I would preserve exactly:** "The lwa are not metaphors. They are the ancestors and forces through whom the living communicate with what is larger than the living." This is the theological statement that everything else depends on. It belongs exactly where it is, and it should not be softened.

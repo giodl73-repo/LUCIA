@@ -18,7 +18,11 @@
       "Grep",
       "Bash(python3 *)",
       "Bash(node *)",
-      "Bash(powershell *)"
+      "Bash(powershell *)",
+      "Bash(rm -f \"C:/src/chronicle/regions/10-west-africa-sahel/hausa-city-states/eras/03-the-manufacturing-peak/opening.md\" \"C:/src/chronicle/regions/10-west-africa-sahel/hausa-city-states/eras/03-the-manufacturing-peak/chapter.md\" \"C:/src/chronicle/regions/10-west-africa-sahel/hausa-city-states/eras/03-the-manufacturing-peak/notes.md\" \"C:/src/chronicle/regions/10-west-africa-sahel/hausa-city-states/eras/03-the-manufacturing-peak/figures.md\")",
+      "Bash(rm -rf \"C:/src/chronicle/regions/10-west-africa-sahel/hausa-city-states/eras/03-the-manufacturing-peak/reviews/\")",
+      "Bash(rm -f \"C:/src/chronicle/regions/10-west-africa-sahel/soninke/eras/03-the-high-wagadu/chapter.md\" \"C:/src/chronicle/regions/10-west-africa-sahel/soninke/eras/03-the-high-wagadu/opening.md\" \"C:/src/chronicle/regions/10-west-africa-sahel/soninke/eras/03-the-high-wagadu/figures.md\" \"C:/src/chronicle/regions/10-west-africa-sahel/soninke/eras/03-the-high-wagadu/notes.md\")",
+      "Bash(rm -rf \"C:/src/chronicle/regions/10-west-africa-sahel/soninke/eras/03-the-high-wagadu/reviews/\")"
     ]
   }
 }

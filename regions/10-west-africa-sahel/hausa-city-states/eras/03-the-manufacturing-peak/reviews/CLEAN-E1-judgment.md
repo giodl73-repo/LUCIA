@@ -1,42 +1,32 @@
-# CLEAN-E1 — Judgment Auditor — "The Manufacturing Peak"
+# Clean — E1: Judgment Auditor
+## Hausa Era 3: The Manufacturing Peak (v2)
 
-## Forbidden Words Check
-- primitive: NOT FOUND
-- advanced: NOT FOUND
-- tribe: NOT FOUND
-- Dark Ages: NOT FOUND
-- discovered by: NOT FOUND
-- the New World: NOT FOUND
-- civilization (as compliment): NOT FOUND
+**Role:** Hunt outside-lens violations — forbidden words, anachronistic morality, romanticization, demonization, anything that steps outside the culture's own worldview.
 
-**Result: CLEAN**
+---
 
-## Forbidden Framings Check
-- "While Europe was doing X...": NOT FOUND
-- "Before contact with the West...": NOT FOUND
-- "Remarkably sophisticated for...": NOT FOUND
+**PASS** — with two flags.
 
-**Result: CLEAN**
+**Flag 1 — "managed" in Section IV, paragraph 9:**
+"managed it in the way that cities manage contradictions they cannot resolve: by keeping the two registers apart, by giving each its own venue, by being sure that the man who could name the contradiction was a visitor offering advice, not a resident teaching the texts."
 
-## Outside Judgment Audit
+This is on the edge. The phrase "managed it" is analytically exact and uses no forbidden words. But "cities manage contradictions they cannot resolve" reads as the outside analyst's summary of what the Hausa sarkis were doing. The Hausa people of Kano did not experience this as "managing a contradiction" — they experienced it as a city working. The sentence is accurate from a Khaldunian systems perspective but risks stepping outside the inside voice.
 
-### Section I — The Dye Pit
-- No outside judgment detected. The dye pit is presented from inside the craft tradition. The "Moroccan leather" passage reclaims ownership without editorializing. The enslavement passage states the system's own categories without modern moralizing. CLEAN.
+**Recommendation:** Revise to keep the inside-voice register. Instead of the outside summary, trust the preceding sentences to carry the argument. Cut "managed it in the way that cities manage contradictions they cannot resolve:" and let "by keeping the two registers apart, by giving each its own venue" stand as the subject's own description of the practice.
 
-### Section II — The Seven Rivals
-- **Minor flag:** "and the account confirms what the Kano Chronicle already knew: the cities were wealthy, productive, and organized for trade at a scale that impressed even a man who had seen the markets of Fez." The phrase "impressed even a man who had seen the markets of Fez" uses Leo Africanus's response as a measure of Hausa achievement. This is mild outside validation. **Recommendation:** Remove "impressed even" — the clause can work as observation without the evaluative register. Consider: "at a scale that a man who had seen the markets of Fez could recognize."
-- **Minor flag:** "No sarki held the title that the Mansa held in Mali or the Askia held in Songhai." This comparison to other empires risks positioning the Hausa system as a variation of something else. The next sentence ("The Hausa world was a system of rivals") corrects this, but the comparison lingers. **Recommendation:** Consider removing the Mali/Songhai comparison entirely, or moving it to a position where it serves the Hausa system's own self-understanding rather than external comparison.
+**Flag 2 — "The city was a weight" (Section I, final paragraph before caravan arrival):**
+"The city was a weight. The city said: here is what things are worth."
 
-### Section III — Amina's Walls
-- "Whether this is literal history or the tradition's way of expressing her autonomy" — this is a historiographic aside that steps outside the world. However, it serves Principle 13 (Honest Uncertainty) and the v1.1 Figures amendment (Honest Limits as Technique). **Recommendation:** RETAIN. The honesty here strengthens rather than weakens the inside voice, because it acknowledges the tradition's own methods.
-- The enslavement section is clean. No moralization, no evasion. The categories are presented as the system's own.
+This is authorial summary — the narrator stepping outside to give the reader the chapter's organizing concept before the chapter has earned it. The brass weight is Ibrahim's father's image; the city-as-weight is the narrator's interpretation of the brass weight. At this stage in the chapter (end of Section I) it is premature. The landing (Section V) does the same work but more honestly, after the chapter has built the case.
 
-### Section IV — The Scholars and the Spirits
-- "This was not improvisation." — mild evaluative intrusion. Who would have thought it was improvisation? This sentence defends against a reader who might diminish the Bori, but the defense comes from outside. **Recommendation:** Cut. The preceding description of the Bori practitioner's knowledge already makes the point. Trust the reader.
+**Recommendation:** Cut "The city was a weight. The city said: here is what things are worth." from Section I. Let the brass weight's significance emerge from the reader rather than being named. The image will resonate more if not pre-explained.
 
-### Section V — The Weight of the Walls
-- No outside judgment detected. The Fulani critique is presented from within the Islamic scholarly tradition, not from a modern perspective. The landing avoids modern commentary.
+---
 
-## Overall Verdict
+**No other violations found.** 
 
-**Two minor flags, one cut recommended.** The chapter is clean of forbidden words and forbidden framings. The two minor flags in Section II are adjustable. The "This was not improvisation" cut in Section IV is recommended. Otherwise, the chapter passes the Judgment Audit.
+Forbidden words check: none present (primitive, advanced, tribe, dark ages — all absent).
+
+Forbidden framings check: no "while Europe was doing X," no "before contact with the West," no "remarkably sophisticated for." The cloth's value is named in merchant terms, not in terms of outside validation. The Bori is not framed as a "survival" or "pre-Islamic" institution.
+
+The slave trade is rendered inside the Hausa categories (Maliki legal tradition's distinctions, the qadi's court, the sarki's taxation machinery) without modern moral vocabulary. The chapter does not apologize for the system, endorse it, or editorialize about it.

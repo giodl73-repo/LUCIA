@@ -1,0 +1,12 @@
+# R2-P2 — Ibn Khaldun
+## PANEL-2: Notes Review — Canada Era 4
+
+The notes have answered my central question about mechanism. The per-capita funding model is precisely the kind of structural perversity I find analytically important: an institution whose incentive structure rewards maximizing enrollment regardless of outcome is an institution that will generate self-reinforcing pathological behavior. This is a well-documented pattern in administrative history. The inspectors' own reports documenting abuse alongside continued funding — this is the machine running according to its own logic, not a series of individual moral failures.
+
+The "two simultaneous Canadas" framing is correct and productive. The parallel-track structure you describe — nation-building and cultural suppression occurring in the same years — is the key analytical insight. The CPR running through treaty violations; the conscription crisis running through residential school enrollment records. The simultaneity must be visible in the chapter, not sequential.
+
+**One remaining pressure point:** The section plan puts "The Machine's Design" (Section 2) second, immediately after the opening. This risks making the chapter's analytical register visible too early. I would consider whether the analytical material about the Indian Act and Scott can be distributed across the sections rather than concentrated in Section 2. Show the machine operating (Section 1: the school), then show the land it operates on (Section 3: the numbered treaties), then introduce Scott's administrative logic as an explanation for the pattern that the reader has already witnessed. The analysis arrives after the evidence, not before.
+
+**On the Chinese railway workers:** The notes flag this as an open question. I would incorporate it briefly in Section 4 rather than as a separate section — the CPR's completion as a moment where the costs of the National Policy are visible in multiple registers simultaneously: the treaties violated, the Chinese labor exploited, the Métis rebellion suppressed, all in 1885. The year 1885 is the structural hinge of the chapter.
+
+The terminal condition (embodied-transmission vulnerability) is analytically precise. The oral tradition's survival is the counter-mechanism that the chapter must make visible. The chapter should not merely document the system's horror; it should document the system's partial failure.

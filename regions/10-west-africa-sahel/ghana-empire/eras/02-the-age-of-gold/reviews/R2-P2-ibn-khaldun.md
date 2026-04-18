@@ -1,20 +1,17 @@
-# R2-P2 — Ibn Khaldun — Review of Notes
+# Panel Review — R2-P2 — Ibn Khaldun (PANEL-2, Notes Review)
 
-**Chapter:** Ghana Empire / Era 2: The Age of Gold
-**Round:** 2 (focused)
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (notes.md)
+**Voice:** Ibn Khaldun — Historical systems, patterns, causation, cycles
+**Stage:** PANEL-2
 
-## Assessment
+---
 
-The section plan identifies the correct structural engine: "the dual-city balance as a self-reinforcing system that both sustains itself and carries the seed of its own instability." This is a genuine causal mechanism, not just a description. The three-phase arc (emerges, matures, peaks and strains) maps the c. 700-1000 period onto a structural trajectory that moves beyond chronology.
+The structural engine is correctly identified. The intermediary-economics machine — Ghana controlling neither the gold nor the salt but the crossing where both must meet — is the right frame. And the terminal condition is also correct: the legitimacy gap that emerges when one side of the balance grows heavier than the other. This is asabiyyah operating in a commercial rather than tribal frame: the shared group feeling that sustained the dual-city arrangement was specific to the covenant system, and as the covenant's constituency eroded, the asabiyyah that held the network together eroded with it.
 
-## Remaining Concerns
+**Pressure points:**
 
-**The asabiyyah question remains unanswered.** What held the Soninke elite together? The notes describe the sacred kingship and the covenant, but these are manifestations of solidarity, not its source. The Soninke maintained their imperial position for roughly seven centuries. What was the social structure that sustained this? Lineage allegiance? Client-patron networks among Soninke clans? The relationship between the royal clan and the tributary communities? The chapter needs at least one section that shows the social fabric beneath the ceremony. Ceremony is the display of solidarity; the chapter must show what the solidarity was made of.
+1. The notes correctly identify that the building phase (Section II) must plant what the peak phase (Section V) pays off. Execution check: the Section II notes ask for the Wangara's policy of goldfield secrecy and the Sanhaja desert knowledge to be presented as deliberate decisions, not as natural conditions. This is right. Both were choices. The system worked because multiple parties chose to let it work. That chosen quality is what makes the terminal condition tragic: the same choices, reversed, undo what they built.
 
-**The economy beyond gold and salt needs more than a gesture.** The notes promise to address this ("iron, cotton, enslaved people, cattle") in response to my Round 1 critique. But the section plan does not assign this material a clear home. It appears to be folded into Section II (The Gold Road), which is already committed to following the gold-salt exchange. The broader commercial ecology may need its own passage within Section IV or V, where the system's full complexity becomes visible. A kingdom that controlled only gold and salt would be fragile. A kingdom that also taxed iron, cotton, grain, and the movement of enslaved people had a diversified revenue base, and that diversification is part of the structural explanation for its longevity.
+2. The "legitimacy gap of a second kind" framing is analytically strong but must be rendered through the Soninke framework, not labeled as a "legitimacy gap." The chapter should show the Ghana holding the covenant while his counselors attend Friday prayers — and make the reader understand, from inside the Soninke framework, why this matters. Not because there was religious conflict, but because the covenant required a specific kind of person (the Ghana, maintaining the traditional rites) to be the hinge. Remove the hinge and the door does not work.
 
-**The Berber intermediaries are not yet visible as actors.** The Tuareg and Sanhaja Berbers who managed the Saharan crossing were not passive conduits. They were autonomous powers who negotiated their own terms with both the Ghana and the North African terminus cities. The Almoravid movement that will destabilize Ghana in Era 3 emerges from these same Sanhaja communities. The chapter should show the Berber intermediaries as a third force in the system, not just as "the people who cross the desert."
-
-## Verdict
-
-The structural logic is sound. The arc is real. The weaknesses are in the layer below: the social fabric of Soninke solidarity, the full commercial ecology, and the Berber intermediaries as actors rather than infrastructure. If the chapter addresses these, it will have genuine explanatory depth.
+3. The notes mention the Almoravid pressure as context for the terminal condition but correctly defer it to Era 3. The chapter should feel the pressure as a force forming at the system's edge without narrating its consequences. A sentence or two that makes the reader feel what is building in the western Sahara is sufficient.

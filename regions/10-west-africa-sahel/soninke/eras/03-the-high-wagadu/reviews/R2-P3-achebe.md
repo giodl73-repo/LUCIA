@@ -1,17 +1,14 @@
-# R2-P3 — Chinua Achebe — Targeted Review of Notes
+# Panel Review R2 — P-3 Chinua Achebe (Targeted)
+## The High Wagadu — Notes Review
 
-**Chapter:** Soninke / Era 3: The High Wagadu
-**Round:** 2 (Notes review)
-**Date:** 2026-04-16
+**Focus:** Cultural voice and figure interiority
 
 ---
 
-The notes take my concerns seriously. The plan to remove "This was not myth told to children" and "genius" is correct. The plan to find the inside voice for the intermediary economics is correct.
+The notes handle the four figures with appropriate honesty about what we know and what we do not. The unnamed girl is kept exactly as the Dausi keeps her — named by her walk, not her name. Tunka Manin is held at Al-Bakri depth without invented interiority. Siya Yatabere is placed inside his tradition, not outside it. The caravan master is disclosed as composite. This is the right methodology, and it will produce figures at the 8+ range if the chapter executes at the level of the notes' intention.
 
-**One structural concern I want to name before the chapter is written:**
+The key figure challenge is Tunka Manin. The notes say he must be "a king as the Soninke understand kingship." This is right. The evidence for this rendering is in the court forms themselves — the gold on the dogs and the harness is not luxury, it is state language; the audience forms are not ceremony, they are the covenant made social; the matrilineal succession is not a curiosity, it is a political philosophy about the reliability of blood. The chapter must treat each of these details as a window into the Soninke theory of kingship, not as a list of exotic customs from Al-Bakri.
 
-Al-Bakri is the primary written source, and Al-Bakri never visited Wagadu. He wrote from Cordoba, from informants. The chapter must use his account without letting his perspective become the chapter's perspective. Al-Bakri was an outsider. His informants were outsiders (merchants, travelers). Their observations are valuable evidence, but they see what outsiders see: the externals of the court, the quantities of gold, the numbers of warriors. They do not see the covenant logic. They do not understand why the drum sounds or what the prostration means from inside.
+One note on Siya Yatabere: the production bible calls him "a tragedy" but the Dausi's own framing may be more complex than this. In some versions, the Dausi does not clearly blame him — it presents his act as comprehensible, as the kind of thing love does, and the consequences as structural rather than punitive. The chapter should let the Dausi's own ambiguity stand. He broke the covenant. The covenant required his loss. Whether this was wrong is not the chapter's question to answer.
 
-The chapter must use Al-Bakri for the physical details he provides (and they are rich), while ensuring that the interpretive framework remains Soninke. Do not let the chapter become Al-Bakri's account with Soninke commentary added. It must be the Soninke story with Al-Bakri's evidence woven in. The difference is who owns the narrative.
-
-**The virgin in the revised opening:** The notes say "acknowledged as archetypal/unnamed." Good. But the acknowledgment needs the culture's own emotional logic. In the Soninke understanding, the sacrifice sustained the world. The family who gave their daughter sustained the world. This was not tragedy as an outsider would frame it. It was the highest form of participation in the covenant. The chapter does not need to resolve the tension between modern readers' discomfort and the culture's own logic. It needs to present the culture's logic fully and let the tension exist.
+The chapter is ready to write. The voice and figure plan is sound.

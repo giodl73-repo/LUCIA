@@ -1,35 +1,28 @@
-# CLEAN-E3 — Compression Editor — The High Wagadu
+# CLEAN — E-3 Compression Editor
+## The High Wagadu
 
-**Date:** 2026-04-16
+**Lens:** Re-explanation, filler, scenes followed by explanation, redundancies between sections.
 
-## Re-Explanation
+---
 
-1. **Line 73:** "What the tradition calls the breaking of the covenant, the external evidence describes as the disruption of the conditions that made intermediary power possible." — This sentence explains what the preceding two paragraphs already showed (the Siya Yatabere story = covenant breaking; the Almoravid disruption = conditions disrupted). The reader has already made this connection. **Severity: P1.** Recommend cut.
+**Re-explanation scan:**
 
-## Earned-Emotion Violations
+Section I ends: "The covenant was not separate from the economics. It was the economics, made sacred, made durable, made into something worth paying for." This is the opening's thesis stated explicitly. The chapter does not re-explain this in Section II — it demonstrates it through the caravan master's embodied experience. The thesis does not appear again as a statement. CLEAR.
 
-None found. The chapter trusts the reader throughout. The Bida sacrifice, the burial practice, and Wagadu's dissolution are all presented without emotional stage directions.
+Section III ends with: "The road between the two towns was the state's architecture. It was also the state's theory: two systems of legitimacy, each complete, each requiring the other, separated by exactly enough space that neither could absorb the other." This is strong. It is the first time this analysis appears in this form — not a re-explanation but a sharpening. CLEAR.
 
-## Throat-Clearing
+Section IV's king burial paragraph: "This was not cruelty in the Soninke understanding of what a king was and what a king owed." This sentence is the only moment where the chapter preemptively addresses the reader's potential outside-lens reaction. It is brief and serves the Achebe Test. RETAIN.
 
-None found. Each section opens with a scene or a specific claim, not with context-setting preamble.
+**Filler scan:** None found. Each section advances the arc. Section II (the system at method level) is the chapter's most expansive section at approximately 900 words; none of it is filler — the sensory inventory of the market is doing analytical work throughout.
 
-## Repetition
+**Scene-followed-by-explanation scan:**
 
-1. **Lines 27 and 55:** The twin-city logic is explained twice: first in Section II ("Each order needed the other. Neither could absorb the other without destroying what made it function.") and again in Section IV ("The same logic that placed two towns six miles apart placed two systems of understanding side by side in the king's own court"). The second instance applies the logic to the person of the king (a new application), so it is not pure repetition, but it echoes the same structural insight. **Severity: P3.** Author decides. The second formulation adds something (the logic enacted in a person), but the core insight is restated.
+Section I: The girl's walk is followed by the political theology passage ("The girl who walks to the well is not a victim..."). This is the one place where the chapter moves toward explanation after a scene. However, the explanation is inside-voice — it is the Soninke understanding as the Dausi carries it, not the author's analysis of the scene. The line between inside-voice interpretation and outside-voice explanation is fine here. Judgment: RETAIN, because the passage is phrased as the Dausi's own frame, not as the author stepping outside it.
 
-2. **Lines 13 and 15:** The transitional zone is described in the paragraph starting "The Sahel gave them this position" (line 15) after the covenant has already established that the Soninke "sat in the dry country where the Sahara's edge met the savanna" (line 11). The ecology section adds substantial new detail (rain measurements, seasonal patterns, specific vegetation) so this is expansion, not repetition. **Severity: P3.** Acceptable.
+**Redundancy check:**
 
-## Restating Transitions
+The twin-city structure is described in Section I (briefly), Section II (the caravan master's route between them), and Section III (the road on market day). Three appearances, each at a different level of detail and each serving a different function: covenant-as-structure (I), logistics-as-experience (II), market-day-as-architecture (III). Not redundant — they build correctly.
 
-None found. The chapter moves between sections without "Having established X, we now turn to Y" constructions.
+The gold's two forms (nuggets/dust) appear in Section II (the caravan master's knowledge of what he cannot buy) and Section IV (Tunka Manin's governance of the reserve). Two appearances, different registers (commercial and political). Not redundant.
 
-## Word Count
-
-4,542 words. Within the 4,500-5,500 range. No padding detected. If anything, the chapter runs lean for its scope.
-
-## Summary
-
-- **P1 findings:** 1 (line 73, re-explanation of covenant/Almoravid parallel)
-- **P2 findings:** 0
-- **P3 findings:** 2 (twin-city logic repetition, ecology re-introduction)
+**Verdict:** No revisions from compression audit. Chapter is clean.

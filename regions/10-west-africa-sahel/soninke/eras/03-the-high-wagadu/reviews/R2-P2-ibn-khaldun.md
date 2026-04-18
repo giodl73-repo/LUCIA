@@ -1,17 +1,14 @@
-# R2-P2 — Ibn Khaldun — Targeted Review of Notes
+# Panel Review R2 — P-2 Ibn Khaldun (Targeted)
+## The High Wagadu — Notes Review
 
-**Chapter:** Soninke / Era 3: The High Wagadu
-**Round:** 2 (Notes review)
-**Date:** 2026-04-16
+**Focus:** Structural engine precision and terminal condition
 
 ---
 
-The production bible addresses my central concern. The "Mechanics of the Crossing" section will ground the intermediary economics in specific policy instruments: taxation rates, gold monopoly, military capacity. The four-Wagadu cycle has its own section. The structural engine is correctly identified.
+The production bible names the engine correctly and with more precision than the original chapter achieved. The two-form gold distinction as "restraint at the top enabling flow throughout" is exactly the kind of mechanism description that produces strong Progression scores. It is not just a description of a policy; it is a description of a theory of value. That is the level of depth the chapter needs to sustain.
 
-**Remaining concerns:**
+The compound terminal condition — ecological constraint plus premise non-recognition — is well-chosen and correctly framed. The key is to render the premise non-recognition at the moment it happens, not after its consequences. What did the Sanhaja caravan master think the morning he understood that his new Almoravid identity superseded his commercial relationship with the Soninke crossing? He no longer owed taxes to a covenant he did not share. The chapter needs this specific internal moment, even if it is rendered through a composite figure rather than a named individual.
 
-1. **The Almoravid question.** Conrad & Fisher's "Conquest That Never Was" (1983) argues that the Almoravid impact was not a military conquest but a gradual disruption. This is important. If the chapter presents 1076 as a single decisive fall, it contradicts the best recent scholarship. The Soninke's own tradition frames it as covenant rupture (Bida killed), not military defeat. The chapter should honor the Soninke interpretation AND acknowledge the scholarly debate. The two need not conflict: the Soninke's own explanation (covenant broken) may describe the same structural disruption that the scholars describe (trade route realignment, Almoravid pressure), seen from inside.
+One structural recommendation: the section plan has five strong sections and a landing. The risk is that Section V (Siya Yatabere) does double duty — Dausi narrative AND Conrad & Fisher revisionism — which may strain the section. Consider whether the Almoravid analysis should arrive in VI rather than V, allowing V to be purely the Dausi's own account of the terminal condition and VI to be the historical layer that illuminates the same event from outside. Two lenses on the same collapse, in sequence, can be more powerful than two lenses intercut.
 
-2. **The succession mechanism.** Matrilineal succession (nephew inherits from uncle, through the sister's line) is a structural feature with consequences. It distributes power across lineages rather than concentrating it in one line. It means the queen mother's brother is always a potential threat or ally. This has implications for the stability of the state. The notes mention it in the Tunka Manin section but do not develop it as a structural feature. It should be.
-
-3. **The silent trade's historiographic status.** Multiple Arabic sources report it, but some scholars question whether it occurred as described. Lovejoy and others have argued it may be a literary trope rather than an observed practice. If the chapter includes it, it should acknowledge the debate rather than presenting it as settled fact. Honest uncertainty.
+The engine's forward momentum is in place. The terminal condition is precisely named. The chapter is ready to write.

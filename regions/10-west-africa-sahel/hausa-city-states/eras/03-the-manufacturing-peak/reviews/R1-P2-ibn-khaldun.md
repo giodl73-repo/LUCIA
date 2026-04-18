@@ -1,27 +1,16 @@
-# R1-P2 — Ibn Khaldun — Review of "The Manufacturing Peak" Opening
+# Panel-1 Review — Ibn Khaldun
+## Hausa Era 3: The Manufacturing Peak (Rewrite v2)
 
-## Structural Assessment
+**Voice:** Historical systems — patterns, causation, cycles
 
-The opening identifies the correct subject: the city-state as manufacturing engine. But it describes the engine. It does not explain it. And explanation — the WHY — is what separates chronicle from history.
+The shift from the dyer (production) to the merchant (assessment) is analytically correct. The merchant's judgment is where the competition's value is tested. When Ibrahim refuses full price, the reader understands in one transaction what the original chapter explained in paragraphs: the guild system creates a reputation market, and the reputation market drives quality, and the quality drives the price differential that the Hausa cities live on. This is the engine, shown rather than described.
 
-## What Works
+The full chapter must now answer: WHY this period? The opening implies the system is mature. The chapter must establish what made 1500-1700 the peak, not merely the steady state. The fall of Songhai in 1591 redirected Saharan trade eastward through Hausa territory — this is the inflection point that transforms a productive system into a dominant one. The chapter should show this hinge.
 
-**The guild-sarki-taxation chain.** "The guilds answered to the sarki, and the sarki taxed their output, and the revenue from the cloth trade funded the walls and the cavalry and the scholars and the court." This is a causal chain, not a description. It shows how production funded the state. More of this.
+The self-consuming logic is present in the opening only as implication (the walls, the routes). The chapter must make it explicit without editorializing: the same competition that drove manufacturing quality also drove the extraction from the south, and the extraction created the moral vocabulary — already present in the Maliki legal tradition — that the Fulani critique would later deploy. The vulnerability lives inside the strength.
 
-**"A manufacturing city whose finished goods traveled farther than any army the sarki could field."** This is the chapter's thesis in a sentence. The city's productive power exceeds its military reach. This is the structural reality that should drive the entire chapter.
+**On the engine mechanism:** Competitive specialization is the right engine. But the chapter must show how the specialization was not planned — it was competed into existence. The section on the Seven Rivals must be a demonstration of competitive logic, not a catalog of city functions. Kano vs. Katsina is an interesting rivalry because both are productive but in different registers: Kano produces the goods, Katsina provides the legal infrastructure that makes the goods tradeable. Remove either and the system degrades. Show the mutual dependence as the system's genius and its vulnerability simultaneously.
 
-**The connection between Amina's campaigns and the urban economy.** "The southern routes fed the city." This is correct and important — military expansion as economic necessity. But it is stated in one paragraph. It should be the chapter's central mechanism.
+**On the terminal condition:** The Fulani critique as terminal condition is correct. But the chapter must be precise about the mechanism: the critique is not external to the system. It is internal. The same Maliki legal tradition that provides the commercial law also provides the standard against which the Bori accommodation is found wanting. The critique uses the system's own texts against the system's own practice. This is not invasion; it is implosion.
 
-## What Is Missing
-
-**The structural engine.** Why did the Hausa cities develop manufacturing rather than trade intermediation? The Mali Empire and the Songhai Empire taxed trade routes. The Hausa cities made things. Why? What conditions produced this difference? Was it the absence of a single imperial authority — the competitive city-state system forcing each city to develop its own productive base because it could not rely on controlling trade routes another city might divert? This is the question the chapter must answer, and the opening does not yet plant it.
-
-**The competitive logic as mechanism.** The opening says "the competition between the Hausa cities was not only a competition of armies. It was a competition of production." Good. But competition between WHAT exactly? Kano's cloth versus Katsina's scholarship versus Zazzau's military expansion — each city developing a specialism because the city-state system punished sameness and rewarded differentiation. This is the engine. The opening gestures at it but does not make it structural.
-
-**The vulnerability.** Every system that produces wealth also produces the conditions of its own disruption. What is the vulnerability of a manufacturing city-state? Dependence on raw materials from outside the walls (cotton, indigo, enslaved labor from the south). Dependence on trade routes it does not control (the Tuareg-managed Saharan routes). The sarki's need to balance guild autonomy against state revenue extraction. The religious tension between the Islamic court and the Bori practitioners who ran much of the domestic economy. The opening should make at least one of these tensions visible.
-
-**Why this moment?** The opening covers the sixteenth and seventeenth centuries without establishing what made this specific period the peak rather than any other. What changed circa 1500 that intensified production? Was it the fall of Songhai after the Moroccan invasion (1591), which redirected trade routes through Hausa territory? Was it population growth? Was it Rumfa's market reforms? The chapter needs a causal anchor for its periodization.
-
-## The Question I'd Push On
-
-What is the structural engine of this chapter? The dye pits are vivid, but vivid is not analytical. I need to understand: what mechanism drove the Hausa city-states to their manufacturing peak, and what mechanism would eventually undo it? Competition between cities is the obvious candidate, but competition is a description, not an explanation. WHY did competition produce manufacturing rather than warfare alone? And what did the system consume in order to produce what it produced? The enslaved people in the eighth paragraph are the beginning of an answer — the system ran on human extraction from the south. That is a structural fact with consequences. Follow it.
+**The question I would push on:** What specific event between 1500 and 1700 shows the system at maximum tension? A moment when the competition produced something that could not have been produced any other way — or failed to produce something the system needed.

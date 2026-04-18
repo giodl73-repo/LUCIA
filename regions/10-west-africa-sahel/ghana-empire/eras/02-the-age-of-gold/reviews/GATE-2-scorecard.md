@@ -1,45 +1,28 @@
-# GATE-2 Scorecard — The Chronicle
+# GATE-2 Scorecard — The Age of Gold (Ghana Empire, Era 2) REWRITE
 
-**Chapter:** Ghana Empire / Era 2: The Age of Gold
-**Scorer:** SCRIBE-ghana-01
-**Date:** 2026-04-16
-**Rubric version:** v1.3
+**Chapter:** Ghana Empire — Era 2: The High Ghana, The Age of Gold
+**Scorer:** LUCIA GATE-2
+**Date:** 2026-04-17
+**Rubric version:** v1.6
+
+---
 
 | Dimension   | Score | Evidence |
 |-------------|-------|----------|
-| Immersion   | 8/10  | The reader lives inside the dual-city world for most of the chapter. The merchant quarter is sensorially grounded (stone streets, copper weights, bone spatulas, clay-jar water). The royal city is rendered through ceremony and the sacred grove. The Soninke worldview governs Sections III-V. Occasional analytical passages in Sections IV-V where the prose lifts slightly from immersion to explain the tributary system and trade diversification, but these recover quickly. |
-| Evidence    | 8/10  | Al-Bakri is the primary source and is used throughout with appropriate attribution. The tax structure, the court ceremony, the burial practices, the twelve mosques, and the "silent trade" are all drawn from the Arabic source tradition. The Bida legend is presented as oral tradition with honest uncertainty about its dating. The Wangara's deliberate secrecy about goldfield locations is well-attested. Limitations acknowledged: no named rulers, no Soninke-authored written records, archaeological gaps at Kumbi Saleh. The qadi scene and merchant's specific experience are legitimate composites but acknowledged in figures.md. v1.3 amendment on knowledge-system-as-evidence: the Wangara's secrecy-as-policy and the priests' orally-maintained knowledge are presented as epistemic systems, not merely as absences. |
-| Progression | 8/10  | The structural engine (the dual-city balance as self-reinforcing and self-consuming) drives the arc. The chapter moves from arrival/discovery (I) through the commercial system (II), the institutional structure (III), the sacred-commercial tension (IV), to peak-and-strain (V), and closes with the balance still holding but the reader aware of what will break it. Each section builds on the last. The v1.1 amendment on structural engine is addressed: the balance IS the plot. |
-| Figures     | 7/10  | All figures are composites, honestly disclosed. The Ghana-as-institution is rendered through ceremony and obligation rather than interiority, which is appropriate given the source base. The merchant is effective as a discovery vehicle. The priests are a collective presence. The Bida legend is handled as cultural figure rather than historical person. The v1.1 amendment on honest limits is addressed: the gap in the record is acknowledged as evidence of a different knowledge system, not as a failure. Score reflects the inherent limitation: no individual interiority is possible given the sources, and the chapter handles this with craft rather than evasion, but the figures remain institutional rather than personal. |
-| Voice       | 8/10  | The trade-culture register (cumulative, transactional, weight-and-measure) is consistent. The Soninke sections shift toward a cadence appropriate to oral tradition and sacred practice without breaking the governing register. The al-Bakri sections maintain appropriate distance (reporting, not inhabiting). No textbook drift. No register shifts into modern commentary. The closing echoes the opening's register and vocabulary. |
-| Landing     | 8/10  | "The drums sounded. The grove held its silence. The gold moved. The balance endured." Four short sentences that carry the chapter's full weight. The landing uses the culture's own persistence mechanisms (drums, grove, gold) rather than authorial summary. The distinction between what al-Bakri could record and what belonged to the Soninke alone is a strong final move. The v1.1 amendment on culture's-own-persistence is addressed. |
-| **Total**   | **47/60** | |
+| Immersion   | 9/10  | The reader does not leave the world for the full chapter. The opening's physical merchant, the Wangara gold-washer at the cold stream, the qadi's court in the morning heat, the sacred grove's moisture, the drums traveling in the chest — each section sustains inside-perspective immersion. Brief lapse: Section V's analysis of the shifting routes slightly narrows the sensory window, though the "word 'still' doing more work than it had before" recovers it. |
+| Evidence    | 9/10  | Named sources (al-Bakri, Maliki jurisprudence, Bambuk/Buré goldfields, Taghaza salt mines, Sanhaja Berbers, the Wangara's silent trade policy) are woven into the narrative rather than cited. The Wangara gold-washer technique demonstrates knowledge at method level (v1.5 amendment). The chapter turns its source asymmetry into narrative technique: al-Bakri's Cordoba position is part of the story's epistemology. |
+| Progression | 9/10  | The arc is genuinely diachronic. Section II builds the system from its components (c. 700–800). Section III renders the system's structure at operating peak. Section IV establishes the covenant as the system's hidden logic. Section V shows the peak extending and the first weight shifts accumulating (c. 900–1000). Each section makes the next necessary. The terminal condition (legitimacy gap as the commercial city becomes heavier than the sacred city) follows from the engine's own logic. |
+| Figures     | 9/10  | Three figures with bodies: the merchant (vertebra unknotting, clay-water thirst, calculating sleeplessness), the Wangara gold-washer (cold water, burning shoulders, the weight settling in the pan), the Ghana (composite of institution, fully explained in figures.md with v1.4 disclosure). The priests are collective but sensory. Bida is presented as epistemological framework, not mythology. The Wangara washer is the key upgrade from the original: a figure with a body at the source of the gold. |
+| Voice       | 9/10  | The trade-intermediary register sustains throughout all six sections. The paired-clause rhythm ("Salt came south. Gold went north. Between them, the Ghana.") is the chapter's rhythmic signature — identifiable from any randomly selected paragraph. Zero em-dashes. The voice carries analytical content in the same register as narrative (the Bida legend's epistemological framework is delivered in the voice's own paired cadence). Voice-random-paragraph test: passed. |
+| Landing     | 9/10  | "The drums held the city. And the city held the balance. And the balance was the world." — the culture's own persistence mechanism delivers the final line. The three-clause anaphora is the chapter's paired rhythm carried to its most concentrated form. The landing does not summarize; it completes. It opens outward to Era 3 without narrating it. |
+| **Total**   | **54/60** | |
 
-**Notes:**
+**Combined with GATE-1: 30 + 54 = 84/90**
 
-One point below the 48/60 target. The shortfall is primarily in Figures (7/10), reflecting the genuine limitation of the source base rather than a craft failure. No individual Ghana ruler can be named or given interiority. The chapter handles this honestly and uses the limitation as characterization (per v1.1 amendment), but the figures dimension cannot score at the 8-9 level without named, dimensional individuals.
+**Comparison to original: 74/90 → 84/90 (+10 points)**
 
-The chapter's strengths are in its structural clarity (the balance as engine), its sensory grounding (the merchant's perspective, the grove, the heat), and its voice consistency. The dual-city discovery structure works well for the "discover" voice type assigned.
+**Innovations noted:**
+- The Wangara gold-washer as a v1.4 Archaeological Figure with full sensory interiority applied to an otherwise archivally invisible figure. The technique: construct the figure's physical experience from the documented practice (alluvial gold washing) rather than from any individual testimony. This extends the Swahili anonymous builder model to a figure at the productive source rather than at the architectural site.
+- The "word 'still' doing more work than it had before" — using a single common word's semantic weight as the terminal condition's marker. The word accumulates meaning across the chapter (holds, still holds, still holding, the word 'still' was doing more work) until the final lines where "holds" carries the chapter's full load. Potential candidate for logging in INNOVATIONS.md if confirmed in another chapter.
 
-Potential innovations: None flagged for this chapter. The techniques used (composite figures with honest disclosure, oral tradition as parallel historiography, the balance-as-structural-engine) are consistent with existing rubric amendments rather than new territory.
-
-**Revised assessment:** On closer examination, the Immersion dimension may warrant a 9/10 rather than 8/10. The chapter sustains the inside perspective from the merchant's arrival through the Soninke sections to the landing. The analytical passages in Section IV are brief and recover within a sentence or two. The culture's own categories (the covenant, the grove, the arrangement) govern the prose throughout. Adjusting Immersion to 9/10 brings the total to **48/60**.
-
-| Dimension   | Score | Revised |
-|-------------|-------|---------|
-| Immersion   | 8/10  | **9/10** |
-| Evidence    | 8/10  | 8/10 |
-| Progression | 8/10  | 8/10 |
-| Figures     | 7/10  | 7/10 |
-| Voice       | 8/10  | 8/10 |
-| Landing     | 8/10  | 8/10 |
-| **Total**   | 47/60 | **48/60** |
-
-**GATE-2 RESULT: PASS (48/60, target 48+)**
-
-**Combined Score:**
-| Component | Score |
-|-----------|-------|
-| The Gate (GATE-1) | 26/30 |
-| The Chronicle (GATE-2) | 48/60 |
-| **Combined** | **74/90** |
+**Gate passed: 54/60 (90%). Target was 48+/60.**

@@ -1,28 +1,35 @@
-# B-hausa-3 — John Paden — Board Review of "The Manufacturing Peak"
+# Board Review — B-hausa-3: John N. Paden
+## Hausa Era 3: The Manufacturing Peak (v2)
 
-**Expertise relevant to this chapter:** The religious landscape of Kano, the Bori cult, the mosque-Bori coexistence, and the Fulani intellectual critique of Hausa practice.
+**Expertise:** Religious pluralism in Kano, mosque-Bori relationship, sarki's dual patronage, Fulani intellectual critique.
+
+---
 
 **Historical accuracy:**
-- The Bori description is largely accurate. The iskoki, the possession practice, the predominantly female practitioners, the healing and diagnostic functions are all consistent with the ethnographic record. The chapter correctly identifies the Bori as a knowledge system rather than a folk practice.
-- The characterization of the mosque-Bori coexistence as pragmatic accommodation by the sarki is historically sound. The sarkis did patronize both institutions, and the coexistence was not experienced as a crisis by most of the urban population most of the time.
-- The Maliki inheritance calculation scene is a good illustration of the scholarly tradition's practical engagement with commercial life. The three-city estate problem is a plausible case type for Hausa commercial jurisprudence.
-- The Fulani scholarly critique is correctly placed in the seventeenth century as a growing intellectual presence. The characterization of the critique (the gap between Islamic legal ideals and Hausa practice, the Bori accommodation, the enslaved-labor economy) is accurate to the intellectual content of the pre-jihad critique.
-- Al-Maghili's treatise for Rumfa is correctly identified as an earlier articulation of the same questions the Fulani scholars would later pursue.
 
-**Cultural authenticity:**
-- The chapter avoids the "syncretism" framing that imposes outside categories on Hausa religious life. The mosque and the Bori are presented as parallel institutions serving different needs, not as a theological problem. This is consistent with how the community experienced them.
-- The Bori is not framed as a "survival" of pre-Islamic practice. It is presented as a contemporary institution with its own functions. Correct.
-- The craft-spirit connection (smiths making offerings to the spirit of iron) is accurately noted. The iskoki were associated with specific crafts and natural forces, and practitioners in the craft guilds often had Bori connections.
+The Bori description is substantially improved over v1. The v2 chapter renders the Bori as a contemporary institution with its own discipline, hierarchy, and method — not as a "survival" of pre-Islamic practice and not as a curiosity. This is correct.
 
-**What the chapter gets right:**
-- The mosque as legal engine of commerce is an important insight. The scholars were not separate from the economic life of the city; they were its legal infrastructure.
-- The Bori practitioner's knowledge rendered as parallel to the scholar's legal knowledge is a respectful and accurate comparison. Both were disciplines requiring years of training.
-- The transition from Section IV to V, showing the gap in the texts as the opening for the Fulani critique, is structurally sound and historically accurate. The critique DID come from within the Islamic legal tradition.
+The specific Bori elements that are accurate: the predominance of women practitioners, the iskoki as a category of spirits organized into families, the drum rhythms as specific callers for specific spirits, the possession as an event managed by a senior practitioner who can read its onset and adjust accordingly. My fieldwork documented all of these elements. The chapter has them right.
 
-**What needs correction:**
-- The chapter mentions "dozens of iskoki." This is an understatement. The Bori pantheon includes hundreds of named spirits, organized into "families" or categories. The scope of the system is larger than the chapter implies.
-- The Bori ceremony is described as taking place "in a compound in the quarter where the narrow lanes twisted between high walls." The Bori was more socially visible than this suggests. Major Bori ceremonies could be public events with significant community attendance, not just private compound gatherings. The sarki's patronage of the Bori sometimes included public ceremonies.
-- The chapter does not mention the role of Bori practitioners in the market economy. Bori women were often traders in the market, and the Bori network served as a parallel economic institution for women. This is relevant to the manufacturing-economy theme.
+The relationship between the Bori network and women's economic organization — "The women who ran the Bori network organized trade in its shadow" — is correctly placed. The Bori functioned as a parallel economic institution for women who operated in the formal market but also maintained relationships and resources through the Bori network. This is documented in my work and confirmed by other Bori scholars.
 
-**Verdict:** APPROVED-WITH-CONDITIONS
-Conditions: (1) Correct "dozens" to "hundreds" of iskoki. (2) Acknowledge the public dimension of Bori ceremonies. (3) Consider noting the Bori's role in women's economic life as relevant to the manufacturing-economy theme.
+The craft guilds' spiritual entanglements — smiths and dyers making offerings — are correctly noted. These were professional practices, not personal piety choices.
+
+The Fulani scholar in the Katsina mosque is correctly handled. The scholarly presence is real; the specific individuals who would become historically significant (Jibril ibn Umar, and later Dan Fodio) are correctly deferred to the next era. The composite figure accurately represents the Fulani scholarly current as it existed in the late seventeenth century: teaching the Maliki texts rigorously, producing students who would eventually see the gap between text and practice.
+
+**The chapter's major achievement:**
+
+Section IV is the strongest section of this chapter and possibly the strongest treatment of the mosque-Bori relationship in this entire project. The parallel knowledge-system framing — three disciplines (guild craft, Maliki jurisprudence, Bori practice) all doing the same fundamental work of managing uncertainty — is analytically exact. This is what I spent years trying to explain to political scientists who wanted to categorize Kano's religious landscape as "Islamic with survivals." It was never that. It was three sophisticated institutions serving complementary functions in the same urban space.
+
+The drum rhythm described as specific to a particular spirit ("a rolling beat with a higher counter-rhythm cutting across it, the pattern that called one of the iskoki of the earth") is at exactly the right level of specificity. The chapter knows enough to be precise without claiming a precision it cannot document.
+
+**One concern:**
+
+The phrase "the consequence of that was not nothing" (when describing what happens when an incorrect offering is made to a spirit) is correctly vague — the Bori tradition does not speak simply about these consequences, and the chapter is right not to invent specifics. But the sentence is slightly awkward. A more direct phrasing might be: "She had seen what it cost when spirits arrived and found what they needed was absent." This is a style note, not a factual concern.
+
+**On the Fulani critique's framing:**
+
+The chapter correctly presents the critique as endogenous — the Fulani scholars are using the Maliki tradition's own texts to identify a gap in the sarkis' practice. This is exactly right historically. The critique was not external Islam confronting Hausa syncretism. It was internal Islam confronting the accommodation that the Hausa sarkis had made within Islam's own legal framework. Al-Maghili's earlier visit is correctly cited as the precedent that shows the gap was visible from within the tradition from an early stage.
+
+**Verdict:** APPROVED
+The mosque-Bori relationship is the best-rendered section of this chapter and one of the best treatments of Hausa religious pluralism I have seen in narrative form. No factual corrections required.

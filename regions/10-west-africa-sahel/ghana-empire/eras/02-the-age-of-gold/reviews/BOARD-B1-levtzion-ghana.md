@@ -1,38 +1,37 @@
-# B-ghana-1 — Levtzion — Board Review of The Age of Gold
+# Board Review — B-1 — Levtzion (Historical Accuracy)
 
-**Expertise relevant to this chapter:** Political and economic history of the Ghana Empire; the Arabic source tradition (al-Bakri, Ibn Hawqal, Ibn Khaldun); trans-Saharan trade networks and gold economics.
+**Chapter:** Ghana Empire — Era 2: The Age of Gold (REWRITE)
+**Reviewer:** Modeled on Nehemia Levtzion — Political and economic history of the Ghana Empire, Arabic source tradition
+**Date:** 2026-04-17
 
-## Historical Accuracy
+---
 
-**Correct:**
-- The tax structure (one gold dinar per donkey-load of salt entering, two leaving) is consistent with al-Bakri's account.
-- The gold nugget/dust distinction (nuggets reserved for the king, dust for traders) is al-Bakri.
-- The court ceremony (high cap, gold ornaments, ten horses, ten pages, dogs with gold/silver collars, drum from hollowed wood, prostration with dust-throwing, Muslims clapping instead) is faithfully rendered from al-Bakri.
-- The twelve mosques in the merchant quarter is al-Bakri.
-- The burial practice (tumulus, servants sealed inside, offerings renewed) is al-Bakri.
-- The dual-city structure (merchant town and royal town, approximately one mile apart) is al-Bakri.
+## Historical Accuracy Assessment
 
-**Needs nuance:**
-- The chapter states "every donkey-load of salt entering the city paid one golden dinar; every load leaving paid two." Al-Bakri actually describes the tax on salt specifically and a separate tax on general merchandise (copper, other goods). The chapter simplifies by focusing only on salt. This is acceptable for narrative but should be noted: the tax system was more complex than the chapter's streamlined version suggests.
-- The chronological range "c. 700-1000 CE" for the Age of Gold is a reasonable periodization but should be understood as a scholarly convention. The Arabic sources that describe the Ghana court date from the tenth and eleventh centuries. Projecting these descriptions back to 700 CE involves inference about continuity of practice. The chapter handles this appropriately by noting al-Bakri's date (1068 CE) and by framing the system as having been "building for generations."
-- The chapter mentions "the predecessor settlements of Timbuktu and Djenne" in Section V. Djenne-Jeno, the archaeological predecessor to Djenne, was indeed occupied during this period. Timbuktu's founding is traditionally dated to the eleventh or twelfth century, so calling it a "predecessor settlement" in the 700-1000 context is acceptable if understood as the region of the Niger bend rather than the specific city.
+**Al-Bakri's account:** The chapter handles al-Bakri correctly. The Cordoba positioning is explicit in the text ("He never crossed the sand himself. He wrote from reports, merchant to merchant, generation to generation"), which is the single most important accuracy note for any chapter using al-Bakri: his is a second-hand account compiled from merchant testimony. The chapter does not overextrapolate from it.
 
-**Questionable:**
-- The "silent trade" passage correctly notes the scholarly debate about whether this practice was real or a literary convention. However, it attributes the "silent trade" to al-Bakri specifically. In fact, the "silent trade" account is more closely associated with al-Idrisi and Herodotus (for a related practice in North Africa). Al-Bakri describes a different trade mechanism. The chapter should clarify which source describes which practice, or present the tradition more generally.
+**Tax structure:** "One dinar on a load of salt coming in. Two dinars on a load going out. Gold nuggets above a certain weight: the Ghana's. Gold dust: the traders'." These are accurate per al-Bakri's account. No revision needed.
 
-## Cultural Authenticity
+**Twin-city structure:** Presented correctly: stone town with mosques to the west, royal city with sacred grove to the east, approximately one mile apart. The chapter's archaeology caveat from the original ("has been partially excavated but the royal city has not been conclusively located") is absorbed into the narrative technique rather than stated as an editorial note, which is the correct solution.
 
-The treatment of the Ghana's sacred authority alongside his commercial role is consistent with the scholarly understanding of the dual nature of the kingship. The chapter correctly presents the Ghana as maintaining traditional religious practice while accommodating Muslim commercial communities. The presentation of Islam's gradual penetration among the Soninke elite is consistent with the scholarly literature.
+**Chronological framing (c. 700–1000 CE):** The diachronic arc is plausible given the source base. Section II's framing of "c. 700–800" as the building phase and "c. 900–1000" as the peak-and-strain phase is consistent with Levtzion's reconstruction. The specific century boundaries cannot be precisely documented from the sources, but they are defensible as approximate historiographic frames.
 
-## What the Chapter Gets Right
+**Sanhaja Berbers:** The chapter correctly identifies the Sanhaja as the northern route managers and notes their growing religious transformation without anachronistically importing Almoravid events into the 700–1000 period. "The Almoravids were still forming in the eleventh century; in the tenth, the pressure was latent." Accurate.
 
-- The structural insight that the dual-city arrangement was a functional solution to the problem of governing a religiously diverse commercial network is the correct analytical framework.
-- The presentation of the Wangara's control over the gold supply as deliberate policy rather than mere secrecy is well-handled.
-- The identification of competing trade routes (the Niger bend) as an emerging pressure on the Ghana's monopoly is historically sound.
+**Silent trade:** Handled with appropriate uncertainty. "Whether this happened exactly as described — or whether it was a story the merchants told to explain a process whose mechanisms they were deliberately excluded from..." — this is the correct scholarly position. The silent trade debate (whether it reflects actual practice or a literary convention in the Arabic geographical literature) is ongoing. The chapter does not resolve it.
 
-## What Needs Correction
+**Maliki jurisprudence:** Correctly identified as the dominant legal tradition in the western Sudan. The qadi's use of a Maliki text is accurate for the period.
 
-1. Clarify the silent trade source attribution (al-Bakri vs. al-Idrisi vs. Herodotus tradition).
-2. Note that the tax system was more complex than the gold-and-salt summary suggests (al-Bakri mentions taxes on other goods as well).
+---
 
-**Verdict:** APPROVED-WITH-CONDITIONS (minor source clarification on the silent trade passage)
+## Issues Flagged
+
+**Minor:** The chapter describes "ten horses in gold-embroidered blankets" and "ten pages with golden shields" in the court ceremony. Al-Bakri's account specifies these numbers but they come from the informants' testimony rather than from direct observation. The chapter already handles this correctly by framing the description as what "al-Bakri's informants" reported. No revision needed, but the figures.md's Ghana section should note that al-Bakri's court numbers derive from informant testimony, not direct witnessing. (This is already addressed in figures.md.) No action required.
+
+**The Abbasid demand for gold:** The chapter states that the gold that reached the Abbasid caliphate's mints "came, in significant part, from the Wangara fields." This is historically defensible — West African gold was a major source for the Islamic world's gold coinage — but "significant part" is deliberately approximate. Accurate.
+
+---
+
+## Verdict
+
+**The chapter passes historical accuracy review.** The primary source base is handled correctly. The tax structure, the court ceremony, the twin-city arrangement, and the Sanhaja-Wangara-Ghana network are all accurately presented within the constraints of the available evidence.

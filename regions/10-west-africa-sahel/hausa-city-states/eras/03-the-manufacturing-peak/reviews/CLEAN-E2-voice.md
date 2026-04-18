@@ -1,51 +1,35 @@
-# CLEAN-E2 — Voice Keeper — "The Manufacturing Peak"
+# Clean — E2: Voice Keeper
+## Hausa Era 3: The Manufacturing Peak (v2)
 
-## Register Assessment
+**Role:** Hunt register drift — textbook voice, modern commentary, any paragraph that sounds like it was written for a Western audience rather than from inside the culture. Voice-random-paragraph test.
 
-The chapter establishes an urban-manufacturing register in Section I: accumulative, process-driven, rhythmic through lists of crafts and products. Short declaratives ("Kano made cloth." "It came from Kano.") provide the structural beats. This register is mostly sustained across five sections.
+---
 
-## Voice Breaks
+**Voice-random-paragraph test (three randomly selected paragraphs):**
 
-### Section II, paragraph 3-5 (geographic explanation)
-"Kano sat on the southern edge of the Sahel corridor, its hinterland rich in cotton-growing farmland..." through "Zazzau sat farthest south, on the frontier between the Sahel and the forest."
+**Paragraph 1 — Section II, Katsina's role:**
+"Katsina did not try to be Kano. Katsina sat closer to the desert edge, the natural gathering point where the Saharan caravans terminated and the Tuareg merchants unloaded their salt and their goods from the north. Katsina became the exchange city, the place where the southern products met northern demand. Its scholars kept the accounts, maintained the commercial law, corresponded with scholars in Timbuktu and Cairo and Fez."
 
-**The break:** These three paragraphs shift to geographic-analytical prose. They read like a regional study rather than a narrative inhabiting the competitive system. The register is expository where the chapter's established voice is accretive and scene-driven. Compare with the opening, where the guild system and the trade reach emerge from the dye pit scene.
+This is urban-manufacturing register: accumulative, specific, the prose building through lists of functions that are also a portrait of a city. "Katsina did not try to be Kano" is particularly right — the inside-competition framing, no external comparison. Identifies as Hausa manufacturing city immediately.
 
-**The severity:** Moderate. The paragraphs are necessary (the competitive logic needs geographic grounding), but the delivery is in a different mode. The reader is being taught rather than shown.
+**Paragraph 2 — Section III, the walls in wet ground:**
+"The soldiers found that walls built too quickly in wet ground settled over the following days, cracking and slumping. Amina adjusted. Narrower walls, better drained. Soldiers returning to pack and repack the previous day's work before moving on. The walls went up more slowly, and they held."
 
-**Recommendation:** Anchor the geographic explanation in a scene or a movement — a caravan leaving Kano and arriving in Katsina, for instance — so the geography is experienced rather than mapped.
+This is the register at its most compressed — short declaratives carrying military logistics. The voice does not explain why this matters; it trusts the reader to understand that walls that hold are the point. Identifies as a city engaged in physical production (walls are made the same way cloth is made: by method, by adjustment, by knowledge of the material). No outside voice.
 
-### Section II, final paragraph (Leo Africanus)
-"A traveler from North Africa... passed through the Hausa states around 1526."
+**Paragraph 3 — Section V, Kano at peak:**
+"The system was at its fullest expression. What it expressed was both its productivity and its dependencies. The cotton that fed the weavers' looms came from farms worked by people who had arrived in the city from the south. The indigo was cultivated and harvested by labor that was, in significant part, unfree."
 
-**The break:** The register shifts to biographical introduction. "He was a man of the Maghreb, a Muslim scholar and merchant who saw the world through a merchant's eyes." This is competent literary prose but it does not belong to the urban-manufacturing voice the chapter established. It reads like a historian introducing a source.
+This paragraph is on the edge of the voice test. "Both its productivity and its dependencies" is systemic analysis — it names the chapter's structural argument. The test: does this sound like a scholarly essay or like the urban-manufacturing voice carrying analytical weight? The preceding and following sentences are concrete enough to ground it. The voice holds.
 
-**The severity:** Mild. The passage recovers when it describes what Leo actually observed.
+**Overall verdict: PASS**
 
-**Recommendation:** Reduce the biographical frame. Enter through what he saw, not who he was.
+**One flag:** Section IV, paragraph 3 — "This was expertise. The years of apprenticeship, the accumulated knowledge of which drum called which spirit..."
 
-### Section IV, paragraph on Bori practitioners
-"This was not improvisation. It was a discipline as structured as the Maliki scholar's legal reasoning, though it was transmitted through the body rather than through text."
+This paragraph begins in the inside voice (showing the senior Bori woman's knowledge) and then steps back to summarize: "This was expertise." This is the narrator explaining what the preceding scene showed. The E-1 auditor flagged the "managed contradictions" passage for the same reason. Here, "This was expertise" is the explanation that follows the showing. It is one sentence, not a paragraph, so it does less damage — but it is still the narrator pointing at the scene rather than trusting the scene.
 
-**The break:** The second sentence is essay voice — a thesis statement about knowledge systems. The comparison to the Maliki scholar is analytically correct but registers as authorial commentary rather than inhabited experience.
+**Recommendation:** Consider cutting "This was expertise." and letting "The years of apprenticeship, the accumulated knowledge..." begin the paragraph directly. The reader will understand it was expertise from the specificity of the description.
 
-**Recommendation:** Cut "This was not improvisation." Let the preceding description carry the weight. The comparison to the Maliki scholar could be restructured as an inside observation: perhaps the Bori practitioner's training is described in terms that mirror the earlier mosque description without the narrator drawing the explicit parallel.
+**Em-dash count:** ZERO. Clean.
 
-### Section V, paragraphs 3-4 (Fulani scholar)
-"He had come from the west, from the pastoral lands... He was not a herder."
-
-**The break:** Mild. The biographical introduction of the Fulani scholar reads in the same historian-introducing-a-figure mode as the Leo Africanus passage.
-
-**The severity:** Mild, and it recovers quickly when the teaching scene takes over.
-
-## Em-Dash Count
-
-0 em-dashes. (Limit: 8.) CLEAN.
-
-## Opening-to-Closing Register Match
-
-The closing matches the opening's register precisely. The dye pit, the indigo, the harmattan light, the compound walls — the same sensory vocabulary, the same accumulative rhythm. The closing's final sentence ("all of it working, all of it producing, all of it held together by the competition that had made the Hausa cities what they were and that would, in its own time, make them something else") is in the chapter's established voice. CLEAN match.
-
-## Overall Verdict
-
-**Three moderate voice breaks, one mild.** The chapter sustains its register across 5,000+ words with occasional lapses into geographic-analytical and historian-introducing-a-source modes. The breaks are recoverable and the dominant voice is strong. Recommended fixes: anchor the geographic explanation in movement or scene; reduce biographical framing for Leo and the Fulani scholar; cut "This was not improvisation."
+**Voice-random-paragraph test:** PASSED. All three selected paragraphs identify the culture from rhythm alone — the accumulative merchant-assessment voice, the compressed military logistics, the systemic inventory of productive dependencies. A reader opening the chapter at any point would know this is an urban manufacturing city, not a court, not a steppe, not a maritime culture.
