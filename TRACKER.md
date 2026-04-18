@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 2 — Anchor Region Pipeline (in progress)
-**Last updated:** 2026-04-18 (Session 2 — 50 chapters locked in session, 8 complete regions, rubric v1.6)
+**Last updated:** 2026-04-18 (Session 2 — 87 chapters locked, 9 complete regions, rubric v1.6)
 
 ---
 
@@ -15,7 +15,7 @@
 | 4 | North America | complete | 12 | draft | 1 | 1 |
 | 5 | Mediterranean Classical | complete | 10 | draft | 5 | 5 |
 | 6 | Fertile Crescent | complete | 8 | draft | 8 | 8 |
-| 7 | Iran & Persianate | complete | 9 | draft | 0 | 0 |
+| 7 | Iran & Persianate | complete | 9 | draft | 9 | 9 |
 | 8 | Islamic Heartlands | complete | 13 | draft | 1 | 1 |
 | 9 | Egypt & Nile | complete | 9 | draft | 9 | 9 |
 | 10 | W Africa Sahel | complete | 8 | draft | 12 | 12 |
@@ -35,7 +35,7 @@
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 6 | 6 |
 | 26 | Pacific Century | complete | 5 | draft | 5 | 5 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **78** | **78** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **87** | **87** |
 
 ---
 
