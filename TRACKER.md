@@ -31,11 +31,11 @@
 | 20 | Western Christendom | complete | 13 | draft | 13 | 13 |
 | 21 | N & E Europe | complete | 15 | draft | 1 | 1 |
 | 22 | Oceania & Pacific | complete | 10 | draft | 2 | 2 |
-| 23 | Americas Reborn | complete | 10 | draft | 9 | 9 |
+| 23 | Americas Reborn | complete | 10 | draft | 10 | 10 |
 | 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
 | 25 | Diasporas | complete | 6 | draft | 6 | 6 |
 | 26 | Pacific Century | complete | 5 | draft | 5 | 5 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **109** | **109** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **110** | **110** |
 
 ---
 
