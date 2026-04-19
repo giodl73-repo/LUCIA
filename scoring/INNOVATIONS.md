@@ -788,6 +788,32 @@ trigger supplements it — it does not replace it.
 | v1.5 | 2026-04-16 | Non-Chronological Organizing Principle | San, Aboriginal, Swahili, Hausa, Jewish (cluster) | Progression/Scene |
 | v1.5 | 2026-04-16 | Terminal Condition as Culture-Specific | Songhai, Tibet, Inca, Egypt, Wolof (cluster) | Progression |
 | v1.6 | 2026-04-18 | Terminal Condition Types Expanded (5 new) | Armenian, Yanomami, Kalinago, Taíno, Tupi-Guaraní | Progression |
+| v1.7 | 2026-04-19 | Contradiction-Held-as-Engine (Colonial/Extractive Type) | British, Spanish, French, Dutch, Portuguese (cluster) | Progression |
+| v1.4 (ext.) | 2026-04-19 | Bilingual-Embodied register confirmed at 2nd instance | South Korea + Canada | Voice |
+
+---
+
+## Watch List — Endogenous-Institutional Terminal Condition Family (8 candidates)
+
+**Opened:** 2026-04-19 (Session 3 sweep)
+**Bar:** cluster will form when 3+ candidates appear in non-overlapping cultural contexts (not all colonial, not all European)
+
+A family of Terminal Condition types that share a structural property: the system's failure is generated *endogenously* by the system's own institutional logic — not by external shock, not by ecological pressure, not by embodied-transmission fragility, but by the institution's own principles producing their own defeat. Eight single-instance candidates logged:
+
+| # | Candidate type | Source chapter | Mechanism |
+|---|----------------|----------------|-----------|
+| 1 | Liberation Through External Event | South Korea Era 1 | Colonizer's defeat ends the occupation, not the colonized's victory |
+| 2 | Gradual Premise Erosion | Castile/Toledo Era 3 | Engine's success replaces the conditions on which the engine depended |
+| 3 | Personal-Authority Collapse | Carolingian Era 2 | Engine is legitimate but non-transferable; products outlast the system |
+| 4 | Self-Undermining Legitimacy Loop | Papal States Era 4 | Fiscal apparatus of spiritual authority erodes the spiritual credibility |
+| 5 | Written-Covenant Gap | Mexico Era 4 | State recognizes its own obligations in writing and defers them internally |
+| 6 | Internally-Generated Legitimacy Gap | British Empire Era 1 | System's own legitimacy vocabulary dismantles the system from within |
+| 7 | Accountability Gap (Commercial Asabiyyah) | Dutch Empire Era 1 | Commercial solidarity cannot generate martial solidarity at crisis |
+| 8 | Premise Non-Recognition (Inverted) | French Empire Era 2 | Excluded parties invoke the universalist principle against their exclusion |
+
+**Decision not to cluster yet:** The v1.5 and v1.6 Terminal Condition amendments already list 10 types. Adding 8 more in one amendment would unbalance the rubric. The candidates also overlap with the v1.7 Contradiction-Held-as-Engine cluster (candidates 5, 6, 7, 8 are the terminal forms of the Contradiction-Held engine in four of the five colonial chapters). The endogenous-institutional family may cluster in Session 4 or later, once more non-colonial instances appear (e.g., late-Ming Neo-Confucian self-critique, late-Republic Roman, Byzantine iconoclast cycles).
+
+**Meta-pattern note:** Six of eight candidates (1, 2, 3, 5, 6, 7) are from early-modern/modern cultures or colonial empires — post-1500. The pre-1500 corpus shows far fewer endogenous-institutional terminal conditions. This may reflect a genuine historical property (early-modern states generated more codified institutional contradictions) or an artifact of source density (modern cultures leave more internal-dissent records). Worth watching.
 
 ---
 
@@ -1074,6 +1100,22 @@ trigger supplements it — it does not replace it.
 - **Why it works:** The corrido is Mexico's own oral-journalistic tradition, meaning this register is discovered from the culture's expressive practice rather than imposed from outside. It satisfies v1.4 Voice Spectrum requirement: discovered from the culture's own expressive traditions, not borrowed from another. The register carries analytical argument in the same voice as narrative (the Ley de Baldíos mechanism delivered in corrido facticity; the Constitutionalist coalition's class interests delivered as sequence of named actions). The period's weight as refraining cadence is the corrido's own form.
 - **Status:** logged (1 instance — watching for 2nd instance; propose addition to Voice Spectrum §11 Revolutionary/Reformist cluster or as standalone entry in a new Americas cluster)
 
+### Innovation: Prophetic-Rhythmic Voice Register
+- **Source:** regions/23-americas-reborn/jamaica/eras/05-the-sound-of-freedom/
+- **Date:** 2026-04-17
+- **Dimension:** Voice
+- **Description:** A new voice register organized around rhythmic inversion as structural prose principle. The argument lands where the Western reader expects silence, mirroring the reggae offbeat (skank on two and four). Pause mechanism: the period at the turn, where the expected rest falls. Distinguished from Prophetic-Migratory (Tupi-Guaraní) by organizing around the beat rather than migratory forward movement. The register carries the Rastafari theological-political argument in the same rhythm as the music carries it — bass as primary line, statement lands on the offbeat. Sustained at chapter length (~5,050 words); zero em-dashes in opening, two in chapter (both justified in the Lee Perry ambiguity section). Family: 11 (Revolutionary/Prophetic).
+- **Why it works:** The voice is discovered from the culture's own expressive tradition — reggae's rhythmic inversion is Jamaica's own structural innovation, and the prose that holds the chapter's argument must hold it in that rhythm or misrepresent it. The register performs what reggae performs: the argument arrives where silence is expected. Applicable to any chapter where a culture's musical-rhythmic tradition carries political-theological content through formal inversion (Afrobeat's polyrhythmic critique, certain Black gospel traditions, potentially hip-hop's breakbeat aesthetics).
+- **Status:** logged (1 instance — watching for 2nd instance; propose Voice Spectrum addition under Family 11 Revolutionary/Prophetic)
+
+### Innovation: Music as Primary Theological Evidence
+- **Source:** regions/23-americas-reborn/jamaica/eras/05-the-sound-of-freedom/
+- **Date:** 2026-04-17
+- **Dimension:** Evidence
+- **Description:** The formal properties of specific reggae songs (bass hierarchy, rhythmic placement, lyric sourcing from primary documents such as Haile Selassie's 1963 UN address in "War") serve as primary evidence for the Rastafari theological-political argument — not illustration of the argument. The music's form IS the argument. The chapter uses the bass as melodic lead and the skank on the offbeat not as decorative cultural detail but as structural demonstration of Babylon/Zion cosmology enacted in sound. Extension of the v1.3 Primary Art as Structural Evidence technique. Second instance of primary art as structural evidence in a non-visual medium (first: Tang poetry).
+- **Why it works:** Two instances (Tang poetry, Jamaican reggae) confirm that the v1.3 Primary Art technique extends beyond visual/sculptural media into aural/musical cultural production. The second instance is significant because reggae is an oral-embodied form without written-score tradition — the technique therefore applies to cultures whose primary analytical medium is performed rather than textual. Cluster candidate: with Tang poetry as prior non-visual instance, this is the second data point for a Non-Visual Primary Art sub-cluster. Watching for a third instance (candidates: African drumming traditions as theological argument, Hawaiian chant, Sufi qawwali).
+- **Status:** logged (2nd instance of non-visual primary art as structural evidence — with Tang poetry; cluster candidate; watching for 3rd to trigger v1.3 extension amendment)
+
 ### Innovation: Written-Covenant-Gap Terminal Condition (proposed 11th type extension)
 - **Source:** regions/23-americas-reborn/mexico/eras/04-el-porfiriato-y-la-revolucion/
 - **Date:** 2026-04-17
@@ -1104,7 +1146,7 @@ trigger supplements it — it does not replace it.
 - **Dimension:** Voice / Immersion
 - **Description:** The chapter extends the Bilingual-Embodied register (previously validated in South Korea under Japanese colonization) to a colonial-administrative context where the two tracks are: (1) the colonized population's interior (Secwépemc knowledge system, Niitsitapi land-relationship, oral tradition survival) and (2) the colonial administrative register (Indian Act provisions, Scott's Parliamentary statements, inspector reports). The two registers do not alternate randomly; they follow the chapter's structural logic: Indigenous interior sections inhabit their own worldview, administrative sections use the government's own language marked as reported speech ("what the government called settlement"). The 2021 flash-forward (future tense for a past event) is used to establish the oral tradition's epistemological priority before the instrumental confirmation.
 - **Why it works:** The South Korea chapter used the Bilingual-Embodied register to show the collision between Japanese administrative language and Korean kinesthetic knowledge. The Canada chapter adapts this for a different colonial context where the collision is between Indigenous land-knowledge and bureaucratic legal architecture. The adaptation confirms that the register's core mechanism (two epistemological registers in the same chapter, one marking the other as a perspective) is generalizable beyond the single-culture instance. The future-tense flash-forward (2021 radar confirming what the oral tradition already knew) is a new sub-technique within the register: using temporal displacement to establish epistemological hierarchy without explicit editorial comment.
-- **Status:** logged (2nd instance of Bilingual-Embodied register — promotes Bilingual-Embodied to fully validated status in the Voice Spectrum; flash-forward sub-technique is a new innovation worth watching)
+- **Status:** adopted (v1.4 Voice Spectrum extension — 2 instances across genuinely different cultures confirm Bilingual-Embodied as a standalone voice register: colonial-context collision between administrative language and embodied indigenous knowledge. Flash-forward sub-technique remains logged as new innovation worth watching for 2nd instance)
 
 ### Innovation: Internal-Debate Legal-Theological Register
 - **Source:** regions/24-colonial-empires/spanish-empire/eras/01-la-conquista/
@@ -1112,7 +1154,7 @@ trigger supplements it — it does not replace it.
 - **Dimension:** Voice
 - **Description:** The Spanish Legal-Theological register holds simultaneously: (1) sincere believer within the framework (Palacios Rubios), (2) sincere critic using the same framework (Las Casas), (3) sincere opponent of the critic within the same framework (Sepúlveda), and (4) indigenous respondent who learned the framework well enough to argue from within it (Guaman Poma). All four operate inside Catholic theology. None is resolved by the chapter. The register sustains this internal debate across 5,100 words without the text taking sides — not through editorial neutrality but through the voice itself, which belongs to the framework and not to any one party within it.
 - **Why it works:** Extends the Legal-Theological register (previously validated in Hammurabi's Babylon, single voice) to a context where the same framework generates its own critique. The Babylon instance is a single theological-legal voice. The Spanish instance is a framework in tension with itself. The distinction is important: a chapter that simply presents "both sides" fails the inside-voice test; a chapter that inhabits the shared framework and lets the tension emerge from within it succeeds. The register achieves zero em-dashes through the period-as-verdict pause mechanism, which is especially effective when the chapter's structural climax is a verdict that never comes.
-- **Status:** logged (1 instance — watching for 2nd instance; proposes sub-type of Legal-Theological register)
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Progression dimension; voice-register aspect remains logged as Legal-Theological sub-type, watching for 2nd non-colonial instance)
 
 ### Innovation: No-Verdict as Structural Climax
 - **Source:** regions/24-colonial-empires/spanish-empire/eras/01-la-conquista/
@@ -1120,7 +1162,7 @@ trigger supplements it — it does not replace it.
 - **Dimension:** Progression
 - **Description:** The Valladolid Debate (1550–51) is rendered not through the eloquence of the debaters but through the silence where the verdict should be. The chapter builds toward this moment — six sections accumulating the theological-legal framework's internal tension — and the climax is the panel's failure to produce a finding. The chapter then analyzes WHY the verdict could not be produced: both possible outcomes undermine the enterprise, so neither can be chosen. The climax is an absence.
 - **Why it works:** Most chapters build toward a presence — an event, a decision, a figure's moment of maximum action. This chapter builds toward an absence, and the absence carries more weight than any affirmative event could, because it IS the chapter's argument: the Spanish theological-legal framework could not resolve its own contradictions. It generated both the atrocity and the critique; it could not adjudicate between them. The no-verdict as climax is the structural-engine equivalent of a machine jamming at its point of maximum stress. Extends the v1.6 Premise Non-Recognition terminal condition to an institutional-body scale: not just the Mexica declining to recognize Spanish premises, but the Spanish Crown's own council failing to adjudicate its premises.
-- **Status:** logged (1 instance — watching for 2nd instance; proposes extension of Premise Non-Recognition to institutional scale)
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Progression dimension; the Valladolid no-verdict is the structural climax form of the contradiction-held engine)
 
 ### Innovation: Appropriated Form as Endurance (Landing type)
 - **Source:** regions/24-colonial-empires/spanish-empire/eras/01-la-conquista/
@@ -1128,6 +1170,7 @@ trigger supplements it — it does not replace it.
 - **Dimension:** Landing
 - **Description:** Guaman Poma de Ayala functions as the chapter's persistence mechanism — not the colonizer's documents, debates, or laws, but an indigenous figure who learned the colonizer's framework well enough to use it against the colonizer. His letter, unanswered, in Copenhagen for three centuries, is the landing image: the argument is still there, in the colonizer's own form, in the colonizer's own language. The answer was not given. The form outlasts the empire.
 - **Why it works:** The v1.1 Landing amendment says the culture's own persistence mechanism should deliver the final line. The difficulty in a colonial chapter is: which culture's persistence mechanism? The chapter resolves this by finding a figure who stands at the intersection — an indigenous man who mastered the colonial form and used it as his survival instrument. His persistence is both: he endures through the Spanish legal-documentary tradition, and he carries within that tradition an argument that does not recognize the conquest's legitimacy. The letter is both colonial form and anti-colonial content. The landing holds both simultaneously. This is a new landing type: Appropriated Form as Endurance — applicable to any chapter where a colonized culture's persistence mechanism operates through mastery and repurposing of the colonizer's own institutional forms.
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Landing dimension; Guaman Poma's unanswered letter as the colonial contradiction's persistence mechanism)
 
 ### Innovation: Commercial Asabiyyah as Terminal Condition
 - **Source:** regions/24-colonial-empires/dutch-empire/eras/01-de-gouden-eeuw/
@@ -1135,7 +1178,7 @@ trigger supplements it — it does not replace it.
 - **Dimension:** Progression (Terminal Condition)
 - **Description:** The VOC chapter applies Ibn Khaldun's asabiyyah framework to a joint-stock corporation and discovers that commercial solidarity — held together by contract, dividend, and the threat of litigation — is structurally durable but categorically limited. The engine's terminal condition is the Rampjaar of 1672: the mechanism could not generate the political-martial solidarity the Republic required when simultaneously attacked by France and England. The ledger could not buy the willingness to die for a place.
 - **Why it works:** Extends the v1.5 Terminal Condition framework to a new type: accountability-gap terminal condition, where the mechanism's form of solidarity (financial, contractual) cannot fulfill the solidarity demand of the crisis (political, martial). This is distinct from legitimacy gap (Songhai — military can't generate commercial-legal authority) because the VOC's gap runs in the opposite direction: commercial authority is intact but cannot generate martial authority. The condition is endogenous to the engine's own logic, not an external shock — which is the rubric's requirement.
-- **Status:** proposed
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Progression dimension; the VOC's commercial-vs-martial accountability gap is the terminal form of the commercial contradiction. Terminal-condition-type aspect remains logged as "Accountability Gap" candidate in the endogenous-institutional Terminal Condition family watch list)
 
 ### Innovation: Colonial Archive as Both Evidence and Structural Argument
 - **Source:** regions/24-colonial-empires/dutch-empire/eras/01-de-gouden-eeuw/
@@ -1143,8 +1186,7 @@ trigger supplements it — it does not replace it.
 - **Dimension:** Evidence
 - **Description:** The chapter uses the VOC's own administrative records as both primary evidence and structural argument simultaneously — the fact that the Bandanese appear primarily in VOC ledgers as commodity data (mace delivered, value assessed, dividend declared) IS the chapter's central analytical point. The archive's own form demonstrates the distance mechanism. This extends the v1.5 "outsider-as-structural-evidence" technique: here the archive itself is the outsider's account, and the source asymmetry is the engine.
 - **Why it works:** Existing v1.5 technique uses the outsider's account as evidence about the structural relationship, not the culture's character. The Dutch chapter extends this by making the archive's own vocabulary — "nutmeg monopoly secured," "annual yield assessment to follow" — do the analytical work that authorial commentary would otherwise have to do. The Bandanese deaths appear as line items in the same ledger that records the dividend. No authorial verdict is required: the ledger delivers the argument. This is applicable to any culture whose primary surviving record is an imperial administrative archive.
-- **Status:** proposed
-- **Status:** logged (1 instance — watching for 2nd instance; proposes new terminal/landing type)
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Evidence dimension; the ledger recording dividend and death simultaneously is the archival form of the contradiction-held engine)
 
 ### Innovation: Universalist-Bureaucratic Voice Register
 - **Source:** regions/24-colonial-empires/french-empire/eras/02-la-revolution-et-ses-contradictions/
@@ -1152,7 +1194,7 @@ trigger supplements it — it does not replace it.
 - **Dimension:** Voice
 - **Description:** A new prose register for colonial administrative cultures that genuinely believed in universalist principles while administering their systematic contradiction. Defined as: declarative main clauses building to administrative conclusions; the colon as primary pause mechanism (for enumeration and logical implication); sentences that accumulate evidence the way a census accumulates entries; zero emotional punctuation (em-dashes absent as emergent property); the register of a system that genuinely believes the world can be known through measurement. Distinct from Legal-Public (Forum-Civic), which is forensic; from Sedimentary (Temple-Administrative), which is theological-archival; from Capitulary, which is directive. This register is *confessional* in the bureaucratic sense: it presents the record and lets the record speak. It modulates across registers of institutional confidence and institutional crisis without breaking register.
 - **Why it works:** The universalist-bureaucratic voice is the only register that can hold the colonial contradiction without either moralizing or endorsing it. The colon as structural mechanism delivers the analytical point the way a census entry delivers a classification: without inflection. The register is inseparable from the culture's worldview — a French Enlightenment colonial administrator who genuinely believed that the world could be rationally known and administered, and who did not experience the contradiction between universalism and slavery as a contradiction, because in his cognitive framework they occupied separate administrative categories. Sustained at full chapter length (5,100 words), zero em-dashes achieved as emergent property.
-- **Status:** logged (1 instance — proposing for Voice Spectrum addition under new category: Colonial-Administrative)
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Voice/Progression dimension; the Universalist-Bureaucratic register IS the voice-level realization of the colonial contradiction. Voice-register aspect remains logged as proposed Colonial-Administrative Voice Spectrum sub-family — watching for a non-colonial instance before standalone promotion)
 
 ### Innovation: Premise Non-Recognition (Inverted) as Terminal Condition
 - **Source:** regions/24-colonial-empires/french-empire/eras/02-la-revolution-et-ses-contradictions/
@@ -1160,4 +1202,44 @@ trigger supplements it — it does not replace it.
 - **Dimension:** Progression (Terminal Condition)
 - **Description:** The v1.6 Premise Non-Recognition type (Taíno — the colonial party refuses to recognize the indigenous system's binding premises) appears here in inversion: the colonized refuse to recognize the colonial restriction of universalist premises. The Declaration of the Rights of Man cannot be partially applied; once stated, its universalism creates a standard that the enslaved invoke against the exclusion. The terminal condition is not the system's military defeat but its logical defeat: the Declaration worked exactly as its words required.
 - **Why it works:** Extends the Taíno terminal condition type in a direction that is structurally distinct: the colonial system's own principles become the instrument of its undoing when the excluded parties invoke them. This is endogenous to the engine's own logic (the universalist principle), not an external shock. The v1.6 type identified the colonial party's non-recognition of indigenous premises; this instance identifies the enslaved's non-recognition of the exclusion from universalist premises. Both operate at the level of premise, not power — the terminal condition is epistemological, not military. The military defeat follows from the epistemological defeat. Applicable to any chapter where a universalist principle is formally stated and then partially applied, and where the excluded parties invoke the principle against the exclusion.
-- **Status:** logged (1 instance — proposed as variant of v1.6 Premise Non-Recognition type; watching for 2nd instance)
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Progression dimension; the Declaration invoked against its own partial application is the universalist form of the contradiction-held engine. Terminal-condition-type aspect remains logged as "Premise Non-Recognition Inverted" candidate in the endogenous-institutional Terminal Condition family watch list)
+
+### Innovation: Dual-Ledger Voice Register
+- **Source:** regions/24-colonial-empires/british-empire/eras/01-the-first-empire/
+- **Date:** 2026-04-18
+- **Dimension:** Voice / Progression
+- **Description:** A new instance within the Administrative-Commercial register family. Distinct from Roman Egypt (Julio-Claudian) in that the register's structural feature is two simultaneous accounting systems held in tension without editorial resolution. The contradiction between the official manifest and the second ledger IS the voice's organizing principle, not incidental to it. The register sustains zero em-dashes at chapter length; pause mechanism is the period. Family: Legal & Administrative.
+- **Why it works:** The voice is the Atlantic-commercial empire's own instrument (bills of lading, cargo manifests, plantation ledgers) rendered as prose rhythm. The register holds the empire's core contradiction (the same clerk records the sugar tonnage and the human cost, in the same hand, on facing pages) as a structural property of the voice itself, not as an authorial observation about the voice. Cross-applicability: Belgian Congo (Leopold's personal ledger vs. the Reform Campaign documentation), Dutch VOC (double-entry bookkeeping as imperial instrument — already confirmed in Dutch Empire chapter's archival evidence innovation), potentially any colonial administration where the official record and the human cost are maintained by the same institutional apparatus.
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Voice dimension; the Dual-Ledger register IS the voice-level realization of the British colonial contradiction. Voice-register aspect remains logged within the proposed Colonial-Administrative sub-family — watching for a non-colonial instance)
+
+### Innovation: Internally-Generated Legitimacy Gap
+- **Source:** regions/24-colonial-empires/british-empire/eras/01-the-first-empire/
+- **Date:** 2026-04-18
+- **Dimension:** Progression (Terminal Condition)
+- **Description:** A variant of the v1.5 "legitimacy gap" terminal condition type. The Songhai instance is an externally-generated legitimacy gap (military authority cannot generate commercial-legal legitimacy from without). The British Atlantic chapter instantiates an internally-generated variant: the system's own legitimacy vocabulary — the liberties of freeborn Englishmen, the rule of law, the rights of property — applied consistently, opens the gap from within. The American Revolution accelerates the process. The abolitionist movement is the gap's product. The same vocabulary that justified the empire generates the arguments that dismantle it.
+- **Why it works:** Extends the v1.5 Legitimacy Gap type with a direction-reversal: the legitimacy gap is not a mismatch between authority types but a self-generated contradiction within a single authority's vocabulary. The language of English liberty and the practice of plantation slavery cannot coexist indefinitely once the vocabulary is taken seriously by enough parties. Applicable to any colonial or expansionist system that relies on a legitimacy language universalist enough to be turned back against the system.
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Progression dimension; the internally-generated legitimacy gap is the terminal form of the British colonial contradiction. Terminal-condition-type aspect remains logged as candidate in the endogenous-institutional Terminal Condition family watch list)
+
+### Innovation: Saudade-Maritime Voice Register
+- **Source:** regions/24-colonial-empires/portuguese-empire/eras/02-o-seculo-de-ouro/
+- **Date:** 2026-04-18
+- **Dimension:** Voice
+- **Description:** A prose voice register distinct from the Research-Program (Maritime-Scientific) register validated in Region 20 Portugal Era 4. Both are Portuguese maritime registers, both are accumulative, both achieve zero em-dashes. The distinction: Research-Program is directed (toward the proved hypothesis, the corrected chart, the confirmed latitude). Saudade-Maritime circles around absence (what was left behind, who did not return, what the route cost). Pause mechanism in both: the period. What the period closes on differs: discovery (Research-Program) vs. absence (Saudade-Maritime). The register carries the empire's melancholy about its own expansion — the sailor's wife watching from the Lisbon quay, the village emptied of young men, the route that paid for the cathedral in bones the cathedral does not name.
+- **Why it works:** Distinct from existing Maritime family registers (Polynesian, Norse, Swahili, Tongan) by its emotional orientation: melancholy rather than wayfinding, arrival, or accumulation. The register is discovered from the Portuguese cultural tradition of fado and saudade rather than imposed from outside. Watching for a second instance: another chapter from the Portuguese empire's subject position, or from another culture whose defining emotional register is maritime melancholy (fado, certain Celtic maritime traditions, possibly Japanese fishermen traditions) would qualify for promotion to Voice Spectrum.
+- **Status:** logged (1 instance — watching for 2nd instance; Maritime family, new emotional orientation)
+
+### Innovation: Mythologizing-Text as Structural Evidence
+- **Source:** regions/24-colonial-empires/portuguese-empire/eras/02-o-seculo-de-ouro/
+- **Date:** 2026-04-18
+- **Dimension:** Evidence
+- **Description:** Using Camões's *Os Lusíadas* not as decorative context but as structural evidence of the empire's self-understanding. The evidence of what the epic includes (da Gama as Aeneas, the Indian Ocean as Mediterranean, the cross as mission) and what it excludes (the Zamorin's officials, the Malaccan merchants, the people at the far end of the route) reveals the empire's structural logic more precisely than any administrative document. A variant of the v1.3 Primary Art as Structural Evidence technique, distinguished by the art being consciously propagandistic: the propaganda's limits are as revealing as its content. The epic is both the empire's self-image and the empire's archive of what it refuses to see.
+- **Why it works:** Extends v1.3 into consciously-mythologizing cultural production. The Tang poetry, Benin bronzes, and Maya stelae are expressive media without overt political program. *Os Lusíadas* is an imperial epic commissioned to be exactly what it is. Reading its absences as structural evidence transforms propaganda into primary source for the empire's self-understanding.
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Evidence dimension; the epic's exclusions are the narrative form of the Portuguese colonial contradiction — the empire's own self-monument cannot name the people at the far end of the route)
+
+### Innovation: Internal Dissent as Counter-Evidence
+- **Source:** regions/24-colonial-empires/portuguese-empire/eras/02-o-seculo-de-ouro/
+- **Date:** 2026-04-18
+- **Dimension:** Evidence / Honesty
+- **Description:** Fernão Mendes Pinto's *Peregrinação* as the empire's own internal dissent — not a colonial subject speaking back, but a participant who cannot sustain the empire's official narrative. The counter-evidence is produced from within the empire, preserved by the empire (eventually published under the empire's successors), and uses the empire's own archives and first-person witness. Distinct from Source Asymmetry as Technique (v1.5) because the asymmetry is internal: two voices from within the same empire arrive at incompatible accounts of the same events. The technique: let both voices sustain, name the contradiction, and make the contradiction the chapter's evidentiary structure.
+- **Why it works:** Extends v1.5 Source Asymmetry into intra-imperial dissent. The existing framework covers outside-inside source tensions; this covers inside-vs-inside. The Pinto instance is the Portuguese form of the colonial contradiction held in the archival record itself — the same empire produces both Camões and Pinto, and preserves both. Applicable to any empire that generated its own internal critics whose work survived within imperial archives (Diderot in revolutionary-era France, Bartolomé de las Casas within Spain, abolitionist pamphlet literature within Britain).
+- **Status:** adopted (v1.7 — Contradiction-Held-as-Engine cluster, Evidence dimension; the empire's own preserved dissent is the archival form of the contradiction-held engine)

@@ -1,6 +1,6 @@
 # LUCIA Scoring Rubric
 
-## Rubric v1.6 — Amended 2026-04-18
+## Rubric v1.7 — Amended 2026-04-19
 
 **Changelog:**
 - v1.0 → v1.1: Amended Progression, Figures, and Landing based on 8 innovations across 4 chapters (Mali, Haudenosaunee, San, Tang).
@@ -9,6 +9,8 @@
 - v1.3 → v1.4: Amended Voice (Voice Spectrum) based on 16 voice types confirmed at chapter length across 27 cultures. Amended Progression (Book-Level Arc) based on 3 complete books (Mali, Inca, Rome).
 - v1.4 → v1.5: Cluster promotion of 5 amendments from 27 logged innovations across 46 chapters. Material Object as Structural Principle (Progression), Source Asymmetry as Technique (Evidence/Honesty), Knowledge System at Method Level (Evidence), Non-Chronological Organizing Principle (Progression/Scene), Terminal Condition as Culture-Specific (Progression).
 - v1.5 → v1.6: Terminal Condition types expanded from 5 to 10 based on 5 new instances across Diaspora and Amazonia sweeps.
+- v1.6 → v1.7: Amended Progression (Contradiction-Held-as-Engine) based on 5 innovations across 5 cultures (British, Spanish, French, Dutch, Portuguese colonial empires). See `scoring/CLUSTER-ANALYSIS-COLONIAL-EMPIRES.md` for full analysis.
+- v1.4 extension (2026-04-19): Bilingual-Embodied register confirmed at 2 instances (South Korea, Canada) — added to Voice Spectrum alongside the 16 original registers.
 
 ---
 
@@ -199,6 +201,14 @@ Scores run 1–10. Each band below describes what that range looks like.
 With these additions, the framework now captures 10 terminal-condition types: legitimacy gap, deliberate self-consumption, categorical failure, reversible feedback loop, ecological constraint, vindicating, embodied-transmission vulnerability, substrate exhaustion, premise non-recognition, and unfalsifiable direction. The principle remains: the engine's ending must be as specific to the culture as the engine itself.
 
 **v1.5 Amendment — Non-Chronological Organizing Principle:** For cultures without a linear chronological arc, the chapter needs a non-temporal organizing principle — a species (San/eland), a landscape (Aboriginal/Country), a commercial space (Swahili/storehouse), a sensory map (Hausa/city-by-smell), a page (Jewish Talmud). Confirmed across 5 cultures. These chapters score highest when the organizing principle comes from the culture's own center of gravity: the eland for a hunting culture, the storehouse for a trade culture, the page for a text-centered culture. Chronology is not the only way to build progression; integration around a culture-specific center can be equally powerful.
+
+**v1.7 Amendment — Contradiction-Held-as-Engine (Colonial / Extractive Type):** For chapters about extractive, colonial, or expansionist systems, the structural engine may be the contradiction the system's own framework generates and cannot adjudicate — not an external force pressing against the empire, but the empire's own logic producing its own critique. Five confirmed instances: **British** (official manifest vs. second ledger; administrative-commercial apparatus maintains both records), **Spanish** (theological framework generates both conquest and Las Casas's critique; Valladolid produces no verdict because both findings undermine the enterprise), **French** (Declaration of Rights universalist AND partially applied; the enslaved invoke the principle against the exclusion), **Dutch** (VOC ledger records dividend and Bandanese deaths as line items in the same archive), **Portuguese** (*Os Lusíadas* glorifies AND Pinto's *Peregrinação* dissents — both produced and preserved within the empire).
+
+This type is structurally distinct from the v1.1 Structural Engine: the mechanism is not a positive institution (covenant, state form, knowledge system) but a contradiction the institution generates and holds without resolution. The chapter's progression is the contradiction's accumulating weight; the landing is not the contradiction's resolution but its persistence.
+
+Key distinction from the v1.6 Premise Non-Recognition terminal condition: Premise Non-Recognition operates at the terminal (the system fails when one party won't recognize another's binding premises). Contradiction-Held-as-Engine operates as the driver from the chapter's first moment — the contradiction generates the system's motion, not just its ending.
+
+Applicable beyond colonial empires: any chapter where an official framework generates its own internal critique (late-Republic Roman *libertas* invoked against *libertas*; late Ming Neo-Confucian self-critique; Soviet dissidents arguing from Leninism). The test: is the contradiction named by the chapter as a contradiction from within, or is it imposed as an external editorial observation? The former meets the v1.7 standard. To score 9+, the contradiction must be rendered as the empire's own problem, not as the author's editorial observation about the empire.
 
 ### Figures (0–10)
 
