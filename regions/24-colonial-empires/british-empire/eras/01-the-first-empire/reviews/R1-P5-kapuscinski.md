@@ -1,0 +1,14 @@
+# PANEL-1 — Ryszard Kapuscinski
+## The First Empire: Atlantic Commerce and Plantation
+
+I want to be at the quayside. I am not yet at the quayside.
+
+The *Thetis* manifest is excellent — cotton cloth, muskets, gunpowder, knives, rum, iron bars. This is the sensory ground I need: specific things with weight and texture. Iron bars are cold and heavy; rum in kegs smells of fermentation and oak; printed cotton is faintly oily under the fingers. The opening gives me the list, which is more than most chapters give me, but it does not give me the dock. I cannot smell Liverpool in 1750. I cannot hear the Mersey. I do not know whether it is morning or afternoon, what the light looks like on the water, whether the *Thetis* is being loaded from the quayside or from lighters in the river, how many men are working, what they are saying to each other.
+
+The counting house on Duke Street: I know it is on Duke Street. I do not know whether it is a narrow room or a broad one, whether it smells of candle wax or coal smoke, whether the ledger the careful hand maintains is bound in calf leather or in the cheaper paper boards that merchant houses sometimes used for working documents.
+
+The opening is intellectually rich and structurally strong. The contradiction engine is identified and planted. But the body is not yet in the room. The best openings in this Chronicle — the Hausa dye quarter, the Norse saga coast, the Swahili storehouse — place the reader inside a material world so precisely that the argument emerges from sensation rather than preceding it.
+
+**What I would push on:** The scene has no weather. March 1750 in Liverpool is cold — colder than now, the Little Ice Age still operating, the Mersey slow and dark. A loading day in March means the men on the dock are working in wool jackets that smell of lanolin and river damp. The captain is watching from the quayside or from the deck, and his breath is visible. This is the opening's missing register: the bodily. The contradiction between what the manifest records and what the crossing costs becomes more unbearable, not less, when the reader can feel the cold and smell the dock. Place me there. Two sentences of sensory ground in the first paragraph would transform the opening from excellent to indispensable.
+
+**The question I'd push on:** When the *Thetis* clears for departure on the fourteenth of March, who watches it go? Does anyone wave? Do the wives of the sailors stand on the dock? Is there ceremony, or is departure simply recorded in the log? In Kapuscinski's experience, the moment of departure is where a system reveals its texture — the small human gesture inside the large institutional fact. One person watching the *Thetis* leave would make the opening's final line ("Captain Norris recorded the date, the tide, and the weather. He did not record what the crossing would cost") land with the weight it deserves.

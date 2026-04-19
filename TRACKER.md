@@ -1,7 +1,7 @@
 # LUCIA Chronicle — Status Tracker
 
 **Phase:** 2 — Anchor Region Pipeline (in progress)
-**Last updated:** 2026-04-18 (Session 2 — 109 chapters locked, 10 complete regions, rubric v1.6)
+**Last updated:** 2026-04-19 (115 chapters, 12 complete regions, ALL 26 REGIONS ACTIVE, rubric v1.6)
 
 ---
 
@@ -32,10 +32,10 @@
 | 21 | N & E Europe | complete | 15 | draft | 1 | 1 |
 | 22 | Oceania & Pacific | complete | 10 | draft | 2 | 2 |
 | 23 | Americas Reborn | complete | 10 | draft | 10 | 10 |
-| 24 | Colonial Empires | complete | 5 | draft | 0 | 0 |
+| 24 | Colonial Empires | complete | 5 | draft | 5 | 5 |
 | 25 | Diasporas | complete | 6 | draft | 6 | 6 |
 | 26 | Pacific Century | complete | 5 | draft | 5 | 5 |
-| | **TOTALS** | **26/26** | **259** | **259/259** | **110** | **110** |
+| | **TOTALS** | **26/26** | **259** | **259/259** | **115** | **115** |
 
 ---
 
