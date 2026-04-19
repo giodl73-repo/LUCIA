@@ -1,7 +1,7 @@
 # LUCY Punchlist
 
-**Session:** 2 (closed)
-**Last updated:** 2026-04-18
+**Session:** 2 (closed 2026-04-19)
+**Next session:** 3
 
 ## Completed (Session 1)
 - [x] Design spec, all infrastructure (CLAUDE.md, style guide, pipeline, scoring, sources)
@@ -11,62 +11,52 @@
 - [x] 28 chapters locked across 15 cultures
 - [x] 3 complete books (Mali 79.2, Inca 80.8, Rome 81.8)
 - [x] Rubric v1.0 through v1.3
-- [x] Agent management system (LUCY, GRIOT, SCRIBE, CALLIOPE, SCHOLAR)
-- [x] Cross-compare R1 (8 chapters)
 
 ## Completed (Session 2)
-- [x] West Africa Sahel complete: 7 new chapters (Songhai 81, Fulani 82, Wolof 80, Kanem-Bornu 79, Soninke 77, Hausa 75, Ghana 74)
-- [x] 4 new voice tests passed: Norse (Saga-Spare 78), Swahili (Maritime Accumulative 79), Tibet (Philosophical-Devotional 80), Maurya (Edict-Inscriptional 79)
-- [x] 33 new board reviewers (82 total across 27 cultures)
-- [x] ~22 innovations logged from session 2 chapters
-- [x] Directory fix: Soninke moved to correct path
-- [x] TRACKER.md updated
-- [x] AGENT-ROSTER.md updated with session 2 spawns
-- [x] Fertile Crescent sweep: 7 chapters (Mitanni 82, Arameans 82, Hittites 82, Babylon 82, Akkad 81, Urartu 80, Assyria 78)
-- [x] 21 new board reviewers from Fertile Crescent (103 total)
-- [x] Cross-compare R2 complete (14 chapters sampled)
-- [x] Cross-compare amendments applied (Style Guide, Pipeline, Rubric)
-- [x] Rubric v1.5 — cluster promotion rule + 5 cluster amendments (27 innovations adopted)
-- [x] Fertile Crescent sweep: 7 chapters (mean 81.0)
-- [x] Diaspora sweep: 5 chapters (mean 80.8) — Crossroads model validated
-- [x] Egypt sweep: 8 chapters (mean 81.3, Opus) — Region 9 complete
-- [x] Central Africa sweep: 6 chapters (mean 82.5, Sonnet) — Region 12 complete, 3 perfect Gates
-- [x] Pacific Century sweep: 5 chapters (Haiku) — Region 26 complete, reliability issues noted
-- [x] 3-model comparison: Sonnet > Opus > Haiku for SCRIBE work
-- [x] Amazonia/Caribbean sweep: 8 chapters (mean 85.0, Sonnet) — highest region mean, Kuikuro 89/90 new project high
-- [x] Rubric v1.6 — Terminal Condition Types Expanded (5→10) from Amazonia + Diaspora innovations
+- [x] 26/26 regions now active (all regions have chapters)
+- [x] 12 complete regions: Sahel, Fertile Crescent, Diasporas, Egypt, Central Africa, Pacific Century, Amazonia, Iran, Western Christendom, Americas Reborn, Colonial Empires
+- [x] 87 new chapters this session (28 → 115 total)
+- [x] Cross-compare R2 + amendments applied
+- [x] Rubric v1.3 → v1.6 (Voice Spectrum, Book-Level Arc, cluster promotion rule, 5 cluster amendments, Terminal Condition Types expanded to 12)
+- [x] Voice Spectrum → 50+ registers, documented in `guides/VOICE-SPECTRUM.md`
+- [x] 3-model comparison: Sonnet validated as new default SCRIBE
+- [x] 3 rewrites (Ghana 74→84, Hausa 75→84, Soninke 77→85)
+- [x] First 89/90 (Kuikuro) → first 90/90 (French Empire)
+- [x] Remote migrated to github.com/giodl73-repo/LUCIA
 
 ## BLOCKING
 (none)
 
-## HIGH PRIORITY (this session, remaining)
-- [x] Innovation threshold check: Voice (16 instances) and Book-Level Arc (3 instances) exceeded
-- [x] Adopt rubric v1.4 — Voice Spectrum + Book-Level Arc + Archaeological Figures
-- [ ] Final session 2 commit and handoff
+## HIGH PRIORITY (Session 3, Tier 1)
+- [ ] Colonial Empires cluster analysis — contradiction-as-engine pattern across 5 chapters, possible v1.7
+- [ ] Innovation threshold sweep — ~30 innovations at "logged," some may now cluster
+- [ ] Jamaica review integrity check
 
-## NEXT CANDIDATES
-- Complete more books: Tang (4 remaining eras), Haudenosaunee (4 remaining), San (remaining)
-- Complete more Fertile Crescent eras (Akkad has 2 more, Assyria has 4 more, Babylon has 4 more, etc.)
-- Write Norse/Vikings remaining eras (4 remaining)
-- Begin a Crossroads book (US or Haiti — modern test)
-- Scale: dispatch agents for the 7 remaining empty regions (3, 7, 12, 20, 23, 24, 26)
-- Write Mughal chapter (Region 15 — Akbar/Sulh-i-Kul)
-- Region sweep: Egypt (8 remaining), South Asia (14 remaining), or East Asia (20 remaining)
+## GROWTH (Session 3, Tier 2)
+- [ ] Complete more books: Tang (4 eras remaining), Haudenosaunee (4), Norse (4), San (3), Benin (4)
+- [ ] Cross-Compare R3 (115 chapters now; strategic sample)
+- [ ] Rewrite remaining 78/79 range (Lunda, Norse, Assyria, Cuba, Canada) — optional, pattern validated
 
-## METRICS
+## STRATEGIC (Session 3, Tier 3)
+- [ ] Manuscript architecture: how does 115 chapters become a book?
+- [ ] Write the Preface (LUCY's own voice)
+- [ ] Second-era chapters across 93 one-era cultures
+
+## METRICS (end of Session 2)
 | Metric | Value |
 |--------|-------|
-| Chapters locked | 78 |
+| Chapters locked | **115** |
 | Complete books | 3 (Mali, Inca, Rome) |
-| Complete regions | 8 (Sahel, Fertile Crescent, Diasporas, Egypt, Central Africa, Pacific Century, Amazonia) |
-| Regions with chapters | 23 / 26 |
-| Peoples with chapters | 66 / 259 |
-| Rubric version | v1.6 |
-| Mean score | ~81.6 / 90 |
-| Score ceiling | 89/90 (Kuikuro) |
-| Board reviewers | 181 |
-| Voice types confirmed | 40+ |
-| Terminal condition types | 10 |
-| Structural engine types | 45+ |
-| Estimated words | ~445,000 |
-| Default SCRIBE model | Sonnet (validated Session 2) |
+| Complete regions | **12** |
+| Regions active | **26 / 26** |
+| Peoples with chapters | 93+ / 259 |
+| Rubric version | **v1.6** |
+| Mean score | ~82.5 / 90 |
+| Score ceiling | **90** (French Empire) |
+| 89+ chapters | 6 |
+| Board reviewers | 220+ |
+| Voice registers | 50+ |
+| Terminal-condition types | 12 |
+| Estimated words | ~680,000 |
+| Default SCRIBE model | Sonnet |
+| Remote | giodl73-repo/LUCIA |
