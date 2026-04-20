@@ -1,73 +1,37 @@
-# Miji ya Pwani — "The Coastal Towns"
+# Swahili City-States
 
-The Swahili are not an import. They are not Arab culture transplanted to an African shore. They are the product of the Indian Ocean — the specific, irreducible culture that emerged when Bantu-speaking fishing and farming communities of the East African coast began engaging with the maritime trade world from approximately the eighth century CE onward, and built their own language, their own architecture, their own cuisine, their own Islam, and their own political culture from the intersection of these encounters. Swahili is the language of this culture — a Bantu language with an Arabic vocabulary that covers trade, religion, and the sea, because those are the domains where Arabic entered. The people who speak it have been building coral mosques and mangrove-roofed houses and managing the monsoon calendar for a thousand years. They did this on their own terms.
+The coast speaks two languages at once. It speaks Bantu, the deep grammar of the African interior, the language family that spread south and east from the western forests over millennia, carrying farming and ironworking and a way of organizing kinship that the coast still recognizes. And it speaks the ocean, the Arabic and Persian and Gujarati words that the monsoon carried in with the dhows and that settled into the language the way coral settles onto reef: not replacing the structure but becoming part of it. The language they made from this mixing they called Kiswahili, the language of the coast, and it carried both inheritances in every sentence.
 
-Kilwa Kisiwani — the island city that controlled the gold trade from the Zimbabwe plateau through the port of Sofala — was the wealthiest city on the East African coast at its peak in the thirteenth and fourteenth centuries. The great mosque of Kilwa, built in coral and lime mortar in the eleventh century and expanded across two hundred years, is the largest mosque in sub-Saharan Africa in the medieval period. Ibn Battuta, who visited Kilwa in 1331, called it one of the most beautiful cities in the world. He was not being polite; he was comparing it to Cairo, Damascus, and the cities of India, and he was saying it belonged in that company. The Swahili cities were not African outposts of a foreign trade system; they were the organizers of it, the people who built the port infrastructure, the warehousing, the credit networks, and the inland connections that made the Indian Ocean trade work on the African side.
+The Swahili are not a people who received civilization from the sea. They are a people who built a civilization where the land met the sea, using what both offered. The Bantu-speaking fishing communities who settled the East African coast in the first centuries of the common era were already ironworkers, already farmers, already organized into kinship networks that governed land use and social obligation. When the monsoon trade brought Arab and Persian merchants to their harbors, the encounter produced something new: not Arab, not purely Bantu, but Swahili. A coastal culture that prayed in Arabic and governed in Bantu, that built in coral stone and traded in gold and ivory, that looked outward to Shiraz and Oman and Gujarat and inward to the Great Zimbabwe and the copper country of Katanga.
 
-## Their World
+---
 
-```
-         RED SEA /
-         GULF OF ADEN
-              |
-    ─────────────────────────────────────
-    SWAHILI COAST (north to south)
-    ─────────────────────────────────────
-    MOGADISHU        INDIAN
-    (northern city)   OCEAN
-    MALINDI           ←───── MONSOON
-    MOMBASA                   ROUTES
-    ZANZIBAR         ←───── TO ARABIA,
-    KILWA                     INDIA,
-    SOFALA                    SE ASIA
-    (southern;
-     Zimbabwe gold
-     portal)
+## The Eras
 
-         N
-         ↑
-    W ←──+──→ E       ≈ 2,500 km, Mogadishu to Sofala
-         ↓
-         S
-```
+### Era 1: The Early Coast (c. 200-1000 CE)
+*Bantu fishing communities, early ironworking, first monsoon contacts*
 
-Key places:
-- **Kilwa Kisiwani** — the gold trade hub; the great mosque; the most powerful Swahili city-state
-- **Mombasa** — the northern anchor; the fortified island city; Fort Jesus (Portuguese, 1593)
-- **Zanzibar** — the coral island; later the center of Omani-Swahili commercial empire
-- **Sofala** — the southern port; the entry point for Zimbabwe plateau gold
-- **Malindi** — the northern rival to Mombasa; the city that welcomed Vasco da Gama
+The earliest settlements are small, impermanent, scattered along the coast from the Lamu archipelago to the Mozambique Channel. Pottery traditions are local. Iron is smelted. The monsoon brings the first foreign traders, and the first exchange begins: African ivory and iron for glass beads and cloth. The settlements grow. Some begin to build in coral stone. Islam arrives, not as conquest but as a faith carried by merchants who stayed.
 
-## Their Time
+### Era 2: The Classic Swahili Period (c. 1000-1300 CE)
+*Stone towns rise, monsoon trade networks mature, the synthesis deepens*
 
-| Era | Their Name | Common Era | Key Theme |
-|-----|-----------|------------|-----------|
-| 1 | The Formation of the Swahili World | c. 800–1000 CE | Bantu farming and fishing communities begin engaging with the monsoon trade; the first towns form |
-| 2 | The Classic Swahili Period | c. 1000–1300 CE | The stone-built cities; the great mosques; Kilwa's rise; the gold trade established |
-| 3 | The High Kilwa Period | c. 1300–1500 CE | Kilwa at its peak; Ibn Battuta's visit; Chinese porcelain; the Zimbabwe connection |
-| 4 | The Portuguese Disruption | c. 1500–1698 CE | Portuguese forced trade and violence; the Swahili cities under siege; Mombasa's resistance |
-| 5 | The Omani Period and After | c. 1698–1900 CE | Omani rulers at Zanzibar; the clove economy; the interior slave trade; the colonial partition |
+The stone towns come into their own. Kilwa, Mogadishu, Mombasa, Lamu, Zanzibar, Mafia, the Comoros. Coral-rag mosques rise beside mangrove-pole houses. The trade networks reach their mature form: gold from the Zimbabwe plateau, ivory from the interior, iron and timber from the coast, exchanged for cloth from Gujarat, ceramics from China, glass beads from the Middle East. Kilwa mints its own copper coins. The Swahili identity crystallizes: Bantu language, Islamic faith, oceanic commerce, African governance. The towns govern themselves as independent city-states, each with its own ruling lineage, its own harbor, its own hinterland relationships.
 
-## What Defined Them
+### Era 3: Kilwa Ascendancy (c. 1200-1500 CE)
+*Kilwa dominates the southern trade, Husuni Kubwa rises, the gold corridor*
 
-**The monsoon as political calendar.** The Swahili knew the monsoon with the intimacy of people whose entire commercial year was organized by it. The northeast monsoon (kaskazi) blew from November to March, bringing dhows south from Arabia and India. The southwest monsoon (kusi) blew from April to October, sending the dhows home. The Swahili merchant who ran a coastal city organized his warehousing, his credit arrangements, his diplomatic relationships, and his commercial deals around this biannual calendar. There was no point in fighting the monsoon; you worked with it or you went out of business. The monsoon calendar shaped the entire political and economic rhythm of the coast for a thousand years.
+Kilwa Kisiwani becomes the wealthiest city on the coast, controlling the gold trade from Sofala and the Zimbabwe plateau. The sultan builds Husuni Kubwa, the largest pre-colonial building in sub-Saharan Africa south of the Sahara. Chinese porcelain fills the niches of coral-stone houses. Ibn Battuta visits in 1331 and calls Kilwa one of the most beautiful cities in the world. The city-states remain independent but Kilwa's commercial dominance shapes the coast's politics.
 
-**Coral and mangrove — the architecture of the coast.** The Swahili stone towns were built from coral — the fossil coral of ancient reefs, cut into blocks and laid in lime mortar. Coral is a surprisingly workable building material: relatively light, available everywhere on the coast, and capable of being carved into the elaborate decorative niches, window frames, and doorframes that characterize Swahili urban architecture. The mangrove poles of the coastal forests provided the roof beams. The resulting architecture — clean white coral walls, intricately carved wooden doors, interior courtyards with wells — was functional, aesthetically sophisticated, and specifically adapted to the coastal environment. The Swahili house type is one of the most distinctive vernacular architectures in the world.
+### Era 4: The Portuguese Disruption (1498-1700s)
+*Vasco da Gama arrives, Fort Jesus rises, the coast fights back*
 
-**The Kilwa gold connection.** The gold of Great Zimbabwe traveled east from the plateau through the Zambezi valley to the port of Sofala, where it was loaded onto Swahili ships that carried it north to Kilwa and then into the Indian Ocean trade. Chinese porcelain, Indian cloth, glass beads from Egypt and the Persian Gulf — goods from across the Indian Ocean world — traveled the same route in reverse and ended up on the Zimbabwe plateau. The Kilwa sultans who organized this trade built the city whose ruins are now a UNESCO World Heritage Site. The wealth was real, the organization was deliberate, and the connection between the Zimbabwe highland economy and the Indian Ocean world was direct and sustained for centuries.
+The Portuguese round the Cape and enter the Indian Ocean. They bombard Kilwa, sack Mombasa, build Fort Jesus, and attempt to monopolize the gold trade. The coast resists. The Omani Arabs are invited to help expel the Portuguese. The old trading system is damaged but not destroyed. The Swahili cities adapt, endure, rebuild. The monsoon still blows.
 
-**The Portuguese violence and its limits.** When Vasco da Gama arrived on the East African coast in 1498, the Swahili cities were prosperous, well-organized, and part of a commercial system that had been functioning for five hundred years without Portuguese participation. The Portuguese response — forced tribute, bombardment, the disruption of trade routes to squeeze out other competitors — devastated many of the Swahili cities without actually replacing the trade system. The Swahili did not simply accept Portuguese domination; Mombasa fought back repeatedly, including a famous attack on the Portuguese in 1505, and the Swahili-Omani alliance eventually expelled the Portuguese from most of the coast in 1698.
+---
 
-**Swahili Islam as a distinctive tradition.** The Islam of the Swahili coast was not simply Arabian Islam transplanted. It was a tradition that developed its own forms of practice, its own Sufi brotherhoods, its own calendar of festivals, and its own relationship to the spiritual forces of the coast — the jinn who inhabit certain trees and crossroads, the ancestral spirits who must be honored, the healing ceremonies that blend Islamic and older Bantu spiritual practices. The Swahili scholars who taught in the coastal mosques were trained in both the Arabic Islamic scholarly tradition and the local spiritual landscape. The result was a living synthesis that was recognizably Islamic and specifically coastal East African simultaneously.
+## Voice Notes
 
-## The Chapters
+The Swahili voice is maritime. It moves like the monsoon: gathering, building, arriving, settling, then reversing. The prose rhythm should carry the pull and release of tides, the patient accumulation of coral, the layering of African and oceanic elements that defines Swahili civilization. This is not a steppe voice (short, forward, relentless) or a court voice (layered, slow, observational). It is a coastal voice: rhythmic, synthetic, patient, with the long breath of ocean crossings and the intimate knowledge of harbors.
 
-**1 — The First Town:** A Bantu-speaking fishing community on the coast has built the first stone structure in the village — not a house but a mosque. The imam is a local man who learned the prayers from a merchant from Oman. Both men consider themselves Muslims. The mosque is small. It will be expanded five times in the next two centuries.
-
-**2 — Kilwa at Its Peak:** Ibn Battuta is being shown the great mosque. He has seen the mosques of Cairo and Damascus and Delhi. He is telling his host that this is remarkable. His host accepts the compliment without surprise. He knows what they have built. He knows what the gold trade has made possible.
-
-**3 — The Chinese Porcelain:** A Kilwa merchant is unpacking a crate of Chinese blue-and-white porcelain. It has come from China to India to Kilwa in a series of exchanges that neither the maker nor the buyer directly organized. In the ruins of Great Zimbabwe, 2,000 kilometers away, the same type of pot will be found. The trade route is real. The connection is real.
-
-**4 — The Portuguese Demand:** A Portuguese captain is in Mombasa harbor with cannon. He is requiring tribute. The Swahili merchants of Mombasa are calculating: pay and be degraded, or fight and risk the ships. They fight. They will fight again and again. The Portuguese will still be in Fort Jesus two hundred years from now. But so will Mombasa.
-
-**5 — The Monsoon's Return:** An Omani dhow is arriving at Zanzibar. The clove trees are in blossom. The enslaved people working them are from the interior. A Swahili merchant on the dock is watching the dhow and calculating. The monsoon has brought wealth and suffering on the same wind, and this has been true for as long as anyone can remember.
+The structural engine for the Classic Period is the synthesis itself: the ongoing fusion of Bantu and oceanic elements into something that is neither and both. The monsoon is not just weather; it is the civilization's clock, its commercial calendar, its connection to the wider world. The coral is not just building material; it is the coast's own geology becoming architecture.
