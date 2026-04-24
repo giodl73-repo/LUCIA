@@ -61,6 +61,8 @@ workflow:
     description: "Write review focusing on accuracy of the material record claims."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-2 — Anna Roosevelt (model)
 
 Board reviewer for Marajoara archaeology, settlement patterns, and paleodemography.

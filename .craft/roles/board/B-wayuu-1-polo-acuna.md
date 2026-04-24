@@ -7,6 +7,8 @@ expertise: colonial history of the Guajira, indigenous-colonial relations in 18t
 
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-Wayúu-1 — José Polo Acuña
 
 ## Background

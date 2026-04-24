@@ -7,6 +7,8 @@ key_work: "Recreating Africa: Culture, Kinship, and Religion in the African-Port
 status: active
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-3 — James H. Sweet
 
 Professor of History, University of Virginia. *Recreating Africa* (2003) examines how enslaved Africans in colonial Brazil recreated African cultural, religious, and healing practices. Sweet's work demonstrates that the enslaved were not passive recipients of colonial culture but active agents who reconstituted African social and spiritual systems under extreme duress. His research on divination, healing, and spirit possession in colonial Brazil provides the granular evidence for the body-archive thesis.

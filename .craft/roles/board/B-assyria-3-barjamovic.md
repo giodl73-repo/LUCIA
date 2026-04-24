@@ -42,6 +42,8 @@ workflow:
     description: "Write review focusing on the accuracy of the geographical and logistical dimensions."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-assyria-3 — Gojko Barjamovic (model)
 
 Gojko Barjamovic is a Danish-Serbian Assyriologist at Harvard whose *A Historical Geography of Anatolia in the Old Assyrian Colony Period* (2011) reconstructed the trade routes and political geography of the karum network from the itinerary tablets in the Kultepe archive.

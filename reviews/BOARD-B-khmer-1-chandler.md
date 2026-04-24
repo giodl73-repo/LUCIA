@@ -1,3 +1,5 @@
+> **Note:** This is an AI-generated simulated review, written by Claude in the voice of a named-expert persona. It is not an actual review by the named person and does not reflect their views or endorsement.
+
 ## B-khmer-1 — David Chandler — Board Review of Classical Angkor
 
 **Expertise relevant to this chapter:** Khmer political history from the Angkor period through the modern era; the epigraphic record; the devaraja system; resistance to the Indianization framework.

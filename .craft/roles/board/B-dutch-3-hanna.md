@@ -7,6 +7,8 @@ specialty: Banda Islands history, Bandanese society and spice trade, post-massac
 source: Indonesian Banda (1978, American Universities Field Staff)
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-Dutch-3 — Willard Hanna (Banda Islands History)
 
 ## Background

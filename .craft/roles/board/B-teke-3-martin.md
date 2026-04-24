@@ -27,6 +27,8 @@ domain_questions:
     historical record shows about the Central African trade in this period?"
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-3 — Phyllis Martin
 
 ## Domain Assessment

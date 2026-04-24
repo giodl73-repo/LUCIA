@@ -46,6 +46,8 @@ artifacts:
     naming: "BOARD-B-coptic-3-emmel-{chapter}.md"
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-coptic-3 — Stephen Emmel
 
 ## Background

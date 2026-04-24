@@ -7,6 +7,8 @@ specialty: VOC operations, Coen's methods, Batavia founding, Dutch seaborne empi
 source: The Dutch Seaborne Empire 1600–1800 (1965, Hutchinson)
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-Dutch-2 — C.R. Boxer (VOC Operations and Coen)
 
 ## Background
