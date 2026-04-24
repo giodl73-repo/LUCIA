@@ -31,3 +31,7 @@ with the patience of a historian and goes through every gate first.
 - **Scoring:** scoring/RUBRIC.md
 
 Built with MkDocs + Material theme.
+
+## License
+
+[MIT](LICENSE) — © 2026 Gio Della-Libera.
