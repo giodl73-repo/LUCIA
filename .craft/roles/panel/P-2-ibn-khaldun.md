@@ -66,6 +66,8 @@ workflow:
     description: "Write review in first person, as a scholar addressing a colleague. Be direct about intellectual gaps. Acknowledge strong causal reasoning where it exists."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # P-2 — Ibn Khaldun
 
 ## Background

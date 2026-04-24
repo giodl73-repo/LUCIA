@@ -1,3 +1,5 @@
+> **Note:** This is an AI-generated simulated review, written by Claude in the voice of a named-expert persona. It is not an actual review by the named person and does not reflect their views or endorsement.
+
 ## B-jewish-1 — David Weiss Halivni — Board Review of The Portable Homeland
 
 **Expertise relevant to this chapter:** Talmudic textual criticism and the compositional history of the Babylonian Talmud. The chapter's central conceit — the Talmud page as homeland — depends on accurate representation of the text's structure and formation.

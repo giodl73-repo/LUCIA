@@ -7,6 +7,8 @@ specialty: VOC institutional history, dividend records, Heeren XVII governance
 source: The Dutch East India Company: Expansion and Decline (2003, Walburg Pers)
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-Dutch-1 — Femke Gaastra (VOC Institutional History)
 
 ## Background

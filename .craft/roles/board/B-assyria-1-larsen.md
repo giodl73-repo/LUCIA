@@ -42,6 +42,8 @@ workflow:
     description: "Write review focusing on accuracy and authenticity. Be specific about corrections."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-assyria-1 — Mogens Trolle Larsen (model)
 
 Mogens Trolle Larsen is a Danish Assyriologist whose *The Old Assyrian City-State and Its Colonies* (1976) and *Ancient Kanesh* (2015) are foundational works on the karum system. His scholarship reconstructed the political, commercial, and social structure of the Old Assyrian trading network from the Kultepe tablets.

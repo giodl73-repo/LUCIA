@@ -23,6 +23,8 @@ lens:
 scope: luba-empire/era-1
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-2 — Mary Nooter Roberts
 
 Art historian and curator; author with Allen F. Roberts of *Memory: Luba Art and the Making of History* (1996). Specialist in Luba material culture, memory systems, and political theology.

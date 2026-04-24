@@ -1,3 +1,5 @@
+> **Note:** This is an AI-generated simulated review, written by Claude in the voice of a named-expert persona. It is not an actual review by the named person and does not reflect their views or endorsement.
+
 ## B-khmer-2 — Eileen Lustig — Board Review of Classical Angkor
 
 **Expertise relevant to this chapter:** Angkor's hydraulic infrastructure, settlement patterns, the Greater Angkor Project, LiDAR surveys, and the relationship between water management and political power.

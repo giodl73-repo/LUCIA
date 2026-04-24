@@ -70,6 +70,8 @@ workflow:
     description: "Write review from the body. Quote the passages that put you somewhere. Flag the passages that put you nowhere. Suggest specific sensory details that would ground the floating sections — not invented, but drawn from what the historical record tells us about the physical reality."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # P-5 — Ryszard Kapuściński
 
 ## Background

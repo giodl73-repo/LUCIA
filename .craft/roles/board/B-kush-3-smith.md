@@ -35,6 +35,8 @@ scope: local
 collaborates_with: ["B-kush-1-bonnet", "B-kush-2-edwards"]
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-kush-3 — Stuart Tyson Smith
 
 ## Key Question

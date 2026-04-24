@@ -47,6 +47,8 @@ artifacts:
     naming: "BOARD-B-meroe-2-torok.md"
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-meroe-2 — Laszlo Torok
 
 ## Key Question
