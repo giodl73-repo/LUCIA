@@ -417,6 +417,25 @@ Built with MkDocs + Material theme.
 ## Author
 
 Giovanni Della-Libera. Phase 1 started 2026-04-14.
+
+---
+
+## Research
+
+Nine papers examining typology emergence in the chronicle pipeline. Markdown sources in [`research/papers/`](research/papers/).
+
+- [The Innovation Engine: Detection Mechanisms for Emergent Quality Criteria in AI-Assisted Production](research/papers/chron-innovation-engine/main.md)
+- [Forward-Only Rubric Evolution: Stability Under a Discovery-Driven Quality Standard](research/papers/chron-forward-only-amendment/main.md)
+- [Typology Saturation: Convergence Evidence in a Self-Evolving Quality Rubric](research/papers/chron-typology-saturation/main.md)
+- [The Voice Spectrum: An Empirical Typology of Prose Registers Discovered Through AI-Assisted Production](research/papers/chron-voice-spectrum/main.md)
+- [Structural Engines as Cross-Cultural Narrative Types: A Taxonomy From a 115-Chapter Corpus](research/papers/chron-structural-engines/main.md)
+- [Terminal Condition Types: Closure Taxonomy From Empirical Chapter Endings](research/papers/chron-terminal-conditions/main.md)
+- [Model Substrate Effects in Structured Creative Production: Opus vs Sonnet vs Haiku](research/papers/chron-model-substrate/main.md)
+- [The Pipeline as Epistemic Instrument: Discipline-Compliance and Discovery Rate](research/papers/chron-pipeline-instrument/main.md)
+- [Conditions for Typology Emergence in AI-Assisted Creative Domains: A Falsifiable Generalization](research/papers/chron-emergence-conditions/main.md)
+
+---
+
 ## License
 
 [MIT](LICENSE) — © 2026 Gio Della-Libera.
