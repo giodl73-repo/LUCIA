@@ -60,6 +60,8 @@ workflow:
     description: "Write review focusing on inside voice, colonial filter navigation, and ethnohistorical accuracy."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-inca-3 — Frank Salomon
 
 ## Background

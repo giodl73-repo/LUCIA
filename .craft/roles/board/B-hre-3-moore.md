@@ -6,6 +6,8 @@ specialty: popular-reform-social-history
 status: living
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-HRE-3 — R.I. Moore
 
 ## Background

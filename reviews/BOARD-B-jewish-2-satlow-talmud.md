@@ -1,3 +1,5 @@
+> **Note:** This is an AI-generated simulated review, written by Claude in the voice of a named-expert persona. It is not an actual review by the named person and does not reflect their views or endorsement.
+
 ## B-jewish-2 — Michael Satlow — Board Review of The Portable Homeland
 
 **Expertise relevant to this chapter:** Jewish social history and the actual functioning of rabbinic institutions in the Roman and Sasanian empires. The chapter's narrative of rabbinic Judaism replacing Temple Judaism needs scrutiny against the historical evidence for how that process actually unfolded.

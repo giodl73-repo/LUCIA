@@ -23,6 +23,8 @@ lens:
 scope: luba-empire/era-1
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-1 — Pierre de Maret
 
 Central African archaeologist; specialist in the Upemba Depression Iron Age sequence and the Kisalian cultural phase. Has conducted multiple excavation seasons in the region and published the definitive archaeological chronology of the Luba heartland.

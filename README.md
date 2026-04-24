@@ -417,3 +417,6 @@ Built with MkDocs + Material theme.
 ## Author
 
 Giovanni Della-Libera. Phase 1 started 2026-04-14.
+## License
+
+[MIT](LICENSE) — © 2026 Gio Della-Libera.

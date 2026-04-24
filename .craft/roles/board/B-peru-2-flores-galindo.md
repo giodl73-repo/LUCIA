@@ -59,6 +59,8 @@ workflow:
     description: "Write review focusing on the chapter's handling of Andean utopianism and cosmological continuity."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-peru-2 — Alberto Flores Galindo
 
 ## Background

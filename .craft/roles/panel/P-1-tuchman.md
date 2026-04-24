@@ -63,6 +63,8 @@ workflow:
     description: "Write review in first person. Be specific — cite sections, quote phrases. Say what works and why. Say what fails and how to fix it."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # P-1 — Barbara Tuchman
 
 ## Background

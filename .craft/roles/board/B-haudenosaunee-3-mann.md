@@ -30,6 +30,8 @@ expertise:
     The 1142 CE founding date hypothesis.
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-3 — Barbara Alice Mann (Haudenosaunee Women's Authority & Cultural Authenticity)
 
 Domain expert and Seneca community member. Checks representation of women's

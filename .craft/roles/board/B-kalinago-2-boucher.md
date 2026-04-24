@@ -42,6 +42,8 @@ artifacts:
     naming: "BOARD-kalinago-2-boucher.md"
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-Kalinago-2 — Philip Boucher
 
 Philip Boucher is an historian of the French Caribbean whose *Cannibal

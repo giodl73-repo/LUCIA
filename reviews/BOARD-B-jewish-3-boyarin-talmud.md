@@ -1,3 +1,5 @@
+> **Note:** This is an AI-generated simulated review, written by Claude in the voice of a named-expert persona. It is not an actual review by the named person and does not reflect their views or endorsement.
+
 ## B-jewish-3 — Daniel Boyarin — Board Review of The Portable Homeland
 
 **Expertise relevant to this chapter:** The Talmud's literary and cultural dimensions, aggadic narrative, and the rabbinic project's late-antique context. The chapter must capture the Talmud as literature, not merely as law.

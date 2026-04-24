@@ -1,3 +1,5 @@
+> **Note:** This is an AI-generated simulated review, written by Claude in the voice of a named-expert persona. It is not an actual review by the named person and does not reflect their views or endorsement.
+
 ## B-egypt-3 — Barry Kemp — Board Review of The Age of the Great Pyramids
 
 **Expertise relevant to this chapter:** Old Kingdom social structure, provincial administration, centralization and fragmentation, economic systems.

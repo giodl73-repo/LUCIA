@@ -63,6 +63,8 @@ workflow:
     description: "Focus on cultural authenticity and the consistency of the chapter's political theology with the ethnographic record."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-lunda-3 — James Pritchett
 
 ## Background
