@@ -2,7 +2,7 @@
 
 The story of every human culture, told from inside their own worldview.
 
-26 regions. ~260 peoples. 115 chapters locked. The Aztecs tell the Aztec
+**26 regions. 259 peoples. 115 chapters locked.** The Aztecs tell the Aztec
 story. The Mongols tell the Mongol story. The Māori tell the Māori story.
 None of them know what happened next, because in their own telling the
 present was the whole world.
@@ -11,12 +11,69 @@ New here? Start with the **[Preface](PREFACE.md)**, then pick a book below.
 
 ---
 
-## The Rule
+## What This Is
 
-The text never steps outside a culture's worldview to judge. No people is
-measured against another's standards. The reader stands inside, not above.
+LUCIA is a narrative encyclopedia of human civilization, written under a
+single editorial rule and scored by an evolving rubric. It is not a textbook.
+It is not a timeline. It is a library of cultures, each rendered as prose
+from inside, each carrying the same quality bar, each produced by the same
+pipeline.
+
+Every chapter is the output of an 11-stage production process: a hook
+scene, two scored quality gates, five panel voices (narrative, systems,
+cultural, anthropological, sensory), three editorial lenses (judgment,
+voice, compression), and a culture-specific board of domain experts. No
+chapter is locked until every gate passes.
+
+The rubric is not fixed. When a chapter produces something the rubric did
+not anticipate, it is logged. When two innovations cluster in the same
+dimension, the rubric version increments and the new bar applies forward
+only. The system learns from itself.
+
+---
+
+## The Four Rules
+
+1. **Present from within.** The text never steps outside a culture's
+   worldview to judge it. The Aztecs tell the Aztec story.
+2. **No historical judgment.** No people is measured against another's
+   standards. Periodization belongs to the culture — their era names, not
+   Western academic labels.
+3. **Story-first.** Each chapter opens with a scene: a real person, a real
+   moment, holding something specific. Context emerges from narrative.
+4. **Evolving quality.** The rubric is a learning system. When something
+   exceptional appears, it is captured, and the bar rises.
 
 Full philosophy in **[CLAUDE.md](CLAUDE.md)** — LUCY's house rules.
+
+**The Achebe Test:** could a thoughtful member of this culture read this
+and feel their story was told with dignity, from inside, regardless of
+whether they agreed with every detail?
+
+---
+
+## Emergent Skills AI — the pattern LUCIA originated
+
+LUCIA is the first in a family of **Emergent Skills AI** projects —
+systems where skills, rubrics, and categories are *discovered through
+use* rather than designed up front. The discipline:
+
+> write → score → notice surprises → log surprises → cluster surprises
+> → update rubric → write the next thing at the raised bar.
+
+Nothing in the catalogs is pre-seeded. The [voice
+spectrum](guides/VOICE-SPECTRUM.md) (16+ registers across 27 cultures),
+the rubric amendments (v1.0 → v1.7), the innovation log entries — all
+promoted from observed craft, not designed in advance.
+
+Sibling projects that port the pattern to other media:
+
+| Project | Medium | Lives at |
+|---|---|---|
+| **LUCIA** (this repo) | Long-form cultural history | `C:\src\chronicle` |
+| **QUEST** / marathon | D&D 5e adventure workshop | `C:\src\marathon` |
+| **CERES** / artisan | Local-production economics | `C:\src\artisan` |
+| **FELIX / RMM** | (internal) | `C:\src\rmm` |
 
 ---
 
@@ -105,6 +162,9 @@ Full spec: **[guides/PIPELINE.md](guides/PIPELINE.md)** · House style:
 **[guides/STYLE-GUIDE.md](guides/STYLE-GUIDE.md)** · Chapter how-to:
 **[guides/HOW-TO-WRITE-A-CHAPTER.md](guides/HOW-TO-WRITE-A-CHAPTER.md)**.
 
+**Anchor rule:** one region, one people, one era through all 11 stages
+before scaling. Mali Empire was the Phase 2 anchor.
+
 ---
 
 ## The Skills — Pipeline as Slash-Commands
@@ -175,9 +235,17 @@ Chapters are scored across two rubrics totalling **90 points**.
 | **The Gate** (openings) | Scene · World · Honesty · Texture · Voice · Pull | 30 | 24+ |
 | **The Chronicle** (chapters) | Immersion · Evidence · Progression · Figures · Voice · Landing | 60 | 48+ |
 
-The rubric is not fixed. When a chapter produces something exceptional that
-the rubric did not anticipate, it gets logged; once a cluster forms, the
-rubric version increments and the new bar applies forward only.
+### The learning loop
+
+The rubric is not fixed. It updates through an append-only discipline:
+
+1. **Score** against the locked version at the time the chapter started.
+2. **Surface** anything exceptional the rubric did not anticipate.
+3. **Log** it in [`scoring/INNOVATIONS.md`](scoring/INNOVATIONS.md).
+4. **Cluster:** two innovations in the same dimension trigger a rubric
+   amendment proposal.
+5. **Ratify:** the rubric version bumps.
+6. **Forward-only:** no earlier chapter is re-scored.
 
 - **Current rubric:** [v1.7](scoring/RUBRIC.md) (2026-04-19)
 - **Innovation log:** [scoring/INNOVATIONS.md](scoring/INNOVATIONS.md)
@@ -185,6 +253,139 @@ rubric version increments and the new bar applies forward only.
 - **Voice spectrum:** [guides/VOICE-SPECTRUM.md](guides/VOICE-SPECTRUM.md) — 16+ registers catalogued across 27 cultures
 
 Amendment history lives in the changelog at the top of the rubric.
+
+---
+
+## Repo Layout
+
+```
+chronicle/
+├── README.md                  ← this file
+├── PREFACE.md                 ← reader entry point (LUCY's voice)
+├── CLAUDE.md                  ← house rules (the editorial rule, forbidden framings)
+├── TRACKER.md                 ← living per-region status table
+│
+├── regions/                   ← the chronicle itself
+│   └── NN-<region-slug>/
+│       ├── 00-LANDSCAPE.md
+│       ├── SOURCES.md
+│       └── <people-slug>/
+│           ├── 00-OVERVIEW.md
+│           └── eras/NN-<era-slug>/
+│               ├── opening.md     (~800w hook scene)
+│               ├── notes.md       (production bible)
+│               ├── chapter.md     (~5000w)
+│               ├── figures.md
+│               └── reviews/       (R1-*, R2-*, BOARD-*)
+│
+├── skills/                    ← 14 slash-command skills (the pipeline)
+│   ├── chronicle-e2e/         end-to-end orchestrator
+│   └── chronicle-*/           one per stage + quality/evolution tools
+│
+├── .craft/roles/              ← reviewer voices
+│   ├── panel/                 5 permanent panel voices
+│   ├── editorial/             3 finishing lenses
+│   └── board/                 culture-specific domain experts
+│
+├── scoring/
+│   ├── RUBRIC.md              Gate + Chronicle rubrics (versioned)
+│   ├── INNOVATIONS.md         append-only surprise log
+│   ├── CROSS-COMPARE-R*.md    cluster analyses
+│   └── TARGETS.md             per-region quality targets
+│
+├── guides/                    style, pipeline, voice spectrum, how-to
+├── sources/                   source registry + MASTER.md
+└── docs/                      design specs
+```
+
+---
+
+## Track Record
+
+**Phase 2 — Anchor Region Pipeline (in progress):**
+
+| Metric | Status |
+|---|---|
+| Regions with landscape files | 26 / 26 |
+| Peoples with overviews | 259 / 259 |
+| Chapters locked | 115 |
+| Full five-era books | 3 (Mali, Inca, Rome) |
+| Rubric version | v1.7 (from v1.0) |
+| Voice registers catalogued | 16+ across 27 cultures |
+
+**Regions fully populated** (all peoples have at least one locked chapter):
+West Africa Sahel (12), Western Christendom (13), Americas Reborn (10),
+Egypt & Nile (9), Iran & Persianate (9), Fertile Crescent (8),
+Amazonia/Caribbean (8), Diasporas (6), Central Africa (6), Andes (5),
+Mediterranean (5), Colonial Empires (5), Pacific Century (5).
+
+See [`TRACKER.md`](TRACKER.md) for the live table.
+
+---
+
+## Getting Oriented
+
+- **Reader:** start with [`PREFACE.md`](PREFACE.md), then pick a featured
+  book. Five eras read as a novel.
+- **New contributor:** read [`CLAUDE.md`](CLAUDE.md) (rules),
+  [`guides/STYLE-GUIDE.md`](guides/STYLE-GUIDE.md) (prose conventions),
+  and [`guides/HOW-TO-WRITE-A-CHAPTER.md`](guides/HOW-TO-WRITE-A-CHAPTER.md).
+- **Run the pipeline on a new culture:** open Claude Code in the repo and
+  invoke `/chronicle-e2e` with the region, people, and era. The
+  orchestrator walks every stage with gates enforced.
+- **Understand the learning loop:** [`scoring/RUBRIC.md`](scoring/RUBRIC.md)
+  changelog + [`scoring/INNOVATIONS.md`](scoring/INNOVATIONS.md).
+- **See the pattern across sibling projects:** the Emergent Skills AI
+  family (this repo, marathon, artisan) shares the same skeleton in
+  different media.
+
+---
+
+## Source Tiers
+
+| Tier | Type | Use |
+|------|------|-----|
+| 1 | Primary sources | Gold standard. Original texts, inscriptions, oral traditions. |
+| 2 | Academic | Peer-reviewed journals, university press monographs. |
+| 3 | Scholarly secondary | Historian books, museum publications. |
+| 4 | Reference | Wikipedia for dates/facts only. Prefer underlying papers. |
+| 5 | Do not use | Grokipedia, mirrors, pop YouTube, unsourced blogs, unverified AI. |
+
+Source registry: **[sources/MASTER.md](sources/MASTER.md)**.
+
+---
+
+## Non-Goals
+
+- **Not a textbook.** No pedagogical framing, no comprehension questions,
+  no comparative framing across cultures within a chapter.
+- **Not a timeline.** Periodization belongs to each culture in its own
+  terms. Cross-culture chronology lives elsewhere, if at all.
+- **Not a comparative religion / comparative civilization study.** Each
+  culture is told from inside. Comparison is the reader's work.
+- **Not fiction.** Scenes are drawn from primary and scholarly sources.
+  Every named person, object, and date is cited.
+- **Not exhaustive.** ~260 peoples, not every people who ever lived.
+  Coverage deepens over time; it does not aim to be complete.
+- **Not neutral-from-above.** Neutrality here means inside each culture's
+  worldview, not a view from nowhere.
+
+---
+
+## Conventions
+
+- **Markdown everywhere.** No YAML/JSON for chapters. Frontmatter is
+  minimal and human-readable.
+- **Regions are zero-padded** (`01` through `26`). People directories
+  are lowercase-hyphenated. Era directories are `NN-<era-slug>`.
+- **Never overwrite structural files silently** — `CLAUDE.md`,
+  `TRACKER.md`, `00-LANDSCAPE.md`, `00-OVERVIEW.md` are protected.
+- **Forbidden framings.** No *primitive*, *advanced*, *tribe*, *Dark
+  Ages*, *discovered by [Europeans]*, *the New World*. No
+  while-Europe-was-X framings. See [`CLAUDE.md`](CLAUDE.md).
+- **Every fact cited.** Uncited claims block chapters at Stage 9 (CLEAN).
+- **Innovations are append-only.** Amendments are versioned;
+  retroactive rescoring is never allowed.
 
 ---
 
@@ -210,3 +411,9 @@ themselves.
 | **Preface (reader entry point)** | [PREFACE.md](PREFACE.md) |
 
 Built with MkDocs + Material theme.
+
+---
+
+## Author
+
+Giovanni Della-Libera. Phase 1 started 2026-04-14.
