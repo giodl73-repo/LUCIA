@@ -41,3 +41,5 @@ workflow:
   - step: write
     description: "Write review as a linguist: precise, cautious, focused on what the evidence does and does not support."
 ---
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+

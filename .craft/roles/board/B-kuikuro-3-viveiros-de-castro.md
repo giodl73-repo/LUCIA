@@ -48,6 +48,8 @@ artifacts:
     naming: "BOARD-viveiros-de-castro.md"
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B — Eduardo Viveiros de Castro (Amazonian Anthropology)
 
 The chapter is reviewed for ontological accuracy in its treatment of Kuikuro social and cosmological categories.

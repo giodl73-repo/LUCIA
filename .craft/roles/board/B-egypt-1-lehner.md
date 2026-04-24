@@ -57,6 +57,8 @@ workflow:
     description: "Write review focusing on construction accuracy and the dignity of the labor force."
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-egypt-1 — Mark Lehner
 
 ## Background

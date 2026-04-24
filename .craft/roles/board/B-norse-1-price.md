@@ -58,3 +58,5 @@ workflow:
   - step: write
     description: "Write review focusing on accuracy, authenticity, and scholarly currency."
 ---
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+

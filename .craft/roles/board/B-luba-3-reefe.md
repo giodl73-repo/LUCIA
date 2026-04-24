@@ -23,6 +23,8 @@ lens:
 scope: luba-empire/era-1
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-3 — Thomas Q. Reefe
 
 Historian; author of *The Rainbow and the Kings: A History of the Luba Empire to 1891* (1981, University of California Press). The standard political history of the Luba empire.

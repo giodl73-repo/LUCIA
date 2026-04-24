@@ -43,6 +43,8 @@ artifacts:
     naming: "BOARD-kalinago-1-whitehead.md"
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-Kalinago-1 — Neil Whitehead
 
 Neil Whitehead (1956–2012) was the leading scholar of Carib/Kalinago history

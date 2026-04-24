@@ -1,3 +1,5 @@
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # B-armenian-1 -- Nina Garsoian
 
 **Expertise:** Ancient and early medieval Armenian history; Armenia between Byzantium and the Sasanians; the Arsacid period; the conversion; the nakharar system.
