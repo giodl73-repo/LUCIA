@@ -14,7 +14,7 @@ intellectual perspective, creating productive friction by design.
 
 ## The Five Voices
 
-Read each panel role file from `.craft/roles/panel/` before writing reviews.
+Read each panel role file from `.roles/panel/` before writing reviews.
 
 ### P-1 — Barbara Tuchman (Narrative Craft)
 
@@ -95,7 +95,7 @@ Write to `reviews/` directory:
 - Round 1: `R1-P1-tuchman.md`, `R1-P2-ibn-khaldun.md`, `R1-P3-achebe.md`, `R1-P4-davis.md`, `R1-P5-kapuscinski.md`
 - Round 2: `R2-P1-tuchman.md`, `R2-P2-ibn-khaldun.md`, `R2-P3-achebe.md`, `R2-P4-davis.md`, `R2-P5-kapuscinski.md`
 
-Role files: `.craft/roles/panel/P-1-tuchman.md` through `P-5-kapuscinski.md`
+Role files: `.roles/panel/P-1-tuchman.md` through `P-5-kapuscinski.md`
 Pipeline reference: `guides/PIPELINE.md` (Stages 3 and 5)
 
 ## Checklist

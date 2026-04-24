@@ -9,7 +9,7 @@
 **Tech Stack:** MkDocs + Material theme, Markdown, Python (MkDocs), Bash (serve script)
 
 **Spec:** `docs/superpowers/specs/2026-04-14-lucia-design.md`
-**Roles:** `.craft/roles/` (panel, editorial, board)
+**Roles:** `.roles/` (panel, editorial, board)
 
 ---
 
@@ -39,7 +39,7 @@ chronicle/
 │   ├── ACQUISITION.md                     ← Task 6
 │   └── by-region/                         ← Task 6
 │       └── (26 region source files)
-├── panel/                                 ← already done (.craft/roles/)
+├── panel/                                 ← already done (.roles/)
 ├── regions/
 │   ├── 01-mesoamerica/                    ← Tasks 8-13 (LANDSCAPE.md)
 │   │   ├── 00-LANDSCAPE.md               ← Tasks 14-19 (peoples + OVERVIEW.md)
@@ -108,7 +108,7 @@ This is LUCY's house rules — the most important file in the project. It must c
 11. **Safety rules** — never delete by regex, protect structural files, never glob outside scope
 12. **Directory conventions** — numbering (01-26 for regions), file naming (00-LANDSCAPE.md, 00-OVERVIEW.md, opening.md, chapter.md, notes.md, figures.md)
 
-Reference the full spec at `docs/superpowers/specs/2026-04-14-lucia-design.md` and the roles at `.craft/roles/ROLE.md`. Do NOT duplicate the full spec — CLAUDE.md is the session startup guide, not the archive.
+Reference the full spec at `docs/superpowers/specs/2026-04-14-lucia-design.md` and the roles at `.roles/ROLE.md`. Do NOT duplicate the full spec — CLAUDE.md is the session startup guide, not the archive.
 
 Tone: LUCY's voice — observant, direct, warm, disciplined. Not corporate. Not cute. The voice of a smart dog who runs a tight ship.
 
@@ -142,7 +142,7 @@ with the patience of a historian and goes through every gate first.
 ## Project
 
 - **Spec:** docs/superpowers/specs/2026-04-14-lucia-design.md
-- **Roles:** .craft/roles/
+- **Roles:** .roles/
 - **Style:** guides/STYLE-GUIDE.md
 - **Pipeline:** guides/PIPELINE.md
 - **Scoring:** scoring/RUBRIC.md
@@ -1028,7 +1028,7 @@ Once anchor is selected, write a detailed Phase 2 implementation plan for taking
 10. BOARD — create 2-3 board reviewers for this culture, run review
 11. FINAL — apply fixes, lock
 
-Also create the first 2-3 board reviewer roles in `.craft/roles/board/` specific to the anchor culture.
+Also create the first 2-3 board reviewer roles in `.roles/board/` specific to the anchor culture.
 
 - [ ] **Step 3: Commit the Phase 2 plan**
 

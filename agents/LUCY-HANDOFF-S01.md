@@ -36,10 +36,10 @@ If you're picking up from this session, read in this order:
 | Tracker | `TRACKER.md` | Complete |
 | Source Registry | `sources/MASTER.md` | Complete |
 | 13 Skills | `skills/` | Complete |
-| 5 Panel Reviewers | `.craft/roles/panel/` | Complete |
-| 3 Editorial Roles | `.craft/roles/editorial/` | Complete |
-| 49 Board Reviewers | `.craft/roles/board/` | Complete |
-| Board Role Template | `.craft/roles/board/ROLE.md` | Complete |
+| 5 Panel Reviewers | `.roles/panel/` | Complete |
+| 3 Editorial Roles | `.roles/editorial/` | Complete |
+| 49 Board Reviewers | `.roles/board/` | Complete |
+| Board Role Template | `.roles/board/ROLE.md` | Complete |
 | Agent Management System | `agents/` | Complete (this session) |
 
 ### Skills Created
@@ -321,7 +321,7 @@ C:\src\chronicle\
 │   ├── chronicle-inside-check.md     — Achebe Test verifier
 │   ├── chronicle-innovation.md       — Innovation logger
 │   └── chronicle-cross-compare.md    — Cross-chapter comparison
-├── .craft/roles/
+├── .roles/
 │   ├── panel/                        — 5 panel reviewers (Tuchman, Ibn Khaldun, Achebe, Davis, Kapuscinski)
 │   ├── editorial/                    — 3 editorial roles (Judgment Auditor, Voice Keeper, Compression Editor)
 │   └── board/                        — 49 board reviewers + ROLE.md template

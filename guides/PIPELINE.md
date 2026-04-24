@@ -166,7 +166,7 @@ proceeding. GATE-1 is a real gate — it does not wave things through.
 | | |
 |---|---|
 | **Artifact** | 5 review files: `reviews/R1-P1-tuchman.md`, `R1-P2-ibn-khaldun.md`, `R1-P3-achebe.md`, `R1-P4-davis.md`, `R1-P5-kapuscinski.md` |
-| **Who** | All 5 panel voices (permanent reviewers — see `.craft/roles/panel/`) |
+| **Who** | All 5 panel voices (permanent reviewers — see `.roles/panel/`) |
 | **Entry** | GATE-1 passed (24+/30) |
 | **Exit** | All 5 reviews complete with specific line references and "The question I'd push on" |
 | **Target** | Qualitative feedback; no numerical scores from panel at this stage |
@@ -395,4 +395,4 @@ means the chapter has been through every stage and earned its place.
 - `guides/HOW-TO-WRITE-A-CHAPTER.md` — End-to-end author walkthrough
 - `guides/STYLE-GUIDE.md` — 13 principles + forbidden words + mechanical rules
 - `scoring/RUBRIC.md` — The Gate and The Chronicle rubrics in full
-- `.craft/roles/ROLE.md` — Panel, editorial, and board structure
+- `.roles/ROLE.md` — Panel, editorial, and board structure

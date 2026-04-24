@@ -162,12 +162,12 @@ OPENING → GATE-1 → PANEL-1 → NOTES → PANEL-2 → FIXES → WRITE → GAT
 | **Wade Davis** | Anthropological wonder — hidden condescension, worldview depth |
 | **Ryszard Kapuscinski** | Sensory immersion — heat, smell, sound, texture |
 
-Role definitions at `.craft/roles/panel/`
+Role definitions at `.roles/panel/`
 
 Editorial roles (Judgment Auditor, Voice Keeper, Compression Editor) at
-`.craft/roles/editorial/`
+`.roles/editorial/`
 
-Board role template at `.craft/roles/board/`
+Board role template at `.roles/board/`
 
 ---
 
@@ -209,7 +209,7 @@ Board role template at `.craft/roles/board/`
 | What | Where |
 |------|-------|
 | Design spec | `docs/superpowers/specs/2026-04-14-lucia-design.md` |
-| Roles | `.craft/roles/` (panel, editorial, board) |
+| Roles | `.roles/` (panel, editorial, board) |
 | Style guide | `guides/STYLE-GUIDE.md` |
 | Pipeline | `guides/PIPELINE.md` |
 | Scoring rubric | `scoring/RUBRIC.md` |

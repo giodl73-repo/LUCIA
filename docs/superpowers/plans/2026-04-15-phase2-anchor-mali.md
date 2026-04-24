@@ -15,8 +15,8 @@
 **Pipeline:** `guides/PIPELINE.md`
 **Style:** `guides/STYLE-GUIDE.md`
 **Rubric:** `scoring/RUBRIC.md`
-**Panel roles:** `.craft/roles/panel/`
-**Editorial roles:** `.craft/roles/editorial/`
+**Panel roles:** `.roles/panel/`
+**Editorial roles:** `.roles/editorial/`
 
 ---
 
@@ -52,7 +52,7 @@ regions/10-west-africa-sahel/mali-empire/
 │           ├── BOARD-B2-conrad.md         ← Task 10
 │           └── BOARD-B3-jansen.md         ← Task 10
 
-.craft/roles/board/
+.roles/board/
 ├── B-1-levtzion.md                        ← Task 10 (pre-step)
 ├── B-2-conrad.md                          ← Task 10 (pre-step)
 └── B-3-jansen.md                          ← Task 10 (pre-step)
@@ -137,11 +137,11 @@ Target: 24+/30. If below 21, flag for rewrite before proceeding.
 **Files:**
 - Create: 5 review files in `reviews/` (R1-P1 through R1-P5)
 
-- [ ] **Step 1: Read each panel role** (`.craft/roles/panel/P-1-tuchman.md` through `P-5-kapuscinski.md`)
+- [ ] **Step 1: Read each panel role** (`.roles/panel/P-1-tuchman.md` through `P-5-kapuscinski.md`)
 
 - [ ] **Step 2: Write 5 reviews**
 
-Each review follows the format from `.craft/roles/panel/ROLE.md`:
+Each review follows the format from `.roles/panel/ROLE.md`:
 ```markdown
 ## P-{N} — {Name} — Review of "The Great Hajj" opening
 
@@ -304,7 +304,7 @@ If the chapter does something exceptional the rubric didn't anticipate, flag it 
 
 - [ ] **Step 1: Run all 3 editorial lenses**
 
-Read `.craft/roles/editorial/E-1-judgment-auditor.md`, `E-2-voice-keeper.md`, `E-3-compression-editor.md`.
+Read `.roles/editorial/E-1-judgment-auditor.md`, `E-2-voice-keeper.md`, `E-3-compression-editor.md`.
 
 - E-1 (Judgment Auditor): Scan for forbidden words, forbidden framings, anachronistic morality, hidden hierarchy, surprise at sophistication
 - E-2 (Voice Keeper): Establish the opening's voice as baseline, scan for register shifts, textbook drift, modern commentary
@@ -321,16 +321,16 @@ Fix all P1 and P2 findings. Author decides on P3.
 ## Task 10: BOARD — Domain Expert Review
 
 **Files:**
-- Create: `.craft/roles/board/B-1-levtzion.md` (board reviewer)
-- Create: `.craft/roles/board/B-2-conrad.md` (board reviewer)
-- Create: `.craft/roles/board/B-3-jansen.md` (board reviewer)
+- Create: `.roles/board/B-1-levtzion.md` (board reviewer)
+- Create: `.roles/board/B-2-conrad.md` (board reviewer)
+- Create: `.roles/board/B-3-jansen.md` (board reviewer)
 - Create: `reviews/BOARD-B1-levtzion.md`
 - Create: `reviews/BOARD-B2-conrad.md`
 - Create: `reviews/BOARD-B3-jansen.md`
 
 - [ ] **Step 1: Create 3 board reviewer roles**
 
-These are domain specialists for Mali/West African history. Create role files in `.craft/roles/board/` using the template from `.craft/roles/board/ROLE.md`:
+These are domain specialists for Mali/West African history. Create role files in `.roles/board/` using the template from `.roles/board/ROLE.md`:
 
 - **B-1: Nehemia Levtzion** (modeled on) — Historian of medieval West African empires and Islam in Africa. Checks historical accuracy of the Mali court, trade routes, Islamic scholarly networks.
 - **B-2: David C. Conrad** (modeled on) — Specialist in the Sundiata epic and Mande oral traditions. Checks whether the griot tradition is represented accurately, whether the oral sources are used appropriately.
@@ -344,7 +344,7 @@ Each reviewer reads the cleaned chapter and evaluates for:
 - Source appropriateness
 - Specific corrections needed
 
-Format from `.craft/roles/board/ROLE.md`.
+Format from `.roles/board/ROLE.md`.
 
 - [ ] **Step 3: Commit board roles + reviews**
 

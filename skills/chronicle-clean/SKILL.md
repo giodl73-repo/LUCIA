@@ -15,7 +15,7 @@ Prerequisite: GATE-2 passed (48+/60).
 
 ## The Three Editorial Lenses
 
-Read each editorial role file from `.craft/roles/editorial/` before running passes.
+Read each editorial role file from `.roles/editorial/` before running passes.
 
 ---
 
@@ -100,7 +100,7 @@ Write to `reviews/` directory:
 - `CLEAN-E2-voice-keeper.md`
 - `CLEAN-E3-compression-editor.md`
 
-Role files: `.craft/roles/editorial/E-1-judgment-auditor.md`, `E-2-voice-keeper.md`, `E-3-compression-editor.md`
+Role files: `.roles/editorial/E-1-judgment-auditor.md`, `E-2-voice-keeper.md`, `E-3-compression-editor.md`
 Pipeline reference: `guides/PIPELINE.md` (Stage 9)
 
 ## Checklist

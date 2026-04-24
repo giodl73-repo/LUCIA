@@ -45,7 +45,7 @@ The board reviewer is the last line of defense before a chapter is locked. A wea
 
 | Domain | Scope |
 |--------|-------|
-| **Board reviewer creation** | `.craft/roles/board/B-{culture}-{n}-{name}.md` |
+| **Board reviewer creation** | `.roles/board/B-{culture}-{n}-{name}.md` |
 | **Reviewer research** | Identifying appropriate scholars per culture |
 | **Methodology extraction** | Translating a scholar's published methodology into review criteria |
 | **Complementary coverage** | Ensuring 2-3 reviewers cover different aspects (historical, archaeological, anthropological, literary) |
@@ -71,7 +71,7 @@ For each scholar, determine:
 
 ### Step 3 — Write the Profile
 
-Use the template at `.craft/roles/board/ROLE.md`. Each profile includes:
+Use the template at `.roles/board/ROLE.md`. Each profile includes:
 - Scholar's name and affiliation
 - Key works
 - Methodological lens

@@ -624,4 +624,4 @@ two rubric gates. It has earned its place.
 - `guides/TEMPLATES.md` — Document templates for every artifact
 - `guides/STYLE-GUIDE.md` — 13 principles, forbidden words, forbidden framings
 - `scoring/RUBRIC.md` — The Gate (30pts) and The Chronicle (60pts) in full
-- `.craft/roles/panel/ROLE.md` — Panel reviewer profiles in detail
+- `.roles/panel/ROLE.md` — Panel reviewer profiles in detail

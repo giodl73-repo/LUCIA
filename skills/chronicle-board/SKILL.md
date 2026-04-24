@@ -31,7 +31,7 @@ Each board member should cover a different angle of the chapter's claims.
 ## Step 2 — Create Board Role Files
 
 For each specialist, write a role file using the board template from
-`.craft/roles/board/ROLE.md`:
+`.roles/board/ROLE.md`:
 
 ```yaml
 ---
@@ -89,10 +89,10 @@ Each board member writes a review covering:
 
 ## Output
 
-Write role files to: `.craft/roles/board/B-{id}-{name}.md`
+Write role files to: `.roles/board/B-{id}-{name}.md`
 Write reviews to: `reviews/BOARD-B{id}-{name}.md`
 
-Board template: `.craft/roles/board/ROLE.md`
+Board template: `.roles/board/ROLE.md`
 Pipeline reference: `guides/PIPELINE.md` (Stage 10)
 
 ## Checklist

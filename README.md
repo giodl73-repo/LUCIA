@@ -205,22 +205,22 @@ Every chapter is reviewed by three tiers of readers, each with a different lens.
 ### The Panel — five permanent voices
 | Voice | Lens |
 |-------|------|
-| [Barbara Tuchman](.craft/roles/panel/P-1-tuchman.md) | Narrative craft — pacing, scene, arc |
-| [Ibn Khaldun](.craft/roles/panel/P-2-ibn-khaldun.md) | Historical systems — patterns, causation, cycles |
-| [Chinua Achebe](.craft/roles/panel/P-3-achebe.md) | Cultural voice — dignity, authenticity, ownership |
-| [Wade Davis](.craft/roles/panel/P-4-davis.md) | Anthropological wonder — hidden condescension, worldview depth |
-| [Ryszard Kapuściński](.craft/roles/panel/P-5-kapuscinski.md) | Sensory immersion — heat, smell, sound, texture |
+| [Barbara Tuchman](.roles/panel/P-1-tuchman.md) | Narrative craft — pacing, scene, arc |
+| [Ibn Khaldun](.roles/panel/P-2-ibn-khaldun.md) | Historical systems — patterns, causation, cycles |
+| [Chinua Achebe](.roles/panel/P-3-achebe.md) | Cultural voice — dignity, authenticity, ownership |
+| [Wade Davis](.roles/panel/P-4-davis.md) | Anthropological wonder — hidden condescension, worldview depth |
+| [Ryszard Kapuściński](.roles/panel/P-5-kapuscinski.md) | Sensory immersion — heat, smell, sound, texture |
 
 ### Editorial — three finishing lenses
 | Role | Job |
 |------|-----|
-| [Judgment Auditor](.craft/roles/editorial/E-1-judgment-auditor.md) | Flag every outside-judgment word or framing |
-| [Voice Keeper](.craft/roles/editorial/E-2-voice-keeper.md) | Hold the prose to its chosen register |
-| [Compression Editor](.craft/roles/editorial/E-3-compression-editor.md) | Cut padding, tighten clauses, preserve breath |
+| [Judgment Auditor](.roles/editorial/E-1-judgment-auditor.md) | Flag every outside-judgment word or framing |
+| [Voice Keeper](.roles/editorial/E-2-voice-keeper.md) | Hold the prose to its chosen register |
+| [Compression Editor](.roles/editorial/E-3-compression-editor.md) | Cut padding, tighten clauses, preserve breath |
 
 ### The Board — culture-specific domain experts
 Two or three scholars chosen per culture. Their feedback is authoritative
-on factual matters. Browse the roster under **[.craft/roles/board/](.craft/roles/board/)**
+on factual matters. Browse the roster under **[.roles/board/](.roles/board/)**
 — e.g. Levtzion + Conrad + Insoll for Ghana, Urton + Murra + Salomon for Inca,
 Beard + Hopkins + Brown for Rome.
 
@@ -282,7 +282,7 @@ chronicle/
 │   ├── chronicle-e2e/         end-to-end orchestrator
 │   └── chronicle-*/           one per stage + quality/evolution tools
 │
-├── .craft/roles/              ← reviewer voices
+├── .roles/              ← reviewer voices
 │   ├── panel/                 5 permanent panel voices
 │   ├── editorial/             3 finishing lenses
 │   └── board/                 culture-specific domain experts

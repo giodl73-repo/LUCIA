@@ -96,7 +96,7 @@ Apply corrections. Board feedback is authoritative on factual matters.
 
 All artifacts written to: `regions/{{region}}/{{people}}/eras/{{era}}/`
 All reviews written to: `reviews/`
-Board roles written to: `.craft/roles/board/`
+Board roles written to: `.roles/board/`
 Tracker updated: `TRACKER.md`
 
 Pipeline reference: `guides/PIPELINE.md`
