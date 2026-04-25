@@ -175,7 +175,7 @@ git commit -m "Bootstrap project scaffold — CLAUDE.md, README, index, gitignor
 
 - [ ] **Step 1: Create mkdocs.yml**
 
-Model after MAXIM's `.mkdocs/mkdocs.yml` (at `C:\src\reference\.mkdocs\mkdocs.yml`) but adapted for LUCIA:
+Model after MAXIM's `.mkdocs/mkdocs.yml` (at `reference\.mkdocs\mkdocs.yml`) but adapted for LUCIA:
 
 Key settings:
 - `site_name: LUCIA — The Human Chronicle`
@@ -435,8 +435,8 @@ Global registry of all sources used across the Chronicle.
 
 | Source | Tier | Location | Use |
 |--------|------|----------|-----|
-| MAXIM | 3 | C:\src\reference | Background context, verify independently |
-| FELIX/RMM | 3 | C:\src\rmm | Comparative mythology, verify independently |
+| MAXIM | 3 | reference | Background context, verify independently |
+| FELIX/RMM | 3 | rmm | Comparative mythology, verify independently |
 
 ## Registry
 

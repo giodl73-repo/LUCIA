@@ -48,7 +48,7 @@ Session 3 was a **consolidation and reflection session** rather than a productio
 
 ### Chron Research Module (parallel Session-3 work)
 
-**Separate repository: `C:\src\craftworks-research\chron`.** During Session 3 we also built out a research module on the LUCIA methodology itself — the chron module ("Emergent Typologies in AI-Assisted Creative Production"). 9 papers drafted across 3 tracks (A: mechanism; B: typologies; C: conditions). Paper-level panel reviews for A1/A2/A3. Module-level panel reviews for Track A (round-1) and Track B (round-2). Full commits in craftworks-research. **Not LUCIA-internal work but shares the LUCIA corpus as empirical base.** Reference: `C:\src\craftworks-research\chron\MODULE.md`.
+**Separate repository: `craftworks-research\chron`.** During Session 3 we also built out a research module on the LUCIA methodology itself — the chron module ("Emergent Typologies in AI-Assisted Creative Production"). 9 papers drafted across 3 tracks (A: mechanism; B: typologies; C: conditions). Paper-level panel reviews for A1/A2/A3. Module-level panel reviews for Track A (round-1) and Track B (round-2). Full commits in craftworks-research. **Not LUCIA-internal work but shares the LUCIA corpus as empirical base.** Reference: `craftworks-research\chron\MODULE.md`.
 
 ## Key Decisions Made
 
@@ -134,7 +134,7 @@ No new innovations *logged* this session beyond the 8-candidate endogenous-insti
 
 3. **Book-seed openings quality.** If the Session-3 agent landed all 5 openings in good shape, Session 4 begins with strong momentum. If the openings need rewriting, Session 4 begins with remedial work.
 
-4. **Chron research module status.** The parallel chron research module in `C:\src\craftworks-research\chron` is drafted through round-0 with module-level reviews. Sprint-1 revision pass needed (figure rendering, [NEED] citation resolution, inter-rater pilots). When does Giovanni want to close chron's sprint-1? It is independent of LUCIA's production cadence but benefits from LUCIA's continuing corpus growth.
+4. **Chron research module status.** The parallel chron research module in `craftworks-research\chron` is drafted through round-0 with module-level reviews. Sprint-1 revision pass needed (figure rendering, [NEED] citation resolution, inter-rater pilots). When does Giovanni want to close chron's sprint-1? It is independent of LUCIA's production cadence but benefits from LUCIA's continuing corpus growth.
 
 5. **Duplicated-region cleanup git-trace.** The consolidation (Task #19) moved 3 era directories across repository paths. Git history traces this as move operations, not deletions. But any downstream tools or scripts indexing by the old long-named paths need updating.
 

@@ -27,7 +27,7 @@ tension:
 
 # SCHOLAR — Board Reviewer Creator
 
-**Repository:** `C:\src\chronicle` — LUCIA: The Human Chronicle
+**Repository:** `chronicle` — LUCIA: The Human Chronicle
 **Named for:** The scholar — one who studies, not to write, but to know well enough to judge. SCHOLAR creates the domain experts who give each chapter its final assessment.
 **Model:** Claude Opus 4.6 (1M context)
 

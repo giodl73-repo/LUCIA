@@ -7,7 +7,7 @@ Every culture told from inside their own worldview. Named after LUCY, a German
 Shorthaired Pointer, 10 years old, who watches rabbits all day with more patience
 than most historians and always goes through the gate first.
 
-Sibling projects: MAXIM (C:\src\reference), FELIX/RMM (C:\src\rmm). Fully
+Sibling projects: MAXIM (reference), FELIX/RMM (rmm). Fully
 independent — own rules, own voice, own scoring. Borrows patterns, not authority.
 
 ---
@@ -188,7 +188,7 @@ Board role template at `.roles/board/`
 - **Never delete files by regex.** Always verify what you're deleting.
 - **Protect structural files:** CLAUDE.md, TRACKER.md, 00-LANDSCAPE.md, 00-OVERVIEW.md.
   Never overwrite these without explicit confirmation.
-- **Never glob outside project scope.** Stay in C:\src\chronicle.
+- **Never glob outside project scope.** Stay in chronicle.
 - **Always verify before destructive operations.** Read before you write.
 
 ---

@@ -22,8 +22,8 @@ These sister projects are available for orientation and cross-checking. They are
 
 | Project | Location | Tier | Notes |
 |---------|----------|------|-------|
-| MAXIM | `C:\src\reference` | 3 | Reference knowledge base. Good for orientation. Verify independently before citing. |
-| FELIX / RMM | `C:\src\rmm` | 3 | Regional and thematic reference material. Same caveat as MAXIM. |
+| MAXIM | `reference` | 3 | Reference knowledge base. Good for orientation. Verify independently before citing. |
+| FELIX / RMM | `rmm` | 3 | Regional and thematic reference material. Same caveat as MAXIM. |
 
 When MAXIM or FELIX point toward a primary or Tier 2 source, track that source down and cite the original.
 

@@ -130,7 +130,7 @@ In this alternate: the chronicle is organized by structural engine (the Track B 
 
 This is the "chron module as public artifact" reading — a chronicle whose primary contribution is the typology, with the cultures as evidentiary instances. It risks the opposite of the Four Rules: the reader is inside the typology, not inside the culture. The Achebe Test becomes harder to maintain when the reading order is framework-first.
 
-We do not recommend this alternative for the main manuscript, but we flag it as an appropriate secondary artifact — a "Methodological Companion" volume that reads the chronicle through the Track B lens. The chron research module in `C:\src\craftworks-research\chron` is effectively this companion already; it could be edited into a reader-facing methodological volume once Sprint-1 figure rendering and citation resolution are complete.
+We do not recommend this alternative for the main manuscript, but we flag it as an appropriate secondary artifact — a "Methodological Companion" volume that reads the chronicle through the Track B lens. The chron research module in `craftworks-research\chron` is effectively this companion already; it could be edited into a reader-facing methodological volume once Sprint-1 figure rendering and citation resolution are complete.
 
 ---
 

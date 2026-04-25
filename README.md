@@ -70,10 +70,10 @@ Sibling projects that port the pattern to other media:
 
 | Project | Medium | Lives at |
 |---|---|---|
-| **LUCIA** (this repo) | Long-form cultural history | `C:\src\chronicle` |
-| **QUEST** / marathon | D&D 5e adventure workshop | `C:\src\marathon` |
-| **CERES** / artisan | Local-production economics | `C:\src\artisan` |
-| **FELIX / RMM** | (internal) | `C:\src\rmm` |
+| **LUCIA** (this repo) | Long-form cultural history | `chronicle` |
+| **QUEST** / marathon | D&D 5e adventure workshop | `marathon` |
+| **CERES** / artisan | Local-production economics | `artisan` |
+| **FELIX / RMM** | (internal) | `rmm` |
 
 ---
 

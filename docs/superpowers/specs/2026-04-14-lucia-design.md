@@ -12,7 +12,7 @@
 
 - **Codename:** LUCIA (after LUCY, Giovanni's German Shorthaired Pointer)
 - **Mission:** Tell the story of every human culture and group in a real and objective way, using storytelling to tell their story from inside their own worldview, without pre- or post-judging them against different historical standards.
-- **Sibling projects:** MAXIM (C:\src\reference — encyclopedia), FELIX/RMM (C:\src\rmm — research + storytelling)
+- **Sibling projects:** MAXIM (reference — encyclopedia), FELIX/RMM (rmm — research + storytelling)
 - **Relationship:** Fully independent. Own CLAUDE.md, style guide, scoring, everything. Borrows patterns and skills from siblings. References MAXIM and FELIX as sources among many.
 - **Tech stack:** MkDocs + Material theme, Markdown content files, consistent with MAXIM and RMM.
 - **Repository:** https://github.com/giodl_microsoft/chronicle.git

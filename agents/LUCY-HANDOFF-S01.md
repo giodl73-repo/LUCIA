@@ -284,7 +284,7 @@ See `scoring/INNOVATIONS.md` for the complete log with source chapters, descript
 ## Repository Structure
 
 ```
-C:\src\chronicle\
+chronicle\
 ├── CLAUDE.md                          — Master rules (4 editorial rules, 26 regions, pipeline, scoring, safety)
 ├── TRACKER.md                         — Project status tracker
 ├── agents/                            — Agent management system (this session)

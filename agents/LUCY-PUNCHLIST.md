@@ -41,7 +41,7 @@
 - [x] MANUSCRIPT-ARCHITECTURE.md drafted (`docs/`, ~2,800 words, 5-axis proposal)
 
 ### Parallel (not LUCIA)
-- [x] chron research module built at `C:\src\craftworks-research\chron` (9 papers, 3 tracks, 2 module-level reviews)
+- [x] chron research module built at `craftworks-research\chron` (9 papers, 3 tracks, 2 module-level reviews)
 
 ## BLOCKING
 (none)

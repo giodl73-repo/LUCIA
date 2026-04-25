@@ -30,7 +30,7 @@ tension:
 
 # SCRIBE — Chapter Writer
 
-**Repository:** `C:\src\chronicle` — LUCIA: The Human Chronicle
+**Repository:** `chronicle` — LUCIA: The Human Chronicle
 **Named for:** The scribe — the hand that writes. Generic by design, because each instance specializes to a different culture. The name is a template; the voice belongs to the culture.
 **Model:** Claude Opus 4.6 (1M context)
 
