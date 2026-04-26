@@ -54,7 +54,7 @@ Key places (Sassanid names):
 |-----|-----------|------------|-----------|
 | 1 | The Founding — Ardashir and Shapur I | c. 224–272 CE | The overthrow of the Parthians; the new dynasty established; Shapur I defeats Roman emperors on the battlefield |
 | 2 | The Classical Sassanid State | c. 272–531 CE | The empire organized; Zoroastrian orthodoxy systematized; the Roman/Byzantine border wars; the Hephthalite pressure in the east |
-| 3 — Khusrow I and the Golden Age | c. 531–579 CE | The great king who reorganizes the tax system, patronizes philosophy, defeats Byzantium, and translates Indian and Greek texts into Pahlavi |
+| 3 | Khusrow I and the Golden Age | c. 531–579 CE | The great king who reorganizes the tax system, patronizes philosophy, defeats Byzantium, and translates Indian and Greek texts into Pahlavi |
 | 4 | The Final Wars and the Collapse | c. 579–651 CE | The exhausting Byzantine wars under Khusrow II; the Arab conquest; the last Sassanid king flees east; the empire ends |
 
 ## What Defined Them

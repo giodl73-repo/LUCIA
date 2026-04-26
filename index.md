@@ -8,25 +8,19 @@ Each chapter opens with a real person in a real moment — context emerges from 
 ## The 5-Level Tree
 
 ```
-L1  Region ─────────┐
-                     ├── L2  People ─────────┐
-                     │                        ├── L3  Era ─────────┐
-                     │                        │                    ├── L4  Files
-                     │                        │                    │    ├── opening.md
-                     │                        │                    │    ├── chapter.md
-                     │                        │                    │    ├── notes.md
-                     │                        │                    │    └── figures.md
-                     │                        │                    │
-                     │                        │                    └── L5  Reviews
-                     │                        │                         ├── R1-*.md
-                     │                        │                         ├── R2-*.md
-                     │                        │                         └── BOARD-*.md
-                     │                        │
-                     │                        ├── L3  Era ───── ...
-                     │                        └── ...
-                     │
-                     ├── L2  People ───── ...
-                     └── ...
+L1  Region
+  └── L2  People
+        └── L3  Era
+              ├── L4  Files
+              │    ├── opening.md
+              │    ├── chapter.md
+              │    ├── notes.md
+              │    └── figures.md
+              │
+              └── L5  Reviews
+                   ├── R1-*.md
+                   ├── R2-*.md
+                   └── BOARD-*.md
 ```
 
 26 regions. ~250-300 peoples. Thousands of eras.

@@ -23,8 +23,8 @@
 
 | # | Location | Quoted Text | Violation Type | Severity | Notes |
 |---|----------|-------------|----------------|----------|-------|
-| 1 | Section V | "The technology was democratic in a way that cuneiform was not." | P3 — Borderline | The word "democratic" is a modern political concept projected backward. The Arameans would not have described alphabetic accessibility in terms of democracy. Consider: "accessible" or "open" instead. |
-| 2 | Section V | "The language flowed uphill, from the road to the palace, from the merchant to the official, from the subject to the ruler. This was not the normal direction." | P3 — Borderline | "This was not the normal direction" implies a universal rule about how languages spread. It is the author's analytical observation, not the culture's. The claim is accurate but slightly steps outside. Consider cutting "This was not the normal direction" and letting the preceding sentence carry the point. |
+| 1 | Section V | "The technology was democratic in a way that cuneiform was not." | P3 — Borderline | Low | The word "democratic" is a modern political concept projected backward. The Arameans would not have described alphabetic accessibility in terms of democracy. Consider: "accessible" or "open" instead. |
+| 2 | Section V | "The language flowed uphill, from the road to the palace, from the merchant to the official, from the subject to the ruler. This was not the normal direction." | P3 — Borderline | Low | "This was not the normal direction" implies a universal rule about how languages spread. It is the author's analytical observation, not the culture's. The claim is accurate but slightly steps outside. Consider cutting "This was not the normal direction" and letting the preceding sentence carry the point. |
 
 ## Summary
 

@@ -50,7 +50,7 @@ Key places (Byzantine Greek names):
 | 1 | The Founding and Justinian's Reconquest | c. 330–610 CE | Constantine's city; Theodosian walls; Justinian's legal codification and military reconquest; Hagia Sophia built |
 | 2 | The Age of Crisis and Survival | c. 610–867 CE | Arab conquests take Egypt, Syria, North Africa; the empire contracts to Anatolia and Greece; the Iconoclast controversy |
 | 3 | The Macedonian Renaissance | c. 867–1025 CE | Military reconquest; the empire's second height; Byzantine culture radiates to Russia, Bulgaria, Serbia |
-| 4 — The Decline and the Crusades | c. 1025–1204 CE | Seljuk Turks at Manzikert; the Crusaders as unreliable allies; the Fourth Crusade sacks Constantinople in 1204 |
+| 4 | The Decline and the Crusades | c. 1025–1204 CE | Seljuk Turks at Manzikert; the Crusaders as unreliable allies; the Fourth Crusade sacks Constantinople in 1204 |
 | 5 | The Restoration and the Long End | c. 1261–1453 CE | The Palaiologos dynasty restores the city; the Ottoman advance; the last emperor dies on the walls |
 
 ## What Defined Them
