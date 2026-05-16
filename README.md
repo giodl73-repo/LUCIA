@@ -9,6 +9,10 @@ present was the whole world.
 
 New here? Start with the **[Preface](PREFACE.md)**, then pick a book below.
 
+**Review roles:** This repo uses
+[ROLES](https://github.com/giodl73-repo/ROLES), the `.roles` convention for
+repository-local review panels.
+
 ---
 
 ## What This Is
