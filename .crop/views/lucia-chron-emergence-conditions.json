@@ -1,0 +1,14 @@
+{
+  "schema_version": "crop.view.v1",
+  "name": "lucia-chron-emergence-conditions",
+  "root": "../../research/papers/chron-emergence-conditions",
+  "task": "Backfill LUCIA article 'Conditions for Typology Emergence in AI-Assisted Creative Domains: A Falsifiable Generalization' for DOCX/PDF and downstream source-corpus reuse.",
+  "token_budget": 24000,
+  "seed": 0,
+  "include_extensions": [
+    "md"
+  ],
+  "exclude_dirs": [
+    "reviews"
+  ]
+}

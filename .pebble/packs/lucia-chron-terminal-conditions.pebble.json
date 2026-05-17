@@ -1,0 +1,33 @@
+{
+  "schema": "pebble.v1",
+  "kind": "corpus-slice",
+  "title": "lucia-chron-terminal-conditions",
+  "source": "../../research/papers/chron-terminal-conditions",
+  "format": "markdown",
+  "metadata": {},
+  "sections": [
+    {
+      "id": "FINDINGS.md#000",
+      "path": [
+        "FINDINGS.md"
+      ],
+      "level": 0,
+      "line": 1,
+      "metadata": {},
+      "text": "# FINDINGS — PR-B3 Terminal Condition Sub-Taxonomy Classification"
+    },
+    {
+      "id": "FINDINGS.md#001",
+      "path": [
+        "FINDINGS.md"
+      ],
+      "level": 0,
+      "line": 1,
+      "metadata": {},
+      "text": "**Paper**: PR-B3 (chron-terminal-conditions)\r\n**Date**: 2026-04-20\r\n**Scope**: 115 locked LUCIA chapters (2026-04-14 through 2026-04-18)\r\n**Classifier**: Project editor (LUCY / human-in-loop), single-pass with second-pass reconciliation\r\n**Taxonomy applied**: v1.6 10 formalized types + v1.7 8 endogenous-institutional candidates = **18 candidate types**\r\n**Auxiliary category**: Ongoing (arc not terminated in covered period) — added after first-pass review\r\n**Falsification thresholds (pre-registered)**:\r\n- > 20% unclassified after first-pass → taxonomy incomplete\r\n- > 30% unclassified after second-pass → taxonomy cannot be closed at corpus size"
+    }
+  ],
+  "refs": [
+    "FINDINGS.md"
+  ]
+}

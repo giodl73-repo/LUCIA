@@ -1,0 +1,14 @@
+{
+  "schema_version": "crop.view.v1",
+  "name": "lucia-chron-pipeline-instrument",
+  "root": "../../research/papers/chron-pipeline-instrument",
+  "task": "Backfill LUCIA article 'The Pipeline as Epistemic Instrument: Discipline-Compliance and Discovery Rate' for DOCX/PDF and downstream source-corpus reuse.",
+  "token_budget": 24000,
+  "seed": 0,
+  "include_extensions": [
+    "md"
+  ],
+  "exclude_dirs": [
+    "reviews"
+  ]
+}

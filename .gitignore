@@ -40,3 +40,6 @@ venv/
 .env
 .env.local
 
+# Generated article exports
+research/papers/_exports/
+

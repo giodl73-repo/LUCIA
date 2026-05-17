@@ -1,0 +1,26 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-innovation-engine/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 145,
+      "header": "| Day-latency | 2-instance (n=12) | Cluster (n=86) | Total (n=98) |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 152,
+      "header": "| Statistic | 2-instance (n=12) | Cluster (n=86) | Combined (n=98) |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 165,
+      "header": "| Day-latency | Session 1 rate (14/day) | Session 2 rate (29/day) |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 211,
+      "header": "| Session | n | Mean latency (days) | Max (days) |"
+    }
+  ]
+}

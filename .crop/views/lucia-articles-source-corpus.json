@@ -1,0 +1,15 @@
+{
+  "schema_version": "crop.view.v1",
+  "name": "lucia-articles-source-corpus",
+  "root": "../../research/papers",
+  "task": "Backfill LUCIA research articles for downstream context reuse and publication exports.",
+  "token_budget": 48000,
+  "seed": 0,
+  "include_extensions": [
+    "md"
+  ],
+  "exclude_dirs": [
+    "reviews",
+    "_exports"
+  ]
+}

@@ -1,0 +1,1759 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "LUCIA article backfill",
+  "registry_id": "lucia-articles-source-corpus",
+  "fletches": [
+    {
+      "id": "lucia.articles.source-corpus.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-articles-source-corpus.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia-articles-source-corpus",
+          "kind": "derived-from",
+          "label": "CROP view recipe",
+          "metadata": {
+            "view": ".crop/views/lucia-articles-source-corpus.json",
+            "custody": "partial"
+          }
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-articles-source-corpus.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "partial-custody",
+        "articles"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-emergence-conditions.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-emergence-conditions.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-emergence-conditions.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-emergence-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-emergence-conditions.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-emergence-conditions.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-emergence-conditions.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-emergence-conditions.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-emergence-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-emergence-conditions.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-emergence-conditions.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-emergence-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-emergence-conditions.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-emergence-conditions.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-emergence-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-emergence-conditions.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-emergence-conditions.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-emergence-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-forward-only-amendment.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-forward-only-amendment.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-forward-only-amendment.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-forward-only-amendment/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-forward-only-amendment.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-forward-only-amendment.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-forward-only-amendment.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-forward-only-amendment.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-forward-only-amendment/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-forward-only-amendment.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-forward-only-amendment.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-forward-only-amendment/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-forward-only-amendment.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-forward-only-amendment.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-forward-only-amendment/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-forward-only-amendment.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-forward-only-amendment.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-forward-only-amendment/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-innovation-engine.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-innovation-engine.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-innovation-engine.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-innovation-engine/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-innovation-engine.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-innovation-engine.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-innovation-engine.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-innovation-engine.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-innovation-engine/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-innovation-engine.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-innovation-engine.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-innovation-engine/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-innovation-engine.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-innovation-engine.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-innovation-engine/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-innovation-engine.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-innovation-engine.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-innovation-engine/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-model-substrate.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-model-substrate.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-model-substrate.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-model-substrate/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-model-substrate.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-model-substrate.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-model-substrate.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-model-substrate.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-model-substrate/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-model-substrate.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-model-substrate.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-model-substrate/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-model-substrate.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-model-substrate.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-model-substrate/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-model-substrate.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-model-substrate.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-model-substrate/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-pipeline-instrument.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-pipeline-instrument.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-pipeline-instrument.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-pipeline-instrument/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-pipeline-instrument.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-pipeline-instrument.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-pipeline-instrument.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-pipeline-instrument.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-pipeline-instrument/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-pipeline-instrument.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-pipeline-instrument.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-pipeline-instrument/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-pipeline-instrument.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-pipeline-instrument.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-pipeline-instrument/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-pipeline-instrument.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-pipeline-instrument.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-pipeline-instrument/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-structural-engines.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-structural-engines.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-structural-engines.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-structural-engines/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-structural-engines.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-structural-engines.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-structural-engines.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-structural-engines.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-structural-engines/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-structural-engines.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-structural-engines.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-structural-engines/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-structural-engines.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-structural-engines.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-structural-engines/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-structural-engines.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-structural-engines.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-structural-engines/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-terminal-conditions.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-terminal-conditions.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-terminal-conditions.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-terminal-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-terminal-conditions.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-terminal-conditions.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-terminal-conditions.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-terminal-conditions.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-terminal-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-terminal-conditions.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-terminal-conditions.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-terminal-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-terminal-conditions.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-terminal-conditions.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-terminal-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-terminal-conditions.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-terminal-conditions.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-terminal-conditions/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-typology-saturation.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-typology-saturation.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-typology-saturation.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-typology-saturation/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-typology-saturation.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-typology-saturation.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-typology-saturation.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-typology-saturation.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-typology-saturation/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-typology-saturation.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-typology-saturation.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-typology-saturation/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-typology-saturation.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-typology-saturation.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-typology-saturation/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-typology-saturation.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-typology-saturation.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-typology-saturation/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-voice-spectrum.view",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".crop/views/lucia-chron-voice-spectrum.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.source-corpus.pebble",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "crop.view.v1",
+        "record_shape": "view-recipe",
+        "preferred_local": ".crop/views/lucia-chron-voice-spectrum.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "view",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-voice-spectrum/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-voice-spectrum.pebble",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".pebble/packs/lucia-chron-voice-spectrum.pebble.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-voice-spectrum.view",
+          "kind": "derived-from",
+          "label": "Article CROP view recipe"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "pebble.v1",
+        "record_shape": "corpus-slice",
+        "preferred_local": ".pebble/packs/lucia-chron-voice-spectrum.pebble.json"
+      },
+      "tags": [
+        "source-corpus",
+        "crop",
+        "pebble",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-voice-spectrum/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-voice-spectrum.proof-source",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.source.md"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-voice-spectrum.pebble",
+          "kind": "derived-from",
+          "label": "Literal source for article export"
+        }
+      ],
+      "format": {
+        "media_type": "text/markdown",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.source.literal_markdown.v1",
+        "record_shape": "literal-source",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.source.md"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "source",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-voice-spectrum/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-voice-spectrum.tables",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.tables.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-voice-spectrum.proof-source",
+          "kind": "derived-from",
+          "label": "Markdown table sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.tables.v1",
+        "record_shape": "table-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.tables.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "tables",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-voice-spectrum/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    },
+    {
+      "id": "lucia.articles.chron-voice-spectrum.blocks",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "file",
+          "url": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.blocks.json"
+        }
+      ],
+      "edges": [
+        {
+          "to": "lucia.articles.chron-voice-spectrum.proof-source",
+          "kind": "derived-from",
+          "label": "Structured block sidecar"
+        }
+      ],
+      "format": {
+        "media_type": "application/json",
+        "encoding": "utf-8",
+        "compression": null,
+        "container": null,
+        "schema": "proof.backfill.blocks.v1",
+        "record_shape": "structured-block-sidecar",
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.blocks.json"
+      },
+      "tags": [
+        "source-corpus",
+        "proof",
+        "blocks",
+        "article"
+      ],
+      "metadata": {
+        "source_repo": "LUCIA",
+        "module": "articles",
+        "article": "research/papers/chron-voice-spectrum/main.md",
+        "publication_state": "partial-source-custody"
+      }
+    }
+  ]
+}

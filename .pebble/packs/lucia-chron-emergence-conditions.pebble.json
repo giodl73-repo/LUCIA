@@ -1,0 +1,33 @@
+{
+  "schema": "pebble.v1",
+  "kind": "corpus-slice",
+  "title": "lucia-chron-emergence-conditions",
+  "source": "../../research/papers/chron-emergence-conditions",
+  "format": "markdown",
+  "metadata": {},
+  "sections": [
+    {
+      "id": "FINDINGS.md#000",
+      "path": [
+        "FINDINGS.md"
+      ],
+      "level": 0,
+      "line": 1,
+      "metadata": {},
+      "text": "# PR-C3 — Conditions for Typology Emergence in AI-Assisted Creative Domains: A Falsifiable Generalization"
+    },
+    {
+      "id": "FINDINGS.md#001",
+      "path": [
+        "FINDINGS.md"
+      ],
+      "level": 0,
+      "line": 1,
+      "metadata": {},
+      "text": "**Status**: Pre-write findings (round 0 draft)\r\n**Date**: 2026-04-20\r\n**Module**: chron — Emergent Typologies in AI-Assisted Creative Production\r\n**Track**: C — When Typologies Emerge From Production\r\n**Framing decision**: **A Falsifiable Proposal** (per plan.md contingency — external corpora not acquired within time budget)"
+    }
+  ],
+  "refs": [
+    "FINDINGS.md"
+  ]
+}

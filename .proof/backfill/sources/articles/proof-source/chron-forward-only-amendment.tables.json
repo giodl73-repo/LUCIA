@@ -1,0 +1,31 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-forward-only-amendment/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 94,
+      "header": "| Version | Date | Cycle summary | Dimensions touched |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 176,
+      "header": "| Version | Amendment | Classification | Rationale |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 204,
+      "header": "| Step | Commit pair | +Lines | −Lines | Preserved |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 217,
+      "header": "| Quantity | v1.0 | v1.7 | Change |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 279,
+      "header": "| Chapter | Original | v1.7 re-score | Delta |"
+    }
+  ]
+}

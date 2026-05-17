@@ -137,6 +137,20 @@ Three cultures are complete as full five-era books. Start here.
 
 Current state at a glance: **[TRACKER.md](TRACKER.md)**.
 
+## Research article backfill and exports
+
+The research articles in `research/papers/*/main.md` can be backfilled into
+CROP views, PEBBLE packs, PROOF-style source sidecars, and a FLETCH registry,
+then exported as DOCX or PDF on demand:
+
+```powershell
+python .claude\skills\lucia-article-backfill\scripts\article_backfill.py --all --validate
+python .claude\skills\lucia-article-backfill\scripts\article_backfill.py --paper chron-voice-spectrum --export all
+```
+
+Generated DOCX/PDF files land in `research\papers\_exports\` and are ignored by
+default.
+
 ---
 
 ## How a Chapter Gets Made — the 11-Stage Pipeline

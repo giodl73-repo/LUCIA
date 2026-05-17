@@ -1,0 +1,14 @@
+{
+  "schema_version": "crop.view.v1",
+  "name": "lucia-chron-innovation-engine",
+  "root": "../../research/papers/chron-innovation-engine",
+  "task": "Backfill LUCIA article 'The Innovation Engine: Detection Mechanisms for Emergent Quality Criteria in AI-Assisted Production' for DOCX/PDF and downstream source-corpus reuse.",
+  "token_budget": 24000,
+  "seed": 0,
+  "include_extensions": [
+    "md"
+  ],
+  "exclude_dirs": [
+    "reviews"
+  ]
+}

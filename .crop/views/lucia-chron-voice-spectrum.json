@@ -1,0 +1,14 @@
+{
+  "schema_version": "crop.view.v1",
+  "name": "lucia-chron-voice-spectrum",
+  "root": "../../research/papers/chron-voice-spectrum",
+  "task": "Backfill LUCIA article 'The Voice Spectrum: An Empirical Typology of Prose Registers Discovered Through AI-Assisted Production' for DOCX/PDF and downstream source-corpus reuse.",
+  "token_budget": 24000,
+  "seed": 0,
+  "include_extensions": [
+    "md"
+  ],
+  "exclude_dirs": [
+    "reviews"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-structural-engines/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 152,
+      "header": "| Engine Type | Cultures | Regions | Adoption |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 170,
+      "header": "| Type | Cultures | Regions | ≥3/≥3? |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 208,
+      "header": "| Paper | Scale | Validated | Candidates | Ratio |"
+    }
+  ]
+}

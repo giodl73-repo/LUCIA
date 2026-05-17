@@ -1,0 +1,11 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-terminal-conditions/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 162,
+      "header": "| Type | Formalized? | Count | % of 115 |"
+    }
+  ]
+}

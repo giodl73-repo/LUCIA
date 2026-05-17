@@ -1,0 +1,11 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-emergence-conditions/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 330,
+      "header": "| Condition | Grounding paper | Primary number | File |"
+    }
+  ]
+}

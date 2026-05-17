@@ -1,0 +1,31 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-model-substrate/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 83,
+      "header": "| Cell | Region | SCRIBE model | Production window | Rubric version |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 154,
+      "header": "| Cell | Innovations | Chapters | Rate |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 170,
+      "header": "| Cell | Clean | Chapters | Rate | Wilson 95% CI |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 180,
+      "header": "| Cell | Mean stages | /11 | Rate |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 317,
+      "header": "| Artifact | Value | CI / Test |"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-voice-spectrum/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 180,
+      "header": "| Family | Registers | Validated | Watch-list |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 217,
+      "header": "| Family | Chapter | Register | Em-dashes | Emergent-zero? |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 251,
+      "header": "| Session | Registers first-confirmed | Families first-expanded |"
+    }
+  ]
+}

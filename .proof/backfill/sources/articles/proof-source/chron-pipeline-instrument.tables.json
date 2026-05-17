@@ -1,0 +1,31 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-pipeline-instrument/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 146,
+      "header": "| Stratum | n | Mean | SD | =10 | <5 |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 160,
+      "header": "| Stratum | n | Mean | SD | Min | Max |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 181,
+      "header": "| Stratum | n | r | 95% CI |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 195,
+      "header": "| Comparison | n_high | n_low | M_high | M_low | Delta |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 209,
+      "header": "| Group | n | Mean |"
+    }
+  ]
+}

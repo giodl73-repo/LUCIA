@@ -1,0 +1,41 @@
+{
+  "schema_version": "1",
+  "source_markdown": "research/papers/chron-typology-saturation/main.md",
+  "tables": [
+    {
+      "kind": "markdown_table",
+      "start_line": 109,
+      "header": "| Cohort | Log-date | Chapter count (A1 session rate proxy) |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 154,
+      "header": "| Cohort | Log date | Innovations | Chapters | Rate (innov/chapter) |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 169,
+      "header": "| Cohort | New voice registers logged | Rate (per 29 chapters) |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 184,
+      "header": "| Cohort | New engine instances logged | Rate (per 29 chapters) |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 199,
+      "header": "| Cohort | New terminal-type instances logged | Rate (per 29 chapters) |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 222,
+      "header": "| Dimension | C1 (Apr 14–15) | C2 (Apr 16) | C3 (Apr 17) | C4 (Apr 18) | Total n | C4/C1 ratio |"
+    },
+    {
+      "kind": "markdown_table",
+      "start_line": 247,
+      "header": "| Typology | Scale | Cohort-1 rate | Cohort-4 rate | Ratio | Saturated? |"
+    }
+  ]
+}
