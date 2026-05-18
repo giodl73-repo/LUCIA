@@ -1,0 +1,13 @@
+[package]
+name = "lucia-history-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "lucia-history"
+path = "src/main.rs"
+
+[dependencies]
+lucia-history-core = { path = "../lucia-history-core" }
+serde_json.workspace = true

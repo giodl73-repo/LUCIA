@@ -1,0 +1,56 @@
+{
+  "people_id": "mali-empire",
+  "title": "Mali Empire people history",
+  "worldview": "Mande political memory centered on kinship, obligation, gold roads, and learned cities.",
+  "framing_notes": [
+    "Periodization remains internal to the Mali book."
+  ],
+  "source_story_refs": [
+    {
+      "path": "regions/10-west-africa-sahel/mali-empire/eras/01-the-lions-time/chapter.md"
+    }
+  ],
+  "eras": [
+    {
+      "era_id": "01-the-lions-time",
+      "title": "The Lion's Time",
+      "source_story_refs": [
+        {
+          "path": "regions/10-west-africa-sahel/mali-empire/eras/01-the-lions-time/chapter.md"
+        }
+      ],
+      "persons": [
+        {
+          "person_id": "sundiata",
+          "display_name": "Sundiata",
+          "role": "founding figure carried through epic and political memory",
+          "source_story_refs": [
+            {
+              "path": "regions/10-west-africa-sahel/mali-empire/eras/01-the-lions-time/chapter.md"
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "event_id": "lion-kingship-formed",
+          "era_id": "01-the-lions-time",
+          "title": "Kingship forms around the lion story",
+          "event_kind": "political-memory",
+          "consequence": "The people history can compare later expansion against an established internal origin.",
+          "actors": [
+            "sundiata"
+          ],
+          "places": [
+            "Mande world"
+          ],
+          "source_story_refs": [
+            {
+              "path": "regions/10-west-africa-sahel/mali-empire/eras/01-the-lions-time/chapter.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

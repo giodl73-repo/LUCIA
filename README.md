@@ -151,6 +151,14 @@ python .claude\skills\lucia-article-backfill\scripts\article_backfill.py --paper
 Generated DOCX/PDF files land in `research\papers\_exports\` and are ignored by
 default.
 
+## People-history Rust substrate
+
+LUCIA now has a product-local Rust workspace for structured people histories:
+`lucia-history-core` models peoples, eras, persons, events, consequences, and
+established-story references; `lucia-history-cli` validates and compares JSON
+records against established chapter profiles. See
+[`docs/people-history-engine.md`](docs/people-history-engine.md).
+
 ---
 
 ## How a Chapter Gets Made — the 11-Stage Pipeline

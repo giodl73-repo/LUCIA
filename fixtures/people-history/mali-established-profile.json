@@ -1,0 +1,18 @@
+{
+  "profile_id": "mali-established-story",
+  "required_event_ids": [
+    "lion-kingship-formed"
+  ],
+  "required_person_ids": [
+    "sundiata"
+  ],
+  "required_story_paths": [
+    "regions/10-west-africa-sahel/mali-empire/eras/01-the-lions-time/chapter.md"
+  ],
+  "forbidden_external_framings": [
+    "primitive",
+    "advanced",
+    "dark ages",
+    "discovered by"
+  ]
+}
