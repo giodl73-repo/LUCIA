@@ -28,6 +28,14 @@ LUCIA's established stories instead of replacing them.
 - RLINE history/context kernels remain a future extraction candidate only after
   LUCIA proves repeated product-local needs.
 
+## BANISH gamepack people-history gate
+
+BANISH game seeds may use LUCIA when people-history continuity changes the
+meaning of a playable decision. The LUCIA-facing score should stay below 3 if a
+scenario only adds cultural flavor. It can reach 3-4 only when households,
+obligations, civic memory, inherited debt, migration identity, or established
+story references affect what the player can preserve, trust, or lose.
+
 ## First fixture
 
 The foundation fixture is:
