@@ -1,7 +1,7 @@
 ---
 name: lucia-article-backfill
-description: "Backfill LUCIA research articles into CROP/PEBBLE/PROOF/FLETCH artifacts and export DOCX/PDF on demand."
-tags: [lucia, articles, proof, crop, pebble, fletch, docx, pdf]
+description: "Backfill LUCIA research articles into CROP/MDPORT/MDLOOM/FLETCH artifacts and export DOCX/PDF on demand."
+tags: [lucia, articles, proof, crop, mdport, fletch, docx, pdf]
 ---
 
 # lucia-article-backfill
@@ -23,13 +23,13 @@ python .claude\skills\lucia-article-backfill\scripts\article_backfill.py --all -
 |---|---|
 | CROP article views | `.crop/views/lucia-{paper}.json` |
 | CROP corpus view | `.crop/views/lucia-articles-source-corpus.json` |
-| PEBBLE article packs | `.pebble/packs/lucia-{paper}.pebble.json` |
-| PEBBLE corpus pack | `.pebble/packs/lucia-articles-source-corpus.pebble.json` |
-| PROOF literal sources | `.proof/backfill/sources/articles/proof-source/{paper}.source.md` |
-| PROOF table sidecars | `.proof/backfill/sources/articles/proof-source/{paper}.tables.json` |
-| PROOF block sidecars | `.proof/backfill/sources/articles/proof-source/{paper}.blocks.json` |
-| Source records | `.proof/backfill/sources/articles/{paper}.source-record.md` |
-| Article ledger | `.proof/backfill/modules/lucia-articles.json` |
+| MDPORT article packs | `.mdport/packs/lucia-{paper}.mdport.json` |
+| MDPORT corpus pack | `.mdport/packs/lucia-articles-source-corpus.mdport.json` |
+| MDLOOM literal sources | `.mdloom/backfill/sources/articles/mdloom-source/{paper}.source.md` |
+| MDLOOM table sidecars | `.mdloom/backfill/sources/articles/mdloom-source/{paper}.tables.json` |
+| MDLOOM block sidecars | `.mdloom/backfill/sources/articles/mdloom-source/{paper}.blocks.json` |
+| Source records | `.mdloom/backfill/sources/articles/{paper}.source-record.md` |
+| Article ledger | `.mdloom/backfill/modules/lucia-articles.json` |
 | FLETCH registry | `.fletch/registries/lucia-articles-source-corpus.json` |
 | DOCX/PDF exports | `research/papers/_exports/{paper}.{docx,pdf}` |
 

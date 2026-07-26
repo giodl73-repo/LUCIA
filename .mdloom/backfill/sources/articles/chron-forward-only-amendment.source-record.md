@@ -1,13 +1,13 @@
 ---
 lucia_schema: lucia.article-backfill.v1
-id: proof-backfill:lucia:chron-forward-only-amendment
+id: mdloom-backfill:lucia:chron-forward-only-amendment
 kind: source-record
 module: lucia-articles
 title: Forward-Only Rubric Evolution: Stability Under a Discovery-Driven Quality Standard source record
 status: source-custody
 source_custody: partial
-current_path: .proof/backfill/sources/articles/chron-forward-only-amendment.source-record.md
-canonical_path: .proof/backfill/sources/articles/chron-forward-only-amendment.source-record.md
+current_path: .mdloom/backfill/sources/articles/chron-forward-only-amendment.source-record.md
+canonical_path: .mdloom/backfill/sources/articles/chron-forward-only-amendment.source-record.md
 backsource_ids: [git-history:lucia:chron-forward-only-amendment]
 index_roles: [source-map, article-export]
 updated: null
@@ -18,11 +18,11 @@ updated: null
 | Field | Value |
 |---|---|
 | Current LUCIA article | `research/papers/chron-forward-only-amendment/main.md` |
-| PROOF-style source artifact | `.proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.source.md` |
-| Table sidecar | `.proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.tables.json` |
-| Block sidecar | `.proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.blocks.json` |
+| MDLOOM-style source artifact | `.mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.source.md` |
+| Table sidecar | `.mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.tables.json` |
+| Block sidecar | `.mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.blocks.json` |
 | CROP view | `.crop/views/lucia-chron-forward-only-amendment.json` |
-| PEBBLE pack | `.pebble/packs/lucia-chron-forward-only-amendment.pebble.json` |
+| MDPORT pack | `.mdport/packs/lucia-chron-forward-only-amendment.mdport.json` |
 | DOCX export command | `python .claude\skills\lucia-article-backfill\scripts\article_backfill.py --paper chron-forward-only-amendment --export docx` |
 | PDF export command | `python .claude\skills\lucia-article-backfill\scripts\article_backfill.py --paper chron-forward-only-amendment --export pdf` |
 | Git provenance | `3ef7315` |

@@ -79,33 +79,33 @@ def collect_papers(selected: str | None) -> list[dict[str, str]]:
                 "dir": paper_dir.as_posix(),
                 "main": main.as_posix(),
                 "view": (Path(".crop") / "views" / f"lucia-{paper_id}.json").as_posix(),
-                "pack": (Path(".pebble") / "packs" / f"lucia-{paper_id}.pebble.json").as_posix(),
+                "pack": (Path(".mdport") / "packs" / f"lucia-{paper_id}.mdport.json").as_posix(),
                 "source_md": (
-                    Path(".proof")
+                    Path(".mdloom")
                     / "backfill"
                     / "sources"
                     / SOURCE_ID
-                    / "proof-source"
+                    / "mdloom-source"
                     / f"{paper_id}.source.md"
                 ).as_posix(),
                 "tables": (
-                    Path(".proof")
+                    Path(".mdloom")
                     / "backfill"
                     / "sources"
                     / SOURCE_ID
-                    / "proof-source"
+                    / "mdloom-source"
                     / f"{paper_id}.tables.json"
                 ).as_posix(),
                 "blocks": (
-                    Path(".proof")
+                    Path(".mdloom")
                     / "backfill"
                     / "sources"
                     / SOURCE_ID
-                    / "proof-source"
+                    / "mdloom-source"
                     / f"{paper_id}.blocks.json"
                 ).as_posix(),
                 "source_record": (
-                    Path(".proof")
+                    Path(".mdloom")
                     / "backfill"
                     / "sources"
                     / SOURCE_ID
@@ -165,11 +165,11 @@ def format_obj(schema: str, shape: str, preferred: str, media: str = "applicatio
 
 def backfill(papers: list[dict[str, str]], crop_manifest: str, fletch_manifest: str, validate: bool) -> None:
     view_store = Path(".crop") / "views"
-    pack_store = Path(".pebble") / "packs"
-    source_store = Path(".proof") / "backfill" / "sources" / SOURCE_ID
-    module_ledger = Path(".proof") / "backfill" / "modules" / "lucia-articles.json"
+    pack_store = Path(".mdport") / "packs"
+    source_store = Path(".mdloom") / "backfill" / "sources" / SOURCE_ID
+    module_ledger = Path(".mdloom") / "backfill" / "modules" / "lucia-articles.json"
     module_view = view_store / "lucia-articles-source-corpus.json"
-    module_pack = pack_store / "lucia-articles-source-corpus.pebble.json"
+    module_pack = pack_store / "lucia-articles-source-corpus.mdport.json"
     registry_path = Path(".fletch") / "registries" / "lucia-articles-source-corpus.json"
 
     for paper in papers:
@@ -197,7 +197,7 @@ def backfill(papers: list[dict[str, str]], crop_manifest: str, fletch_manifest: 
                 "--file",
                 paper["view"],
                 "--format",
-                "pebble",
+                "mdport",
             ],
             stdout_path=Path(paper["pack"]),
         )
@@ -208,7 +208,7 @@ def backfill(papers: list[dict[str, str]], crop_manifest: str, fletch_manifest: 
         write_text(Path(paper["blocks"]), json.dumps(blocks, indent=2, ensure_ascii=False) + "\n")
         record = f"""---
 lucia_schema: lucia.article-backfill.v1
-id: proof-backfill:lucia:{paper['id']}
+id: mdloom-backfill:lucia:{paper['id']}
 kind: source-record
 module: lucia-articles
 title: {paper['title']} source record
@@ -226,11 +226,11 @@ updated: null
 | Field | Value |
 |---|---|
 | Current LUCIA article | `{paper['main']}` |
-| PROOF-style source artifact | `{paper['source_md']}` |
+| MDLOOM-style source artifact | `{paper['source_md']}` |
 | Table sidecar | `{paper['tables']}` |
 | Block sidecar | `{paper['blocks']}` |
 | CROP view | `{paper['view']}` |
-| PEBBLE pack | `{paper['pack']}` |
+| MDPORT pack | `{paper['pack']}` |
 | DOCX export command | `python .claude\\skills\\lucia-article-backfill\\scripts\\article_backfill.py --paper {paper['id']} --export docx` |
 | PDF export command | `python .claude\\skills\\lucia-article-backfill\\scripts\\article_backfill.py --paper {paper['id']} --export pdf` |
 | Git provenance | {tick_list(git_hashes(Path(paper['main'])))} |
@@ -267,7 +267,7 @@ attached.
             "--file",
             str(module_view),
             "--format",
-            "pebble",
+            "mdport",
         ],
         stdout_path=module_pack,
     )
@@ -280,7 +280,7 @@ attached.
         "source_store": source_store.as_posix(),
         "crop_view": module_view.as_posix(),
         "distribution": {
-            "pebble_pack": module_pack.as_posix(),
+            "mdport_pack": module_pack.as_posix(),
             "article_packs": [paper["pack"] for paper in papers],
             "fletch_registry": registry_path.as_posix(),
             "exports_root": EXPORT_ROOT.as_posix(),
@@ -299,7 +299,7 @@ attached.
 
     fletches = [
         {
-            "id": "lucia.articles.source-corpus.pebble",
+            "id": "lucia.articles.source-corpus.mdport",
             "node_kind": "fletch",
             "shafts": [{"kind": "file", "url": module_pack.as_posix()}],
             "edges": [
@@ -310,8 +310,8 @@ attached.
                     "metadata": {"view": module_view.as_posix(), "custody": "partial"},
                 }
             ],
-            "format": format_obj("pebble.v1", "corpus-slice", module_pack.as_posix()),
-            "tags": ["source-corpus", "crop", "pebble", "partial-custody", "articles"],
+            "format": format_obj("mdport.v1", "corpus-slice", module_pack.as_posix()),
+            "tags": ["source-corpus", "crop", "mdport", "partial-custody", "articles"],
             "metadata": {"source_repo": "LUCIA", "module": "articles", "publication_state": "partial-source-custody"},
         }
     ]
@@ -329,45 +329,45 @@ attached.
                     "id": f"{prefix}.view",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["view"]}],
-                    "edges": [{"to": "lucia.articles.source-corpus.pebble", "kind": "derived-from", "label": "Article CROP view recipe"}],
+                    "edges": [{"to": "lucia.articles.source-corpus.mdport", "kind": "derived-from", "label": "Article CROP view recipe"}],
                     "format": format_obj("crop.view.v1", "view-recipe", paper["view"]),
                     "tags": ["source-corpus", "crop", "view", "article"],
                     "metadata": common,
                 },
                 {
-                    "id": f"{prefix}.pebble",
+                    "id": f"{prefix}.mdport",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["pack"]}],
                     "edges": [{"to": f"{prefix}.view", "kind": "derived-from", "label": "Article CROP view recipe"}],
-                    "format": format_obj("pebble.v1", "corpus-slice", paper["pack"]),
-                    "tags": ["source-corpus", "crop", "pebble", "article"],
+                    "format": format_obj("mdport.v1", "corpus-slice", paper["pack"]),
+                    "tags": ["source-corpus", "crop", "mdport", "article"],
                     "metadata": common,
                 },
                 {
-                    "id": f"{prefix}.proof-source",
+                    "id": f"{prefix}.mdloom-source",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["source_md"]}],
-                    "edges": [{"to": f"{prefix}.pebble", "kind": "derived-from", "label": "Literal source for article export"}],
-                    "format": format_obj("proof.source.literal_markdown.v1", "literal-source", paper["source_md"], "text/markdown"),
-                    "tags": ["source-corpus", "proof", "source", "article"],
+                    "edges": [{"to": f"{prefix}.mdport", "kind": "derived-from", "label": "Literal source for article export"}],
+                    "format": format_obj("mdloom.source.literal_markdown.v1", "literal-source", paper["source_md"], "text/markdown"),
+                    "tags": ["source-corpus", "mdloom", "source", "article"],
                     "metadata": common,
                 },
                 {
                     "id": f"{prefix}.tables",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["tables"]}],
-                    "edges": [{"to": f"{prefix}.proof-source", "kind": "derived-from", "label": "Markdown table sidecar"}],
-                    "format": format_obj("proof.backfill.tables.v1", "table-sidecar", paper["tables"]),
-                    "tags": ["source-corpus", "proof", "tables", "article"],
+                    "edges": [{"to": f"{prefix}.mdloom-source", "kind": "derived-from", "label": "Markdown table sidecar"}],
+                    "format": format_obj("mdloom.backfill.tables.v1", "table-sidecar", paper["tables"]),
+                    "tags": ["source-corpus", "mdloom", "tables", "article"],
                     "metadata": common,
                 },
                 {
                     "id": f"{prefix}.blocks",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["blocks"]}],
-                    "edges": [{"to": f"{prefix}.proof-source", "kind": "derived-from", "label": "Structured block sidecar"}],
-                    "format": format_obj("proof.backfill.blocks.v1", "structured-block-sidecar", paper["blocks"]),
-                    "tags": ["source-corpus", "proof", "blocks", "article"],
+                    "edges": [{"to": f"{prefix}.mdloom-source", "kind": "derived-from", "label": "Structured block sidecar"}],
+                    "format": format_obj("mdloom.backfill.blocks.v1", "structured-block-sidecar", paper["blocks"]),
+                    "tags": ["source-corpus", "mdloom", "blocks", "article"],
                     "metadata": common,
                 },
             ]

@@ -1,5 +1,5 @@
 {
-  "schema": "pebble.v1",
+  "schema": "mdport.v1",
   "kind": "corpus-slice",
   "title": "lucia-chron-structural-engines",
   "source": "../../research/papers/chron-structural-engines",
