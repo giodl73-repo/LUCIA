@@ -1,6 +1,6 @@
 ---
 name: lucia-article-backfill
-description: "Backfill LUCIA research articles into CROP/MDPORT/MDLOOM/FLETCH artifacts and export DOCX/PDF on demand."
+description: "Backfill LUCIA research articles into MDCROP/MDPORT/MDLOOM/FLETCH artifacts and export DOCX/PDF on demand."
 tags: [lucia, articles, proof, crop, mdport, fletch, docx, pdf]
 ---
 
@@ -21,8 +21,8 @@ python .claude\skills\lucia-article-backfill\scripts\article_backfill.py --all -
 
 | Surface | Path pattern |
 |---|---|
-| CROP article views | `.crop/views/lucia-{paper}.json` |
-| CROP corpus view | `.crop/views/lucia-articles-source-corpus.json` |
+| MDCROP article views | `.mdcrop/views/lucia-{paper}.json` |
+| MDCROP corpus view | `.mdcrop/views/lucia-articles-source-corpus.json` |
 | MDPORT article packs | `.mdport/packs/lucia-{paper}.mdport.json` |
 | MDPORT corpus pack | `.mdport/packs/lucia-articles-source-corpus.mdport.json` |
 | MDLOOM literal sources | `.mdloom/backfill/sources/articles/mdloom-source/{paper}.source.md` |

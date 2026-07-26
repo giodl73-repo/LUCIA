@@ -78,7 +78,7 @@ def collect_papers(selected: str | None) -> list[dict[str, str]]:
                 "title": title_from_markdown(main),
                 "dir": paper_dir.as_posix(),
                 "main": main.as_posix(),
-                "view": (Path(".crop") / "views" / f"lucia-{paper_id}.json").as_posix(),
+                "view": (Path(".mdcrop") / "views" / f"lucia-{paper_id}.json").as_posix(),
                 "pack": (Path(".mdport") / "packs" / f"lucia-{paper_id}.mdport.json").as_posix(),
                 "source_md": (
                     Path(".mdloom")
@@ -163,8 +163,8 @@ def format_obj(schema: str, shape: str, preferred: str, media: str = "applicatio
     }
 
 
-def backfill(papers: list[dict[str, str]], crop_manifest: str, fletch_manifest: str, validate: bool) -> None:
-    view_store = Path(".crop") / "views"
+def backfill(papers: list[dict[str, str]], mdcrop_manifest: str, fletch_manifest: str, validate: bool) -> None:
+    view_store = Path(".mdcrop") / "views"
     pack_store = Path(".mdport") / "packs"
     source_store = Path(".mdloom") / "backfill" / "sources" / SOURCE_ID
     module_ledger = Path(".mdloom") / "backfill" / "modules" / "lucia-articles.json"
@@ -175,7 +175,7 @@ def backfill(papers: list[dict[str, str]], crop_manifest: str, fletch_manifest: 
     for paper in papers:
         paper_dir = Path(paper["dir"])
         view = {
-            "schema_version": "crop.view.v1",
+            "schema_version": "mdcrop.view.v1",
             "name": f"lucia-{paper['id']}",
             "root": f"../../{paper_dir.as_posix()}",
             "task": f"Backfill LUCIA article '{paper['title']}' for DOCX/PDF and downstream source-corpus reuse.",
@@ -190,7 +190,7 @@ def backfill(papers: list[dict[str, str]], crop_manifest: str, fletch_manifest: 
                 "cargo",
                 "run",
                 "--manifest-path",
-                crop_manifest,
+                mdcrop_manifest,
                 "--quiet",
                 "--",
                 "view",
@@ -229,7 +229,7 @@ updated: null
 | MDLOOM-style source artifact | `{paper['source_md']}` |
 | Table sidecar | `{paper['tables']}` |
 | Block sidecar | `{paper['blocks']}` |
-| CROP view | `{paper['view']}` |
+| MDCROP view | `{paper['view']}` |
 | MDPORT pack | `{paper['pack']}` |
 | DOCX export command | `python .claude\\skills\\lucia-article-backfill\\scripts\\article_backfill.py --paper {paper['id']} --export docx` |
 | PDF export command | `python .claude\\skills\\lucia-article-backfill\\scripts\\article_backfill.py --paper {paper['id']} --export pdf` |
@@ -245,7 +245,7 @@ attached.
         write_text(Path(paper["source_record"]), record)
 
     module_view_json = {
-        "schema_version": "crop.view.v1",
+        "schema_version": "mdcrop.view.v1",
         "name": "lucia-articles-source-corpus",
         "root": "../../research/papers",
         "task": "Backfill LUCIA research articles for downstream context reuse and publication exports.",
@@ -260,7 +260,7 @@ attached.
             "cargo",
             "run",
             "--manifest-path",
-            crop_manifest,
+            mdcrop_manifest,
             "--quiet",
             "--",
             "view",
@@ -306,12 +306,12 @@ attached.
                 {
                     "to": "lucia-articles-source-corpus",
                     "kind": "derived-from",
-                    "label": "CROP view recipe",
+                    "label": "MDCROP view recipe",
                     "metadata": {"view": module_view.as_posix(), "custody": "partial"},
                 }
             ],
             "format": format_obj("mdport.v1", "corpus-slice", module_pack.as_posix()),
-            "tags": ["source-corpus", "crop", "mdport", "partial-custody", "articles"],
+            "tags": ["source-corpus", "mdcrop", "mdport", "partial-custody", "articles"],
             "metadata": {"source_repo": "LUCIA", "module": "articles", "publication_state": "partial-source-custody"},
         }
     ]
@@ -329,18 +329,18 @@ attached.
                     "id": f"{prefix}.view",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["view"]}],
-                    "edges": [{"to": "lucia.articles.source-corpus.mdport", "kind": "derived-from", "label": "Article CROP view recipe"}],
-                    "format": format_obj("crop.view.v1", "view-recipe", paper["view"]),
-                    "tags": ["source-corpus", "crop", "view", "article"],
+                    "edges": [{"to": "lucia.articles.source-corpus.mdport", "kind": "derived-from", "label": "Article MDCROP view recipe"}],
+                    "format": format_obj("mdcrop.view.v1", "view-recipe", paper["view"]),
+                    "tags": ["source-corpus", "mdcrop", "view", "article"],
                     "metadata": common,
                 },
                 {
                     "id": f"{prefix}.mdport",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["pack"]}],
-                    "edges": [{"to": f"{prefix}.view", "kind": "derived-from", "label": "Article CROP view recipe"}],
+                    "edges": [{"to": f"{prefix}.view", "kind": "derived-from", "label": "Article MDCROP view recipe"}],
                     "format": format_obj("mdport.v1", "corpus-slice", paper["pack"]),
-                    "tags": ["source-corpus", "crop", "mdport", "article"],
+                    "tags": ["source-corpus", "mdcrop", "mdport", "article"],
                     "metadata": common,
                 },
                 {
@@ -381,7 +381,7 @@ attached.
     write_text(registry_path, json.dumps(registry, indent=2, ensure_ascii=False) + "\n")
 
     if validate:
-        run(["cargo", "run", "--manifest-path", crop_manifest, "--quiet", "--", "view", "--inspect", "--dir", str(view_store), "--strict"])
+        run(["cargo", "run", "--manifest-path", mdcrop_manifest, "--quiet", "--", "view", "--inspect", "--dir", str(view_store), "--strict"])
         run(["cargo", "run", "--manifest-path", fletch_manifest, "--bin", "fletch-cli", "--quiet", "--", "registry", "validate", "--file", str(registry_path)])
         missing = [shaft["url"] for fletch in fletches for shaft in fletch["shafts"] if not Path(shaft["url"]).exists()]
         if missing:
@@ -414,7 +414,7 @@ def main() -> None:
     group.add_argument("--paper", help="Paper directory name under research/papers.")
     parser.add_argument("--export", choices=["docx", "pdf", "all"], help="Export selected article(s) with pandoc.")
     parser.add_argument("--skip-backfill", action="store_true", help="Only export; do not regenerate source-corpus artifacts.")
-    parser.add_argument("--crop-manifest", default=r"..\..\tools-infra\crop\Cargo.toml")
+    parser.add_argument("--mdcrop-manifest", default=r"..\..\tools-infra\mdcrop\Cargo.toml")
     parser.add_argument("--fletch-manifest", default=r"..\..\tools-infra\fletch\Cargo.toml")
     parser.add_argument("--validate", action="store_true")
     args = parser.parse_args()
@@ -423,7 +423,7 @@ def main() -> None:
     if not papers:
         raise SystemExit("no matching LUCIA article papers found")
     if not args.skip_backfill:
-        backfill(papers, args.crop_manifest, args.fletch_manifest, args.validate)
+        backfill(papers, args.mdcrop_manifest, args.fletch_manifest, args.validate)
     if args.export:
         export_articles(papers, args.export)
 

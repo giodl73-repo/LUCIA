@@ -1,5 +1,5 @@
 {
-  "schema_version": "crop.view.v1",
+  "schema_version": "mdcrop.view.v1",
   "name": "lucia-chron-terminal-conditions",
   "root": "../../research/papers/chron-terminal-conditions",
   "task": "Backfill LUCIA article 'Terminal Condition Types: Closure Taxonomy From Empirical Chapter Endings' for DOCX/PDF and downstream source-corpus reuse.",

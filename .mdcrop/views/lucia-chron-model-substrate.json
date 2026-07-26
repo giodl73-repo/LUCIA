@@ -1,5 +1,5 @@
 {
-  "schema_version": "crop.view.v1",
+  "schema_version": "mdcrop.view.v1",
   "name": "lucia-chron-model-substrate",
   "root": "../../research/papers/chron-model-substrate",
   "task": "Backfill LUCIA article 'Model Substrate Effects in Structured Creative Production: Opus vs Sonnet vs Haiku' for DOCX/PDF and downstream source-corpus reuse.",

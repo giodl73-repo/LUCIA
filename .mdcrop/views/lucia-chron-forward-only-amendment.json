@@ -1,5 +1,5 @@
 {
-  "schema_version": "crop.view.v1",
+  "schema_version": "mdcrop.view.v1",
   "name": "lucia-chron-forward-only-amendment",
   "root": "../../research/papers/chron-forward-only-amendment",
   "task": "Backfill LUCIA article 'Forward-Only Rubric Evolution: Stability Under a Discovery-Driven Quality Standard' for DOCX/PDF and downstream source-corpus reuse.",

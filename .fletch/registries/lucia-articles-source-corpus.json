@@ -16,9 +16,9 @@
         {
           "to": "lucia-articles-source-corpus",
           "kind": "derived-from",
-          "label": "CROP view recipe",
+          "label": "MDCROP view recipe",
           "metadata": {
-            "view": ".crop/views/lucia-articles-source-corpus.json",
+            "view": ".mdcrop/views/lucia-articles-source-corpus.json",
             "custody": "partial"
           }
         }
@@ -34,7 +34,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "partial-custody",
         "articles"
@@ -51,14 +51,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-emergence-conditions.json"
+          "url": ".mdcrop/views/lucia-chron-emergence-conditions.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -66,13 +66,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-emergence-conditions.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-emergence-conditions.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -96,7 +96,7 @@
         {
           "to": "lucia.articles.chron-emergence-conditions.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -110,7 +110,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],
@@ -241,14 +241,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-forward-only-amendment.json"
+          "url": ".mdcrop/views/lucia-chron-forward-only-amendment.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -256,13 +256,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-forward-only-amendment.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-forward-only-amendment.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -286,7 +286,7 @@
         {
           "to": "lucia.articles.chron-forward-only-amendment.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -300,7 +300,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],
@@ -431,14 +431,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-innovation-engine.json"
+          "url": ".mdcrop/views/lucia-chron-innovation-engine.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -446,13 +446,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-innovation-engine.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-innovation-engine.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -476,7 +476,7 @@
         {
           "to": "lucia.articles.chron-innovation-engine.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -490,7 +490,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],
@@ -621,14 +621,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-model-substrate.json"
+          "url": ".mdcrop/views/lucia-chron-model-substrate.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -636,13 +636,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-model-substrate.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-model-substrate.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -666,7 +666,7 @@
         {
           "to": "lucia.articles.chron-model-substrate.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -680,7 +680,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],
@@ -811,14 +811,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-pipeline-instrument.json"
+          "url": ".mdcrop/views/lucia-chron-pipeline-instrument.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -826,13 +826,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-pipeline-instrument.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-pipeline-instrument.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -856,7 +856,7 @@
         {
           "to": "lucia.articles.chron-pipeline-instrument.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -870,7 +870,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],
@@ -1001,14 +1001,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-structural-engines.json"
+          "url": ".mdcrop/views/lucia-chron-structural-engines.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -1016,13 +1016,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-structural-engines.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-structural-engines.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -1046,7 +1046,7 @@
         {
           "to": "lucia.articles.chron-structural-engines.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -1060,7 +1060,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],
@@ -1191,14 +1191,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-terminal-conditions.json"
+          "url": ".mdcrop/views/lucia-chron-terminal-conditions.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -1206,13 +1206,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-terminal-conditions.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-terminal-conditions.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -1236,7 +1236,7 @@
         {
           "to": "lucia.articles.chron-terminal-conditions.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -1250,7 +1250,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],
@@ -1381,14 +1381,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-typology-saturation.json"
+          "url": ".mdcrop/views/lucia-chron-typology-saturation.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -1396,13 +1396,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-typology-saturation.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-typology-saturation.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -1426,7 +1426,7 @@
         {
           "to": "lucia.articles.chron-typology-saturation.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -1440,7 +1440,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],
@@ -1571,14 +1571,14 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".crop/views/lucia-chron-voice-spectrum.json"
+          "url": ".mdcrop/views/lucia-chron-voice-spectrum.json"
         }
       ],
       "edges": [
         {
           "to": "lucia.articles.source-corpus.mdport",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -1586,13 +1586,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "crop.view.v1",
+        "schema": "mdcrop.view.v1",
         "record_shape": "view-recipe",
-        "preferred_local": ".crop/views/lucia-chron-voice-spectrum.json"
+        "preferred_local": ".mdcrop/views/lucia-chron-voice-spectrum.json"
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "view",
         "article"
       ],
@@ -1616,7 +1616,7 @@
         {
           "to": "lucia.articles.chron-voice-spectrum.view",
           "kind": "derived-from",
-          "label": "Article CROP view recipe"
+          "label": "Article MDCROP view recipe"
         }
       ],
       "format": {
@@ -1630,7 +1630,7 @@
       },
       "tags": [
         "source-corpus",
-        "crop",
+        "mdcrop",
         "mdport",
         "article"
       ],

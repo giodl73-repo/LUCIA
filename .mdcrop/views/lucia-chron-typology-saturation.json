@@ -1,5 +1,5 @@
 {
-  "schema_version": "crop.view.v1",
+  "schema_version": "mdcrop.view.v1",
   "name": "lucia-chron-typology-saturation",
   "root": "../../research/papers/chron-typology-saturation",
   "task": "Backfill LUCIA article 'Typology Saturation: Convergence Evidence in a Self-Evolving Quality Rubric' for DOCX/PDF and downstream source-corpus reuse.",
