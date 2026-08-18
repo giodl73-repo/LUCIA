@@ -159,6 +159,22 @@ established-story references; `lucia-history-cli` validates and compares JSON
 records against established chapter profiles. See
 [`docs/people-history-engine.md`](docs/people-history-engine.md).
 
+### Reuse boundary
+
+The history workspace is deliberately product-local. Its people, era, event,
+established-story, and comparison rules encode LUCIA's editorial model, and no
+portfolio repository declares either crate as a dependency or owns
+compatibility proof for it. BANISH does consume LUCIA's rubric and
+people-history scores in its knowledge-system gamepack, but that content-method
+gate does not import or stabilize either Rust crate. Architectural pattern
+references and generated corpus views are also not direct library adoption.
+
+LUCIA's prose, rubric, production pipeline, fixtures, and Rust validation policy
+therefore remain specialist product surfaces. If a generic history primitive
+emerges, it should be extracted only after a named downstream consumer defines
+a bounded versioned contract and tests that contract in the consuming
+repository.
+
 ---
 
 ## How a Chapter Gets Made — the 11-Stage Pipeline
