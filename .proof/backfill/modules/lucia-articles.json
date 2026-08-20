@@ -3,7 +3,7 @@
   "module_id": "lucia-articles",
   "status": "first-pass-complete",
   "source_root": "research/papers",
-  "source_store": ".mdloom/backfill/sources/articles",
+  "source_store": ".proof/backfill/sources/articles",
   "crop_view": ".crop/views/lucia-articles-source-corpus.json",
   "distribution": {
     "mdport_pack": ".mdport/packs/lucia-articles-source-corpus.mdport.json",
@@ -38,10 +38,10 @@
       "main": "research/papers/chron-emergence-conditions/main.md",
       "view": ".crop/views/lucia-chron-emergence-conditions.json",
       "pack": ".mdport/packs/lucia-chron-emergence-conditions.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-emergence-conditions.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-emergence-conditions.source-record.md"
     },
     {
       "id": "chron-forward-only-amendment",
@@ -51,10 +51,10 @@
       "main": "research/papers/chron-forward-only-amendment/main.md",
       "view": ".crop/views/lucia-chron-forward-only-amendment.json",
       "pack": ".mdport/packs/lucia-chron-forward-only-amendment.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-forward-only-amendment.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-forward-only-amendment.source-record.md"
     },
     {
       "id": "chron-innovation-engine",
@@ -64,10 +64,10 @@
       "main": "research/papers/chron-innovation-engine/main.md",
       "view": ".crop/views/lucia-chron-innovation-engine.json",
       "pack": ".mdport/packs/lucia-chron-innovation-engine.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-innovation-engine.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-innovation-engine.source-record.md"
     },
     {
       "id": "chron-model-substrate",
@@ -77,10 +77,10 @@
       "main": "research/papers/chron-model-substrate/main.md",
       "view": ".crop/views/lucia-chron-model-substrate.json",
       "pack": ".mdport/packs/lucia-chron-model-substrate.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-model-substrate.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-model-substrate.source-record.md"
     },
     {
       "id": "chron-pipeline-instrument",
@@ -90,10 +90,10 @@
       "main": "research/papers/chron-pipeline-instrument/main.md",
       "view": ".crop/views/lucia-chron-pipeline-instrument.json",
       "pack": ".mdport/packs/lucia-chron-pipeline-instrument.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-pipeline-instrument.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-pipeline-instrument.source-record.md"
     },
     {
       "id": "chron-structural-engines",
@@ -103,10 +103,10 @@
       "main": "research/papers/chron-structural-engines/main.md",
       "view": ".crop/views/lucia-chron-structural-engines.json",
       "pack": ".mdport/packs/lucia-chron-structural-engines.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-structural-engines.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-structural-engines.source-record.md"
     },
     {
       "id": "chron-terminal-conditions",
@@ -116,10 +116,10 @@
       "main": "research/papers/chron-terminal-conditions/main.md",
       "view": ".crop/views/lucia-chron-terminal-conditions.json",
       "pack": ".mdport/packs/lucia-chron-terminal-conditions.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-terminal-conditions.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-terminal-conditions.source-record.md"
     },
     {
       "id": "chron-typology-saturation",
@@ -129,10 +129,10 @@
       "main": "research/papers/chron-typology-saturation/main.md",
       "view": ".crop/views/lucia-chron-typology-saturation.json",
       "pack": ".mdport/packs/lucia-chron-typology-saturation.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-typology-saturation.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-typology-saturation.source-record.md"
     },
     {
       "id": "chron-voice-spectrum",
@@ -142,10 +142,10 @@
       "main": "research/papers/chron-voice-spectrum/main.md",
       "view": ".crop/views/lucia-chron-voice-spectrum.json",
       "pack": ".mdport/packs/lucia-chron-voice-spectrum.mdport.json",
-      "source_md": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.source.md",
-      "tables": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.tables.json",
-      "blocks": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.blocks.json",
-      "source_record": ".mdloom/backfill/sources/articles/chron-voice-spectrum.source-record.md"
+      "source_md": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.source.md",
+      "tables": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.tables.json",
+      "blocks": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.blocks.json",
+      "source_record": ".proof/backfill/sources/articles/chron-voice-spectrum.source-record.md"
     }
   ]
 }

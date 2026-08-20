@@ -122,12 +122,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-emergence-conditions.mdloom-source",
+      "id": "lucia.articles.chron-emergence-conditions.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.source.md"
         }
       ],
       "edges": [
@@ -142,13 +142,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -165,12 +165,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-emergence-conditions.mdloom-source",
+          "to": "lucia.articles.chron-emergence-conditions.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -180,13 +180,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -203,12 +203,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-emergence-conditions.mdloom-source",
+          "to": "lucia.articles.chron-emergence-conditions.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -218,13 +218,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-emergence-conditions.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-emergence-conditions.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],
@@ -312,12 +312,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-forward-only-amendment.mdloom-source",
+      "id": "lucia.articles.chron-forward-only-amendment.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.source.md"
         }
       ],
       "edges": [
@@ -332,13 +332,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -355,12 +355,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-forward-only-amendment.mdloom-source",
+          "to": "lucia.articles.chron-forward-only-amendment.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -370,13 +370,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -393,12 +393,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-forward-only-amendment.mdloom-source",
+          "to": "lucia.articles.chron-forward-only-amendment.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -408,13 +408,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-forward-only-amendment.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-forward-only-amendment.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],
@@ -502,12 +502,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-innovation-engine.mdloom-source",
+      "id": "lucia.articles.chron-innovation-engine.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.source.md"
         }
       ],
       "edges": [
@@ -522,13 +522,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -545,12 +545,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-innovation-engine.mdloom-source",
+          "to": "lucia.articles.chron-innovation-engine.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -560,13 +560,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -583,12 +583,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-innovation-engine.mdloom-source",
+          "to": "lucia.articles.chron-innovation-engine.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -598,13 +598,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-innovation-engine.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-innovation-engine.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],
@@ -692,12 +692,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-model-substrate.mdloom-source",
+      "id": "lucia.articles.chron-model-substrate.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.source.md"
         }
       ],
       "edges": [
@@ -712,13 +712,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -735,12 +735,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-model-substrate.mdloom-source",
+          "to": "lucia.articles.chron-model-substrate.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -750,13 +750,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -773,12 +773,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-model-substrate.mdloom-source",
+          "to": "lucia.articles.chron-model-substrate.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -788,13 +788,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-model-substrate.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-model-substrate.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],
@@ -882,12 +882,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-pipeline-instrument.mdloom-source",
+      "id": "lucia.articles.chron-pipeline-instrument.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.source.md"
         }
       ],
       "edges": [
@@ -902,13 +902,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -925,12 +925,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-pipeline-instrument.mdloom-source",
+          "to": "lucia.articles.chron-pipeline-instrument.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -940,13 +940,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -963,12 +963,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-pipeline-instrument.mdloom-source",
+          "to": "lucia.articles.chron-pipeline-instrument.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -978,13 +978,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-pipeline-instrument.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-pipeline-instrument.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],
@@ -1072,12 +1072,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-structural-engines.mdloom-source",
+      "id": "lucia.articles.chron-structural-engines.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.source.md"
         }
       ],
       "edges": [
@@ -1092,13 +1092,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -1115,12 +1115,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-structural-engines.mdloom-source",
+          "to": "lucia.articles.chron-structural-engines.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -1130,13 +1130,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -1153,12 +1153,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-structural-engines.mdloom-source",
+          "to": "lucia.articles.chron-structural-engines.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -1168,13 +1168,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-structural-engines.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-structural-engines.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],
@@ -1262,12 +1262,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-terminal-conditions.mdloom-source",
+      "id": "lucia.articles.chron-terminal-conditions.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.source.md"
         }
       ],
       "edges": [
@@ -1282,13 +1282,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -1305,12 +1305,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-terminal-conditions.mdloom-source",
+          "to": "lucia.articles.chron-terminal-conditions.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -1320,13 +1320,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -1343,12 +1343,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-terminal-conditions.mdloom-source",
+          "to": "lucia.articles.chron-terminal-conditions.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -1358,13 +1358,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-terminal-conditions.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-terminal-conditions.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],
@@ -1452,12 +1452,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-typology-saturation.mdloom-source",
+      "id": "lucia.articles.chron-typology-saturation.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.source.md"
         }
       ],
       "edges": [
@@ -1472,13 +1472,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -1495,12 +1495,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-typology-saturation.mdloom-source",
+          "to": "lucia.articles.chron-typology-saturation.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -1510,13 +1510,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -1533,12 +1533,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-typology-saturation.mdloom-source",
+          "to": "lucia.articles.chron-typology-saturation.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -1548,13 +1548,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-typology-saturation.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-typology-saturation.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],
@@ -1642,12 +1642,12 @@
       }
     },
     {
-      "id": "lucia.articles.chron-voice-spectrum.mdloom-source",
+      "id": "lucia.articles.chron-voice-spectrum.proof-source",
       "node_kind": "fletch",
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.source.md"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.source.md"
         }
       ],
       "edges": [
@@ -1662,13 +1662,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.source.literal_markdown.v1",
+        "schema": "proof.source.literal_markdown.v1",
         "record_shape": "literal-source",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.source.md"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.source.md"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "source",
         "article"
       ],
@@ -1685,12 +1685,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.tables.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.tables.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-voice-spectrum.mdloom-source",
+          "to": "lucia.articles.chron-voice-spectrum.proof-source",
           "kind": "derived-from",
           "label": "Markdown table sidecar"
         }
@@ -1700,13 +1700,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.tables.v1",
+        "schema": "proof.backfill.tables.v1",
         "record_shape": "table-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.tables.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.tables.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "tables",
         "article"
       ],
@@ -1723,12 +1723,12 @@
       "shafts": [
         {
           "kind": "file",
-          "url": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.blocks.json"
+          "url": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.blocks.json"
         }
       ],
       "edges": [
         {
-          "to": "lucia.articles.chron-voice-spectrum.mdloom-source",
+          "to": "lucia.articles.chron-voice-spectrum.proof-source",
           "kind": "derived-from",
           "label": "Structured block sidecar"
         }
@@ -1738,13 +1738,13 @@
         "encoding": "utf-8",
         "compression": null,
         "container": null,
-        "schema": "mdloom.backfill.blocks.v1",
+        "schema": "proof.backfill.blocks.v1",
         "record_shape": "structured-block-sidecar",
-        "preferred_local": ".mdloom/backfill/sources/articles/mdloom-source/chron-voice-spectrum.blocks.json"
+        "preferred_local": ".proof/backfill/sources/articles/proof-source/chron-voice-spectrum.blocks.json"
       },
       "tags": [
         "source-corpus",
-        "mdloom",
+        "proof",
         "blocks",
         "article"
       ],

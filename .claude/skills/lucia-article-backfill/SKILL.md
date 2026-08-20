@@ -1,6 +1,6 @@
 ---
 name: lucia-article-backfill
-description: "Backfill LUCIA research articles into MDCROP/MDPORT/MDLOOM/FLETCH artifacts and export DOCX/PDF on demand."
+description: "Backfill LUCIA research articles into MDCROP/MDPORT/PROOF/FLETCH artifacts and export DOCX/PDF on demand."
 tags: [lucia, articles, proof, crop, mdport, fletch, docx, pdf]
 ---
 
@@ -25,11 +25,11 @@ python .claude\skills\lucia-article-backfill\scripts\article_backfill.py --all -
 | MDCROP corpus view | `.mdcrop/views/lucia-articles-source-corpus.json` |
 | MDPORT article packs | `.mdport/packs/lucia-{paper}.mdport.json` |
 | MDPORT corpus pack | `.mdport/packs/lucia-articles-source-corpus.mdport.json` |
-| MDLOOM literal sources | `.mdloom/backfill/sources/articles/mdloom-source/{paper}.source.md` |
-| MDLOOM table sidecars | `.mdloom/backfill/sources/articles/mdloom-source/{paper}.tables.json` |
-| MDLOOM block sidecars | `.mdloom/backfill/sources/articles/mdloom-source/{paper}.blocks.json` |
-| Source records | `.mdloom/backfill/sources/articles/{paper}.source-record.md` |
-| Article ledger | `.mdloom/backfill/modules/lucia-articles.json` |
+| PROOF literal sources | `.proof/backfill/sources/articles/proof-source/{paper}.source.md` |
+| PROOF table sidecars | `.proof/backfill/sources/articles/proof-source/{paper}.tables.json` |
+| PROOF block sidecars | `.proof/backfill/sources/articles/proof-source/{paper}.blocks.json` |
+| Source records | `.proof/backfill/sources/articles/{paper}.source-record.md` |
+| Article ledger | `.proof/backfill/modules/lucia-articles.json` |
 | FLETCH registry | `.fletch/registries/lucia-articles-source-corpus.json` |
 | DOCX/PDF exports | `research/papers/_exports/{paper}.{docx,pdf}` |
 

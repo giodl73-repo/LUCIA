@@ -81,31 +81,31 @@ def collect_papers(selected: str | None) -> list[dict[str, str]]:
                 "view": (Path(".mdcrop") / "views" / f"lucia-{paper_id}.json").as_posix(),
                 "pack": (Path(".mdport") / "packs" / f"lucia-{paper_id}.mdport.json").as_posix(),
                 "source_md": (
-                    Path(".mdloom")
+                    Path(".proof")
                     / "backfill"
                     / "sources"
                     / SOURCE_ID
-                    / "mdloom-source"
+                    / "proof-source"
                     / f"{paper_id}.source.md"
                 ).as_posix(),
                 "tables": (
-                    Path(".mdloom")
+                    Path(".proof")
                     / "backfill"
                     / "sources"
                     / SOURCE_ID
-                    / "mdloom-source"
+                    / "proof-source"
                     / f"{paper_id}.tables.json"
                 ).as_posix(),
                 "blocks": (
-                    Path(".mdloom")
+                    Path(".proof")
                     / "backfill"
                     / "sources"
                     / SOURCE_ID
-                    / "mdloom-source"
+                    / "proof-source"
                     / f"{paper_id}.blocks.json"
                 ).as_posix(),
                 "source_record": (
-                    Path(".mdloom")
+                    Path(".proof")
                     / "backfill"
                     / "sources"
                     / SOURCE_ID
@@ -166,8 +166,8 @@ def format_obj(schema: str, shape: str, preferred: str, media: str = "applicatio
 def backfill(papers: list[dict[str, str]], mdcrop_manifest: str, fletch_manifest: str, validate: bool) -> None:
     view_store = Path(".mdcrop") / "views"
     pack_store = Path(".mdport") / "packs"
-    source_store = Path(".mdloom") / "backfill" / "sources" / SOURCE_ID
-    module_ledger = Path(".mdloom") / "backfill" / "modules" / "lucia-articles.json"
+    source_store = Path(".proof") / "backfill" / "sources" / SOURCE_ID
+    module_ledger = Path(".proof") / "backfill" / "modules" / "lucia-articles.json"
     module_view = view_store / "lucia-articles-source-corpus.json"
     module_pack = pack_store / "lucia-articles-source-corpus.mdport.json"
     registry_path = Path(".fletch") / "registries" / "lucia-articles-source-corpus.json"
@@ -208,7 +208,7 @@ def backfill(papers: list[dict[str, str]], mdcrop_manifest: str, fletch_manifest
         write_text(Path(paper["blocks"]), json.dumps(blocks, indent=2, ensure_ascii=False) + "\n")
         record = f"""---
 lucia_schema: lucia.article-backfill.v1
-id: mdloom-backfill:lucia:{paper['id']}
+id: proof-backfill:lucia:{paper['id']}
 kind: source-record
 module: lucia-articles
 title: {paper['title']} source record
@@ -226,7 +226,7 @@ updated: null
 | Field | Value |
 |---|---|
 | Current LUCIA article | `{paper['main']}` |
-| MDLOOM-style source artifact | `{paper['source_md']}` |
+| PROOF-style source artifact | `{paper['source_md']}` |
 | Table sidecar | `{paper['tables']}` |
 | Block sidecar | `{paper['blocks']}` |
 | MDCROP view | `{paper['view']}` |
@@ -344,30 +344,30 @@ attached.
                     "metadata": common,
                 },
                 {
-                    "id": f"{prefix}.mdloom-source",
+                    "id": f"{prefix}.proof-source",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["source_md"]}],
                     "edges": [{"to": f"{prefix}.mdport", "kind": "derived-from", "label": "Literal source for article export"}],
-                    "format": format_obj("mdloom.source.literal_markdown.v1", "literal-source", paper["source_md"], "text/markdown"),
-                    "tags": ["source-corpus", "mdloom", "source", "article"],
+                    "format": format_obj("proof.source.literal_markdown.v1", "literal-source", paper["source_md"], "text/markdown"),
+                    "tags": ["source-corpus", "proof", "source", "article"],
                     "metadata": common,
                 },
                 {
                     "id": f"{prefix}.tables",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["tables"]}],
-                    "edges": [{"to": f"{prefix}.mdloom-source", "kind": "derived-from", "label": "Markdown table sidecar"}],
-                    "format": format_obj("mdloom.backfill.tables.v1", "table-sidecar", paper["tables"]),
-                    "tags": ["source-corpus", "mdloom", "tables", "article"],
+                    "edges": [{"to": f"{prefix}.proof-source", "kind": "derived-from", "label": "Markdown table sidecar"}],
+                    "format": format_obj("proof.backfill.tables.v1", "table-sidecar", paper["tables"]),
+                    "tags": ["source-corpus", "proof", "tables", "article"],
                     "metadata": common,
                 },
                 {
                     "id": f"{prefix}.blocks",
                     "node_kind": "fletch",
                     "shafts": [{"kind": "file", "url": paper["blocks"]}],
-                    "edges": [{"to": f"{prefix}.mdloom-source", "kind": "derived-from", "label": "Structured block sidecar"}],
-                    "format": format_obj("mdloom.backfill.blocks.v1", "structured-block-sidecar", paper["blocks"]),
-                    "tags": ["source-corpus", "mdloom", "blocks", "article"],
+                    "edges": [{"to": f"{prefix}.proof-source", "kind": "derived-from", "label": "Structured block sidecar"}],
+                    "format": format_obj("proof.backfill.blocks.v1", "structured-block-sidecar", paper["blocks"]),
+                    "tags": ["source-corpus", "proof", "blocks", "article"],
                     "metadata": common,
                 },
             ]

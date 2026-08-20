@@ -140,7 +140,7 @@ Current state at a glance: **[TRACKER.md](TRACKER.md)**.
 ## Research article backfill and exports
 
 The research articles in `research/papers/*/main.md` can be backfilled into
-CROP views, MDPORT packs, MDLOOM-style source sidecars, and a FLETCH registry,
+CROP views, MDPORT packs, PROOF-style source sidecars, and a FLETCH registry,
 then exported as DOCX or PDF on demand:
 
 ```powershell
