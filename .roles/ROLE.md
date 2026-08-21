@@ -47,6 +47,27 @@ These tensions prevent the manuscript from collapsing into any single mode:
 pure storytelling without depth, pure analysis without feeling, pure immersion
 without cultural ownership, or pure wonder without rigor.
 
+## Operating Model
+
+The five panel roles and three editorial roles are the active core. They review every applicable
+chapter stage. Files under `board/` are a specialist catalog, not an instruction to activate the
+entire roster.
+
+For each chapter, select two or three board specialists whose culture, period, evidence
+tradition, or disputed claim directly matches the material. Record the selected role files and
+the reason for each selection in the review artifact. Add a specialist only when the role brings
+evidence or a viewpoint not already represented by the active core.
+
+When specialists disagree with the permanent panel, preserve the dissent and adjudicate factual
+claims through cited evidence. The Judgment Auditor blocks unsupported claims, the Voice Keeper
+blocks flattening or dehumanizing narration, and the Compression Editor acts only after those
+objections are resolved.
+
+Add a board role only with a distinct evidence domain, review questions, and at least one named
+use case. Review the catalog annually: merge exact duplicates, repair stale references, and
+retire roles with no distinct scope or no selection across two review cycles. Preserve retired
+roles and their review provenance outside the active catalog.
+
 ## Role File Index
 
 ### Panel (permanent — all chapters)
