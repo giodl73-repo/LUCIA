@@ -355,6 +355,11 @@ chronicle/
 | Rubric version | v1.7 (from v1.0) |
 | Voice registers catalogued | 16+ across 27 cultures |
 
+These metrics describe the production archive, not manuscript publication
+readiness. LUCIA is not yet a manuscript a reader can pick up; the remaining
+apparatus gaps and decision points are tracked in
+[`docs/MANUSCRIPT-ARCHITECTURE.md`](docs/MANUSCRIPT-ARCHITECTURE.md).
+
 **Regions fully populated** (all peoples have at least one locked chapter):
 West Africa Sahel (12), Western Christendom (13), Americas Reborn (10),
 Egypt & Nile (9), Iran & Persianate (9), Fertile Crescent (8),

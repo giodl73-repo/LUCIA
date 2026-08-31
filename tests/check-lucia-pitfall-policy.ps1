@@ -22,6 +22,9 @@ Assert-Text "proposal, not a decision|not yet a manuscript|Six gaps remain" @(
   "docs/MANUSCRIPT-ARCHITECTURE.md",
   "README.md"
 ) "Expected manuscript-readiness limitation language was not found."
+Assert-Text "production archive, not manuscript publication readiness|not yet a manuscript a reader can pick up" @(
+  "README.md"
+) "Expected README-local manuscript-readiness boundary was not found."
 
 # Checks LUCIA-PF-02: structured history must compare against chapter authority.
 Assert-Text "established story|compare against established|chapters remain the established story|product-local" @(

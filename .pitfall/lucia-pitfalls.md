@@ -2,7 +2,7 @@
 
 ## LUCIA-PF-01: Manuscript Proposal Becomes Publication Readiness
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 **Pattern:** The manuscript architecture proposal, 115 locked chapters, or
 article-export pipeline is described as reader-ready publication rather than a
@@ -34,12 +34,17 @@ research article exports, portfolio summaries, and public release notes.
 can sound like a publication decision.
 
 **Structural solution:** Keep manuscript-readiness claims gated by the six
-apparatus gaps, explicit decision points, export validation, and role review.
+apparatus gaps, explicit decision points, export validation, and role review;
+place the boundary next to public corpus-scale metrics so locked-chapter counts
+do not imply publication readiness.
 
 **Evidence:** `docs/MANUSCRIPT-ARCHITECTURE.md`, `README.md`,
 `context/waves/2026-07-26-md-family-migration/WAVE.md`, and `.roles/ROLE.md`.
 
-**Test:** `tests/check-lucia-pitfall-policy.ps1`
+**Test:** `tests/check-lucia-pitfall-policy.ps1` checks the manuscript
+architecture proposal and requires README-local language that treats the
+115-chapter track record as a production archive, not manuscript publication
+readiness.
 
 ## LUCIA-PF-02: Structured History Replaces Chapter Authority
 
