@@ -81,3 +81,22 @@ evidence without weakening validation gates.
 
 **Evidence:** `cargo fmt --check`, `cargo test --workspace`,
 `cargo clippy --workspace --all-targets -- -D warnings`, and `git diff --check`.
+
+## LUCIA-INV-06: History Boundaries Stay Machine-Readable
+
+**Status:** MITIGATED
+
+**Claim:** Structured-history authority, rubric-version custody, board
+activation, and downstream consumer-contract ownership are recorded in a
+machine-readable boundary manifest.
+
+**Why it matters:** LUCIA's corpus, rubric, and role catalog are large enough
+that useful shortcuts can look authoritative. A structured boundary keeps
+chapter authority, forward-only learning, and selected board review explicit.
+
+**Enforcement:** The PITFALL policy check parses the boundary manifest and
+requires blocked claims for structured history, rubric learning, and board
+activation.
+
+**Evidence:** `docs/history-boundaries.v1.json` and
+`tests/check-lucia-pitfall-policy.ps1`.

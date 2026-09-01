@@ -48,7 +48,7 @@ readiness.
 
 ## LUCIA-PF-02: Structured History Replaces Chapter Authority
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 **Pattern:** People-history JSON, compare reports, or BANISH gamepack scores are
 treated as authoritative history rather than structured evidence checked
@@ -85,14 +85,16 @@ consume than long prose, so they can quietly displace the chapter source.
 downstream-owned contracts before promoting any generic history primitive.
 
 **Evidence:** `docs/people-history-engine.md`, `README.md`,
-`crates/lucia-history-core/src/lib.rs`, and
+`crates/lucia-history-core/src/lib.rs`, `docs/history-boundaries.v1.json`, and
 `cargo run -p lucia-history-cli -- compare fixtures\people-history\mali-people-history.json fixtures\people-history\mali-established-profile.json`.
 
-**Test:** `tests/check-lucia-pitfall-policy.ps1`
+**Test:** `tests/check-lucia-pitfall-policy.ps1` verifies the history boundary
+manifest blocks treating valid JSON, compare output, BANISH scores, or
+product-local Rust crates as established chapter authority.
 
 ## LUCIA-PF-03: Rubric Learning Rewrites Locked History
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 **Pattern:** A later rubric version, typology cluster, or innovation log entry
 is applied backward to re-score or rewrite already locked chapters without an
@@ -126,14 +128,17 @@ remember when a new rubric improvement seems obviously better.
 **Structural solution:** Preserve append-only innovation logs, rubric version
 history, and explicit migrations for any backward-facing update.
 
-**Evidence:** `scoring/RUBRIC.md`, `scoring/INNOVATIONS.md`, `README.md`, and
-`skills/chronicle-innovation/SKILL.md`.
+**Evidence:** `scoring/RUBRIC.md`, `scoring/INNOVATIONS.md`, `README.md`,
+`skills/chronicle-innovation/SKILL.md`, and
+`docs/history-boundaries.v1.json`.
 
-**Test:** `tests/check-lucia-pitfall-policy.ps1`
+**Test:** `tests/check-lucia-pitfall-policy.ps1` verifies the history boundary
+manifest blocks silent rescoring, typology-driven score rewriting, past-status
+changes, and latest-rubric comparisons against locked chapters.
 
 ## LUCIA-PF-04: Board Catalog Becomes Active Review By Default
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 **Pattern:** The large `.roles/board/` catalog is treated as an instruction to
 activate every listed specialist, or stale/duplicate roles stay active without
@@ -168,10 +173,12 @@ selected per chapter.
 merge duplicates, repair stale references, and retire roles with no distinct
 scope or use.
 
-**Evidence:** `.roles/ROLE.md`, `.roles/board/ROLE.md`, and
-`skills/chronicle-board/SKILL.md`.
+**Evidence:** `.roles/ROLE.md`, `.roles/board/ROLE.md`,
+`skills/chronicle-board/SKILL.md`, and `docs/history-boundaries.v1.json`.
 
-**Test:** `tests/check-lucia-pitfall-policy.ps1`
+**Test:** `tests/check-lucia-pitfall-policy.ps1` verifies the history boundary
+manifest blocks all-board activation, catalog-size coverage claims, stale-role
+authority, and board reviews without selected role files and rationale.
 
 ## LUCIA-PF-05: Unsupported Source Tier Becomes Narrative Evidence
 
