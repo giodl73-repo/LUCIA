@@ -17,3 +17,10 @@ discarding or silently shortening profile IDs. No model limits, native outputs,
 assertions or prior readiness rules were relaxed. Original grants and third-party
 terms must remain explicit. The whole manuscript/board/source-verification scope
 cannot be claimed from this software review or successful browser execution.
+
+Candidate b30a47b has passed all complete hosted/local delivery and independent
+source gates (see qualification.json). The retained test-order and subprocess
+stream failures changed QA plumbing only; named controls/assertions and source
+containment remain enforced. The prototype instruction now excludes package-only
+checks explicitly. Recommend final exact-head requalification, then tested
+artifact deployment and fresh live review within the same structural-only scope.

@@ -9,7 +9,7 @@ cd browser/inspector
 npm ci
 npx playwright install chromium
 $env:LUCIA_SITE_DIR='../../target/history-prototype'
-npm run test:pages
+npm run test:pages -- --grep-invert "packaged delivery|source/legal"
 ```
 
 `CARGO_TARGET_DIR` can select an absolute external shared build cache. The helper

@@ -58,3 +58,14 @@ stdout. Capture now preserves and labels both streams in the failure log while
 returning only stdout to the JSON decoder. No parsing, manifest containment,
 native, resource or replay assertion is relaxed. Failed local/hosted logs and
 hosted failed-QA artifact are retained before rerunning the corrected candidate.
+
+Corrected candidate b30a47b passes hosted run 41405392403 and complete local
+qualification: eighteen browser cases, 71 exact repeated native/WASM outcomes,
+41 original CLI report equivalents, complete 88-file artifact, and independent
+source replay (three native/four adapter tests, both 71-response sets, sixteen
+behavior cases). `qualification.json` records both source replays and hosted
+artifact provenance. Different rebuilt binary hashes are recorded, with no
+cross-directory binary-identity claim. The prototype build example now selects
+the sixteen behavior checks; delivery checks require the complete release site.
+Final documentation head must pass the same hosted gates before merge; default
+deployment/fresh live verification and separate TRACKER pulse remain pending.
