@@ -44,7 +44,7 @@ for field,value in [('title','x'*4097),('eras',[{'era_id':str(i),'title':'e'}for
  changed=copy.deepcopy(h);changed[field]=value;inputs.append({'operation':'validate','history_json':text(changed)})
 inputs.extend([{'operation':'validate','history_json':' '*262145},{'operation':'compare','history_json':text(h),'profile_json':' '*131073}])
 inputs.extend(['{',' '*2097153])
-inputs.extend(resource_controls(h,profile))
+resources=resource_controls(h,profile);inputs.extend(case['request']for case in resources)
 exe=target/'release'/('lucia-history-inspector-cli.exe'if os.name=='nt'else'lucia-history-inspector-cli');native_exe=target/'debug'/('lucia-history.exe'if os.name=='nt'else'lucia-history');records=[];native_checks=0
 for value in inputs:
  raw=value if isinstance(value,str)else text(value);outputs=[subprocess.check_output([str(exe)],input=raw.encode(),env=env)for _ in range(2)];assert outputs[0]==outputs[1];response=json.loads(outputs[0]);records.append({'request':raw,'response':response})
@@ -53,7 +53,8 @@ for value in inputs:
   if operation=='compare':profile_path.write_bytes(value['profile_json'].encode());args.append(str(profile_path))
   result=subprocess.run(args,capture_output=True,env=env);expected=response['findings']if operation=='validate'else response['comparison'];assert json.loads(result.stdout)==expected
   should_fail=response['counts']['error_findings']>0 if operation=='validate'else response['comparison']['status']=='hold';assert result.returncode==int(should_fail);native_checks+=1
-assert [r['response']['kind']for r in records[-16:]]==['report']+['browser_refusal']*11+['report','browser_refusal','report','browser_refusal']
+for case,result in zip(resources,records[-len(resources):]):
+ assert result['response']['kind']==case['expected_kind'],f"Resource {case['name']}: expected {case['expected_kind']}, got {result['response']['kind']}"
 assert records[-16]['response']['counts']=={'eras':32,'persons':256,'events':512,'reference_entries':2048,'error_findings':0,'warning_findings':0}
 (C/'native-cases.json').write_text(json.dumps(records,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
 (C/'native-controls.json').write_text(json.dumps({'cases':len(records),'each_repeated':2,'exact_existing_native_cli_reports':native_checks,'source':'Synthetic only; no chapter corpus/material included.'},indent=2)+'\n',encoding='utf-8')

@@ -5,6 +5,14 @@ admitted maximum (32 eras, 256 persons, 512 events, 2,048 references and 4,096
 actor/place entries), per-limit refusals and 1,024/1,025 ignored-field edges.
 Forty-one reports independently match the unchanged existing native CLI.
 
+The first packaging candidate 9a11f76 failed a new aggregate expected-kind
+assertion locally and in hosted run 41403495124: the test expected alternating
+accepted/refused ignored-field cases, but the generator orders both 1,024-field
+accepted cases before both 1,025-field refusals. Fresh native inspection confirms
+the limits behave as specified. Each resource case now carries an explicit name
+and static expected kind; every assertion remains enforced. No native code,
+limit, control input or actual expected outcome changes. Failed logs are retained.
+
 Sixteen behavior cases pass after retaining a genuine mobile failure: a maximum
 4,096-byte profile ID overflowed the document through the result heading.
 Heading wrapping fixes it without clipping data, changing bounds or weakening
