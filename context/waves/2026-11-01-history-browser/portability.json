@@ -1,0 +1,48 @@
+{
+  "schema": "lucia.history-browser-portability.v1",
+  "checked_at_utc": "2026-11-02T06:18:30.562144+00:00",
+  "status": "Local synthetic prototype, not source-package/Pages/live qualification",
+  "canonical_entry": "29febdc9f141a32e8c917942e543228c90c7c4d8",
+  "public_entry": "a24fa9e978a8ca2d916221b2083b0a87d5282469",
+  "native_tests": 3,
+  "native_baseline": "fmt/workspace tests/strict clippy, retained Mali validate+compare, PITFALL policy and article-backfill help pass before edits",
+  "adapter_tests": 4,
+  "native_wasm_exact_repeated_responses": 55,
+  "existing_native_cli_reports_exact": 38,
+  "browser_stats": {
+    "startTime": "2026-11-02T06:17:29.323Z",
+    "duration": 6838.586,
+    "expected": 5,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "foundation": {
+    "entry": "29febdc9f141a32e8c917942e543228c90c7c4d8",
+    "native_workspace_core_cli_locks_fixtures": "unchanged",
+    "chapter_manuscript_rubric_policy_structural_grants": "unchanged",
+    "sparse_checkout_supported": true
+  },
+  "prototype_assets": {
+    "prototype_files": 10,
+    "examples": "synthetic",
+    "chapter_manuscript_assets_included": false,
+    "source_package_qualified": false
+  },
+  "wasm": {
+    "bytes": 300141,
+    "sha256": "08d8fadbfa74cc2be0a5a4adb390a1a5490528fc5e6bd13a442c4bd42b869242",
+    "max_memory_bytes": 67108864,
+    "actual_memory_growth_refusal_tested": true
+  },
+  "parser": "Native serde1.0.228/serde_json1.0.149 retained; companion lock seeded from native lock. serde_ignored0.1.14 wraps native deserialization, reports ignored fields, and preserves recognized-duplicate/trailing-input errors.",
+  "scope": "Declared structural requirements only; no historical/source/causal/chapter/manuscript/board/rubric/shared-library approval. Original/current/LF/request/report remain separate; projection materializes defaults and omits unknown extensions.",
+  "protected_sparse_state": "Chapter trees not duplicated; protected native/content/policy/structural index and Git bytes unchanged",
+  "retained_helper_failure": "Initial native-control helper used package name lucia-history-cli instead of declared binary lucia-history; FileNotFoundError retained in ignored build log, corrected without native/assertion changes.",
+  "remaining": [
+    "Expanded actual deadline/crash/revision/generation/read races/resource/max-input coverage",
+    "Complete corresponding-software workspace/companion packaging, original scoped grants and dependency/Rust notices; no chapter/manuscript archive",
+    "Independent source rebuild outside Git and exact native/WASM/behavior replay",
+    "Final hosted/default tested-artifact Pages and fresh live proof; separate TRACKER pulse only after qualification"
+  ]
+}

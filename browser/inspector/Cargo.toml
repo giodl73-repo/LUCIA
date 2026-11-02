@@ -1,0 +1,19 @@
+[package]
+name = "lucia-history-inspector"
+version = "0.1.0"
+edition = "2021"
+publish = false
+license = "MIT"
+
+[workspace]
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+lucia-history-core = { path = "../../crates/lucia-history-core" }
+serde = { version = "=1.0.228", features = ["derive"] }
+serde_json = "=1.0.149"
+serde_ignored = "=0.1.14"
+sha2 = "0.10"
+wasm-bindgen = "=0.2.127"

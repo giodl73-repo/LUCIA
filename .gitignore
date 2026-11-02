@@ -46,3 +46,8 @@ venv/
 # Generated article exports
 research/papers/_exports/
 
+# Reconstructible browser dependencies and private QA evidence.
+node_modules/
+browser/inspector/.cache/
+browser/inspector/test-results/
+
