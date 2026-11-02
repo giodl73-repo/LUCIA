@@ -50,3 +50,11 @@ truth, manuscript/board/chapter status, rubric history or generic shared-history
 contract is changed or promoted. The PR remains draft until exact final hosted
 qualification; default deployment and fresh live proof precede a separate TRACKER
 pointer pulse. No complete manuscript archive or blanket readiness claim.
+
+Candidate 38ecd90 passes all eighteen local browser checks and complete package
+verification, but local and hosted run 41404212138 source replay stop at Cargo
+metadata JSON parsing. The subprocess helper merged Cargo stderr diagnostics into
+stdout. Capture now preserves and labels both streams in the failure log while
+returning only stdout to the JSON decoder. No parsing, manifest containment,
+native, resource or replay assertion is relaxed. Failed local/hosted logs and
+hosted failed-QA artifact are retained before rerunning the corrected candidate.

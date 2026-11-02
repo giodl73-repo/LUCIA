@@ -11,7 +11,10 @@ with(C/'source-replay.log').open('wb')as output,tempfile.TemporaryDirectory(pref
    path=pathlib.PurePosixPath(name);assert path.parts[0]=='LUCIA-software-source'and '..'not in path.parts and not path.is_absolute();target=T.joinpath(*path.parts);assert target.resolve().is_relative_to(T);target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(archive.read(name))
  W=T/'LUCIA-software-source';P=W/'browser/inspector';assert ' 'in str(W)and not(W/'regions').exists()and subprocess.run(['git','rev-parse','--show-toplevel'],cwd=W,capture_output=True).returncode!=0
  def run(args,cwd=W):
-  result=subprocess.run([str(x)for x in args],cwd=cwd,env=env,stdout=subprocess.PIPE,stderr=subprocess.STDOUT);output.write(result.stdout);output.flush();assert result.returncode==0,result.stdout.decode(errors='replace')[-3000:];return result.stdout
+  result=subprocess.run([str(x)for x in args],cwd=cwd,env=env,capture_output=True)
+  output.write(b'\n[stdout]\n'+result.stdout+b'\n[stderr]\n'+result.stderr);output.flush()
+  assert result.returncode==0,(result.stdout+result.stderr).decode(errors='replace')[-3000:]
+  return result.stdout
  for manifest in [W/'Cargo.toml',P/'Cargo.toml']:
   m=json.loads(run(['cargo','+1.95.0','metadata','--locked','--format-version','1','--manifest-path',manifest]));assert all(pathlib.Path(pkg['manifest_path']).resolve().is_relative_to(W)for pkg in m['packages']if not pkg.get('source'))
  tests=run(['cargo','+1.95.0','test','--locked','--workspace']);assert b'3 passed; 0 failed'in tests
