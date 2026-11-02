@@ -1,0 +1,2 @@
+import {defineConfig} from "@playwright/test";
+export default defineConfig({testDir:"./tests",workers:1,retries:0,timeout:30000,use:{baseURL:process.env.LUCIA_BASE_URL||"http://127.0.0.1:4196/LUCIA/"},reporter:[["list"],["json",{outputFile:process.env.LUCIA_BASE_URL?".cache/live-browser-results.json":".cache/browser-results.json"}]],webServer:process.env.LUCIA_BASE_URL?undefined:{command:`python -m http.server 4196 --directory "${process.env.LUCIA_SITE_DIR||"../../target/history-release"}"`,url:"http://127.0.0.1:4196/LUCIA/",reuseExistingServer:false}});

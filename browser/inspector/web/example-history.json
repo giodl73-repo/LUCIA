@@ -1,0 +1,33 @@
+{
+  "people_id": "demo-people",
+  "title": "Synthetic people-history record",
+  "worldview": "Software example only; no account of real people is asserted.",
+  "framing_notes": ["This is a synthetic continuity test."],
+  "eras": [
+    {
+      "era_id": "demo-era",
+      "title": "Demo era",
+      "persons": [
+        {
+          "person_id": "p1",
+          "display_name": "Demo person",
+          "role": "Illustrative role",
+          "source_story_refs": [{"path": "synthetic/chapter.md", "anchor": "example"}]
+        }
+      ],
+      "events": [
+        {
+          "event_id": "e1",
+          "era_id": "demo-era",
+          "title": "Demo event",
+          "event_kind": "example",
+          "consequence": "A supplied continuity claim, not demonstrated causality.",
+          "year_label": "Caller-supplied period label",
+          "actors": ["p1"],
+          "places": ["Demo place"],
+          "source_story_refs": [{"path": "synthetic/chapter.md", "anchor": "example"}]
+        }
+      ]
+    }
+  ]
+}

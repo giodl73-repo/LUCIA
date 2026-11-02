@@ -1,0 +1,4 @@
+browser/inspector/** text eol=lf
+context/waves/2026-11-01-history-browser/** text eol=lf
+docs/history-inspector-source-scope.md text eol=lf
+.github/workflows/history-inspector.yml text eol=lf

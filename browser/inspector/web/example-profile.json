@@ -1,0 +1,7 @@
+{
+  "profile_id": "synthetic-profile",
+  "required_event_ids": ["e1"],
+  "required_person_ids": ["p1"],
+  "required_story_paths": ["synthetic/chapter.md"],
+  "forbidden_external_framings": ["forbidden-demo"]
+}

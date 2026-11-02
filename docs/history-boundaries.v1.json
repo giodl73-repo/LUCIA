@@ -1,0 +1,52 @@
+{
+  "$schema": "lucia.history-boundaries.v1",
+  "owner": "LUCIA maintainer",
+  "purpose": "Machine-readable authority boundaries for structured history, rubric learning, and board review activation.",
+  "authority": {
+    "established_story": "LUCIA locked chapters and chapter-adjacent established-story profiles",
+    "structured_history": "LUCIA product-local people-history crates and fixtures",
+    "rubric_version_custody": "LUCIA scoring rubric and append-only innovation log",
+    "board_selection": "chapter review artifacts with selected board role files and rationale",
+    "downstream_consumer_contracts": "named downstream repositories"
+  },
+  "pitfall_boundaries": [
+    {
+      "pitfall": "LUCIA-PF-02",
+      "boundary": "Structured people-history records compare against established chapters; they do not replace chapter authority.",
+      "blocked_claims": [
+        "valid people-history JSON is the established historical account",
+        "compare output replaces source-cited chapter prose",
+        "BANISH gamepack scores make a generic history primitive",
+        "product-local Rust crates are shared portfolio contracts"
+      ],
+      "required_owner": "LUCIA locked chapters and established-story profiles"
+    },
+    {
+      "pitfall": "LUCIA-PF-03",
+      "boundary": "Rubric learning is append-only and forward-only unless an explicit migration is recorded.",
+      "blocked_claims": [
+        "new rubric version silently rescores locked chapters",
+        "typology cluster rewrites historical score meaning",
+        "innovation adoption changes past chapter status",
+        "research summary may compare old chapters as if scored under the latest rubric"
+      ],
+      "required_owner": "LUCIA rubric version custody"
+    },
+    {
+      "pitfall": "LUCIA-PF-04",
+      "boundary": "The board roster is a specialist catalog; each chapter activates only selected specialists with rationale.",
+      "blocked_claims": [
+        "all board roles are active for every chapter",
+        "catalog size is review coverage",
+        "stale or duplicate roles remain authoritative without selection",
+        "board review can omit selected role files and rationale"
+      ],
+      "required_owner": "chapter review artifacts"
+    }
+  ],
+  "validation": [
+    "tests/check-lucia-pitfall-policy.ps1",
+    "cargo test --workspace",
+    "cargo run -p lucia-history-cli -- compare fixtures/people-history/mali-people-history.json fixtures/people-history/mali-established-profile.json"
+  ]
+}

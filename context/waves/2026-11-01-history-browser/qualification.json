@@ -1,0 +1,103 @@
+{
+  "schema": "lucia.history-browser-qualification.v1",
+  "qualified_candidate": "b30a47b8c939e703b3d3e8777be747e9d6ae24e0",
+  "hosted_run": 41405392403,
+  "hosted_status": "success",
+  "hosted_browser_stats": {
+    "startTime": "2026-11-02T07:19:27.821Z",
+    "duration": 45432.880000000005,
+    "expected": 18,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "hosted_source_replay": {
+    "outside_git": true,
+    "path_contains_spaces": true,
+    "chapter_manuscript_tree_absent": true,
+    "first_party_manifest_paths_inside_source": true,
+    "native_tests": 3,
+    "adapter_tests": 4,
+    "existing_native_cli_reports_exact": 41,
+    "browser_checks": 16,
+    "identical_rebuilt_native_responses": 71,
+    "identical_rebuilt_wasm_responses": 71,
+    "original_wasm_sha256": "6f6b5fb3eef7540f80ba6550ae3bf9728e697e372c84217a9bde752d57fabb3c",
+    "rebuilt_wasm_sha256": "1d3e9e55cc128ca41cfec3eeb8d4d3c5cbd700c800dc59356757b969b7035f1f",
+    "binary_identity_claimed": false,
+    "dependencies_vendored": false
+  },
+  "local_source_replay": {
+    "outside_git": true,
+    "path_contains_spaces": true,
+    "chapter_manuscript_tree_absent": true,
+    "first_party_manifest_paths_inside_source": true,
+    "native_tests": 3,
+    "adapter_tests": 4,
+    "existing_native_cli_reports_exact": 41,
+    "browser_checks": 16,
+    "identical_rebuilt_native_responses": 71,
+    "identical_rebuilt_wasm_responses": 71,
+    "original_wasm_sha256": "08d8fadbfa74cc2be0a5a4adb390a1a5490528fc5e6bd13a442c4bd42b869242",
+    "rebuilt_wasm_sha256": "eacedd842288f21d255c925a3644df0930a997fdf0e3424cc8117125848ab1ae",
+    "binary_identity_claimed": false,
+    "dependencies_vendored": false
+  },
+  "controls": {
+    "cases": 71,
+    "each_repeated": 2,
+    "exact_existing_native_cli_reports": 41,
+    "source": "Synthetic only; no chapter corpus/material included."
+  },
+  "artifact": {
+    "schema": "lucia.history-inspector-release.v1",
+    "commit": "b30a47b8c939e703b3d3e8777be747e9d6ae24e0",
+    "repository": "https://github.com/giodl73-repo/LUCIA",
+    "native_entry": "29febdc9f141a32e8c917942e543228c90c7c4d8",
+    "source_scope": "Complete exact buildable software workspace and browser companion; NOT a full repository or chapter/manuscript archive. See SOURCE-SCOPE.md.",
+    "source_files": 33,
+    "source_zip_sha256": "20db5d4fd97f265d5e43c396adfb92a952642a77af49d4d5f2bba11754949aaa",
+    "wasm_sha256": "6f6b5fb3eef7540f80ba6550ae3bf9728e697e372c84217a9bde752d57fabb3c",
+    "rustc": "rustc 1.95.0 (59807616e 2026-04-14)\nbinary: rustc\ncommit-hash: 59807616e1fa2540724bfbac14d7976d7e4a3860\ncommit-date: 2026-04-14\nhost: x86_64-unknown-linux-gnu\nrelease: 1.95.0\nLLVM version: 22.1.2",
+    "wasm_bindgen": "0.2.127",
+    "dependency_groups": 29,
+    "rust_notice_files": 12,
+    "runtime_files": [
+      "index.html",
+      "app.js",
+      "style.css",
+      "worker.js",
+      "example-history.json",
+      "example-profile.json",
+      "pkg/lucia_history_inspector.js",
+      "pkg/lucia_history_inspector_bg.wasm"
+    ],
+    "limits": {
+      "request_bytes": 2097152,
+      "history_bytes": 262144,
+      "compared_profile_bytes": 131072,
+      "report_bytes": 2097152,
+      "eras": 32,
+      "persons": 256,
+      "events": 512,
+      "reference_entries": 2048,
+      "actor_place_entries": 4096,
+      "framing_notes": 128,
+      "ignored_fields_per_input": 1024,
+      "interpreted_string_utf8_bytes": 4096,
+      "required_list_entries": 512,
+      "framing_patterns": 128,
+      "wasm_linear_memory_bytes": 67108864
+    },
+    "budgets": {
+      "runtime_bytes": 2097152,
+      "optional_source_zip_bytes": 10485760,
+      "site_bytes": 26214400
+    },
+    "scope": "Declared structural checks only; no source/historical/causal/chapter/manuscript/board/rubric/generic-history approval. Paths remain inert. Native warnings/pass/hold/default/ignored-field behavior remains unchanged.",
+    "source_replay": "Rebuild outside Git with first-party paths inside extracted software, compare both complete target outcome sets separately and replay behavior; no cross-directory binary identity claim."
+  },
+  "runtime_bytes": 328075,
+  "artifact_files": 88,
+  "remaining": "Final documentation revision must qualify at exact head before merge; default deploy and fresh live evidence remain required."
+}

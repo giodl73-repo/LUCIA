@@ -1,0 +1,108 @@
+name: Qualify and deploy LUCIA history workbench
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      CARGO_TARGET_DIR: ${{ github.workspace }}/target/cargo
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install pinned compiler and bindings
+        shell: bash
+        run: |
+          rustup toolchain install 1.95.0 --profile minimal --component rustfmt,clippy,rust-docs --target wasm32-unknown-unknown
+          rustup default 1.95.0
+          curl -fsSL https://github.com/wasm-bindgen/wasm-bindgen/releases/download/0.2.127/wasm-bindgen-0.2.127-x86_64-unknown-linux-musl.tar.gz -o /tmp/lucia-bindgen.tar.gz
+          echo '61d4a7dc85acfa0d2354ccc0b8361928c7e52a746d17f28ebaa795ed3dc1614a  /tmp/lucia-bindgen.tar.gz' | sha256sum --check
+          tar -xzf /tmp/lucia-bindgen.tar.gz -C /tmp
+      - name: Protect foundation and qualify native behavior
+        run: |
+          python browser/inspector/verify-foundation.py
+          cargo fmt --check
+          cargo test --locked --workspace
+          cargo clippy --locked --workspace --all-targets -- -D warnings
+          cargo run --locked -p lucia-history-cli -- validate fixtures/people-history/mali-people-history.json
+          cargo run --locked -p lucia-history-cli -- compare fixtures/people-history/mali-people-history.json fixtures/people-history/mali-established-profile.json
+          pwsh -NoProfile -File tests/check-lucia-pitfall-policy.ps1
+          python .claude/skills/lucia-article-backfill/scripts/article_backfill.py --help
+          cargo fmt --manifest-path browser/inspector/Cargo.toml -- --check
+          cargo test --locked --manifest-path browser/inspector/Cargo.toml
+          cargo clippy --locked --manifest-path browser/inspector/Cargo.toml --all-targets -- -D warnings
+          cargo clippy --locked --manifest-path browser/inspector/Cargo.toml --target wasm32-unknown-unknown --lib -- -D warnings
+      - name: Build synthetic prototype and exact native controls
+        run: |
+          python browser/inspector/build-prototype.py --bindgen /tmp/wasm-bindgen-0.2.127-x86_64-unknown-linux-musl/wasm-bindgen
+          python browser/inspector/verify-prototype.py
+          python browser/inspector/package-site.py
+          python browser/inspector/verify-site.py target/history-release/LUCIA --commit "$(git rev-parse HEAD)"
+      - name: Exercise real worker under project prefix
+        working-directory: browser/inspector
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+          npm run test:pages
+      - name: Independently rebuild corresponding software outside Git
+        run: python browser/inspector/verify-source.py --site target/history-release/LUCIA --bindgen /tmp/wasm-bindgen-0.2.127-x86_64-unknown-linux-musl/wasm-bindgen
+      - name: Preserve scoped synthetic prototype evidence
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lucia-history-qualification
+          include-hidden-files: true
+          path: |
+            browser/inspector/.cache/
+            target/history-release/
+      - name: Retain failed QA without distributing a partial binary package
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lucia-history-failed-qa
+          include-hidden-files: true
+          path: |
+            browser/inspector/.cache/
+            context/waves/2026-11-01-history-browser/
+            LICENSE
+  deploy:
+    if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          name: lucia-history-qualification
+          path: .
+      - name: Verify transferred source and artifact
+        run: python browser/inspector/verify-site.py target/history-release/LUCIA --commit "${{ github.sha }}"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: target/history-release/LUCIA
+      - name: Deploy only tested public files
+        id: deployment
+        uses: actions/deploy-pages@v4
