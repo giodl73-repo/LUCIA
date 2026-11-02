@@ -1,14 +1,19 @@
 """Build real native/WASM controls over synthetic LUCIA records; never deploy."""
 import argparse,copy,hashlib,json,os,pathlib,shutil,subprocess
+from resource_controls import resource_controls
 p=argparse.ArgumentParser();p.add_argument('--bindgen',required=True,type=pathlib.Path);a=p.parse_args();B=pathlib.Path(__file__).resolve().parent;R=B.parents[1];env=os.environ.copy();target=pathlib.Path(env.get('CARGO_TARGET_DIR',str(R/'target/cargo'))).resolve();env['CARGO_TARGET_DIR']=str(target);env['CARGO_TARGET_WASM32_UNKNOWN_UNKNOWN_RUSTFLAGS']='-C link-arg=--max-memory=67108864'
 def run(args):subprocess.run([str(x)for x in args],cwd=R,env=env,check=True)
-run(['python',B/'verify-foundation.py'])
+assert subprocess.check_output([str(a.bindgen.resolve()),'--version']).decode().strip()=='wasm-bindgen 0.2.127'
+# Full-checkout CI and package-site run the Git-based foundation guard explicitly.
+# The corresponding software source must also build outside Git.
 for args in [[],['--target','wasm32-unknown-unknown']]:run(['cargo','+1.95.0','build','--locked','--manifest-path',B/'Cargo.toml','--release',*args])
 run(['cargo','+1.95.0','build','--locked','--workspace'])
 site=R/'target/history-prototype/LUCIA';assert site.resolve()==R/'target/history-prototype/LUCIA'
 if site.exists():shutil.rmtree(site)
 shutil.copytree(B/'web',site);run([a.bindgen.resolve(),target/'wasm32-unknown-unknown/release/lucia_history_inspector.wasm','--target','web','--out-dir',site/'pkg'])
-for path in(site/'pkg').glob('*.d.ts'):path.unlink()
+for name in ['lucia_history_inspector.d.ts','lucia_history_inspector_bg.wasm.d.ts']:
+ path=site/'pkg'/name
+ if path.exists():assert path.is_file()and not path.is_symlink();path.unlink()
 for name in ['BUILD.md','MODEL.md']:shutil.copyfile(B/name,site/name)
 C=B/'.cache';C.mkdir(exist_ok=True);h=json.loads((B/'web/example-history.json').read_bytes());profile=json.loads((B/'web/example-profile.json').read_bytes())
 def text(value):return json.dumps(value,ensure_ascii=False,separators=(',',':'))
@@ -39,6 +44,7 @@ for field,value in [('title','x'*4097),('eras',[{'era_id':str(i),'title':'e'}for
  changed=copy.deepcopy(h);changed[field]=value;inputs.append({'operation':'validate','history_json':text(changed)})
 inputs.extend([{'operation':'validate','history_json':' '*262145},{'operation':'compare','history_json':text(h),'profile_json':' '*131073}])
 inputs.extend(['{',' '*2097153])
+inputs.extend(resource_controls(h,profile))
 exe=target/'release'/('lucia-history-inspector-cli.exe'if os.name=='nt'else'lucia-history-inspector-cli');native_exe=target/'debug'/('lucia-history.exe'if os.name=='nt'else'lucia-history');records=[];native_checks=0
 for value in inputs:
  raw=value if isinstance(value,str)else text(value);outputs=[subprocess.check_output([str(exe)],input=raw.encode(),env=env)for _ in range(2)];assert outputs[0]==outputs[1];response=json.loads(outputs[0]);records.append({'request':raw,'response':response})
@@ -47,6 +53,8 @@ for value in inputs:
   if operation=='compare':profile_path.write_bytes(value['profile_json'].encode());args.append(str(profile_path))
   result=subprocess.run(args,capture_output=True,env=env);expected=response['findings']if operation=='validate'else response['comparison'];assert json.loads(result.stdout)==expected
   should_fail=response['counts']['error_findings']>0 if operation=='validate'else response['comparison']['status']=='hold';assert result.returncode==int(should_fail);native_checks+=1
+assert [r['response']['kind']for r in records[-16:]]==['report']+['browser_refusal']*11+['report','browser_refusal','report','browser_refusal']
+assert records[-16]['response']['counts']=={'eras':32,'persons':256,'events':512,'reference_entries':2048,'error_findings':0,'warning_findings':0}
 (C/'native-cases.json').write_text(json.dumps(records,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
 (C/'native-controls.json').write_text(json.dumps({'cases':len(records),'each_repeated':2,'exact_existing_native_cli_reports':native_checks,'source':'Synthetic only; no chapter corpus/material included.'},indent=2)+'\n',encoding='utf-8')
 wasm=(site/'pkg/lucia_history_inspector_bg.wasm').read_bytes();print(json.dumps({'cases':len(records),'native_cli_exact':native_checks,'wasm_bytes':len(wasm),'wasm_sha256':hashlib.sha256(wasm).hexdigest()}))

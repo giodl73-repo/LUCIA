@@ -492,3 +492,21 @@ non-software content is licensed CC BY-NC 4.0 (copyright Gio Della-Libera);
 commercial use of that content requires separate written permission.
 Third-party material remains under its own terms.
 See [LICENSE](./LICENSE) for the complete notice.
+
+## Rust/WASM structured history workbench
+
+The [history workbench](https://giodl73-repo.github.io/LUCIA/) runs LUCIA's
+existing Rust validation and declared-profile comparison in a browser worker.
+Open your people-history/profile JSON, inspect findings, missing requirements,
+declared records/references and ignored fields, and export exact inputs/reports.
+The synthetic examples assert no real historical facts. Corresponding software,
+compiled WASM, build provenance and scoped notices are linked independently.
+
+This tool checks supplied structure and declarations. It does not verify sources,
+historical truth or causal claims, replace established chapters, approve a board/
+chapter/manuscript, rescore a rubric or stabilize a generic history contract.
+Native pass can include warnings or empty coverage. Unknown extensions remain in
+original/current/request data, separate from the known-field/default projection.
+See [model details](browser/inspector/MODEL.md) and
+[software source scope](docs/history-inspector-source-scope.md). Publication
+qualification remains recorded separately in the child wave.
